@@ -1,0 +1,8 @@
+
+Databases in public domain, images, tables, text, and any other objects in the article are licensed under CC-BY-NC-SA 4.0 (https://creativecommons.org/licenses/by/4.0) License, which allows reuse with attribution. This applies to all datasets in the paper with the exception of data from Historical Statistics of the United States Millennial Edition Online and Wharton Research Data Services. 
+
+Codes in this replication package are licensed under Modified BSD (https://opensource.org/license/BSD-3-Clause), which applies to all codes and scripts. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions are met.
+
+Data from Historical Statistics of the United States Millennial Edition Online (not provided): Authorized users may (under the terms of an Institutional or Consortium Site License) electronically save and/or print out individual graphs and tables, for personal use only. 
+ 
+Data from Wharton Research Data Services (not provided): The Wharton Research Data Services (WRDS) service is for academic and non-commercial research purposes only. The use of the WRDS services is governed under the Subscription Agreement between the host university or institution (the "Subscriber") and Wharton Research Data Services. Users may not use data downloaded from the WRDS database for non-academic or commercial purposes. Please refer to WRDS Terms of Use (https://wrds-www.wharton.upenn.edu/users/tou) for details. 

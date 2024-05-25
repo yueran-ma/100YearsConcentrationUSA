@@ -1,0 +1,32 @@
+DE_NAME|DISP_LABEL|DATA_TYPE|MAX_LEN|DECIMAL_PLACES|DE_TYPE|IB_TYPE|FLAG_DE_NAME|MEANING_TABLE_NAME
+GEOTYPE|Type of geography flag|CHARACTER|2|0|G|||META0500
+GEOTYPE_MEANING|Meaning of Type of geography flag|CHARACTER|4000|0||||
+ST|FIPS state code|CHARACTER|2|0|G|||
+GEO_ID|Geographic identifier code|CHARACTER|20|0|G|||META0422
+GEOGRAPHY|Geographic Area|CHARACTER|1000|0||||
+PROGRAM|Economic program identifier|CHARACTER|2|0|O|||META0500
+PROGRAM_MEANING|Meaning of Economic program identifier|CHARACTER|4000|0||||
+SECTOR|NAICS economic sector code|CHARACTER|2|0|O|||META0500
+SECTOR_MEANING|Meaning of NAICS economic sector code|CHARACTER|4000|0||||
+NAICS2007|2007 NAICS code|CHARACTER|8|0|I|NAICS2007||META1422
+NAICS2007_MEANING|Meaning of 2007 NAICS code|CHARACTER|255|0||||
+OPTAX|Type of operation or tax status code|CHARACTER|2|0|R|||META0500
+OPTAX_MEANING|Meaning of Type of operation or tax status code|CHARACTER|4000|0||||
+CONCENFI|Firm concentration code|CHARACTER|3|0|X|||META0500
+CONCENFI_MEANING|Meaning of Firm concentration code|CHARACTER|4000|0||||
+FOOTID|Footnote identifier|CHARACTER|3|0|O|||META0500
+FOOTID_MEANING|Meaning of Footnote identifier|CHARACTER|4000|0||||
+YEAR|Year|CHARACTER|4|0|R|||META0500
+YEAR_MEANING|Meaning of Year|CHARACTER|4000|0||||
+ESTAB|Number of establishments|NUMBER|9|0|D||ESTAB_F|
+ESTAB_F|Flag for number of establishments|CHARACTER|3|0|F|||META0500
+RCPTOT|Receipts/Revenue ($1,000)|NUMBER|11|0|D||RCPTOT_F|
+RCPTOT_F|Flag for value of receipts/revenue|CHARACTER|3|0|F|||META0500
+VAL_PCT|Sls/rcpts/rev of largest firms as % of tot sls/rcpts/rev (%)|NUMBER|5|1|D||VAL_PCT_F|
+VAL_PCT_F|Flag for sls/rcpts/rev of largest firms as % of tot sls/rcpts/rev|CHARACTER|3|0|F|||META0500
+PAYANN|Annual payroll ($1,000)|NUMBER|11|0|D||PAYANN_F|
+PAYANN_F|Flag for annual payroll|CHARACTER|3|0|F|||META0500
+PAYQTR1|First-quarter payroll ($1,000)|NUMBER|11|0|D||PAYQTR1_F|
+PAYQTR1_F|Flag for first-quarter payroll|CHARACTER|3|0|F|||META0500
+EMP|Number of paid employees for pay period including March 12|NUMBER|9|0|D||EMP_F|
+EMP_F|Flag for number of paid employees for pay period including March 12|CHARACTER|3|0|F|||META0500

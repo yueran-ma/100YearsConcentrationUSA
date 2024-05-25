@@ -1,0 +1,765 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|COMPANY|COMPANYF|ECVALUE|ECVALUEF|VSTOP4|VSTOP4F|VSTOP8|VSTOP8F|VSTOP20|VSTOP20F|VSTOP50|VSTOP50F|VSHERFI|VSHERFIF 
+01000US|United States|1|United States|31|Manufacturing|311|Food mfg|1997|Reference year 1997|21958||421737017||14.3||22||34.8||50.8||91|
+01000US|United States|1|United States|31|Manufacturing|3111|Animal food mfg|1997|Reference year 1997|1077||27732347||23.1||34.7||56.1||73.1||238.8|
+01000US|United States|1|United States|31|Manufacturing|31111|Animal food mfg|1997|Reference year 1997|1077||27732347||23.1||34.7||56.1||73.1||238.8|
+01000US|United States|1|United States|31|Manufacturing|311111|Dog & cat food mfg|1997|Reference year 1997|129||8688239||58.4||80.2||92.4||98.3||1266.5|
+01000US|United States|1|United States|31|Manufacturing|311119|Other animal food mfg|1997|Reference year 1997|962||19044108||23.7||36.3||54.5||71.2||240.6|
+01000US|United States|1|United States|31|Manufacturing|3112|Grain & oilseed milling|1997|Reference year 1997|534||52075763||45.3||59.1||77.1||89.1||711.4|
+01000US|United States|1|United States|31|Manufacturing|31121|Flour milling & malt mfg|1997|Reference year 1997|324||11141876||38.7||51.8||71.4||89.2||485.7|
+01000US|United States|1|United States|31|Manufacturing|311211|Flour milling|1997|Reference year 1997|254||8001978||48.4||62.5||79.2||93.4||699.6|
+01000US|United States|1|United States|31|Manufacturing|311212|Rice milling|1997|Reference year 1997|56||2364582||51.8||75.3||92.5||99.8||894.2|
+01000US|United States|1|United States|31|Manufacturing|311213|Malt mfg|1997|Reference year 1997|19||775316||69||94.5||100||0|N|1458.7|
+01000US|United States|1|United States|31|Manufacturing|31122|Starch & vegetable fats & oils mfg|1997|Reference year 1997|179||31835054||57.7||73||88.3||96.9||1213.5|
+01000US|United States|1|United States|31|Manufacturing|311221|Wet corn milling|1997|Reference year 1997|30||8455172||71.7||90.3||99.8||100||1507.4|
+01000US|United States|1|United States|31|Manufacturing|311222|Soybean processing|1997|Reference year 1997|43||14036271||79.6||94.5||99.5||100||2035.4|
+01000US|United States|1|United States|31|Manufacturing|311223|Other oilseed processing|1997|Reference year 1997|32||1720738||66.6||81.9||98.9||100||2149.2|
+01000US|United States|1|United States|31|Manufacturing|311225|Fats & oils refining & blending|1997|Reference year 1997|91||7622873||36.7||63||89.5||98.8||602.8|
+01000US|United States|1|United States|31|Manufacturing|31123|Breakfast cereal mfg|1997|Reference year 1997|48||9098833||82.9||93.5||99.2||100||2445.9|
+01000US|United States|1|United States|31|Manufacturing|311230|Breakfast cereal mfg|1997|Reference year 1997|48||9098833||82.9||93.5||99.2||100||2445.9|
+01000US|United States|1|United States|31|Manufacturing|3113|Sugar & confectionery product mfg|1997|Reference year 1997|1556||24114454||41.9||56.4||75||86.3||580.3|
+01000US|United States|1|United States|31|Manufacturing|31131|Sugar mfg|1997|Reference year 1997|49||7399171||64.4||84||95.9||100||1452.2|
+01000US|United States|1|United States|31|Manufacturing|311311|Sugarcane mills|1997|Reference year 1997|34||1457482||56.6||71.4||94.3||100||1158.7|
+01000US|United States|1|United States|31|Manufacturing|311312|Cane sugar refining|1997|Reference year 1997|12||3209186||98.7||99.9||100||0|N|0|D
+01000US|United States|1|United States|31|Manufacturing|311313|Beet sugar mfg|1997|Reference year 1997|8||2732503||85||100||0|N|0|N|1997.6|
+01000US|United States|1|United States|31|Manufacturing|31132|Chocolate & confectionery mfg from cacao beans|1997|Reference year 1997|152||3755268||79.5||92.5||97.6||99||2567.1|
+01000US|United States|1|United States|31|Manufacturing|311320|Chocolate & confectionery mfg from cacao beans|1997|Reference year 1997|152||3755268||79.5||92.5||97.6||99||2567.1|
+01000US|United States|1|United States|31|Manufacturing|31133|Confectionery mfg from purchased chocolate|1997|Reference year 1997|796||7879752||65.2||75.3||84.2||92||1600.6|
+01000US|United States|1|United States|31|Manufacturing|311330|Confectionery mfg from purchased chocolate|1997|Reference year 1997|796||7879752||65.2||75.3||84.2||92||1600.6|
+01000US|United States|1|United States|31|Manufacturing|31134|Nonchocolate confectionery mfg|1997|Reference year 1997|578||5080263||40.7||60.1||78||91||623|
+01000US|United States|1|United States|31|Manufacturing|311340|Nonchocolate confectionery mfg|1997|Reference year 1997|578||5080263||40.7||60.1||78||91||623|
+01000US|United States|1|United States|31|Manufacturing|3114|Fruit & vegetable preserving & specialty food mfg|1997|Reference year 1997|1394||46618107||26.6||35.6||51.8||69.2||253.3|
+01000US|United States|1|United States|31|Manufacturing|31141|Frozen food mfg|1997|Reference year 1997|531||19691664||31.3||44.6||62.8||79.8||349.5|
+01000US|United States|1|United States|31|Manufacturing|311411|Frozen fruit, juice, & vegetable mfg|1997|Reference year 1997|177||9549256||34.3||47.4||70.6||90.5||443.7|
+01000US|United States|1|United States|31|Manufacturing|311412|Frozen specialty food mfg|1997|Reference year 1997|363||10142408||40.2||56.9||74.9||88.6||530.5|
+01000US|United States|1|United States|31|Manufacturing|31142|Fruit & vegetable canning, pickling, & drying|1997|Reference year 1997|887||26926443||27.9||39.3||58.3||76.7||342|
+01000US|United States|1|United States|31|Manufacturing|311421|Fruit & vegetable canning|1997|Reference year 1997|661||15801279||24.9||38||59.7||77.1||259.3|
+01000US|United States|1|United States|31|Manufacturing|311422|Specialty canning|1997|Reference year 1997|122||8051059||67.2||83.5||96.1||99.5||2165.1|
+01000US|United States|1|United States|31|Manufacturing|311423|Dried & dehydrated food mfg|1997|Reference year 1997|125||3074105||30.3||51.1||80.2||96.9||440.8|
+01000US|United States|1|United States|31|Manufacturing|3115|Dairy product mfg|1997|Reference year 1997|1329||58670293||16.5||26||45.4||64.2||147|
+01000US|United States|1|United States|31|Manufacturing|31151|Dairy product (except frozen) mfg|1997|Reference year 1997|948||52812384||18.1||28.4||48.6||66.7||169.8|
+01000US|United States|1|United States|31|Manufacturing|311511|Fluid milk mfg|1997|Reference year 1997|402||21995148||21.3||31||50.5||72.2||204.6|
+01000US|United States|1|United States|31|Manufacturing|311512|Creamery butter mfg|1997|Reference year 1997|32||1367548||52.4||73.2||97.3||100||889.8|
+01000US|United States|1|United States|31|Manufacturing|311513|Cheese mfg|1997|Reference year 1997|399||20232146||34.6||50.9||70.6||85.1||524.6|
+01000US|United States|1|United States|31|Manufacturing|311514|Dry, condensed, & evaporated dairy product mfg|1997|Reference year 1997|169||9217542||47.1||58.6||78.1||94||816.9|
+01000US|United States|1|United States|31|Manufacturing|31152|Ice cream & frozen dessert mfg|1997|Reference year 1997|409||5857909||32.3||48.7||71.1||88.3||444.7|
+01000US|United States|1|United States|31|Manufacturing|311520|Ice cream & frozen dessert mfg|1997|Reference year 1997|409||5857909||32.3||48.7||71.1||88.3||444.7|
+01000US|United States|1|United States|31|Manufacturing|3116|Meat product mfg|1997|Reference year 1997|2794||112979006||35||47.5||61.3||72.1||392.6|
+01000US|United States|1|United States|31|Manufacturing|31161|Animal slaughtering & processing|1997|Reference year 1997|2794||112979006||35||47.5||61.3||72.1||392.6|
+01000US|United States|1|United States|31|Manufacturing|311611|Animal (except poultry) slaughtering|1997|Reference year 1997|1307||54284253||57||70.8||81.5||89.7||1069.1|
+01000US|United States|1|United States|31|Manufacturing|311612|Meat processed from carcasses|1997|Reference year 1997|1163||24260511||20.4||30.3||45||62||171.6|
+01000US|United States|1|United States|31|Manufacturing|311613|Rendering & meat byproduct processing|1997|Reference year 1997|137||2556547||37.4||54.1||75.5||92.6||569.4|
+01000US|United States|1|United States|31|Manufacturing|311615|Poultry processing|1997|Reference year 1997|257||31877695||40.6||54||72.6||90||667.7|
+01000US|United States|1|United States|31|Manufacturing|3117|Seafood product preparation & packaging|1997|Reference year 1997|731||6919210||12.4||20.9||39.1||61.8||104.9|
+01000US|United States|1|United States|31|Manufacturing|31171|Seafood product preparation & packaging|1997|Reference year 1997|731||6919210||12.4||20.9||39.1||61.8||104.9|
+01000US|United States|1|United States|31|Manufacturing|311711|Seafood canning|1997|Reference year 1997|152||862118||25.9||42.5||71.4||93.4||342.6|
+01000US|United States|1|United States|31|Manufacturing|311712|Fresh & frozen seafood processing|1997|Reference year 1997|586||6057092||13.6||22.9||42.2||65.8||120.6|
+01000US|United States|1|United States|31|Manufacturing|3118|Bakeries & tortilla mfg|1997|Reference year 1997|10437||43722668||28.6||40.1||55.5||68.1||281.2|
+01000US|United States|1|United States|31|Manufacturing|31181|Bread & bakery product mfg|1997|Reference year 1997|9489||25953070||33.2||43.6||58.3||69||423.4|
+01000US|United States|1|United States|31|Manufacturing|311811|Retail bakeries|1997|Reference year 1997|6906||1946153||2.5||3.9||6.7||11.1||3.7|
+01000US|United States|1|United States|31|Manufacturing|311812|Commercial bakeries|1997|Reference year 1997|2401||21494992||39.2||51.3||66||77.6||593|
+01000US|United States|1|United States|31|Manufacturing|311813|Frozen cakes, pies, & other pastries mfg|1997|Reference year 1997|223||2511925||38.2||49.8||67.3||86.3||552.1|
+01000US|United States|1|United States|31|Manufacturing|31182|Cookie, cracker, & pasta mfg|1997|Reference year 1997|767||16656299||41.7||53.3||68.4||85.2||602|
+01000US|United States|1|United States|31|Manufacturing|311821|Cookie & cracker mfg|1997|Reference year 1997|322||9889921||59.9||71.9||87.8||95.3||1383.3|
+01000US|United States|1|United States|31|Manufacturing|311822|Flour mixes & dough mfg from purchased flour|1997|Reference year 1997|206||4999850||43.7||58.2||77.1||93.6||1051.4|
+01000US|United States|1|United States|31|Manufacturing|311823|Dry pasta mfg|1997|Reference year 1997|249||1766528||57.1||74.3||88||92.8||1321.5|
+01000US|United States|1|United States|31|Manufacturing|31183|Tortilla mfg|1997|Reference year 1997|217||1113299||57.2||64.2||74.7||88.7||1852|
+01000US|United States|1|United States|31|Manufacturing|311830|Tortilla mfg|1997|Reference year 1997|217||1113299||57.2||64.2||74.7||88.7||1852|
+01000US|United States|1|United States|31|Manufacturing|3119|Other food mfg|1997|Reference year 1997|2493||48905169||34.7||42.7||54.4||65.7||366.2|
+01000US|United States|1|United States|31|Manufacturing|31191|Snack food mfg|1997|Reference year 1997|466||13590607||57.2||63.5||75.8||88.2||1996.4|
+01000US|United States|1|United States|31|Manufacturing|311911|Roasted nuts & peanut butter mfg|1997|Reference year 1997|128||3933112||37.5||57.6||79.6||94.9||551.1|
+01000US|United States|1|United States|31|Manufacturing|311919|Other snack food mfg|1997|Reference year 1997|340||9657495||70.9||76.5||87.5||94.3||0|D
+01000US|United States|1|United States|31|Manufacturing|31192|Coffee & tea mfg|1997|Reference year 1997|215||7974921||52.5||65.6||84.4||95||1028.3|
+01000US|United States|1|United States|31|Manufacturing|311920|Coffee & tea mfg|1997|Reference year 1997|215||7974921||52.5||65.6||84.4||95||1028.3|
+01000US|United States|1|United States|31|Manufacturing|31193|Flavoring syrup & concentrate mfg|1997|Reference year 1997|149||6590816||80.7||87.9||93.3||97.9||0|D
+01000US|United States|1|United States|31|Manufacturing|311930|Flavoring syrup & concentrate mfg|1997|Reference year 1997|149||6590816||80.7||87.9||93.3||97.9||0|D
+01000US|United States|1|United States|31|Manufacturing|31194|Seasoning & dressing mfg|1997|Reference year 1997|525||10027200||34.4||46.9||62.9||80.4||395.3|
+01000US|United States|1|United States|31|Manufacturing|311941|Mayonnaise, dressing, & other prepared sauce mfg|1997|Reference year 1997|293||5810040||40.3||56.5||74.7||91.8||651|
+01000US|United States|1|United States|31|Manufacturing|311942|Spice & extract mfg|1997|Reference year 1997|241||4217160||43.7||53.5||70.1||86.1||798.7|
+01000US|United States|1|United States|31|Manufacturing|31199|All other food mfg|1997|Reference year 1997|1197||10721625||19.8||28.1||42.9||60.2||157.9|
+01000US|United States|1|United States|31|Manufacturing|311991|Perishable prepared food mfg|1997|Reference year 1997|415||2730103||24.3||35.6||54.2||73.5||225.8|
+01000US|United States|1|United States|31|Manufacturing|311999|All other miscellaneous food mfg|1997|Reference year 1997|785||7991522||23.5||34.6||51.7||70.1||220.3|
+01000US|United States|1|United States|31|Manufacturing|312|Beverage & tobacco product mfg|1997|Reference year 1997|2237||96971368||45.1||59.1||72.7||83.7||777.2|
+01000US|United States|1|United States|31|Manufacturing|3121|Beverage mfg|1997|Reference year 1997|2169||60896055||40.9||52.1||66||79.4||531.5|
+01000US|United States|1|United States|31|Manufacturing|31211|Soft drink & ice mfg|1997|Reference year 1997|1008||32587038||45.5||53.6||68.8||82.4||743.3|
+01000US|United States|1|United States|31|Manufacturing|312111|Soft drink mfg|1997|Reference year 1997|388||31376263||47.2||55.6||70.9||84.8||800.4|
+01000US|United States|1|United States|31|Manufacturing|312112|Bottled water mfg|1997|Reference year 1997|109||785869||51.7||64.4||80.3||94.9||986.6|
+01000US|United States|1|United States|31|Manufacturing|312113|Ice mfg|1997|Reference year 1997|514||424906||24.4||31.3||43.1||60.3||302.3|
+01000US|United States|1|United States|31|Manufacturing|31212|Breweries|1997|Reference year 1997|494||18203492||89.7||93.4||95.2||96.7||0|D
+01000US|United States|1|United States|31|Manufacturing|312120|Breweries|1997|Reference year 1997|494||18203492||89.7||93.4||95.2||96.7||0|D
+01000US|United States|1|United States|31|Manufacturing|31213|Wineries|1997|Reference year 1997|637||6194564||43.2||59.2||76.6||85.3||837.5|
+01000US|United States|1|United States|31|Manufacturing|312130|Wineries|1997|Reference year 1997|637||6194564||43.2||59.2||76.6||85.3||837.5|
+01000US|United States|1|United States|31|Manufacturing|31214|Distilleries|1997|Reference year 1997|44||3910961||59.8||77||96.9||100||1075.7|
+01000US|United States|1|United States|31|Manufacturing|312140|Distilleries|1997|Reference year 1997|44||3910961||59.8||77||96.9||100||1075.7|
+01000US|United States|1|United States|31|Manufacturing|3122|Tobacco mfg|1997|Reference year 1997|70||36075313||83.4||93.3||99||99.9||0|D
+01000US|United States|1|United States|31|Manufacturing|31221|Tobacco stemming & redrying|1997|Reference year 1997|13||3263376||83.7||97.8||100||0|N|2320.2|
+01000US|United States|1|United States|31|Manufacturing|312210|Tobacco stemming & redrying|1997|Reference year 1997|13||3263376||83.7||97.8||100||0|N|2320.2|
+01000US|United States|1|United States|31|Manufacturing|31222|Tobacco product mfg|1997|Reference year 1997|63||32811937||89||95.7||99.6||99.9||0|D
+01000US|United States|1|United States|31|Manufacturing|312221|Cigarette mfg|1997|Reference year 1997|9||29252787||98.9||0|D|100||0|N|0|D
+01000US|United States|1|United States|31|Manufacturing|312229|Other tobacco product mfg|1997|Reference year 1997|56||3559150||62.4||83.5||97.8||99.9||1846|
+01000US|United States|1|United States|31|Manufacturing|313|Textile mills|1997|Reference year 1997|3863||58707401||13.8||21.7||35.9||52.9||94.4|
+01000US|United States|1|United States|31|Manufacturing|3131|Fiber, yarn, & thread mills|1997|Reference year 1997|358||12896617||29.8||42.6||63.4||82.2||344.3|
+01000US|United States|1|United States|31|Manufacturing|31311|Fiber, yarn, & thread mills|1997|Reference year 1997|358||12896617||29.8||42.6||63.4||82.2||344.3|
+01000US|United States|1|United States|31|Manufacturing|313111|Yarn spinning mills|1997|Reference year 1997|229||8143185||25.5||40.5||63.9||87.1||294.1|
+01000US|United States|1|United States|31|Manufacturing|313112|Yarn texturing, throwing, & twisting mills|1997|Reference year 1997|101||4231500||60.3||71.9||87.7||97.8||1495.3|
+01000US|United States|1|United States|31|Manufacturing|313113|Thread mills|1997|Reference year 1997|44||521932||69.5||83.6||95.8||100||1472.7|
+01000US|United States|1|United States|31|Manufacturing|3132|Fabric mills|1997|Reference year 1997|1796||29979595||15.9||23.5||40.7||61.1||122.3|
+01000US|United States|1|United States|31|Manufacturing|31321|Broadwoven fabric mills|1997|Reference year 1997|734||18269155||23.8||35.4||58.1||80.6||252.1|
+01000US|United States|1|United States|31|Manufacturing|313210|Broadwoven fabric mills|1997|Reference year 1997|734||18269155||23.8||35.4||58.1||80.6||252.1|
+01000US|United States|1|United States|31|Manufacturing|31322|Narrow fabric mills & schiffli machine embroidery|1997|Reference year 1997|478||1645969||17.2||27.6||49.6||74.9||167.5|
+01000US|United States|1|United States|31|Manufacturing|313221|Narrow fabric mills|1997|Reference year 1997|243||1409967||20.1||32.2||57.9||84.5||223.5|
+01000US|United States|1|United States|31|Manufacturing|313222|Schiffli machine embroidery|1997|Reference year 1997|235||236002||26.1||43.2||65.5||83.5||310.1|
+01000US|United States|1|United States|31|Manufacturing|31323|Nonwoven fabric mills|1997|Reference year 1997|212||4367765||33.8||48.2||68||86.2||435.8|
+01000US|United States|1|United States|31|Manufacturing|313230|Nonwoven fabric mills|1997|Reference year 1997|212||4367765||33.8||48.2||68||86.2||435.8|
+01000US|United States|1|United States|31|Manufacturing|31324|Knit fabric mills|1997|Reference year 1997|407||5696706||28||38.2||53.9||72.5||272.6|
+01000US|United States|1|United States|31|Manufacturing|313241|Weft knit fabric mills|1997|Reference year 1997|236||3070633||31||39.7||57.8||81.4||425.3|
+01000US|United States|1|United States|31|Manufacturing|313249|Other knit fabric & lace mills|1997|Reference year 1997|181||2626073||40.4||54.4||72.2||88.6||592.9|
+01000US|United States|1|United States|31|Manufacturing|3133|Textile & fabric finishing & fabric coating mills|1997|Reference year 1997|1827||15831189||17.4||26.3||40.6||54.8||131.3|
+01000US|United States|1|United States|31|Manufacturing|31331|Textile & fabric finishing mills|1997|Reference year 1997|1589||13697712||20.2||30.4||46.3||61.2||172.2|
+01000US|United States|1|United States|31|Manufacturing|313311|Broadwoven fabric finishing mills|1997|Reference year 1997|1255||9294623||28||38.4||51.9||66.2||274.8|
+01000US|United States|1|United States|31|Manufacturing|313312|Textile & fabric finishing mills|1997|Reference year 1997|346||4403089||29.7||41.6||61.7||79.7||323.9|
+01000US|United States|1|United States|31|Manufacturing|31332|Fabric coating mills|1997|Reference year 1997|246||2133477||14.8||26.2||49.9||75.3||160.2|
+01000US|United States|1|United States|31|Manufacturing|313320|Fabric coating mills|1997|Reference year 1997|246||2133477||14.8||26.2||49.9||75.3||160.2|
+01000US|United States|1|United States|31|Manufacturing|314|Textile product mills|1997|Reference year 1997|7516||31051835||22.8||31.9||45.1||57||186.2|
+01000US|United States|1|United States|31|Manufacturing|3141|Textile furnishings mills|1997|Reference year 1997|3080||20296040||34.1||47.4||63.4||77.1||396.3|
+01000US|United States|1|United States|31|Manufacturing|31411|Carpet & rug mills|1997|Reference year 1997|413||11492786||50.7||65||81||92.9||922.5|
+01000US|United States|1|United States|31|Manufacturing|314110|Carpet & rug mills|1997|Reference year 1997|413||11492786||50.7||65||81||92.9||922.5|
+01000US|United States|1|United States|31|Manufacturing|31412|Curtain & linen mills|1997|Reference year 1997|2670||8803254||39.7||48.5||61.8||73.6||499.4|
+01000US|United States|1|United States|31|Manufacturing|314121|Curtain & drapery mills|1997|Reference year 1997|2012||1852089||26.5||36.3||50.1||64.7||294.8|
+01000US|United States|1|United States|31|Manufacturing|314129|Other household textile product mills|1997|Reference year 1997|668||6951165||50||58.7||72.5||83.2||765.8|
+01000US|United States|1|United States|31|Manufacturing|3149|Other textile product mills|1997|Reference year 1997|4455||10755795||10.6||17.1||29.3||41.7||59.1|
+01000US|United States|1|United States|31|Manufacturing|31491|Textile bag & canvas mills|1997|Reference year 1997|2094||2502064||7.9||13.8||25.1||40.9||45.1|
+01000US|United States|1|United States|31|Manufacturing|314911|Textile bag mills|1997|Reference year 1997|423||972920||19.1||29.6||50||71||180.2|
+01000US|United States|1|United States|31|Manufacturing|314912|Canvas & related product mills|1997|Reference year 1997|1673||1529144||10.4||17.1||28.4||42.8||56.9|
+01000US|United States|1|United States|31|Manufacturing|31499|All other textile product mills|1997|Reference year 1997|2366||8253731||13.8||22.3||38.2||53.1||99.1|
+01000US|United States|1|United States|31|Manufacturing|314991|Rope, cordage, & twine mills|1997|Reference year 1997|189||777091||37||51.6||70.8||88.5||464|
+01000US|United States|1|United States|31|Manufacturing|314992|Tire cord & tire fabric mills|1997|Reference year 1997|15||1268662||65||94.7||100||0|N|1361.2|
+01000US|United States|1|United States|31|Manufacturing|314999|All other miscellaneous textile product mills|1997|Reference year 1997|2164||6207978||16.3||25.2||36.6||51||114.5|
+01000US|United States|1|United States|31|Manufacturing|315|Apparel mfg|1997|Reference year 1997|15839||68018116||17.6||23.2||29.8||38.8||100.6|
+01000US|United States|1|United States|31|Manufacturing|3151|Apparel knitting mills|1997|Reference year 1997|1209||9600569||22.7||33.1||48.7||65.6||211.5|
+01000US|United States|1|United States|31|Manufacturing|31511|Hosiery & sock mills|1997|Reference year 1997|532||4562009||28.6||38.4||56.7||77.7||324.5|
+01000US|United States|1|United States|31|Manufacturing|315111|Sheer hosiery mills|1997|Reference year 1997|136||1658474||50.9||66||88.1||97.3||998.3|
+01000US|United States|1|United States|31|Manufacturing|315119|Other hosiery & sock mills|1997|Reference year 1997|399||2903535||25.7||37.6||60.8||79.4||269.2|
+01000US|United States|1|United States|31|Manufacturing|31519|Other apparel knitting mills|1997|Reference year 1997|683||5038560||33.8||47.1||61.4||75.6||459.7|
+01000US|United States|1|United States|31|Manufacturing|315191|Outerwear knitting mills|1997|Reference year 1997|645||4352532||39.1||52||63.6||76.4||583.2|
+01000US|United States|1|United States|31|Manufacturing|315192|Underwear & nightwear knitting mills|1997|Reference year 1997|43||686028||63||82.9||98.8||100||1325|
+01000US|United States|1|United States|31|Manufacturing|3152|Cut & sew apparel mfg|1997|Reference year 1997|12487||53851513||20.2||26.2||33.3||43||136|
+01000US|United States|1|United States|31|Manufacturing|31521|Cut & sew apparel contractors|1997|Reference year 1997|7677||5536959||7.3||11.2||18.7||27.9||25.8|
+01000US|United States|1|United States|31|Manufacturing|315211|Men's & boys' cut & sew apparel contractors|1997|Reference year 1997|636||1534022||20.4||29.2||45.2||61.4||176.1|
+01000US|United States|1|United States|31|Manufacturing|315212|Women's, girls', & infants' cut & sew apparel contractors|1997|Reference year 1997|7056||4002937||6.3||9.9||16.8||24.6||20.3|
+01000US|United States|1|United States|31|Manufacturing|31522|Men's & boys' cut & sew apparel mfg|1997|Reference year 1997|1362||21298782||37.3||46.2||57.1||70.3||461.9|
+01000US|United States|1|United States|31|Manufacturing|315221|Men's & boys' cut & sew underwear & nightwear mfg|1997|Reference year 1997|62||1404202||67.5||84||96.3||99.9||1693.8|
+01000US|United States|1|United States|31|Manufacturing|315222|Men's & boys' cut & sew suit, coat, & overcoat mfg|1997|Reference year 1997|193||2082863||42||55.5||75.1||92||845.7|
+01000US|United States|1|United States|31|Manufacturing|315223|Men's & boys' cut & sew shirt (exc work shirt) mfg|1997|Reference year 1997|387||6916178||42.9||55.4||71.9||85.6||659.3|
+01000US|United States|1|United States|31|Manufacturing|315224|Men's & boys' cut & sew trouser, slack, & jean mfg|1997|Reference year 1997|199||7152379||68.9||76.4||87.2||95.4||2253.8|
+01000US|United States|1|United States|31|Manufacturing|315225|Men's & boys' cut & sew work clothing mfg|1997|Reference year 1997|149||1865304||46.6||62.3||81.8||95.3||851|
+01000US|United States|1|United States|31|Manufacturing|315228|Men's & boys' cut & sew other outerwear mfg|1997|Reference year 1997|430||1877856||20.3||32||52.6||73.8||202.4|
+01000US|United States|1|United States|31|Manufacturing|31523|Women's & girls' cut & sew apparel mfg|1997|Reference year 1997|2927||24832784||13.1||19.2||31.1||44.3||76.1|
+01000US|United States|1|United States|31|Manufacturing|315231|Women's & girls' cut/sew lingerie & nightwear mfg|1997|Reference year 1997|249||3910357||42.8||58.1||75.4||90.2||589.4|
+01000US|United States|1|United States|31|Manufacturing|315232|Women's & girls' cut & sew blouse & shirt mfg|1997|Reference year 1997|714||3995123||12.6||22.1||42||66.8||120.3|
+01000US|United States|1|United States|31|Manufacturing|315233|Women's & girls' cut & sew dress mfg|1997|Reference year 1997|747||5009262||14.2||23.7||39.4||60.4||111.3|
+01000US|United States|1|United States|31|Manufacturing|315234|Women's & girls' cut & sew suit, coat, skirt mfg|1997|Reference year 1997|428||3759250||31.9||41||57.2||76.3||333.3|
+01000US|United States|1|United States|31|Manufacturing|315239|Women's & girls' cut & sew other outerwear mfg|1997|Reference year 1997|818||8158792||22.3||36.9||56.3||75.4||229.3|
+01000US|United States|1|United States|31|Manufacturing|31529|Other cut & sew apparel mfg|1997|Reference year 1997|665||2182988||26.3||36.6||56||73.4||290.8|
+01000US|United States|1|United States|31|Manufacturing|315291|Infants' cut & sew apparel mfg|1997|Reference year 1997|39||945119||60.9||79.5||98||100||1300.1|
+01000US|United States|1|United States|31|Manufacturing|315292|Fur & leather apparel mfg|1997|Reference year 1997|224||244687||22.6||34.8||54||74.1||221.2|
+01000US|United States|1|United States|31|Manufacturing|315299|All other cut & sew apparel mfg|1997|Reference year 1997|402||993182||22.5||37.3||56.2||74.7||226.3|
+01000US|United States|1|United States|31|Manufacturing|3159|Apparel accessories & other apparel mfg|1997|Reference year 1997|2201||4566034||14.2||23||39.2||53.9||107.8|
+01000US|United States|1|United States|31|Manufacturing|31599|Apparel accessories & other apparel mfg|1997|Reference year 1997|2201||4566034||14.2||23||39.2||53.9||107.8|
+01000US|United States|1|United States|31|Manufacturing|315991|Hat, cap, & millinery mfg|1997|Reference year 1997|363||980704||36||46.6||61.3||77.8||398.3|
+01000US|United States|1|United States|31|Manufacturing|315992|Glove & mitten mfg|1997|Reference year 1997|98||672639||63.8||73||85.4||97.1||1691.4|
+01000US|United States|1|United States|31|Manufacturing|315993|Men's & boys' neckwear mfg|1997|Reference year 1997|119||598457||48.2||62||79.4||93.8||751.3|
+01000US|United States|1|United States|31|Manufacturing|315999|Other apparel accessories & other apparel mfg|1997|Reference year 1997|1626||2314234||19||28.5||44.1||58.5||144.9|
+01000US|United States|1|United States|31|Manufacturing|316|Leather & allied product mfg|1997|Reference year 1997|1727||10876510||19||31.4||48.5||65||167.2|
+01000US|United States|1|United States|31|Manufacturing|3161|Leather & hide tanning & finishing|1997|Reference year 1997|327||3576657||49.1||66.5||79.9||91.5||741.5|
+01000US|United States|1|United States|31|Manufacturing|31611|Leather & hide tanning & finishing|1997|Reference year 1997|327||3576657||49.1||66.5||79.9||91.5||741.5|
+01000US|United States|1|United States|31|Manufacturing|316110|Leather & hide tanning & finishing|1997|Reference year 1997|327||3576657||49.1||66.5||79.9||91.5||741.5|
+01000US|United States|1|United States|31|Manufacturing|3162|Footwear mfg|1997|Reference year 1997|366||4210975||27.7||42.4||65||84.3||317|
+01000US|United States|1|United States|31|Manufacturing|31621|Footwear mfg|1997|Reference year 1997|366||4210975||27.7||42.4||65||84.3||317|
+01000US|United States|1|United States|31|Manufacturing|316211|Rubber & plastics footwear mfg|1997|Reference year 1997|50||1009838||54.6||69.1||92.9||100||1079.4|
+01000US|United States|1|United States|31|Manufacturing|316212|House slipper mfg|1997|Reference year 1997|22||263816||82.5||95.8||0|D|100||2053.4|
+01000US|United States|1|United States|31|Manufacturing|316213|Men's footwear (except athletic) mfg|1997|Reference year 1997|123||2019647||49.7||67.7||89.7||98.7||857.2|
+01000US|United States|1|United States|31|Manufacturing|316214|Women's footwear (except athletic) mfg|1997|Reference year 1997|97||703653||49.5||65.8||88.5||98.6||794.8|
+01000US|United States|1|United States|31|Manufacturing|316219|Other footwear mfg|1997|Reference year 1997|87||214021||32.6||54.3||81.7||96.9||469.1|
+01000US|United States|1|United States|31|Manufacturing|3169|Other leather & allied product mfg|1997|Reference year 1997|1045||3088878||26.5||35.3||49.5||66.7||354.3|
+01000US|United States|1|United States|31|Manufacturing|31699|Other leather & allied product mfg|1997|Reference year 1997|1045||3088878||26.5||35.3||49.5||66.7||354.3|
+01000US|United States|1|United States|31|Manufacturing|316991|Luggage mfg|1997|Reference year 1997|270||1425871||51.9||62.4||75||86.8||1418.6|
+01000US|United States|1|United States|31|Manufacturing|316992|Women's handbag & purse mfg|1997|Reference year 1997|136||287341||58.6||71.3||86.4||95.8||1521.4|
+01000US|United States|1|United States|31|Manufacturing|316993|Personal leather good (except women's handbag & purse) mfg|1997|Reference year 1997|178||465206||42.2||56.6||79.8||93.1||841|
+01000US|United States|1|United States|31|Manufacturing|316999|All other leather good mfg|1997|Reference year 1997|464||910460||24.9||38.6||62.3||79.3||270.2|
+01000US|United States|1|United States|31|Manufacturing|321|Wood product mfg|1997|Reference year 1997|15621||88470180||10.5||16.7||26.4||37.8||52.7|
+01000US|United States|1|United States|31|Manufacturing|3211|Sawmills & wood preservation|1997|Reference year 1997|4372||29093601||14.5||20.1||31.4||44.4||86.7|
+01000US|United States|1|United States|31|Manufacturing|32111|Sawmills & wood preservation|1997|Reference year 1997|4372||29093601||14.5||20.1||31.4||44.4||86.7|
+01000US|United States|1|United States|31|Manufacturing|321113|Sawmills|1997|Reference year 1997|4024||24632080||16.8||23.2||35.9||48.1||112.3|
+01000US|United States|1|United States|31|Manufacturing|321114|Wood preservation|1997|Reference year 1997|361||4461521||19.7||30.7||50||73.8||188.2|
+01000US|United States|1|United States|31|Manufacturing|3212|Veneer, plywood, & engineered wood product mfg|1997|Reference year 1997|1491||18815394||26.9||40.8||53.4||64.9||286.9|
+01000US|United States|1|United States|31|Manufacturing|32121|Veneer, plywood, & engineered wood product mfg|1997|Reference year 1997|1491||18815394||26.9||40.8||53.4||64.9||286.9|
+01000US|United States|1|United States|31|Manufacturing|321211|Hardwood veneer & plywood mfg|1997|Reference year 1997|303||2861556||30.5||40.5||55.7||74.3||430.4|
+01000US|United States|1|United States|31|Manufacturing|321212|Softwood veneer & plywood mfg|1997|Reference year 1997|88||5658347||48.8||68.1||86.4||98.7||914.9|
+01000US|United States|1|United States|31|Manufacturing|321213|Engineered wood member (except truss) mfg|1997|Reference year 1997|32||1431123||77.1||86.9||96.6||100||2453.5|
+01000US|United States|1|United States|31|Manufacturing|321214|Truss mfg|1997|Reference year 1997|886||3610943||8.8||13.4||22.9||39.5||42.4|
+01000US|United States|1|United States|31|Manufacturing|321219|Reconstituted wood product mfg|1997|Reference year 1997|212||5253425||42.9||58.1||76.1||91.3||592.3|
+01000US|United States|1|United States|31|Manufacturing|3219|Other wood product mfg|1997|Reference year 1997|9923||40561185||12.7||18.6||29.3||40.3||66.8|
+01000US|United States|1|United States|31|Manufacturing|32191|Millwork|1997|Reference year 1997|3985||19040942||16.1||24.2||35.1||46.1||100.9|
+01000US|United States|1|United States|31|Manufacturing|321911|Wood window & door mfg|1997|Reference year 1997|1311||8673423||30.9||43.6||56.6||69.4||332.2|
+01000US|United States|1|United States|31|Manufacturing|321912|Cut stock, resawing lumber, & planing|1997|Reference year 1997|1296||5925115||19.5||24.6||35.7||53.5||197.3|
+01000US|United States|1|United States|31|Manufacturing|321918|Other millwork (including flooring)|1997|Reference year 1997|1416||4442404||19.8||25.8||37.7||52.6||153.2|
+01000US|United States|1|United States|31|Manufacturing|32192|Wood container & pallet mfg|1997|Reference year 1997|2870||4489070||5.8||8.8||14.1||22.7||15.9|
+01000US|United States|1|United States|31|Manufacturing|321920|Wood container & pallet mfg|1997|Reference year 1997|2870||4489070||5.8||8.8||14.1||22.7||15.9|
+01000US|United States|1|United States|31|Manufacturing|32199|All other wood product mfg|1997|Reference year 1997|3103||17031173||26.3||36||50.1||62||257.9|
+01000US|United States|1|United States|31|Manufacturing|321991|Manufactured home (mobile home) mfg|1997|Reference year 1997|145||10085615||44.3||60.2||80.9||92.3||708.3|
+01000US|United States|1|United States|31|Manufacturing|321992|Prefabricated wood building mfg|1997|Reference year 1997|652||3028520||17.1||25||38.3||58.2||119.3|
+01000US|United States|1|United States|31|Manufacturing|322|Paper mfg|1997|Reference year 1997|3808||150295890||18.5||31.1||51||67||173.3|
+01000US|United States|1|United States|31|Manufacturing|3221|Pulp, paper, & paperboard mills|1997|Reference year 1997|217||71539224||28||45.7||71.5||89.4||356|
+01000US|United States|1|United States|31|Manufacturing|32211|Pulp mills|1997|Reference year 1997|24||3263973||58.6||85.6||99.5||100||1106.4|
+01000US|United States|1|United States|31|Manufacturing|322110|Pulp mills|1997|Reference year 1997|24||3263973||58.6||85.6||99.5||100||1106.4|
+01000US|United States|1|United States|31|Manufacturing|32212|Paper mills|1997|Reference year 1997|139||48161554||33.6||54.6||79.7||93.8||467.2|
+01000US|United States|1|United States|31|Manufacturing|322121|Paper (except newsprint) mills|1997|Reference year 1997|121||42966163||37.6||59.2||83.9||96.1||541.7|
+01000US|United States|1|United States|31|Manufacturing|322122|Newsprint mills|1997|Reference year 1997|24||5195391||43.9||68.2||98.4||100||766|
+01000US|United States|1|United States|31|Manufacturing|322130|Paperboard mills|1997|Reference year 1997|81||20113697||33.6||53.2||82.2||98.3||485.1|
+01000US|United States|1|United States|31|Manufacturing|3222|Converted paper product mfg|1997|Reference year 1997|3674||78756666||12||21.5||39.5||54.8||96.2|
+01000US|United States|1|United States|31|Manufacturing|32221|Paperboard container mfg|1997|Reference year 1997|1705||39973012||19.2||32.6||50||65.6||175.8|
+01000US|United States|1|United States|31|Manufacturing|322211|Corrugated & solid fiber box mfg|1997|Reference year 1997|995||25555136||25.8||42.4||59.1||71.4||277|
+01000US|United States|1|United States|31|Manufacturing|322212|Folding paperboard box mfg|1997|Reference year 1997|434||8929351||24.5||38.3||57.7||73.2||245.8|
+01000US|United States|1|United States|31|Manufacturing|322213|Setup paperboard box mfg|1997|Reference year 1997|142||512314||17.2||27.3||46.9||75.8||165.8|
+01000US|United States|1|United States|31|Manufacturing|322215|Nonfolding sanitary food container mfg|1997|Reference year 1997|46||2670930||62.2||79.9||97.9||100||1197.9|
+01000US|United States|1|United States|31|Manufacturing|32222|Paper bag & coated & treated paper mfg|1997|Reference year 1997|764||19367269||27.1||35.3||50.7||67.9||266.7|
+01000US|United States|1|United States|31|Manufacturing|322221|Coated & laminated packaging paper & plastics film mfg|1997|Reference year 1997|73||1491170||38.1||58.8||85.6||99.3||574.8|
+01000US|United States|1|United States|31|Manufacturing|322222|Coated & laminated paper mfg|1997|Reference year 1997|509||11845958||40.5||49||62.2||78.7||593.9|
+01000US|United States|1|United States|31|Manufacturing|322223|Plastics, foil, & coated paper bag mfg|1997|Reference year 1997|40||493924||42.4||66.4||94.3||100||699.4|
+01000US|United States|1|United States|31|Manufacturing|322224|Uncoated paper & multiwall bag mfg|1997|Reference year 1997|93||2794934||53.7||68.7||86.8||97.6||1033.1|
+01000US|United States|1|United States|31|Manufacturing|322226|Surface-coated paperboard mfg|1997|Reference year 1997|42||1153433||51.5||74.8||94.5||100||920.5|
+01000US|United States|1|United States|31|Manufacturing|32223|Stationery product mfg|1997|Reference year 1997|674||7734912||27.5||42||60.9||76.3||296.9|
+01000US|United States|1|United States|31|Manufacturing|322231|Die-cut paper & paperboard office supplies mfg|1997|Reference year 1997|337||2105012||44.4||58.9||73.8||84.3||642|
+01000US|United States|1|United States|31|Manufacturing|322232|Envelope mfg|1997|Reference year 1997|188||3655270||40.9||56.4||71.6||87.3||564.5|
+01000US|United States|1|United States|31|Manufacturing|322233|Stationery, tablet, & related product mfg|1997|Reference year 1997|158||1974630||55.9||71.4||88.5||96.4||1127.5|
+01000US|United States|1|United States|31|Manufacturing|32229|Other converted paper product mfg|1997|Reference year 1997|623||11681473||42.3||52.5||68.6||80.1||688.1|
+01000US|United States|1|United States|31|Manufacturing|322291|Sanitary paper product mfg|1997|Reference year 1997|99||7833607||63.1||76.8||92.2||98.8||1481|
+01000US|United States|1|United States|31|Manufacturing|322299|All other converted paper product mfg|1997|Reference year 1997|529||3847866||23||31.7||44.2||61.2||187|
+01000US|United States|1|United States|31|Manufacturing|323|Printing & related support activities|1997|Reference year 1997|40987||97485138||9.6||14||21.1||28.1||38.4|
+01000US|United States|1|United States|31|Manufacturing|3231|Printing & related support activities|1997|Reference year 1997|40987||97485138||9.6||14||21.1||28.1||38.4|
+01000US|United States|1|United States|31|Manufacturing|32311|Printing|1997|Reference year 1997|36617||90564648||10.1||14.8||22.4||29.7||43.3|
+01000US|United States|1|United States|31|Manufacturing|323110|Commercial lithographic printing|1997|Reference year 1997|18015||50027462||11.1||16.1||23.2||30.4||46.7|
+01000US|United States|1|United States|31|Manufacturing|323111|Commercial gravure printing|1997|Reference year 1997|419||3892449||56.9||67.3||82.9||93.7||1292.3|
+01000US|United States|1|United States|31|Manufacturing|323112|Commercial flexographic printing|1997|Reference year 1997|864||4675493||14.6||22.1||36.2||54||97|
+01000US|United States|1|United States|31|Manufacturing|323113|Commercial screen printing|1997|Reference year 1997|4096||6622326||8.2||13||22.2||33.5||34.6|
+01000US|United States|1|United States|31|Manufacturing|323114|Quick printing|1997|Reference year 1997|7990||4147172||9.6||11.4||14.9||20.5||27.1|
+01000US|United States|1|United States|31|Manufacturing|323115|Digital printing|1997|Reference year 1997|386||405679||10.1||17.2||32.6||53.5||75.5|
+01000US|United States|1|United States|31|Manufacturing|323116|Manifold business form printing|1997|Reference year 1997|719||9516072||32.6||47.9||63.9||76.7||396.2|
+01000US|United States|1|United States|31|Manufacturing|323117|Book printing|1997|Reference year 1997|690||5517171||31.9||45.1||59.3||73.9||363.7|
+01000US|United States|1|United States|31|Manufacturing|323118|Blankbook, looseleaf binder, & device mfg|1997|Reference year 1997|283||2540799||43.4||56.2||70.3||82.5||650|
+01000US|United States|1|United States|31|Manufacturing|323119|Other commercial printing|1997|Reference year 1997|3387||3220025||12.5||17.7||27.6||38.8||67.4|
+01000US|United States|1|United States|31|Manufacturing|32312|Support activities for printing|1997|Reference year 1997|4448||6920490||6.3||11.5||20||30.2||26.7|
+01000US|United States|1|United States|31|Manufacturing|323121|Tradebinding & related work|1997|Reference year 1997|1260||1946867||13.8||20.6||30||43.2||78.1|
+01000US|United States|1|United States|31|Manufacturing|323122|Prepress services|1997|Reference year 1997|3191||4973623||8.5||15||24.3||36.1||41.4|
+01000US|United States|1|United States|31|Manufacturing|324|Petroleum & coal products mfg|1997|Reference year 1997|1166||177393098||26||44.2||74.4||89.8||350|
+01000US|United States|1|United States|31|Manufacturing|3241|Petroleum & coal products mfg|1997|Reference year 1997|1166||177393098||26||44.2||74.4||89.8||350|
+01000US|United States|1|United States|31|Manufacturing|32411|Petroleum refineries|1997|Reference year 1997|122||158667598||28.5||48.6||81.6||97.6||422.1|
+01000US|United States|1|United States|31|Manufacturing|324110|Petroleum refineries|1997|Reference year 1997|122||158667598||28.5||48.6||81.6||97.6||422.1|
+01000US|United States|1|United States|31|Manufacturing|32412|Asphalt paving, roofing, & saturated materials mfg|1997|Reference year 1997|674||10981761||22.8||33.2||48.2||63.7||204.6|
+01000US|United States|1|United States|31|Manufacturing|324121|Asphalt paving mixture & block mfg|1997|Reference year 1997|531||5887180||17.3||25.6||39.5||56.9||124.6|
+01000US|United States|1|United States|31|Manufacturing|324122|Asphalt shingle & coating materials mfg|1997|Reference year 1997|151||5094581||47.2||63.8||82.2||94.8||772.7|
+01000US|United States|1|United States|31|Manufacturing|32419|Other petroleum & coal products mfg|1997|Reference year 1997|403||7743739||26.8||37.6||57.1||77.3||300.9|
+01000US|United States|1|United States|31|Manufacturing|324191|Petroleum lubricating oil & grease mfg|1997|Reference year 1997|344||6070406||34.2||45.4||64.1||80||434|
+01000US|United States|1|United States|31|Manufacturing|324199|All other petroleum & coal products mfg|1997|Reference year 1997|61||1673333||39.9||65.6||90.7||99.7||644.1|
+01000US|United States|1|United States|31|Manufacturing|325|Chemical mfg|1997|Reference year 1997|9626||415616508||11.9||18.2||32.7||50.8||76.6|
+01000US|United States|1|United States|31|Manufacturing|3251|Basic chemical mfg|1997|Reference year 1997|1203||113356912||15.6||28.7||49.1||69.6||156.4|
+01000US|United States|1|United States|31|Manufacturing|32511|Petrochemical mfg|1997|Reference year 1997|42||19468615||59.8||83.3||98||100||1187|
+01000US|United States|1|United States|31|Manufacturing|325110|Petrochemical mfg|1997|Reference year 1997|42||19468615||59.8||83.3||98||100||1187|
+01000US|United States|1|United States|31|Manufacturing|32512|Industrial gas mfg|1997|Reference year 1997|119||5416308||64.1||84.9||95.8||98.8||1224.7|
+01000US|United States|1|United States|31|Manufacturing|325120|Industrial gas mfg|1997|Reference year 1997|119||5416308||64.1||84.9||95.8||98.8||1224.7|
+01000US|United States|1|United States|31|Manufacturing|32513|Dye & pigment mfg|1997|Reference year 1997|152||6438366||43.7||56.4||76.1||93.6||748.7|
+01000US|United States|1|United States|31|Manufacturing|325131|Inorganic dye & pigment mfg|1997|Reference year 1997|59||3745010||66.8||79.4||95||99.9||1848.3|
+01000US|United States|1|United States|31|Manufacturing|325132|Synthetic organic dye & pigment mfg|1997|Reference year 1997|95||2693356||42||58.8||83.1||97.2||699.5|
+01000US|United States|1|United States|31|Manufacturing|32518|Other basic inorganic chemical mfg|1997|Reference year 1997|409||20731059||30.1||40.7||60.9||80.9||336.4|
+01000US|United States|1|United States|31|Manufacturing|325181|Alkalies & chlorine mfg|1997|Reference year 1997|26||2465183||79.7||92.3||99.8||100||2870.1|
+01000US|United States|1|United States|31|Manufacturing|325182|Carbon black mfg|1997|Reference year 1997|8||990391||0|D|100||0|N|0|N|2075.1|
+01000US|United States|1|United States|31|Manufacturing|325188|All other basic inorganic chemical mfg|1997|Reference year 1997|385||17275485||31.1||41.6||62.7||81.8||394.4|
+01000US|United States|1|United States|31|Manufacturing|32519|Other basic organic chemical mfg|1997|Reference year 1997|581||61302564||22.7||36.7||55.1||77.5||227.7|
+01000US|United States|1|United States|31|Manufacturing|325191|Gum & wood chemical mfg|1997|Reference year 1997|45||814676||74.6||92.2||98.6||100||1707.4|
+01000US|United States|1|United States|31|Manufacturing|325192|Cyclic crude & intermediate mfg|1997|Reference year 1997|36||6861138||61.7||79.4||98.2||100||1701.2|
+01000US|United States|1|United States|31|Manufacturing|325193|Ethyl alcohol mfg|1997|Reference year 1997|31||1222166||63.1||82.9||98.5||100||1225.3|
+01000US|United States|1|United States|31|Manufacturing|325199|All other basic organic chemical mfg|1997|Reference year 1997|487||52404584||25.3||38.3||56.8||79.6||256.4|
+01000US|United States|1|United States|31|Manufacturing|3252|Resin, syn rubber, & artificial & syn fibers & filaments mfg|1997|Reference year 1997|469||64417772||26.7||37.7||60.1||84.6||312.9|
+01000US|United States|1|United States|31|Manufacturing|32521|Resin & synthetic rubber mfg|1997|Reference year 1997|406||51379595||24.8||37.4||60.9||86.3||277.3|
+01000US|United States|1|United States|31|Manufacturing|325211|Plastics material & resin mfg|1997|Reference year 1997|299||45225887||25.6||39||64.2||89||304.1|
+01000US|United States|1|United States|31|Manufacturing|325212|Synthetic rubber mfg|1997|Reference year 1997|122||6153708||39||61.8||93.1||98.8||618.2|
+01000US|United States|1|United States|31|Manufacturing|32522|Artificial & synthetic fibers & filaments mfg|1997|Reference year 1997|70||13038177||69||85.1||96.9||99.9||1588.6|
+01000US|United States|1|United States|31|Manufacturing|325221|Cellulosic organic fiber mfg|1997|Reference year 1997|4||1096983||100||0|N|0|N|0|N|0|D
+01000US|United States|1|United States|31|Manufacturing|325222|Noncellulosic organic fiber mfg|1997|Reference year 1997|67||11941194||69.1||86.6||97.6||99.9||1708.4|
+01000US|United States|1|United States|31|Manufacturing|3253|Pesticide, fertilizer, & other agricultural chemical mfg|1997|Reference year 1997|692||24176999||27.4||45.8||70.6||85.8||342.3|
+01000US|United States|1|United States|31|Manufacturing|32531|Fertilizer mfg|1997|Reference year 1997|477||12759745||39.8||55.1||74.8||87.5||566.9|
+01000US|United States|1|United States|31|Manufacturing|325311|Nitrogenous fertilizer mfg|1997|Reference year 1997|116||3961254||54.2||75.9||94.2||98.7||902.6|
+01000US|United States|1|United States|31|Manufacturing|325312|Phosphatic fertilizer mfg|1997|Reference year 1997|43||5474672||70.5||88.1||99.1||100||1675.3|
+01000US|United States|1|United States|31|Manufacturing|325314|Fertilizer (mixing only) mfg|1997|Reference year 1997|334||3323819||26.3||40.8||57.5||74.2||285.7|
+01000US|United States|1|United States|31|Manufacturing|32532|Pesticide & other agricultural chemical mfg|1997|Reference year 1997|222||11417254||48.8||73||89.1||96.2||811.2|
+01000US|United States|1|United States|31|Manufacturing|325320|Pesticide & other agricultural chemical mfg|1997|Reference year 1997|222||11417254||48.8||73||89.1||96.2||811.2|
+01000US|United States|1|United States|31|Manufacturing|3254|Pharmaceutical & medicine mfg|1997|Reference year 1997|1428||92932786||32.3||47.9||66.6||82.5||446.3|
+01000US|United States|1|United States|31|Manufacturing|32541|Pharmaceutical & medicine mfg|1997|Reference year 1997|1428||92932786||32.3||47.9||66.6||82.5||446.3|
+01000US|United States|1|United States|31|Manufacturing|325411|Medicinal & botanical mfg|1997|Reference year 1997|312||11888455||61.5||72.9||84.6||93.3||2058.7|
+01000US|United States|1|United States|31|Manufacturing|325412|Pharmaceutical preparation mfg|1997|Reference year 1997|707||66734737||35.6||50.1||71.4||88.5||462.4|
+01000US|United States|1|United States|31|Manufacturing|325413|In-vitro diagnostic substance mfg|1997|Reference year 1997|203||8682377||62.5||75.9||86.6||94.6||1685.1|
+01000US|United States|1|United States|31|Manufacturing|325414|Biological product (except diagnostic) mfg|1997|Reference year 1997|267||5627217||42.9||64||82.9||93.8||680.2|
+01000US|United States|1|United States|31|Manufacturing|3255|Paint, coating, & adhesive mfg|1997|Reference year 1997|1724||26369629||23.6||35.5||52.2||66.3||220.1|
+01000US|United States|1|United States|31|Manufacturing|32551|Paint & coating mfg|1997|Reference year 1997|1205||19057194||32||47||63.9||75.1||371.2|
+01000US|United States|1|United States|31|Manufacturing|325510|Paint & coating mfg|1997|Reference year 1997|1205||19057194||32||47||63.9||75.1||371.2|
+01000US|United States|1|United States|31|Manufacturing|32552|Adhesive mfg|1997|Reference year 1997|540||7312435||22.3||32.6||50.5||72.1||217.2|
+01000US|United States|1|United States|31|Manufacturing|325520|Adhesive mfg|1997|Reference year 1997|540||7312435||22.3||32.6||50.5||72.1||217.2|
+01000US|United States|1|United States|31|Manufacturing|3256|Soap, cleaning compound, & toilet preparation mfg|1997|Reference year 1997|2251||55141340||33.7||45.7||63.2||74.9||495.4|
+01000US|United States|1|United States|31|Manufacturing|32561|Soap & cleaning compound mfg|1997|Reference year 1997|1583||30928488||40.7||55.1||68.1||78||625.9|
+01000US|United States|1|United States|31|Manufacturing|325611|Soap & other detergent mfg|1997|Reference year 1997|738||17772851||65.6||77.9||85.3||90.6||1618.6|
+01000US|United States|1|United States|31|Manufacturing|325612|Polish & other sanitation good mfg|1997|Reference year 1997|675||8369554||55.1||60.7||71.2||83.2||1090.5|
+01000US|United States|1|United States|31|Manufacturing|325613|Surface active agent mfg|1997|Reference year 1997|183||4786083||34.3||47.6||69.9||89.1||416.1|
+01000US|United States|1|United States|31|Manufacturing|32562|Toilet preparation mfg|1997|Reference year 1997|681||24212852||38.6||58.4||74.8||86.6||564.2|
+01000US|United States|1|United States|31|Manufacturing|325620|Toilet preparation mfg|1997|Reference year 1997|681||24212852||38.6||58.4||74.8||86.6||564.2|
+01000US|United States|1|United States|31|Manufacturing|3259|Other chemical product mfg|1997|Reference year 1997|2287||39221070||25.4||32.1||44.5||59.2||378.4|
+01000US|United States|1|United States|31|Manufacturing|32591|Printing ink mfg|1997|Reference year 1997|255||4076500||55.4||63.1||75.5||88.2||1227.4|
+01000US|United States|1|United States|31|Manufacturing|325910|Printing ink mfg|1997|Reference year 1997|255||4076500||55.4||63.1||75.5||88.2||1227.4|
+01000US|United States|1|United States|31|Manufacturing|32592|Explosives mfg|1997|Reference year 1997|66||1447274||45.3||68.6||91.1||99.8||726.7|
+01000US|United States|1|United States|31|Manufacturing|325920|Explosives mfg|1997|Reference year 1997|66||1447274||45.3||68.6||91.1||99.8||726.7|
+01000US|United States|1|United States|31|Manufacturing|32599|All other chemical product & preparation mfg|1997|Reference year 1997|1973||33697296||28||35.1||47.5||63||493.9|
+01000US|United States|1|United States|31|Manufacturing|325991|Custom compounding of purchased resin|1997|Reference year 1997|728||7960246||14.9||25.2||45||67.1||137.2|
+01000US|United States|1|United States|31|Manufacturing|325992|Photographic film, paper, plate, & chemical mfg|1997|Reference year 1997|276||12918747||69.7||83||92.9||98.1||0|D
+01000US|United States|1|United States|31|Manufacturing|325998|All other miscellaneous chemical product & preparation mfg|1997|Reference year 1997|985||12818303||19.6||28.6||46.1||63.3||158.8|
+01000US|United States|1|United States|31|Manufacturing|326|Plastics & rubber products mfg|1997|Reference year 1997|13798||159161346||8.2||11.4||18.3||28.7||30.2|
+01000US|United States|1|United States|31|Manufacturing|3261|Plastics product mfg|1997|Reference year 1997|11613||124445374||3.9||6.9||14.1||24.4||14.1|
+01000US|United States|1|United States|31|Manufacturing|32611|Unsupported plastics film, sheet, & bag mfg|1997|Reference year 1997|1250||24624844||13.1||23||39.3||56.8||103.5|
+01000US|United States|1|United States|31|Manufacturing|326111|Unsupported plastics bag mfg|1997|Reference year 1997|440||7300237||24.7||35.9||52.9||70.1||236.4|
+01000US|United States|1|United States|31|Manufacturing|326112|Unsupported plastics packaging film & sheet mfg|1997|Reference year 1997|131||3638911||52.1||62.7||76.4||91.9||818.6|
+01000US|United States|1|United States|31|Manufacturing|326113|Unsupported plastics film & sheet (except packaging) mfg|1997|Reference year 1997|713||13685696||17.6||27.7||46.1||66.1||149.2|
+01000US|United States|1|United States|31|Manufacturing|32612|Plastics pipe, pipe fitting, & unsupported profile shape mfg|1997|Reference year 1997|1048||9228294||15.8||24.9||41.9||59.5||121|
+01000US|United States|1|United States|31|Manufacturing|326121|Unsupported plastics profile shape mfg|1997|Reference year 1997|733||4436148||25.5||34.8||50.3||65.3||234.5|
+01000US|United States|1|United States|31|Manufacturing|326122|Plastics pipe & pipe fitting mfg|1997|Reference year 1997|317||4792146||23.9||37.4||59.8||78.8||260.2|
+01000US|United States|1|United States|31|Manufacturing|32613|Laminated plastics plate, sheet, & shape mfg|1997|Reference year 1997|438||3195293||36||53.2||74.3||87.1||523.9|
+01000US|United States|1|United States|31|Manufacturing|326130|Laminated plastics plate, sheet, & shape mfg|1997|Reference year 1997|438||3195293||36||53.2||74.3||87.1||523.9|
+01000US|United States|1|United States|31|Manufacturing|32614|Polystyrene foam product mfg|1997|Reference year 1997|379||4899240||41.4||50||65.5||82.7||665.4|
+01000US|United States|1|United States|31|Manufacturing|326140|Polystyrene foam product mfg|1997|Reference year 1997|379||4899240||41.4||50||65.5||82.7||665.4|
+01000US|United States|1|United States|31|Manufacturing|32615|Urethane & other foam product (except polystyrene) mfg|1997|Reference year 1997|447||6664656||32.3||43.5||62.9||78.8||403.1|
+01000US|United States|1|United States|31|Manufacturing|326150|Urethane & other foam product (except polystyrene) mfg|1997|Reference year 1997|447||6664656||32.3||43.5||62.9||78.8||403.1|
+01000US|United States|1|United States|31|Manufacturing|32616|Plastics bottle mfg|1997|Reference year 1997|245||6335218||32.7||51.8||72.9||88.2||425|
+01000US|United States|1|United States|31|Manufacturing|326160|Plastics bottle mfg|1997|Reference year 1997|245||6335218||32.7||51.8||72.9||88.2||425|
+01000US|United States|1|United States|31|Manufacturing|32619|Other plastics product mfg|1997|Reference year 1997|8077||69497829||5.1||8.2||14.4||24||15.6|
+01000US|United States|1|United States|31|Manufacturing|326191|Plastics plumbing fixture mfg|1997|Reference year 1997|539||2181207||34.9||44.6||58.8||74.8||396.2|
+01000US|United States|1|United States|31|Manufacturing|326192|Resilient floor covering mfg|1997|Reference year 1997|28||1684216||86.9||98.9||99.9||100||2983.5|
+01000US|United States|1|United States|31|Manufacturing|326199|All other plastics product mfg|1997|Reference year 1997|7522||65632406||5||8.1||13.9||23.3||14.9|
+01000US|United States|1|United States|31|Manufacturing|3262|Rubber product mfg|1997|Reference year 1997|2271||34715972||36.8||46.4||57.8||68.4||444.8|
+01000US|United States|1|United States|31|Manufacturing|32621|Tire mfg|1997|Reference year 1997|736||15699140||68.4||85.8||93||96.4||1517.8|
+01000US|United States|1|United States|31|Manufacturing|326211|Tire mfg (except retreading)|1997|Reference year 1997|110||14728525||72.4||90.8||98||99.8||1690.3|
+01000US|United States|1|United States|31|Manufacturing|326212|Tire retreading|1997|Reference year 1997|628||970615||25.5||36.5||50.1||64.5||260.6|
+01000US|United States|1|United States|31|Manufacturing|32622|Rubber & plastics hoses & belting mfg|1997|Reference year 1997|149||4025238||49.3||61.9||80.2||94.9||786.1|
+01000US|United States|1|United States|31|Manufacturing|326220|Rubber & plastics hoses & belting mfg|1997|Reference year 1997|149||4025238||49.3||61.9||80.2||94.9||786.1|
+01000US|United States|1|United States|31|Manufacturing|32629|Other rubber product mfg|1997|Reference year 1997|1408||14991594||12.1||20.4||34.4||51.6||82.5|
+01000US|United States|1|United States|31|Manufacturing|326291|Rubber product mfg for mechanical use|1997|Reference year 1997|608||6668381||19.2||28.8||45.7||67.6||166.3|
+01000US|United States|1|United States|31|Manufacturing|326299|All other rubber product mfg|1997|Reference year 1997|827||8323213||17.5||27.5||43.2||60.8||139.7|
+01000US|United States|1|United States|31|Manufacturing|327|Nonmetallic mineral product mfg|1997|Reference year 1997|11921||86464708||9.1||16.4||27.7||41.5||52.1|
+01000US|United States|1|United States|31|Manufacturing|3271|Clay product & refractory mfg|1997|Reference year 1997|1715||9107840||13.5||22.5||40.1||60.4||108.5|
+01000US|United States|1|United States|31|Manufacturing|32711|Pottery, ceramics, & plumbing fixture mfg|1997|Reference year 1997|1204||3992979||21.8||33.7||51.6||71.8||210.7|
+01000US|United States|1|United States|31|Manufacturing|327111|Vitreous china plumbing fixture & bathroom accessories mfg|1997|Reference year 1997|43||1109995||63.8||87.2||99.1||100||1456.7|
+01000US|United States|1|United States|31|Manufacturing|327112|Vitreous china, fine earthenware, & other pottery product mfg|1997|Reference year 1997|1034||1715783||24.7||35.9||54||70.9||244.8|
+01000US|United States|1|United States|31|Manufacturing|327113|Porcelain electrical supply mfg|1997|Reference year 1997|131||1167201||32.4||48.5||73.3||93.2||487.5|
+01000US|United States|1|United States|31|Manufacturing|32712|Clay building material & refractories mfg|1997|Reference year 1997|519||5114861||20.8||33.4||56||75.6||215.5|
+01000US|United States|1|United States|31|Manufacturing|327121|Brick & structural clay tile mfg|1997|Reference year 1997|127||1411833||40.4||58.3||73.9||92.2||549.9|
+01000US|United States|1|United States|31|Manufacturing|327122|Ceramic wall & floor tile mfg|1997|Reference year 1997|157||851405||58.5||75.6||91.3||97.4||1309.4|
+01000US|United States|1|United States|31|Manufacturing|327123|Other structural clay product mfg|1997|Reference year 1997|48||117376||44||68.7||95.2||100||827.2|
+01000US|United States|1|United States|31|Manufacturing|327124|Clay refractory mfg|1997|Reference year 1997|115||1115939||39.9||54.7||75.2||93.2||575.1|
+01000US|United States|1|United States|31|Manufacturing|327125|Nonclay refractory mfg|1997|Reference year 1997|91||1618308||41.2||60.5||85.9||98.1||603.3|
+01000US|United States|1|United States|31|Manufacturing|3272|Glass & glass product mfg|1997|Reference year 1997|1996||22732942||31||46.3||68.3||84.2||359|
+01000US|United States|1|United States|31|Manufacturing|32721|Glass & glass product mfg|1997|Reference year 1997|1996||22732942||31||46.3||68.3||84.2||359|
+01000US|United States|1|United States|31|Manufacturing|327211|Flat glass mfg|1997|Reference year 1997|13||2795507||77.4||99.5||100||0|N|1828.9|
+01000US|United States|1|United States|31|Manufacturing|327212|Other pressed & blown glass & glassware mfg|1997|Reference year 1997|465||6094602||48.2||68.8||90.9||96.6||760.5|
+01000US|United States|1|United States|31|Manufacturing|327213|Glass container mfg|1997|Reference year 1997|11||4198122||91.1||98||100||0|N|2959.9|
+01000US|United States|1|United States|31|Manufacturing|327215|Glass product mfg made of purchased glass|1997|Reference year 1997|1522||9644711||28.8||45.2||64.4||77.1||366.3|
+01000US|United States|1|United States|31|Manufacturing|3273|Cement & concrete product mfg|1997|Reference year 1997|5930||34591507||8.3||14.4||25||35.8||40.7|
+01000US|United States|1|United States|31|Manufacturing|32731|Cement mfg|1997|Reference year 1997|176||6531747||33.5||52||78.7||96.9||466.6|
+01000US|United States|1|United States|31|Manufacturing|327310|Cement mfg|1997|Reference year 1997|176||6531747||33.5||52||78.7||96.9||466.6|
+01000US|United States|1|United States|31|Manufacturing|32732|Ready-mix concrete mfg|1997|Reference year 1997|2888||17219886||7||11.1||20||33||29.4|
+01000US|United States|1|United States|31|Manufacturing|327320|Ready-mix concrete mfg|1997|Reference year 1997|2888||17219886||7||11.1||20||33||29.4|
+01000US|United States|1|United States|31|Manufacturing|32733|Concrete pipe, brick, & block mfg|1997|Reference year 1997|955||4852512||16.4||22||31.9||45.3||96.7|
+01000US|United States|1|United States|31|Manufacturing|327331|Concrete block & brick mfg|1997|Reference year 1997|708||2844076||12.5||17.7||28.1||43.4||69.8|
+01000US|United States|1|United States|31|Manufacturing|327332|Concrete pipe mfg|1997|Reference year 1997|264||2008436||26.4||37.3||55.4||73.9||290.6|
+01000US|United States|1|United States|31|Manufacturing|32739|Other concrete product mfg|1997|Reference year 1997|2079||5987362||10||15.8||26.7||41.8||52.6|
+01000US|United States|1|United States|31|Manufacturing|327390|Other concrete product mfg|1997|Reference year 1997|2079||5987362||10||15.8||26.7||41.8||52.6|
+01000US|United States|1|United States|31|Manufacturing|3274|Lime & gypsum product mfg|1997|Reference year 1997|230||5533623||54||65.4||81.5||95.3||1000.8|
+01000US|United States|1|United States|31|Manufacturing|32741|Lime mfg|1997|Reference year 1997|46||1168450||44.9||65.1||88.5||100||719.4|
+01000US|United States|1|United States|31|Manufacturing|327410|Lime mfg|1997|Reference year 1997|46||1168450||44.9||65.1||88.5||100||719.4|
+01000US|United States|1|United States|31|Manufacturing|32742|Gypsum product mfg|1997|Reference year 1997|185||4365173||68.4||79.1||93.4||97.9||1557.2|
+01000US|United States|1|United States|31|Manufacturing|327420|Gypsum product mfg|1997|Reference year 1997|185||4365173||68.4||79.1||93.4||97.9||1557.2|
+01000US|United States|1|United States|31|Manufacturing|3279|Other nonmetallic mineral product mfg|1997|Reference year 1997|2159||14498796||33.4||42.2||50.7||61.3||333.3|
+01000US|United States|1|United States|31|Manufacturing|32791|Abrasive product mfg|1997|Reference year 1997|319||4660043||60.4||65.3||74||84.2||1691.7|
+01000US|United States|1|United States|31|Manufacturing|327910|Abrasive product mfg|1997|Reference year 1997|319||4660043||60.4||65.3||74||84.2||1691.7|
+01000US|United States|1|United States|31|Manufacturing|32799|All other nonmetallic mineral product mfg|1997|Reference year 1997|1849||9838753||28.6||37.8||48||61.4||277.2|
+01000US|United States|1|United States|31|Manufacturing|327991|Cut stone & stone product mfg|1997|Reference year 1997|1004||1244735||19.2||23.6||33||46.3||153.2|
+01000US|United States|1|United States|31|Manufacturing|327992|Ground or treated mineral & earth mfg|1997|Reference year 1997|261||2362480||27||38||59.2||80.5||369.5|
+01000US|United States|1|United States|31|Manufacturing|327993|Mineral wool mfg|1997|Reference year 1997|201||4422507||62||75.5||86.1||95.3||1203.6|
+01000US|United States|1|United States|31|Manufacturing|327999|All other miscellaneous nonmetallic mineral product mfg|1997|Reference year 1997|404||1809031||17.5||28||47||67.1||155.2|
+01000US|United States|1|United States|31|Manufacturing|331|Primary metal mfg|1997|Reference year 1997|4076||168117728||13.8||22.3||37.3||54.1||97.4|
+01000US|United States|1|United States|31|Manufacturing|3311|Iron & steel mills & ferroalloy mfg|1997|Reference year 1997|209||58383159||31.9||51.4||73||91.8||424.7|
+01000US|United States|1|United States|31|Manufacturing|33111|Iron & steel mills & ferroalloy mfg|1997|Reference year 1997|209||58383159||31.9||51.4||73||91.8||424.7|
+01000US|United States|1|United States|31|Manufacturing|331111|Iron & steel mills|1997|Reference year 1997|191||56994468||32.7||52.7||74.8||93.6||445.3|
+01000US|United States|1|United States|31|Manufacturing|331112|Electrometallurgical ferroalloy product mfg|1997|Reference year 1997|19||1388691||60.6||82.4||100||0|N|1122.8|
+01000US|United States|1|United States|31|Manufacturing|3312|Steel product mfg from purchased steel|1997|Reference year 1997|503||18516877||16.7||25.6||40.5||62||126.6|
+01000US|United States|1|United States|31|Manufacturing|33121|Iron & steel pipes & tubes mfg from purchased steel|1997|Reference year 1997|166||7450132||19.5||29.7||51.6||81.7||199.6|
+01000US|United States|1|United States|31|Manufacturing|331210|Iron & steel pipes & tubes mfg from purchased steel|1997|Reference year 1997|166||7450132||19.5||29.7||51.6||81.7||199.6|
+01000US|United States|1|United States|31|Manufacturing|33122|Rolling & drawing of purchased steel|1997|Reference year 1997|346||11066745||24.8||35.1||54.9||76||240.4|
+01000US|United States|1|United States|31|Manufacturing|331221|Cold-rolled steel shape mfg|1997|Reference year 1997|153||6239017||44||60||80.6||96.3||630.5|
+01000US|United States|1|United States|31|Manufacturing|331222|Steel wire drawing|1997|Reference year 1997|199||4827728||21.3||35.6||56||79.7||223.2|
+01000US|United States|1|United States|31|Manufacturing|3313|Alumina & aluminum production & processing|1997|Reference year 1997|248||32550279||48||64||79.1||89.1||816.3|
+01000US|United States|1|United States|31|Manufacturing|33131|Alumina & aluminum production & processing|1997|Reference year 1997|248||32550279||48||64||79.1||89.1||816.3|
+01000US|United States|1|United States|31|Manufacturing|331311|Alumina refining|1997|Reference year 1997|5||1219057||0|D|100||0|N|0|N|0|D
+01000US|United States|1|United States|31|Manufacturing|331312|Primary aluminum production|1997|Reference year 1997|13||6224610||59.2||81.7||100||0|N|1230.6|
+01000US|United States|1|United States|31|Manufacturing|331314|Secondary smelting & alloying of aluminum|1997|Reference year 1997|87||3595436||40.7||53.7||76||94.3||629.6|
+01000US|United States|1|United States|31|Manufacturing|331315|Aluminum sheet, plate, & foil mfg|1997|Reference year 1997|41||13708307||65||85.4||97.9||100||1447|
+01000US|United States|1|United States|31|Manufacturing|331316|Aluminum extruded product mfg|1997|Reference year 1997|105||6177701||44.5||58.9||75.2||91.1||680|
+01000US|United States|1|United States|31|Manufacturing|331319|Other aluminum rolling & drawing|1997|Reference year 1997|30||1625168||62.7||79.4||98.4||100||1162.8|
+01000US|United States|1|United States|31|Manufacturing|3314|Nonferrous metal (except aluminum) production & processing|1997|Reference year 1997|698||29616370||24.3||34.7||52.8||71.8||242.6|
+01000US|United States|1|United States|31|Manufacturing|33141|Nonferrous metal (except aluminum) smelting & refining|1997|Reference year 1997|134||9530263||64.1||74.7||89.1||98.2||1178.4|
+01000US|United States|1|United States|31|Manufacturing|331411|Primary smelting & refining of copper|1997|Reference year 1997|9||6128370||94.5||0|D|100||0|N|2392.3|
+01000US|United States|1|United States|31|Manufacturing|331419|Other nonferrous metal primary smelting & refining|1997|Reference year 1997|127||3401893||32.7||49.6||77.9||96.5||431.3|
+01000US|United States|1|United States|31|Manufacturing|33142|Copper rolling, drawing, extruding, & alloying|1997|Reference year 1997|154||9800616||30||50.2||75.1||92.5||404.5|
+01000US|United States|1|United States|31|Manufacturing|331421|Copper rolling, drawing, & extruding|1997|Reference year 1997|91||7619953||37.4||62.8||88.7||99.1||598.8|
+01000US|United States|1|United States|31|Manufacturing|331422|Copper wire (except mechanical) drawing|1997|Reference year 1997|33||983284||48.5||69.7||94.7||100||851.8|
+01000US|United States|1|United States|31|Manufacturing|331423|Secondary smelting, refining, & alloying of copper|1997|Reference year 1997|34||1197379||50.5||73.4||93.1||100||986.2|
+01000US|United States|1|United States|31|Manufacturing|33149|Other nonferrous metal rolling, drawing, extruding, & alloying|1997|Reference year 1997|440||10285491||20.2||30.8||51||73||190|
+01000US|United States|1|United States|31|Manufacturing|331491|Other nonferrous metal rolling, drawing, & extruding|1997|Reference year 1997|220||7057705||28.1||43.6||66.4||86.1||325.9|
+01000US|United States|1|United States|31|Manufacturing|331492|Other nonferrous metal secondary smelting, refining, & alloying|1997|Reference year 1997|233||3227786||22||37.4||58.8||82.7||244.8|
+01000US|United States|1|United States|31|Manufacturing|3315|Foundries|1997|Reference year 1997|2521||29051043||13.4||21.1||34.9||49.4||93.6|
+01000US|United States|1|United States|31|Manufacturing|33151|Ferrous metal foundries|1997|Reference year 1997|986||17428045||18.2||30.3||48.4||66.3||176.4|
+01000US|United States|1|United States|31|Manufacturing|331511|Iron foundries|1997|Reference year 1997|602||12187267||25.1||40.1||60||76.3||292.1|
+01000US|United States|1|United States|31|Manufacturing|331512|Steel investment foundries|1997|Reference year 1997|145||2341737||46.1||61.4||77.1||90.9||795.3|
+01000US|United States|1|United States|31|Manufacturing|331513|Steel foundries (except investment)|1997|Reference year 1997|263||2899041||26.6||38.9||62.2||83.7||337.5|
+01000US|United States|1|United States|31|Manufacturing|33152|Nonferrous metal foundries|1997|Reference year 1997|1559||11622998||12.2||19.7||32.3||48.6||74.8|
+01000US|United States|1|United States|31|Manufacturing|331521|Aluminum die-casting foundries|1997|Reference year 1997|291||3843845||25.7||37.2||55.1||77||258.3|
+01000US|United States|1|United States|31|Manufacturing|331522|Nonferrous (except aluminum) die-casting foundries|1997|Reference year 1997|267||1998772||18||28.4||49.4||74.5||170.6|
+01000US|United States|1|United States|31|Manufacturing|331524|Aluminum foundries (except die-casting)|1997|Reference year 1997|592||3916527||19.3||30.9||51.6||71.4||183|
+01000US|United States|1|United States|31|Manufacturing|331525|Copper foundries (except die-casting)|1997|Reference year 1997|301||846578||13.4||23||42.7||68.3||127.7|
+01000US|United States|1|United States|31|Manufacturing|331528|Other nonferrous foundries (except die-casting)|1997|Reference year 1997|136||1017276||71.2||78.3||88.5||96.8||2147.9|
+01000US|United States|1|United States|31|Manufacturing|332|Fabricated metal product mfg|1997|Reference year 1997|58516||242813453||3.5||5.8||10.9||18||8.5|
+01000US|United States|1|United States|31|Manufacturing|3321|Forging & stamping|1997|Reference year 1997|3026||24375589||7.9||12||19.4||30.5||29.2|
+01000US|United States|1|United States|31|Manufacturing|33211|Forging & stamping|1997|Reference year 1997|3026||24375589||7.9||12||19.4||30.5||29.2|
+01000US|United States|1|United States|31|Manufacturing|332111|Iron & steel forging|1997|Reference year 1997|390||4869727||24.2||33.5||50.6||72.9||237.4|
+01000US|United States|1|United States|31|Manufacturing|332112|Nonferrous forging|1997|Reference year 1997|75||1838385||47.4||65.8||88.2||99.1||990.5|
+01000US|United States|1|United States|31|Manufacturing|332114|Custom roll forming|1997|Reference year 1997|360||3301907||28.4||37.7||54.8||73.1||387.5|
+01000US|United States|1|United States|31|Manufacturing|332115|Crown & closure mfg|1997|Reference year 1997|55||953864||58.2||77.9||93.2||99.9||1119.7|
+01000US|United States|1|United States|31|Manufacturing|332116|Metal stamping|1997|Reference year 1997|2051||12078985||7.6||11.3||18.1||29.3||27.7|
+01000US|United States|1|United States|31|Manufacturing|332117|Powder metallurgy part mfg|1997|Reference year 1997|114||1332721||28.7||45.1||68.3||90.9||355.4|
+01000US|United States|1|United States|31|Manufacturing|3322|Cutlery & handtool mfg|1997|Reference year 1997|1545||11475344||18.3||28.2||45.3||64||157|
+01000US|United States|1|United States|31|Manufacturing|332211|Cutlery & flatware (except precious) mfg|1997|Reference year 1997|163||2013256||64.6||75.2||88.1||96.7||1990.3|
+01000US|United States|1|United States|31|Manufacturing|332212|Hand & edge tool mfg|1997|Reference year 1997|1164||6713485||21.4||31.3||48.6||66.2||182|
+01000US|United States|1|United States|31|Manufacturing|332213|Saw blade & handsaw mfg|1997|Reference year 1997|166||1447890||39.6||53.6||79.6||93.7||609.4|
+01000US|United States|1|United States|31|Manufacturing|332214|Kitchen utensil, pot, & pan mfg|1997|Reference year 1997|69||1300713||57.8||80.7||93||99.6||1203.3|
+01000US|United States|1|United States|31|Manufacturing|3323|Architectural & structural metals mfg|1997|Reference year 1997|11649||53547213||4.4||7.4||14.2||23.4||14.5|
+01000US|United States|1|United States|31|Manufacturing|33231|Plate work & fabricated structural product mfg|1997|Reference year 1997|4423||23574845||8.9||13.7||22.4||34.1||41.1|
+01000US|United States|1|United States|31|Manufacturing|332312|Fabricated structural metal mfg|1997|Reference year 1997|2872||16115143||11||15.4||25||36.9||57.4|
+01000US|United States|1|United States|31|Manufacturing|332313|Plate work mfg|1997|Reference year 1997|1011||2773148||7.4||12.5||24.2||40.7||41.8|
+01000US|United States|1|United States|31|Manufacturing|33232|Ornamental & architectural metal products mfg|1997|Reference year 1997|7275||29972368||5.3||9.3||16.3||27.7||19.6|
+01000US|United States|1|United States|31|Manufacturing|332321|Metal window & door mfg|1997|Reference year 1997|1249||10209522||14.5||24.7||41||59.9||115.4|
+01000US|United States|1|United States|31|Manufacturing|332322|Sheet metal work mfg|1997|Reference year 1997|4202||15584570||4.1||7.5||15.4||25.4||15.8|
+01000US|United States|1|United States|31|Manufacturing|332323|Ornamental & architectural metal work mfg|1997|Reference year 1997|1845||4178276||12.2||20.5||32.1||45.2||73.7|
+01000US|United States|1|United States|31|Manufacturing|3324|Boiler, tank, & shipping container mfg|1997|Reference year 1997|1526||22714389||30.4||46||57.1||68.1||338.9|
+01000US|United States|1|United States|31|Manufacturing|332410|Power boiler & heat exchanger mfg|1997|Reference year 1997|436||3867379||16.9||25.5||42||64.3||140.4|
+01000US|United States|1|United States|31|Manufacturing|33242|Metal tank (heavy gauge) mfg|1997|Reference year 1997|552||4703647||16.6||27.1||42.7||59.6||132.4|
+01000US|United States|1|United States|31|Manufacturing|332420|Metal tank (heavy gauge) mfg|1997|Reference year 1997|552||4703647||16.6||27.1||42.7||59.6||132.4|
+01000US|United States|1|United States|31|Manufacturing|33243|Metal can, box, & other metal container (light gauge) mfg|1997|Reference year 1997|557||14143363||48.9||73.8||84.4||91.6||846.7|
+01000US|United States|1|United States|31|Manufacturing|332431|Metal can mfg|1997|Reference year 1997|107||11930448||57.9||87.1||96.8||99.5||1180.2|
+01000US|United States|1|United States|31|Manufacturing|332439|Other metal container mfg|1997|Reference year 1997|455||2212915||20.8||30.9||49.6||71.2||194.3|
+01000US|United States|1|United States|31|Manufacturing|33251|Hardware mfg|1997|Reference year 1997|906||11061736||17.4||27.7||47.4||68.6||154.6|
+01000US|United States|1|United States|31|Manufacturing|332510|Hardware mfg|1997|Reference year 1997|906||11061736||17.4||27.7||47.4||68.6||154.6|
+01000US|United States|1|United States|31|Manufacturing|3326|Spring & wire product mfg|1997|Reference year 1997|1646||8533707||14.6||20.4||31||43.9||103.1|
+01000US|United States|1|United States|31|Manufacturing|33261|Spring & wire product mfg|1997|Reference year 1997|1646||8533707||14.6||20.4||31||43.9||103.1|
+01000US|United States|1|United States|31|Manufacturing|332611|Spring (heavy gauge) mfg|1997|Reference year 1997|124||845199||31.7||49.5||72.2||92.8||404.9|
+01000US|United States|1|United States|31|Manufacturing|332612|Spring (light gauge) mfg|1997|Reference year 1997|320||2481151||38.7||49.4||63.7||78.9||677.9|
+01000US|United States|1|United States|31|Manufacturing|332618|Other fabricated wire product mfg|1997|Reference year 1997|1213||5207357||11.8||18.3||29.1||44.6||66.8|
+01000US|United States|1|United States|31|Manufacturing|3327|Machine shops, turned product, & screw, nut, & bolt mfg|1997|Reference year 1997|26999||43362901||3.8||5.4||8.6||13.3||6.4|
+01000US|United States|1|United States|31|Manufacturing|33271|Machine shops|1997|Reference year 1997|23430||26850065||1.6||2.7||4.9||8.7||1.9|
+01000US|United States|1|United States|31|Manufacturing|332710|Machine shops|1997|Reference year 1997|23430||26850065||1.6||2.7||4.9||8.7||1.9|
+01000US|United States|1|United States|31|Manufacturing|33272|Turned product & screw, nut, & bolt mfg|1997|Reference year 1997|3593||16512836||9.4||13.7||21.3||31.9||40.2|
+01000US|United States|1|United States|31|Manufacturing|332721|Precision turned product mfg|1997|Reference year 1997|2696||8304805||3.6||6.7||13.3||23.9||13.2|
+01000US|United States|1|United States|31|Manufacturing|332722|Bolt, nut, screw, rivet, & washer mfg|1997|Reference year 1997|913||8208031||19||27.5||41.4||58.1||153.1|
+01000US|United States|1|United States|31|Manufacturing|3328|Coating, engraving, heat treating, & allied activities|1997|Reference year 1997|5885||17956236||10.2||15.6||24.7||36||46.2|
+01000US|United States|1|United States|31|Manufacturing|33281|Coating, engraving, heat treating, & allied activities|1997|Reference year 1997|5885||17956236||10.2||15.6||24.7||36||46.2|
+01000US|United States|1|United States|31|Manufacturing|332811|Metal heat treating|1997|Reference year 1997|662||3442317||23.7||35.6||50.1||64.6||239.6|
+01000US|United States|1|United States|31|Manufacturing|332812|Metal coating/engraving (exc jewelry/silverware)/allied services|1997|Reference year 1997|1978||8515488||21.4||30.5||46.1||58.7||164.8|
+01000US|United States|1|United States|31|Manufacturing|332813|Electroplating, plating, polishing, anodizing, & coloring|1997|Reference year 1997|3286||5998431||4.6||8.3||14.9||25.1||16.1|
+01000US|United States|1|United States|31|Manufacturing|3329|Other fabricated metal product mfg|1997|Reference year 1997|6040||49786338||9.8||16.3||29.2||43.8||57.2|
+01000US|United States|1|United States|31|Manufacturing|33291|Metal valve mfg|1997|Reference year 1997|1077||21983284||18.1||28.5||43.4||61.4||144|
+01000US|United States|1|United States|31|Manufacturing|332911|Industrial valve mfg|1997|Reference year 1997|429||8965193||27.5||37.5||56.5||75.5||323.2|
+01000US|United States|1|United States|31|Manufacturing|332912|Fluid power valve & hose fitting mfg|1997|Reference year 1997|360||6594554||40.3||53.4||70.3||85.8||529.6|
+01000US|United States|1|United States|31|Manufacturing|332913|Plumbing fixture fitting & trim mfg|1997|Reference year 1997|97||3616737||44.6||57.6||77.9||95.7||783.3|
+01000US|United States|1|United States|31|Manufacturing|332919|Other metal valve & pipe fitting mfg|1997|Reference year 1997|220||2806800||22.9||35.5||60.2||81.9||249.6|
+01000US|United States|1|United States|31|Manufacturing|33299|All other fabricated metal product mfg|1997|Reference year 1997|5011||27803054||11.8||18.5||31.7||45.9||73.6|
+01000US|United States|1|United States|31|Manufacturing|332991|Ball & roller bearing mfg|1997|Reference year 1997|116||6093840||49.4||66.3||89.5||98.6||887.3|
+01000US|United States|1|United States|31|Manufacturing|332992|Small arms ammunition mfg|1997|Reference year 1997|107||976944||88.9||93.8||97.5||99.4||0|D
+01000US|United States|1|United States|31|Manufacturing|332993|Ammunition (except small arms) mfg|1997|Reference year 1997|45||1471101||66.5||84.5||98.7||100||1782.9|
+01000US|United States|1|United States|31|Manufacturing|332994|Small arms mfg|1997|Reference year 1997|189||1248048||41.5||64.9||87.5||94.6||663.2|
+01000US|United States|1|United States|31|Manufacturing|332995|Other ordnance & accessories mfg|1997|Reference year 1997|65||1362401||78.3||88.6||95.9||99.8||1935.8|
+01000US|United States|1|United States|31|Manufacturing|332996|Fabricated pipe & pipe fitting mfg|1997|Reference year 1997|806||4118699||18.6||26.1||38.8||55.5||130.9|
+01000US|United States|1|United States|31|Manufacturing|332997|Industrial pattern mfg|1997|Reference year 1997|668||623605||11||17.5||30.2||48||66.8|
+01000US|United States|1|United States|31|Manufacturing|332998|Enameled iron & metal sanitary ware mfg|1997|Reference year 1997|82||1553730||54.1||74.1||93.8||99.4||1301|
+01000US|United States|1|United States|31|Manufacturing|332999|All other miscellaneous fabricated metal product mfg|1997|Reference year 1997|2955||10354686||11.8||17.1||26||40.1||60.2|
+01000US|United States|1|United States|31|Manufacturing|333|Machinery mfg|1997|Reference year 1997|27983||270687165||11.5||15.6||23.9||34.3||55.4|
+01000US|United States|1|United States|31|Manufacturing|3331|Agriculture, construction, & mining machinery mfg|1997|Reference year 1997|2832||54181573||37.8||45.7||57.2||69.3||572.5|
+01000US|United States|1|United States|31|Manufacturing|33311|Agricultural implement mfg|1997|Reference year 1997|1386||23371367||50||60.1||71.1||81.8||1246.1|
+01000US|United States|1|United States|31|Manufacturing|333111|Farm machinery & equipment mfg|1997|Reference year 1997|1264||15995219||53.2||60.4||70.5||80.1||1707.2|
+01000US|United States|1|United States|31|Manufacturing|333112|Lawn & garden tractor & home lawn & garden equipment mfg|1997|Reference year 1997|127||7376148||64.4||80.3||94.3||98.8||1171.7|
+01000US|United States|1|United States|31|Manufacturing|33312|Construction machinery mfg|1997|Reference year 1997|723||22117440||49.6||59.5||72.6||84.6||1020.3|
+01000US|United States|1|United States|31|Manufacturing|333120|Construction machinery mfg|1997|Reference year 1997|723||22117440||49.6||59.5||72.6||84.6||1020.3|
+01000US|United States|1|United States|31|Manufacturing|33313|Mining & oil & gas field machinery mfg|1997|Reference year 1997|748||8692766||23.6||36.7||57.7||75.2||245.8|
+01000US|United States|1|United States|31|Manufacturing|333131|Mining machinery & equipment mfg|1997|Reference year 1997|261||2705885||36.4||50.9||69.9||86.1||515.5|
+01000US|United States|1|United States|31|Manufacturing|333132|Oil & gas field machinery & equipment mfg|1997|Reference year 1997|494||5986881||30.5||46.2||68.5||83.4||391.7|
+01000US|United States|1|United States|31|Manufacturing|3332|Industrial machinery mfg|1997|Reference year 1997|4439||36658714||13.5||18.7||29.1||41.9||89.4|
+01000US|United States|1|United States|31|Manufacturing|33321|Sawmill & woodworking machinery mfg|1997|Reference year 1997|312||1296200||30||43.2||62.9||81.2||344.8|
+01000US|United States|1|United States|31|Manufacturing|333210|Sawmill & woodworking machinery mfg|1997|Reference year 1997|312||1296200||30||43.2||62.9||81.2||344.8|
+01000US|United States|1|United States|31|Manufacturing|33322|Plastics & rubber industry machinery mfg|1997|Reference year 1997|427||3570320||30.2||41.5||57.2||76.5||373.9|
+01000US|United States|1|United States|31|Manufacturing|333220|Plastics & rubber industry machinery mfg|1997|Reference year 1997|427||3570320||30.2||41.5||57.2||76.5||373.9|
+01000US|United States|1|United States|31|Manufacturing|33329|Other industrial machinery mfg|1997|Reference year 1997|3713||31792194||15.4||21.4||32.5||45.8||114.9|
+01000US|United States|1|United States|31|Manufacturing|333291|Paper industry machinery mfg|1997|Reference year 1997|330||3386920||37.2||53.1||69.5||83.4||490.3|
+01000US|United States|1|United States|31|Manufacturing|333292|Textile machinery mfg|1997|Reference year 1997|454||1766419||24.4||36.4||53.8||72||269.3|
+01000US|United States|1|United States|31|Manufacturing|333293|Printing machinery & equipment mfg|1997|Reference year 1997|504||3786716||29.6||41.5||59.2||75.8||326.8|
+01000US|United States|1|United States|31|Manufacturing|333294|Food product machinery mfg|1997|Reference year 1997|573||2857928||19.1||27.1||41||60||139.8|
+01000US|United States|1|United States|31|Manufacturing|333295|Semiconductor machinery mfg|1997|Reference year 1997|244||11162764||43.5||59.4||77.2||91.4||818.4|
+01000US|United States|1|United States|31|Manufacturing|333298|All other industrial machinery mfg|1997|Reference year 1997|1634||8831447||10.6||16.6||27.8||43.3||57.5|
+01000US|United States|1|United States|31|Manufacturing|3333|Commercial & service industry machinery mfg|1997|Reference year 1997|2492||26009857||30.2||35.7||45.8||58.8||401.5|
+01000US|United States|1|United States|31|Manufacturing|33331|Commercial & service industry machinery mfg|1997|Reference year 1997|2492||26009857||30.2||35.7||45.8||58.8||401.5|
+01000US|United States|1|United States|31|Manufacturing|333311|Automatic vending machine mfg|1997|Reference year 1997|117||1327998||67.9||84.1||92.3||97.5||1484.3|
+01000US|United States|1|United States|31|Manufacturing|333312|Commercial laundry, drycleaning, & pressing machine mfg|1997|Reference year 1997|63||604939||44.7||65.4||92||99.7||779|
+01000US|United States|1|United States|31|Manufacturing|333313|Office machinery mfg|1997|Reference year 1997|158||3162823||53||68.2||81.2||93.5||1208.3|
+01000US|United States|1|United States|31|Manufacturing|333314|Optical instrument & lens mfg|1997|Reference year 1997|482||3139837||25.4||38.4||56.1||74.7||263.2|
+01000US|United States|1|United States|31|Manufacturing|333315|Photographic & photocopying equipment mfg|1997|Reference year 1997|412||8290986||80.9||85||90.6||94.5||0|D
+01000US|United States|1|United States|31|Manufacturing|333319|Other commercial & service industry machinery mfg|1997|Reference year 1997|1274||9483274||14||21.9||36.7||54.6||95.3|
+01000US|United States|1|United States|31|Manufacturing|3334|Ventilation, heating, AC, & commercial refrigeration equip mfg|1997|Reference year 1997|1563||30791331||29.7||39.8||54.9||67.3||283.3|
+01000US|United States|1|United States|31|Manufacturing|33341|Ventilation, heating, AC, & commercial refrigeration equip mfg|1997|Reference year 1997|1563||30791331||29.7||39.8||54.9||67.3||283.3|
+01000US|United States|1|United States|31|Manufacturing|333411|Air purification equipment mfg|1997|Reference year 1997|333||2218051||21.3||33.3||53.8||75.1||207.5|
+01000US|United States|1|United States|31|Manufacturing|333412|Industrial & commercial fan & blower mfg|1997|Reference year 1997|173||1899077||22.5||38.4||64.4||87.2||276.4|
+01000US|United States|1|United States|31|Manufacturing|333414|Heating equipment (except warm air furnaces) mfg|1997|Reference year 1997|441||3707615||20.2||31||49.8||72.6||182.9|
+01000US|United States|1|United States|31|Manufacturing|333415|AC & warm air heating & commercial/industrial refrig equip mfg|1997|Reference year 1997|646||22966588||39.2||52.6||71.6||83.5||491|
+01000US|United States|1|United States|31|Manufacturing|3335|Metalworking machinery mfg|1997|Reference year 1997|10000||30417553||7.3||10.7||16.8||26.1||23.2|
+01000US|United States|1|United States|31|Manufacturing|33351|Metalworking machinery mfg|1997|Reference year 1997|10000||30417553||7.3||10.7||16.8||26.1||23.2|
+01000US|United States|1|United States|31|Manufacturing|333511|Industrial mold mfg|1997|Reference year 1997|2475||5087422||6.6||9.8||16.8||26.7||22.4|
+01000US|United States|1|United States|31|Manufacturing|333512|Machine tool (metal cutting types) mfg|1997|Reference year 1997|368||5331245||24.7||40.7||59.2||75.5||267.2|
+01000US|United States|1|United States|31|Manufacturing|333513|Machine tool (metal forming types) mfg|1997|Reference year 1997|219||2247954||21.2||33.8||54.6||74.7||208.7|
+01000US|United States|1|United States|31|Manufacturing|333514|Special die & tool, die set, jig, & fixture mfg|1997|Reference year 1997|4667||8237755||5.5||8.4||14.6||24||16.5|
+01000US|United States|1|United States|31|Manufacturing|333515|Cutting tool & machine tool accessory mfg|1997|Reference year 1997|1820||5379842||21.6||27.9||40||54||206.4|
+01000US|United States|1|United States|31|Manufacturing|333516|Rolling mill machinery & equipment mfg|1997|Reference year 1997|98||700084||53||72.7||87||97||908.1|
+01000US|United States|1|United States|31|Manufacturing|333518|Other metalworking machinery mfg|1997|Reference year 1997|446||3433251||17.2||27.4||43.9||64.7||140.7|
+01000US|United States|1|United States|31|Manufacturing|3336|Engine, turbine, & power transmission equipment mfg|1997|Reference year 1997|789||30508866||42.5||57.8||73.1||85.8||596.2|
+01000US|United States|1|United States|31|Manufacturing|33361|Engine, turbine, & power transmission equipment mfg|1997|Reference year 1997|789||30508866||42.5||57.8||73.1||85.8||596.2|
+01000US|United States|1|United States|31|Manufacturing|333611|Turbine & turbine generator set unit mfg|1997|Reference year 1997|68||5854113||78.2||90.1||97.4||99.9||2390.1|
+01000US|United States|1|United States|31|Manufacturing|333612|Speed changer, industrial high-speed drive, & gear mfg|1997|Reference year 1997|237||2391269||29||45.7||68.6||83.6||345.2|
+01000US|United States|1|United States|31|Manufacturing|333613|Mechanical power transmission equipment mfg|1997|Reference year 1997|259||3252399||26.1||41.6||64.6||86.6||303.4|
+01000US|United States|1|United States|31|Manufacturing|333618|Other engine equipment mfg|1997|Reference year 1997|245||19011085||55.8||76||90.1||97||1019.1|
+01000US|United States|1|United States|31|Manufacturing|3339|Other general-purpose machinery mfg|1997|Reference year 1997|6347||62119271||6.4||11.4||22.1||36.6||33.6|
+01000US|United States|1|United States|31|Manufacturing|33391|Pump & compressor mfg|1997|Reference year 1997|723||13683351||19.2||29.8||49.4||72.5||176.8|
+01000US|United States|1|United States|31|Manufacturing|333911|Pump & pumping equipment mfg|1997|Reference year 1997|406||6735133||24.3||37.5||58.5||82||267.2|
+01000US|United States|1|United States|31|Manufacturing|333912|Air & gas compressor mfg|1997|Reference year 1997|269||5651176||30.9||46.6||71.1||90.4||382.8|
+01000US|United States|1|United States|31|Manufacturing|333913|Measuring & dispensing pump mfg|1997|Reference year 1997|63||1297042||65.6||81.6||94.5||99.6||1581.3|
+01000US|United States|1|United States|31|Manufacturing|33392|Material handling equipment mfg|1997|Reference year 1997|1741||16646105||14.1||23.1||39.1||53.6||103.8|
+01000US|United States|1|United States|31|Manufacturing|333921|Elevator & moving stairway mfg|1997|Reference year 1997|178||1607066||52.7||65.6||77.9||90.5||846.7|
+01000US|United States|1|United States|31|Manufacturing|333922|Conveyor & conveying equipment mfg|1997|Reference year 1997|864||6364898||17.6||23.5||36.1||52.2||114.4|
+01000US|United States|1|United States|31|Manufacturing|333923|Overhead traveling crane, hoist, & monorail system mfg|1997|Reference year 1997|283||3135815||35.7||51||70.5||85.6||477.3|
+01000US|United States|1|United States|31|Manufacturing|333924|Industrial truck, tractor, trailer, & stacker machinery mfg|1997|Reference year 1997|435||5538326||38.5||52.3||67.4||80.2||503|
+01000US|United States|1|United States|31|Manufacturing|33399|All other general-purpose machinery mfg|1997|Reference year 1997|3938||31789815||11||17.6||29.5||44.3||62.5|
+01000US|United States|1|United States|31|Manufacturing|333991|Power-driven handtool mfg|1997|Reference year 1997|198||3609779||47||68.7||89.5||96.2||816.6|
+01000US|United States|1|United States|31|Manufacturing|333992|Welding & soldering equipment mfg|1997|Reference year 1997|218||4444978||53.4||64.8||77.7||89.9||1000.8|
+01000US|United States|1|United States|31|Manufacturing|333993|Packaging machinery mfg|1997|Reference year 1997|644||4900477||16.6||26.2||44.3||63.1||145.3|
+01000US|United States|1|United States|31|Manufacturing|333994|Industrial process furnace & oven mfg|1997|Reference year 1997|378||2869912||22.3||33.3||52.1||71.5||217|
+01000US|United States|1|United States|31|Manufacturing|333995|Fluid power cylinder & actuator mfg|1997|Reference year 1997|282||3542331||44.2||53.9||70.7||87.4||697.2|
+01000US|United States|1|United States|31|Manufacturing|333996|Fluid power pump & motor mfg|1997|Reference year 1997|149||2811223||48.7||73.2||89.1||96.1||819|
+01000US|United States|1|United States|31|Manufacturing|333997|Scale & balance (except laboratory) mfg|1997|Reference year 1997|110||682181||57.2||67||81.9||94.9||1136.9|
+01000US|United States|1|United States|31|Manufacturing|333999|All other miscellaneous general-purpose machinery mfg|1997|Reference year 1997|2005||8928934||11.7||18.1||30.6||47.1||70.7|
+01000US|United States|1|United States|31|Manufacturing|334|Computer & electronic product mfg|1997|Reference year 1997|15492||439381300||19.1||28.1||41.1||55||136.6|
+01000US|United States|1|United States|31|Manufacturing|3341|Computer & peripheral equipment mfg|1997|Reference year 1997|1870||110054987||37||52.1||72.8||86.3||464.9|
+01000US|United States|1|United States|31|Manufacturing|33411|Computer & peripheral equipment mfg|1997|Reference year 1997|1870||110054987||37||52.1||72.8||86.3||464.9|
+01000US|United States|1|United States|31|Manufacturing|334111|Electronic computer mfg|1997|Reference year 1997|531||66301810||45.4||68.5||91.4||97.2||727.9|
+01000US|United States|1|United States|31|Manufacturing|334112|Computer storage device mfg|1997|Reference year 1997|203||15354924||53.1||77.1||92.9||98.1||1015.8|
+01000US|United States|1|United States|31|Manufacturing|334113|Computer terminal mfg|1997|Reference year 1997|141||1486965||39.4||64.5||87.2||96.5||645.4|
+01000US|United States|1|United States|31|Manufacturing|334119|Other computer peripheral equipment mfg|1997|Reference year 1997|1015||26911288||45.3||60.2||73||85.4||659.7|
+01000US|United States|1|United States|31|Manufacturing|3342|Communications equipment mfg|1997|Reference year 1997|2078||82852421||36.5||49.3||63.7||75.8||449|
+01000US|United States|1|United States|31|Manufacturing|33421|Telephone apparatus mfg|1997|Reference year 1997|548||38375534||54.4||66.5||78.5||88.2||999.4|
+01000US|United States|1|United States|31|Manufacturing|334210|Telephone apparatus mfg|1997|Reference year 1997|548||38375534||54.4||66.5||78.5||88.2||999.4|
+01000US|United States|1|United States|31|Manufacturing|33422|Radio & TV broadcasting & wireless communications equipment mfg|1997|Reference year 1997|1096||40373077||48.9||59.2||71.1||81.6||971.9|
+01000US|United States|1|United States|31|Manufacturing|334220|Radio & TV broadcasting & wireless communications equipment mfg|1997|Reference year 1997|1096||40373077||48.9||59.2||71.1||81.6||971.9|
+01000US|United States|1|United States|31|Manufacturing|33429|Other communications equipment mfg|1997|Reference year 1997|461||4103810||38.1||50.2||68.6||84.9||526|
+01000US|United States|1|United States|31|Manufacturing|334290|Other communications equipment mfg|1997|Reference year 1997|461||4103810||38.1||50.2||68.6||84.9||526|
+01000US|United States|1|United States|31|Manufacturing|3343|Audio & video equipment mfg|1997|Reference year 1997|521||8226685||29.8||52.4||74.6||87.8||414.7|
+01000US|United States|1|United States|31|Manufacturing|33431|Audio & video equipment mfg|1997|Reference year 1997|521||8226685||29.8||52.4||74.6||87.8||414.7|
+01000US|United States|1|United States|31|Manufacturing|334310|Audio & video equipment mfg|1997|Reference year 1997|521||8226685||29.8||52.4||74.6||87.8||414.7|
+01000US|United States|1|United States|31|Manufacturing|3344|Semiconductor & other electronic component mfg|1997|Reference year 1997|5652||139083873||34.3||42.8||54.2||65.5||413.7|
+01000US|United States|1|United States|31|Manufacturing|33441|Semiconductor & other electronic component mfg|1997|Reference year 1997|5652||139083873||34.3||42.8||54.2||65.5||413.7|
+01000US|United States|1|United States|31|Manufacturing|334411|Electron tube mfg|1997|Reference year 1997|147||3789948||57.3||80.2||91.5||98.1||1183.4|
+01000US|United States|1|United States|31|Manufacturing|334412|Bare printed circuit board mfg|1997|Reference year 1997|1319||8507125||16.3||24.7||39.3||58.1||117.4|
+01000US|United States|1|United States|31|Manufacturing|334413|Semiconductor & related device mfg|1997|Reference year 1997|993||78479496||52.5||64||78||88.5||1080.1|
+01000US|United States|1|United States|31|Manufacturing|334414|Electronic capacitor mfg|1997|Reference year 1997|112||2560984||61.1||74.9||88.2||97.3||1086.3|
+01000US|United States|1|United States|31|Manufacturing|334415|Electronic resistor mfg|1997|Reference year 1997|90||1240008||42.6||59.1||82.3||97||719.4|
+01000US|United States|1|United States|31|Manufacturing|334416|Electronic coil, transformer, & other inductor mfg|1997|Reference year 1997|426||1524064||13.5||21.8||38.6||57.3||102.9|
+01000US|United States|1|United States|31|Manufacturing|334417|Electronic connector mfg|1997|Reference year 1997|281||5550540||50.7||62||76.1||88.3||1356.2|
+01000US|United States|1|United States|31|Manufacturing|334418|Printed circuit assembly (electronic assembly) mfg|1997|Reference year 1997|673||27103573||40.6||53||67||79.4||605|
+01000US|United States|1|United States|31|Manufacturing|334419|Other electronic component mfg|1997|Reference year 1997|1781||10328135||7.8||13.6||25.5||42.6||46.4|
+01000US|United States|1|United States|31|Manufacturing|3345|Navigational, measuring, medical, & control instruments mfg|1997|Reference year 1997|4845||89465709||24.1||33.2||47.4||61||207.5|
+01000US|United States|1|United States|31|Manufacturing|33451|Navigational, measuring, medical, & control instruments mfg|1997|Reference year 1997|4845||89465709||24.1||33.2||47.4||61||207.5|
+01000US|United States|1|United States|31|Manufacturing|334510|Electromedical & electrotherapeutic apparatus mfg|1997|Reference year 1997|490||11581624||22.7||37.7||60||82||250.3|
+01000US|United States|1|United States|31|Manufacturing|334511|Search, detection, navigation, & guidance instrument mfg|1997|Reference year 1997|579||32661495||56.7||75||87.7||94.6||1144.6|
+01000US|United States|1|United States|31|Manufacturing|334512|Automatic environmental control mfg|1997|Reference year 1997|297||2943971||52.8||64.3||77.6||87.6||918.6|
+01000US|United States|1|United States|31|Manufacturing|334513|Industrial process control instrument mfg|1997|Reference year 1997|919||7662564||30.8||39.1||53||66.5||317.4|
+01000US|United States|1|United States|31|Manufacturing|334514|Totalizing fluid meter & counting device mfg|1997|Reference year 1997|210||3716095||53.2||68.2||86.4||94.4||1250.6|
+01000US|United States|1|United States|31|Manufacturing|334515|Electricity measuring & testing instrument mfg|1997|Reference year 1997|762||14025050||42.7||53.7||65.7||79.5||632.7|
+01000US|United States|1|United States|31|Manufacturing|334516|Analytical laboratory instrument mfg|1997|Reference year 1997|637||6899852||33.6||48.3||64||77.3||387|
+01000US|United States|1|United States|31|Manufacturing|334517|Irradiation apparatus mfg|1997|Reference year 1997|134||3970454||58.3||77.4||91.4||97.3||1190.1|
+01000US|United States|1|United States|31|Manufacturing|334518|Watch, clock, & part mfg|1997|Reference year 1997|145||921827||48.1||62.7||86.9||96.9||750.2|
+01000US|United States|1|United States|31|Manufacturing|334519|Other measuring & controlling device mfg|1997|Reference year 1997|826||5082777||16||25.6||40||57.7||117.5|
+01000US|United States|1|United States|31|Manufacturing|3346|Mfg & reproducing magnetic & optical media|1997|Reference year 1997|843||9697625||25.2||41.1||65.3||81.8||294.1|
+01000US|United States|1|United States|31|Manufacturing|33461|Mfg & reproducing magnetic & optical media|1997|Reference year 1997|843||9697625||25.2||41.1||65.3||81.8||294.1|
+01000US|United States|1|United States|31|Manufacturing|334611|Software reproducing|1997|Reference year 1997|112||1209207||65.3||75.2||87.1||96.6||0|D
+01000US|United States|1|United States|31|Manufacturing|334612|Prerecorded CD (except software), tape, & record reproducing|1997|Reference year 1997|492||3809652||39.3||56||73.8||85.3||539.4|
+01000US|United States|1|United States|31|Manufacturing|334613|Magnetic & optical recording media mfg|1997|Reference year 1997|241||4678766||37.9||59.4||87||95.9||585.7|
+01000US|United States|1|United States|31|Manufacturing|335|Electrical equipment, appliance, & component mfg|1997|Reference year 1997|5839||112116267||14.8||23.2||36.8||51||105.9|
+01000US|United States|1|United States|31|Manufacturing|3351|Electric lighting equipment mfg|1997|Reference year 1997|1211||12710091||35.3||49.2||61.4||71.9||396.4|
+01000US|United States|1|United States|31|Manufacturing|33511|Electric lamp bulb & part mfg|1997|Reference year 1997|54||3306009||88.9||94.3||98.6||99.9||2849|
+01000US|United States|1|United States|31|Manufacturing|335110|Electric lamp bulb & part mfg|1997|Reference year 1997|54||3306009||88.9||94.3||98.6||99.9||2849|
+01000US|United States|1|United States|31|Manufacturing|33512|Lighting fixture mfg|1997|Reference year 1997|1160||9404082||28.6||39.6||52.6||65.6||272.8|
+01000US|United States|1|United States|31|Manufacturing|335121|Residential electric lighting fixture mfg|1997|Reference year 1997|543||2255251||24.5||36.5||55.8||73.6||266.3|
+01000US|United States|1|United States|31|Manufacturing|335122|Commercial/industrial/institutional electric lighting fixture mfg|1997|Reference year 1997|326||4101442||43.5||59.4||71.2||83.3||666.4|
+01000US|United States|1|United States|31|Manufacturing|335129|Other lighting equipment mfg|1997|Reference year 1997|310||3047389||25.1||38.2||59.7||80.9||262.1|
+01000US|United States|1|United States|31|Manufacturing|3352|Household appliance mfg|1997|Reference year 1997|265||21394445||53.6||65||80.1||95.3||816.2|
+01000US|United States|1|United States|31|Manufacturing|33521|Small electrical appliance mfg|1997|Reference year 1997|144||5907367||35||53.3||85.1||98.2||510.4|
+01000US|United States|1|United States|31|Manufacturing|335211|Electric housewares & household fan mfg|1997|Reference year 1997|119||3532813||43.1||65.1||92.6||98.7||777.5|
+01000US|United States|1|United States|31|Manufacturing|335212|Household vacuum cleaner mfg|1997|Reference year 1997|25||2374554||68.5||92.4||99.9||100||1437.9|
+01000US|United States|1|United States|31|Manufacturing|33522|Major appliance mfg|1997|Reference year 1997|126||15487078||66.6||78.5||93.7||99.1||1276.3|
+01000US|United States|1|United States|31|Manufacturing|335221|Household cooking appliance mfg|1997|Reference year 1997|77||3520635||58.1||78.3||94.8||99.8||1083.2|
+01000US|United States|1|United States|31|Manufacturing|335222|Household refrigerator & home freezer mfg|1997|Reference year 1997|21||4887364||81.5||97||0|D|100||2025.1|
+01000US|United States|1|United States|31|Manufacturing|335224|Household laundry equipment mfg|1997|Reference year 1997|10||3847002||90.4||0|D|100||0|N|2870.3|
+01000US|United States|1|United States|31|Manufacturing|335228|Other major household appliance mfg|1997|Reference year 1997|32||3232077||56.6||86.2||99.5||100||1086.8|
+01000US|United States|1|United States|31|Manufacturing|3353|Electrical equipment mfg|1997|Reference year 1997|2517||36233634||25.7||40.2||55.5||68||255.5|
+01000US|United States|1|United States|31|Manufacturing|33531|Electrical equipment mfg|1997|Reference year 1997|2517||36233634||25.7||40.2||55.5||68||255.5|
+01000US|United States|1|United States|31|Manufacturing|335311|Power, distribution, & specialty transformer mfg|1997|Reference year 1997|275||4743781||40.9||61||78.9||91.4||592|
+01000US|United States|1|United States|31|Manufacturing|335312|Motor & generator mfg|1997|Reference year 1997|559||12174434||33||47||68.1||84.9||439|
+01000US|United States|1|United States|31|Manufacturing|335313|Switchgear & switchboard apparatus mfg|1997|Reference year 1997|496||7488911||49.6||64.3||76.1||85||753.5|
+01000US|United States|1|United States|31|Manufacturing|335314|Relay & industrial control mfg|1997|Reference year 1997|1241||11826508||38.3||47.9||58.3||70||569.5|
+01000US|United States|1|United States|31|Manufacturing|3359|Other electrical equipment & component mfg|1997|Reference year 1997|1939||41778097||11.5||18.4||33||55.2||80.8|
+01000US|United States|1|United States|31|Manufacturing|33591|Battery mfg|1997|Reference year 1997|127||6823196||46.5||71.9||91.9||98.8||814.7|
+01000US|United States|1|United States|31|Manufacturing|335911|Storage battery mfg|1997|Reference year 1997|96||4435329||52||75||92.4||99.1||898.7|
+01000US|United States|1|United States|31|Manufacturing|335912|Primary battery mfg|1997|Reference year 1997|35||2387867||90.1||97.7||99.8||100||2882.9|
+01000US|United States|1|United States|31|Manufacturing|33592|Communication & energy wire & cable mfg|1997|Reference year 1997|219||15245693||28||42.1||69.5||87||335.6|
+01000US|United States|1|United States|31|Manufacturing|335921|Fiber optic cable mfg|1997|Reference year 1997|36||2772428||69||84.5||96.8||100||1790.9|
+01000US|United States|1|United States|31|Manufacturing|335929|Other communication & energy wire mfg|1997|Reference year 1997|193||12473265||28.4||41.7||69.7||87.8||340.2|
+01000US|United States|1|United States|31|Manufacturing|33593|Wiring device mfg|1997|Reference year 1997|604||10328708||17.4||29.6||52.4||77.5||185.7|
+01000US|United States|1|United States|31|Manufacturing|335931|Current-carrying wiring device mfg|1997|Reference year 1997|446||5877522||21.2||35||59.1||80.3||232|
+01000US|United States|1|United States|31|Manufacturing|335932|Noncurrent-carrying wiring device mfg|1997|Reference year 1997|168||4451186||30.8||50.5||82.3||95.8||440.1|
+01000US|United States|1|United States|31|Manufacturing|33599|All other electrical equipment & component mfg|1997|Reference year 1997|1026||9380500||12.8||21||37.4||55.2||93.9|
+01000US|United States|1|United States|31|Manufacturing|335991|Carbon & graphite product mfg|1997|Reference year 1997|99||2340732||51.4||71.6||88.1||97.5||813.2|
+01000US|United States|1|United States|31|Manufacturing|335999|All other miscellaneous electrical equipment & component mfg|1997|Reference year 1997|928||7039768||10.9||20.2||34.8||52.8||81.1|
+01000US|United States|1|United States|31|Manufacturing|336|Transportation equipment mfg|1997|Reference year 1997|10979||575306996||49.7||57.8||68.6||77.5||797.6|
+01000US|United States|1|United States|31|Manufacturing|3361|Motor vehicle mfg|1997|Reference year 1997|325||220052857||82.4||91.8||98.8||99.7||2505.8|
+01000US|United States|1|United States|31|Manufacturing|33611|Automobile & light duty motor vehicle mfg|1997|Reference year 1997|253||205543825||88.3||97.5||99.7||99.9||2862.8|
+01000US|United States|1|United States|31|Manufacturing|336111|Automobile mfg|1997|Reference year 1997|173||95365667||79.5||96.3||99.5||99.9||2349.7|
+01000US|United States|1|United States|31|Manufacturing|336112|Light truck & utility vehicle mfg|1997|Reference year 1997|84||110178158||99.3||99.9||99.9||99.9||0|D
+01000US|United States|1|United States|31|Manufacturing|33612|Heavy duty truck mfg|1997|Reference year 1997|75||14509032||74.4||90.3||98.5||99.8||1597.1|
+01000US|United States|1|United States|31|Manufacturing|336120|Heavy duty truck mfg|1997|Reference year 1997|75||14509032||74.4||90.3||98.5||99.8||1597.1|
+01000US|United States|1|United States|31|Manufacturing|3362|Motor vehicle body & trailer mfg|1997|Reference year 1997|1922||23007668||22.4||30.7||45.1||61.8||198.9|
+01000US|United States|1|United States|31|Manufacturing|33621|Motor vehicle body & trailer mfg|1997|Reference year 1997|1922||23007668||22.4||30.7||45.1||61.8||198.9|
+01000US|United States|1|United States|31|Manufacturing|336211|Motor vehicle body mfg|1997|Reference year 1997|747||9008512||34.4||43.9||59.4||74.9||694.7|
+01000US|United States|1|United States|31|Manufacturing|336212|Truck trailer mfg|1997|Reference year 1997|355||5504115||41.7||54.1||71.5||85.6||578.3|
+01000US|United States|1|United States|31|Manufacturing|336213|Motor home mfg|1997|Reference year 1997|75||3894350||52.2||75.4||94.5||99.7||980.2|
+01000US|United States|1|United States|31|Manufacturing|336214|Travel trailer & camper mfg|1997|Reference year 1997|761||4600691||26||35.3||49.8||67.1||262.2|
+01000US|United States|1|United States|31|Manufacturing|3363|Motor vehicle parts mfg|1997|Reference year 1997|4767||178511569||41.6||49.3||61||70.7||658.8|
+01000US|United States|1|United States|31|Manufacturing|33631|Motor vehicle gasoline engine & engine parts mfg|1997|Reference year 1997|924||28518227||64.4||72.6||82.3||91.2||1293.8|
+01000US|United States|1|United States|31|Manufacturing|336311|Carburetor, piston, piston ring, & valve mfg|1997|Reference year 1997|122||2731573||60.2||77.8||92.5||98.5||1558.5|
+01000US|United States|1|United States|31|Manufacturing|336312|Gasoline engine & engine parts mfg|1997|Reference year 1997|810||25786654||67.5||75.5||84.8||92.8||1425.1|
+01000US|United States|1|United States|31|Manufacturing|33632|Motor vehicle electrical & electronic equipment mfg|1997|Reference year 1997|981||21633391||51.8||61||73.3||85.7||1419.9|
+01000US|United States|1|United States|31|Manufacturing|336321|Vehicular lighting equipment mfg|1997|Reference year 1997|99||3336152||58.3||76.5||92.7||99.1||1164.4|
+01000US|United States|1|United States|31|Manufacturing|336322|Other motor vehicle electrical & electronic equipment mfg|1997|Reference year 1997|890||18297239||53.4||64.2||75.9||87.1||1615.3|
+01000US|United States|1|United States|31|Manufacturing|33633|Motor vehicle steering & suspension component (except spring) mfg|1997|Reference year 1997|183||10632673||60.1||72.3||85.6||97.1||1415.6|
+01000US|United States|1|United States|31|Manufacturing|336330|Motor vehicle steering & suspension component (except spring) mfg|1997|Reference year 1997|183||10632673||60.1||72.3||85.6||97.1||1415.6|
+01000US|United States|1|United States|31|Manufacturing|33634|Motor vehicle brake system mfg|1997|Reference year 1997|203||10981044||59.2||77.2||89.2||96.5||1101|
+01000US|United States|1|United States|31|Manufacturing|336340|Motor vehicle brake system mfg|1997|Reference year 1997|203||10981044||59.2||77.2||89.2||96.5||1101|
+01000US|United States|1|United States|31|Manufacturing|33635|Motor vehicle transmission & power train parts mfg|1997|Reference year 1997|427||30105923||60||79.1||90.9||96.2||1056.6|
+01000US|United States|1|United States|31|Manufacturing|336350|Motor vehicle transmission & power train parts mfg|1997|Reference year 1997|427||30105923||60||79.1||90.9||96.2||1056.6|
+01000US|United States|1|United States|31|Manufacturing|336360|Motor vehicle seating & interior trim mfg|1997|Reference year 1997|280||11869070||62.2||74.6||87.2||96.5||1449.2|
+01000US|United States|1|United States|31|Manufacturing|33637|Motor vehicle metal stamping|1997|Reference year 1997|662||23633912||45.1||50.7||59.1||71||693.4|
+01000US|United States|1|United States|31|Manufacturing|336370|Motor vehicle metal stamping|1997|Reference year 1997|662||23633912||45.1||50.7||59.1||71||693.4|
+01000US|United States|1|United States|31|Manufacturing|33639|Other motor vehicle parts mfg|1997|Reference year 1997|1321||41137329||31.7||41.4||56.7||71.7||364|
+01000US|United States|1|United States|31|Manufacturing|336391|Motor vehicle air-conditioning mfg|1997|Reference year 1997|58||5626596||76.1||89||98.7||99.9||2227.1|
+01000US|United States|1|United States|31|Manufacturing|336399|All other motor vehicle parts mfg|1997|Reference year 1997|1271||35510733||27.2||38.3||54.8||70.6||266.4|
+01000US|United States|1|United States|31|Manufacturing|33641|Aerospace product & parts mfg|1997|Reference year 1997|1530||120438212||62.3||78.1||88||92.8||1636.9|
+01000US|United States|1|United States|31|Manufacturing|336411|Aircraft mfg|1997|Reference year 1997|172||57893242||84.8||96||98.7||99.7||0|D
+01000US|United States|1|United States|31|Manufacturing|336412|Aircraft engine & engine parts mfg|1997|Reference year 1997|281||22859270||77.2||82.3||88.6||94.7||2057.5|
+01000US|United States|1|United States|31|Manufacturing|336413|Other aircraft part & auxiliary equipment mfg|1997|Reference year 1997|1049||19373554||53.3||66.6||75.5||84.1||1038.3|
+01000US|United States|1|United States|31|Manufacturing|336414|Guided missile & space vehicle mfg|1997|Reference year 1997|15||16247363||89.2||99.7||100||0|N|0|D
+01000US|United States|1|United States|31|Manufacturing|336415|Guided missile & space vehicle propulsion unit & parts mfg|1997|Reference year 1997|19||3101378||78.5||97.5||100||0|N|1978.2|
+01000US|United States|1|United States|31|Manufacturing|3365|Railroad rolling stock mfg|1997|Reference year 1997|173||8263395||57.2||71.9||87.9||96.2||1029.3|
+01000US|United States|1|United States|31|Manufacturing|33651|Railroad rolling stock mfg|1997|Reference year 1997|173||8263395||57.2||71.9||87.9||96.2||1029.3|
+01000US|United States|1|United States|31|Manufacturing|336510|Railroad rolling stock mfg|1997|Reference year 1997|173||8263395||57.2||71.9||87.9||96.2||1029.3|
+01000US|United States|1|United States|31|Manufacturing|3366|Ship & boat building|1997|Reference year 1997|1630||16150259||38.4||50.7||63.3||74.4||449.5|
+01000US|United States|1|United States|31|Manufacturing|33661|Ship & boat building|1997|Reference year 1997|1630||16150259||38.4||50.7||63.3||74.4||449.5|
+01000US|United States|1|United States|31|Manufacturing|336611|Ship building & repairing|1997|Reference year 1997|649||10542961||52.6||64.5||76.5||86.5||872.7|
+01000US|United States|1|United States|31|Manufacturing|3369|Other transportation equipment mfg|1997|Reference year 1997|758||8883036||37.9||55.7||77.3||86||563.3|
+01000US|United States|1|United States|31|Manufacturing|33699|Other transportation equipment mfg|1997|Reference year 1997|758||8883036||37.9||55.7||77.3||86||563.3|
+01000US|United States|1|United States|31|Manufacturing|336991|Motorcycle, bicycle, & parts mfg|1997|Reference year 1997|373||3382689||67.5||76.7||85.9||92.3||2036.5|
+01000US|United States|1|United States|31|Manufacturing|336992|Military armored vehicle, tank, & tank component mfg|1997|Reference year 1997|37||1063668||85||92.4||99||100||0|D
+01000US|United States|1|United States|31|Manufacturing|336999|All other transportation equipment mfg|1997|Reference year 1997|349||4436679||50.7||75.3||83||90.6||885.2|
+01000US|United States|1|United States|31|Manufacturing|337|Furniture & related product mfg|1997|Reference year 1997|19838||64299098||11.2||17.6||27.5||37.2||55.5|
+01000US|United States|1|United States|31|Manufacturing|3371|Household & institutional furniture & kitchen cabinet mfg|1997|Reference year 1997|14732||36418307||13.8||19.5||28.8||40||73.3|
+01000US|United States|1|United States|31|Manufacturing|33711|Wood kitchen cabinet & counter top mfg|1997|Reference year 1997|7872||9029834||18.2||25.7||36.5||45||133.1|
+01000US|United States|1|United States|31|Manufacturing|337110|Wood kitchen cabinet & counter top mfg|1997|Reference year 1997|7872||9029834||18.2||25.7||36.5||45||133.1|
+01000US|United States|1|United States|31|Manufacturing|33712|Household & institutional furniture mfg|1997|Reference year 1997|6867||27388473||17.7||24.6||34.7||47.2||117.3|
+01000US|United States|1|United States|31|Manufacturing|337121|Upholstered household furniture mfg|1997|Reference year 1997|1566||8232635||31.5||39.1||53.7||68.7||301|
+01000US|United States|1|United States|31|Manufacturing|337122|Nonupholstered wood household furniture mfg|1997|Reference year 1997|3677||11318807||25.7||36.5||50.5||64.3||237.5|
+01000US|United States|1|United States|31|Manufacturing|337124|Metal household furniture mfg|1997|Reference year 1997|389||2417293||26.2||41||63.4||82.2||288.9|
+01000US|United States|1|United States|31|Manufacturing|337125|Household furniture (except wood & metal) mfg|1997|Reference year 1997|211||547227||45.2||60.1||78.5||91.2||635|
+01000US|United States|1|United States|31|Manufacturing|337127|Institutional furniture mfg|1997|Reference year 1997|977||4554577||18.8||27||41.2||58.7||147.3|
+01000US|United States|1|United States|31|Manufacturing|337129|Wood television, radio, & sewing machine cabinet mfg|1997|Reference year 1997|99||317934||45.8||63||85.6||96.6||752|
+01000US|United States|1|United States|31|Manufacturing|3372|Office furniture (including fixtures) mfg|1997|Reference year 1997|4086||21517554||28.7||35.9||42.8||51.4||252.5|
+01000US|United States|1|United States|31|Manufacturing|33721|Office furniture (including fixtures) mfg|1997|Reference year 1997|4086||21517554||28.7||35.9||42.8||51.4||252.5|
+01000US|United States|1|United States|31|Manufacturing|337211|Wood office furniture mfg|1997|Reference year 1997|639||3021800||34.9||42.2||54.8||70||399.4|
+01000US|United States|1|United States|31|Manufacturing|337212|Custom architectural woodwork & millwork mfg|1997|Reference year 1997|1094||2205019||7.8||11.7||19.9||34.5||34.4|
+01000US|United States|1|United States|31|Manufacturing|337214|Office furniture (except wood) mfg|1997|Reference year 1997|303||8341389||64.7||78.7||87||93.7||1272.2|
+01000US|United States|1|United States|31|Manufacturing|337215|Showcase, partition, shelving, & locker mfg|1997|Reference year 1997|2073||7949346||9.9||15.5||26.2||41.1||53.7|
+01000US|United States|1|United States|31|Manufacturing|3379|Other furniture related product mfg|1997|Reference year 1997|1071||6363237||34.4||44.5||55.5||66.8||355.6|
+01000US|United States|1|United States|31|Manufacturing|33791|Mattress mfg|1997|Reference year 1997|628||3936972||38.6||44.8||55.3||68.3||561|
+01000US|United States|1|United States|31|Manufacturing|337910|Mattress mfg|1997|Reference year 1997|628||3936972||38.6||44.8||55.3||68.3||561|
+01000US|United States|1|United States|31|Manufacturing|33792|Blind & shade mfg|1997|Reference year 1997|443||2426265||54.1||65.9||76||86.7||979.5|
+01000US|United States|1|United States|31|Manufacturing|337920|Blind & shade mfg|1997|Reference year 1997|443||2426265||54.1||65.9||76||86.7||979.5|
+01000US|United States|1|United States|31|Manufacturing|339|Miscellaneous mfg|1997|Reference year 1997|30335||99729798||7.4||11.4||19.4||30.2||33.2|
+01000US|United States|1|United States|31|Manufacturing|3391|Medical equipment & supplies mfg|1997|Reference year 1997|12123||44893840||16.3||24||37.4||54.4||137.5|
+01000US|United States|1|United States|31|Manufacturing|33911|Medical equipment & supplies mfg|1997|Reference year 1997|12123||44893840||16.3||24||37.4||54.4||137.5|
+01000US|United States|1|United States|31|Manufacturing|339111|Laboratory apparatus & furniture mfg|1997|Reference year 1997|371||2220507||19||33.3||55.1||74.4||202.5|
+01000US|United States|1|United States|31|Manufacturing|339112|Surgical & medical instrument mfg|1997|Reference year 1997|1456||18292919||31.4||44||61.6||76.7||366.8|
+01000US|United States|1|United States|31|Manufacturing|339113|Surgical appliance & supplies mfg|1997|Reference year 1997|1511||15233098||17||29.3||51.3||68.9||166.8|
+01000US|United States|1|United States|31|Manufacturing|339114|Dental equipment & supplies mfg|1997|Reference year 1997|849||2666147||34.5||46.1||64.7||78.8||400|
+01000US|United States|1|United States|31|Manufacturing|339115|Ophthalmic goods mfg|1997|Reference year 1997|520||3497595||43.3||59||78.3||88.2||645.2|
+01000US|United States|1|United States|31|Manufacturing|339116|Dental laboratories|1997|Reference year 1997|7490||2983574||5.1||6.6||9.2||13.9||8.8|
+01000US|United States|1|United States|31|Manufacturing|3399|Other miscellaneous mfg|1997|Reference year 1997|18232||54835958||5.7||10||17.8||27.1||21.2|
+01000US|United States|1|United States|31|Manufacturing|33991|Jewelry & silverware mfg|1997|Reference year 1997|3737||8303714||11.1||17||28.7||45.1||65.2|
+01000US|United States|1|United States|31|Manufacturing|339911|Jewelry (except costume) mfg|1997|Reference year 1997|2278||5320508||12.5||19.6||34.2||50.2||81.4|
+01000US|United States|1|United States|31|Manufacturing|339912|Silverware & plated ware mfg|1997|Reference year 1997|158||892378||68.4||77||88.2||95.9||2134.3|
+01000US|United States|1|United States|31|Manufacturing|339913|Jewelers' material & lapidary work mfg|1997|Reference year 1997|391||802515||27.3||41.9||62.5||79.3||296.8|
+01000US|United States|1|United States|31|Manufacturing|339914|Costume jewelry & novelty mfg|1997|Reference year 1997|917||1288313||25.2||41.2||55.3||69||256.3|
+01000US|United States|1|United States|31|Manufacturing|33992|Sporting & athletic goods mfg|1997|Reference year 1997|2477||10633528||21.4||29.2||43.6||59.7||161.1|
+01000US|United States|1|United States|31|Manufacturing|339920|Sporting & athletic goods mfg|1997|Reference year 1997|2477||10633528||21.4||29.2||43.6||59.7||161.1|
+01000US|United States|1|United States|31|Manufacturing|33993|Doll, toy, & game mfg|1997|Reference year 1997|995||4763522||40||49.8||61.9||76.2||495.9|
+01000US|United States|1|United States|31|Manufacturing|339931|Doll & stuffed toy mfg|1997|Reference year 1997|239||300678||31.1||51.1||72.2||89.6||403.9|
+01000US|United States|1|United States|31|Manufacturing|339932|Game, toy, & children's vehicle mfg|1997|Reference year 1997|756||4462844||42.7||53.1||66||80.1||564|
+01000US|United States|1|United States|31|Manufacturing|33994|Office supplies (except paper) mfg|1997|Reference year 1997|999||4329053||31.2||41.4||56.9||74.3||342.3|
+01000US|United States|1|United States|31|Manufacturing|339941|Pen & mechanical pencil mfg|1997|Reference year 1997|106||1538812||65.4||77.7||89.6||98||1374.8|
+01000US|United States|1|United States|31|Manufacturing|339942|Lead pencil & art good mfg|1997|Reference year 1997|171||1278701||52.4||65.6||83.7||94.6||1047.9|
+01000US|United States|1|United States|31|Manufacturing|339943|Marking device mfg|1997|Reference year 1997|617||661173||25.5||37.8||53.6||68||233.6|
+01000US|United States|1|United States|31|Manufacturing|339944|Carbon paper & inked ribbon mfg|1997|Reference year 1997|106||850367||40.3||58.6||81.8||95.1||572.6|
+01000US|United States|1|United States|31|Manufacturing|33995|Sign mfg|1997|Reference year 1997|5580||7997974||7.9||12.2||19.5||30.9||34.5|
+01000US|United States|1|United States|31|Manufacturing|339950|Sign mfg|1997|Reference year 1997|5580||7997974||7.9||12.2||19.5||30.9||34.5|
+01000US|United States|1|United States|31|Manufacturing|33999|All other miscellaneous mfg|1997|Reference year 1997|4475||18808167||9.5||16.3||27.5||42.6||54.9|
+01000US|United States|1|United States|31|Manufacturing|339991|Gasket, packing, & sealing device mfg|1997|Reference year 1997|561||5243005||23.5||35.7||54.7||72.2||223.5|
+01000US|United States|1|United States|31|Manufacturing|339992|Musical instrument mfg|1997|Reference year 1997|552||1324529||32.6||45.5||68.1||83.3||420.8|
+01000US|United States|1|United States|31|Manufacturing|339993|Fastener, button, needle, & pin mfg|1997|Reference year 1997|240||838928||46.3||56.2||70.8||88.6||952.2|
+01000US|United States|1|United States|31|Manufacturing|339994|Broom, brush, & mop mfg|1997|Reference year 1997|306||2083585||25.9||38.2||60.5||79.7||286.2|
+01000US|United States|1|United States|31|Manufacturing|339995|Burial casket mfg|1997|Reference year 1997|161||1219943||74.2||80.2||88.4||95.4||2964.6|
+01000US|United States|1|United States|31|Manufacturing|339999|All other miscellaneous mfg|1997|Reference year 1997|2660||8098177||15.1||23.3||37.8||51.4||100.5|
+01000US|United States|1|United States|31|Manufacturing|321999|All other miscellaneous wood product mfg|1997|Reference year 1997|2309||3917038||19.3||23.9||32.7||44.4||141.2|
+01000US|United States|1|United States|31|Manufacturing|32213|Paperboard mills|1997|Reference year 1997|81||20113697||33.6||53.2||82.2||98.3||485.1|
+01000US|United States|1|United States|31|Manufacturing|322214|Fiber can, tube, drum, & similar products mfg|1997|Reference year 1997|138||2305281||68.2||76.8||86||93.9||2585.7|
+01000US|United States|1|United States|31|Manufacturing|322225|Laminated aluminum foil mfg for flexible packaging uses|1997|Reference year 1997|34||1587850||58.7||78.2||95.1||100||1097.5|
+01000US|United States|1|United States|31|Manufacturing|33221|Cutlery & handtool mfg|1997|Reference year 1997|1545||11475344||18.3||28.2||45.3||64||157|
+01000US|United States|1|United States|31|Manufacturing|332311|Prefabricated metal building & component mfg|1997|Reference year 1997|557||4686554||26.1||41.3||59.8||75.8||274.9|
+01000US|United States|1|United States|31|Manufacturing|33241|Power boiler & heat exchanger mfg|1997|Reference year 1997|436||3867379||16.9||25.5||42||64.3||140.4|
+01000US|United States|1|United States|31|Manufacturing|3325|Hardware mfg|1997|Reference year 1997|906||11061736||17.4||27.7||47.4||68.6||154.6|
+01000US|United States|1|United States|31|Manufacturing|33636|Motor vehicle seating & interior trim mfg|1997|Reference year 1997|280||11869070||62.2||74.6||87.2||96.5||1449.2|
+01000US|United States|1|United States|31|Manufacturing|3364|Aerospace product & parts mfg|1997|Reference year 1997|1530||120438212||62.3||78.1||88||92.8||1636.9|
+01000US|United States|1|United States|31|Manufacturing|336419|Other guided missile & space vehicle parts & auxiliary equip mfg|1997|Reference year 1997|48||963405||73||85.4||97||100||2341.2|
+01000US|United States|1|United States|31|Manufacturing|336612|Boat building|1997|Reference year 1997|984||5607298||41.4||48.9||61||75.4||644.5|

@@ -1,0 +1,431 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|CONCENFI|CONCENFI_MEANING|ESTAB|ESTABF|ECVALUE|ECVALUEF|VALPCT|VALPCTF|PAY|PAYF|PAY1Q|PAY1QF|EMP|EMPF 
+01000US|United States|1|United States|52|Finance and insurance|52|Finance & insurance|1997|Reference year 1997|003|All firms|395203||2197771283|r|100||264551401||70962334||5835214|
+01000US|United States|1|United States|52|Finance and insurance|52|Finance & insurance|1997|Reference year 1997|804|4 largest firms|4069||152697984||6.9478560022||11364287||3100392||292283|
+01000US|United States|1|United States|52|Finance and insurance|52|Finance & insurance|1997|Reference year 1997|808|8 largest firms|17894||259567258||11.810476368||23057111||6210374||476103|
+01000US|United States|1|United States|52|Finance and insurance|52|Finance & insurance|1997|Reference year 1997|820|20 largest firms|32849||497273962||22.626283538||48366320||14677903||956516|
+01000US|United States|1|United States|52|Finance and insurance|52|Finance & insurance|1997|Reference year 1997|850|50 largest firms|55023||847255290||38.550657958||79563158||23681362||1614347|
+01000US|United States|1|United States|52|Finance and insurance|521|Monetary authorities - central bank|1997|Reference year 1997|003|All firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|521|Monetary authorities - central bank|1997|Reference year 1997|804|4 largest firms|14||16056000||65.317256729||442040||109791||9754|
+01000US|United States|1|United States|52|Finance and insurance|521|Monetary authorities - central bank|1997|Reference year 1997|808|8 largest firms|31||21820000||88.765728813||680983||167877||15988|
+01000US|United States|1|United States|52|Finance and insurance|521|Monetary authorities - central bank|1997|Reference year 1997|820|20 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|521|Monetary authorities - central bank|1997|Reference year 1997|850|50 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|5211|Monetary authorities - central bank|1997|Reference year 1997|003|All firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|5211|Monetary authorities - central bank|1997|Reference year 1997|804|4 largest firms|14||16056000||65.317256729||442040||109791||9754|
+01000US|United States|1|United States|52|Finance and insurance|5211|Monetary authorities - central bank|1997|Reference year 1997|808|8 largest firms|31||21820000||88.765728813||680983||167877||15988|
+01000US|United States|1|United States|52|Finance and insurance|5211|Monetary authorities - central bank|1997|Reference year 1997|820|20 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|5211|Monetary authorities - central bank|1997|Reference year 1997|850|50 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|52111|Monetary authorities - central bank|1997|Reference year 1997|003|All firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|52111|Monetary authorities - central bank|1997|Reference year 1997|804|4 largest firms|14||16056000||65.317256729||442040||109791||9754|
+01000US|United States|1|United States|52|Finance and insurance|52111|Monetary authorities - central bank|1997|Reference year 1997|808|8 largest firms|31||21820000||88.765728813||680983||167877||15988|
+01000US|United States|1|United States|52|Finance and insurance|52111|Monetary authorities - central bank|1997|Reference year 1997|820|20 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|52111|Monetary authorities - central bank|1997|Reference year 1997|850|50 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|521110|Monetary authorities - central bank|1997|Reference year 1997|003|All firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|521110|Monetary authorities - central bank|1997|Reference year 1997|804|4 largest firms|14||16056000||65.317256729||442040||109791||9754|
+01000US|United States|1|United States|52|Finance and insurance|521110|Monetary authorities - central bank|1997|Reference year 1997|808|8 largest firms|31||21820000||88.765728813||680983||167877||15988|
+01000US|United States|1|United States|52|Finance and insurance|521110|Monetary authorities - central bank|1997|Reference year 1997|820|20 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|521110|Monetary authorities - central bank|1997|Reference year 1997|850|50 largest firms|42||24581559||100||903365||224085||21674|
+01000US|United States|1|United States|52|Finance and insurance|522|Credit intermediation & related activities|1997|Reference year 1997|003|All firms|166882||808810933|r|100||98723241||25559360||2744910|
+01000US|United States|1|United States|52|Finance and insurance|522|Credit intermediation & related activities|1997|Reference year 1997|804|4 largest firms|9060||102156154||12.630412106||11916555||3413420||282252|
+01000US|United States|1|United States|52|Finance and insurance|522|Credit intermediation & related activities|1997|Reference year 1997|808|8 largest firms|13898||164455460||20.332991715||17213878||4919932||406592|
+01000US|United States|1|United States|52|Finance and insurance|522|Credit intermediation & related activities|1997|Reference year 1997|820|20 largest firms|29618||270041272||33.387440869||29213275||8155515||737995|
+01000US|United States|1|United States|52|Finance and insurance|522|Credit intermediation & related activities|1997|Reference year 1997|850|50 largest firms|41047||392589098||48.539044415||42066990||11647126||1057192|
+01000US|United States|1|United States|52|Finance and insurance|5221|Depository credit intermediation|1997|Reference year 1997|003|All firms|102916||533133659||100||70229791||18522547||2017704|
+01000US|United States|1|United States|52|Finance and insurance|5221|Depository credit intermediation|1997|Reference year 1997|804|4 largest firms|7710||74871220||14.043611529||11351376||3418106||253937|
+01000US|United States|1|United States|52|Finance and insurance|5221|Depository credit intermediation|1997|Reference year 1997|808|8 largest firms|15231||114343058||21.447353036||17066856||4972206||418515|
+01000US|United States|1|United States|52|Finance and insurance|5221|Depository credit intermediation|1997|Reference year 1997|820|20 largest firms|25365||189904297||35.620391584||25970315||7376394||661716|
+01000US|United States|1|United States|52|Finance and insurance|5221|Depository credit intermediation|1997|Reference year 1997|850|50 largest firms|35837||272310801||51.077398023||36711065||10066151||932201|
+01000US|United States|1|United States|52|Finance and insurance|52211|Commercial banking|1997|Reference year 1997|003|All firms|70860||421759126||100||57247077||15317025||1575399|
+01000US|United States|1|United States|52|Finance and insurance|52211|Commercial banking|1997|Reference year 1997|804|4 largest firms|7590||73147215||17.343362714||11240617||3389682||251033|
+01000US|United States|1|United States|52|Finance and insurance|52211|Commercial banking|1997|Reference year 1997|808|8 largest firms|14805||111210004||26.368132222||16741813||4890112||410140|
+01000US|United States|1|United States|52|Finance and insurance|52211|Commercial banking|1997|Reference year 1997|820|20 largest firms|23615||179329887||42.519503656||25185474||7202591||635342|
+01000US|United States|1|United States|52|Finance and insurance|52211|Commercial banking|1997|Reference year 1997|850|50 largest firms|32821||255952825||60.686967803||35058597||9631537||880202|
+01000US|United States|1|United States|52|Finance and insurance|522110|Commercial banking|1997|Reference year 1997|003|All firms|70860||421759126||100||57247077||15317025||1575399|
+01000US|United States|1|United States|52|Finance and insurance|522110|Commercial banking|1997|Reference year 1997|804|4 largest firms|7590||73147215||17.343362714||11240617||3389682||251033|
+01000US|United States|1|United States|52|Finance and insurance|522110|Commercial banking|1997|Reference year 1997|808|8 largest firms|14805||111210004||26.368132222||16741813||4890112||410140|
+01000US|United States|1|United States|52|Finance and insurance|522110|Commercial banking|1997|Reference year 1997|820|20 largest firms|23615||179329887||42.519503656||25185474||7202591||635342|
+01000US|United States|1|United States|52|Finance and insurance|522110|Commercial banking|1997|Reference year 1997|850|50 largest firms|32821||255952825||60.686967803||35058597||9631537||880202|
+01000US|United States|1|United States|52|Finance and insurance|5221101|National commercial banks (banking)|1997|Reference year 1997|003|All firms|36683||203570310||100||30764597||8062645||896952|
+01000US|United States|1|United States|52|Finance and insurance|5221101|National commercial banks (banking)|1997|Reference year 1997|804|4 largest firms|11192||59731490||29.341945788||9298636||2588201||270278|
+01000US|United States|1|United States|52|Finance and insurance|5221101|National commercial banks (banking)|1997|Reference year 1997|808|8 largest firms|14025||90857069||44.631787907||13836640||3805434||370535|
+01000US|United States|1|United States|52|Finance and insurance|5221101|National commercial banks (banking)|1997|Reference year 1997|820|20 largest firms|20315||138557924||68.063915607||20294182||5488807||554777|
+01000US|United States|1|United States|52|Finance and insurance|5221101|National commercial banks (banking)|1997|Reference year 1997|850|50 largest firms|26393||168702308||82.871764552||24986134||6644032||700816|
+01000US|United States|1|United States|52|Finance and insurance|5221102|State commercial banks (banking)|1997|Reference year 1997|003|All firms|33672||159452168||100||23200208||6272962||648969|
+01000US|United States|1|United States|52|Finance and insurance|5221102|State commercial banks (banking)|1997|Reference year 1997|804|4 largest firms|1418||32019100||20.080692788||4354196||1515643||60241|
+01000US|United States|1|United States|52|Finance and insurance|5221102|State commercial banks (banking)|1997|Reference year 1997|808|8 largest firms|2450||45126031||28.300669452||6495532||2095302||105818|
+01000US|United States|1|United States|52|Finance and insurance|5221102|State commercial banks (banking)|1997|Reference year 1997|820|20 largest firms|5611||66833704||41.914578421||9068565||2779226||184880|
+01000US|United States|1|United States|52|Finance and insurance|5221102|State commercial banks (banking)|1997|Reference year 1997|850|50 largest firms|11350||92568350||58.053992718||12686560||3727699||293033|
+01000US|United States|1|United States|52|Finance and insurance|52212|Savings institutions|1997|Reference year 1997|003|All firms|16264||78946836||100||8409396||2088962||264775|
+01000US|United States|1|United States|52|Finance and insurance|52212|Savings institutions|1997|Reference year 1997|804|4 largest firms|2395||15749003||19.948871669||1380765||339908||40404|
+01000US|United States|1|United States|52|Finance and insurance|52212|Savings institutions|1997|Reference year 1997|808|8 largest firms|3296||21035047||26.644572558||1953402||496143||58047|
+01000US|United States|1|United States|52|Finance and insurance|52212|Savings institutions|1997|Reference year 1997|820|20 largest firms|4349||31212767||39.536438167||2792942||727994||81588|
+01000US|United States|1|United States|52|Finance and insurance|52212|Savings institutions|1997|Reference year 1997|850|50 largest firms|6317||41623538||52.723503701||4042854||1056183||118140|
+01000US|United States|1|United States|52|Finance and insurance|522120|Savings institutions|1997|Reference year 1997|003|All firms|16264||78946836||100||8409396||2088962||264775|
+01000US|United States|1|United States|52|Finance and insurance|522120|Savings institutions|1997|Reference year 1997|804|4 largest firms|2395||15749003||19.948871669||1380765||339908||40404|
+01000US|United States|1|United States|52|Finance and insurance|522120|Savings institutions|1997|Reference year 1997|808|8 largest firms|3296||21035047||26.644572558||1953402||496143||58047|
+01000US|United States|1|United States|52|Finance and insurance|522120|Savings institutions|1997|Reference year 1997|820|20 largest firms|4349||31212767||39.536438167||2792942||727994||81588|
+01000US|United States|1|United States|52|Finance and insurance|522120|Savings institutions|1997|Reference year 1997|850|50 largest firms|6317||41623538||52.723503701||4042854||1056183||118140|
+01000US|United States|1|United States|52|Finance and insurance|5221201|Savings institutions (federally chartered)|1997|Reference year 1997|003|All firms|11036||54390770||100||5665769||1416438||179255|
+01000US|United States|1|United States|52|Finance and insurance|5221201|Savings institutions (federally chartered)|1997|Reference year 1997|804|4 largest firms|2075||14061214||25.852206174||1182626||292141||35138|
+01000US|United States|1|United States|52|Finance and insurance|5221201|Savings institutions (federally chartered)|1997|Reference year 1997|808|8 largest firms|2930||19249485||35.391087495||1714494||439896||51848|
+01000US|United States|1|United States|52|Finance and insurance|5221201|Savings institutions (federally chartered)|1997|Reference year 1997|820|20 largest firms|3797||27158817||49.932768005||2349960||613112||68491|
+01000US|United States|1|United States|52|Finance and insurance|5221201|Savings institutions (federally chartered)|1997|Reference year 1997|850|50 largest firms|5372||34796187||63.97443353||3332083||868105||99309|
+01000US|United States|1|United States|52|Finance and insurance|5221203|Savings institutions (not federally chartered)|1997|Reference year 1997|003|All firms|5226||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|52|Finance and insurance|5221203|Savings institutions (not federally chartered)|1997|Reference year 1997|804|4 largest firms|396||0|D|0|D|0|D|0|D|0|i
+01000US|United States|1|United States|52|Finance and insurance|5221203|Savings institutions (not federally chartered)|1997|Reference year 1997|808|8 largest firms|642||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|52|Finance and insurance|5221203|Savings institutions (not federally chartered)|1997|Reference year 1997|820|20 largest firms|1113||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|52|Finance and insurance|5221203|Savings institutions (not federally chartered)|1997|Reference year 1997|850|50 largest firms|1901||0|D|0|D|0|D|0|D|0|k
+01000US|United States|1|United States|52|Finance and insurance|52213|Credit unions|1997|Reference year 1997|003|All firms|15640||29693575||100||4307580||1029687||172114|
+01000US|United States|1|United States|52|Finance and insurance|52213|Credit unions|1997|Reference year 1997|804|4 largest firms|183||2498059||8.4127930032||175896||40326||6516|
+01000US|United States|1|United States|52|Finance and insurance|52213|Credit unions|1997|Reference year 1997|808|8 largest firms|259||3177631||10.701409312||227600||52777||8401|
+01000US|United States|1|United States|52|Finance and insurance|52213|Credit unions|1997|Reference year 1997|820|20 largest firms|485||4611547||15.530453979||374453||89081||13651|
+01000US|United States|1|United States|52|Finance and insurance|52213|Credit unions|1997|Reference year 1997|850|50 largest firms|800||6787529||22.858577992||632385||151675||22930|
+01000US|United States|1|United States|52|Finance and insurance|522130|Credit unions|1997|Reference year 1997|003|All firms|15640||29693575||100||4307580||1029687||172114|
+01000US|United States|1|United States|52|Finance and insurance|522130|Credit unions|1997|Reference year 1997|804|4 largest firms|183||2498059||8.4127930032||175896||40326||6516|
+01000US|United States|1|United States|52|Finance and insurance|522130|Credit unions|1997|Reference year 1997|808|8 largest firms|259||3177631||10.701409312||227600||52777||8401|
+01000US|United States|1|United States|52|Finance and insurance|522130|Credit unions|1997|Reference year 1997|820|20 largest firms|485||4611547||15.530453979||374453||89081||13651|
+01000US|United States|1|United States|52|Finance and insurance|522130|Credit unions|1997|Reference year 1997|850|50 largest firms|800||6787529||22.858577992||632385||151675||22930|
+01000US|United States|1|United States|52|Finance and insurance|5221301|Credit unions (federally chartered)|1997|Reference year 1997|003|All firms|9396||18383263||100||2607177||624303||103075|
+01000US|United States|1|United States|52|Finance and insurance|5221301|Credit unions (federally chartered)|1997|Reference year 1997|804|4 largest firms|82||2330129||12.675274243||141283||32287||4545|
+01000US|United States|1|United States|52|Finance and insurance|5221301|Credit unions (federally chartered)|1997|Reference year 1997|808|8 largest firms|154||2863851||15.578578188||192727||44840||6153|
+01000US|United States|1|United States|52|Finance and insurance|5221301|Credit unions (federally chartered)|1997|Reference year 1997|820|20 largest firms|292||4084007||22.215898233||323246||77759||10777|
+01000US|United States|1|United States|52|Finance and insurance|5221301|Credit unions (federally chartered)|1997|Reference year 1997|850|50 largest firms|593||5781863||31.451777631||530891||128751||18719|
+01000US|United States|1|United States|52|Finance and insurance|5221309|Credit unions (not federally chartered)|1997|Reference year 1997|003|All firms|6244||11310312||100||1700403||405384||69039|
+01000US|United States|1|United States|52|Finance and insurance|5221309|Credit unions (not federally chartered)|1997|Reference year 1997|804|4 largest firms|176||839521||7.422615751||86065||20404||3846|
+01000US|United States|1|United States|52|Finance and insurance|5221309|Credit unions (not federally chartered)|1997|Reference year 1997|808|8 largest firms|254||1252385||11.072948297||126401||29929||5289|
+01000US|United States|1|United States|52|Finance and insurance|5221309|Credit unions (not federally chartered)|1997|Reference year 1997|820|20 largest firms|386||1991025||17.603625789||229485||54653||8891|
+01000US|United States|1|United States|52|Finance and insurance|5221309|Credit unions (not federally chartered)|1997|Reference year 1997|850|50 largest firms|647||3133971||27.708970363||381421||91095||14311|
+01000US|United States|1|United States|52|Finance and insurance|52219|Other depository credit intermediation|1997|Reference year 1997|003|All firms|152||2734122||100||265738||86873||5416|
+01000US|United States|1|United States|52|Finance and insurance|52219|Other depository credit intermediation|1997|Reference year 1997|804|4 largest firms|45||2153571||78.766455923||178394||67466||3286|
+01000US|United States|1|United States|52|Finance and insurance|52219|Other depository credit intermediation|1997|Reference year 1997|808|8 largest firms|65||2413133||88.259887452||218545||75209||4273|
+01000US|United States|1|United States|52|Finance and insurance|52219|Other depository credit intermediation|1997|Reference year 1997|820|20 largest firms|128||2669085||97.621283908||252201||83808||5097|
+01000US|United States|1|United States|52|Finance and insurance|52219|Other depository credit intermediation|1997|Reference year 1997|850|50 largest firms|152||2734122||100||265738||86873||5416|
+01000US|United States|1|United States|52|Finance and insurance|522190|Other depository credit intermediation|1997|Reference year 1997|003|All firms|152||2734122||100||265738||86873||5416|
+01000US|United States|1|United States|52|Finance and insurance|522190|Other depository credit intermediation|1997|Reference year 1997|804|4 largest firms|45||2153571||78.766455923||178394||67466||3286|
+01000US|United States|1|United States|52|Finance and insurance|522190|Other depository credit intermediation|1997|Reference year 1997|808|8 largest firms|65||2413133||88.259887452||218545||75209||4273|
+01000US|United States|1|United States|52|Finance and insurance|522190|Other depository credit intermediation|1997|Reference year 1997|820|20 largest firms|128||2669085||97.621283908||252201||83808||5097|
+01000US|United States|1|United States|52|Finance and insurance|522190|Other depository credit intermediation|1997|Reference year 1997|850|50 largest firms|152||2734122||100||265738||86873||5416|
+01000US|United States|1|United States|52|Finance and insurance|5222|Nondepository credit intermediation|1997|Reference year 1997|003|All firms|47556|r|229213945|r|100||22660754|r|5698501|r|556743|r
+01000US|United States|1|United States|52|Finance and insurance|5222|Nondepository credit intermediation|1997|Reference year 1997|804|4 largest firms|2569||71574042||31.22586717||2349093||609643||47364|
+01000US|United States|1|United States|52|Finance and insurance|5222|Nondepository credit intermediation|1997|Reference year 1997|808|8 largest firms|3280||98222537||42.851902837||4549109||1215387||100381|
+01000US|United States|1|United States|52|Finance and insurance|5222|Nondepository credit intermediation|1997|Reference year 1997|820|20 largest firms|7971||130024484||56.726253719||7668205||2064366||179630|
+01000US|United States|1|United States|52|Finance and insurance|5222|Nondepository credit intermediation|1997|Reference year 1997|850|50 largest firms|14301||160501398||70.022527643||10574654||2870040||251243|
+01000US|United States|1|United States|52|Finance and insurance|52221|Credit card issuing|1997|Reference year 1997|003|All firms|588||24503307||100||1782651||474357||58773|
+01000US|United States|1|United States|52|Finance and insurance|52221|Credit card issuing|1997|Reference year 1997|804|4 largest firms|44||13177820||53.779761238||696195||175272||22644|
+01000US|United States|1|United States|52|Finance and insurance|52221|Credit card issuing|1997|Reference year 1997|808|8 largest firms|391||18258841||74.515823517||1396548||375746||44463|
+01000US|United States|1|United States|52|Finance and insurance|52221|Credit card issuing|1997|Reference year 1997|820|20 largest firms|427||22875670||93.357480278||1588759||428081||51296|
+01000US|United States|1|United States|52|Finance and insurance|52221|Credit card issuing|1997|Reference year 1997|850|50 largest firms|487||24353523||99.388719245||1746680||466349||57529|
+01000US|United States|1|United States|52|Finance and insurance|522210|Credit card issuing|1997|Reference year 1997|003|All firms|588||24503307||100||1782651||474357||58773|
+01000US|United States|1|United States|52|Finance and insurance|522210|Credit card issuing|1997|Reference year 1997|804|4 largest firms|44||13177820||53.779761238||696195||175272||22644|
+01000US|United States|1|United States|52|Finance and insurance|522210|Credit card issuing|1997|Reference year 1997|808|8 largest firms|391||18258841||74.515823517||1396548||375746||44463|
+01000US|United States|1|United States|52|Finance and insurance|522210|Credit card issuing|1997|Reference year 1997|820|20 largest firms|427||22875670||93.357480278||1588759||428081||51296|
+01000US|United States|1|United States|52|Finance and insurance|522210|Credit card issuing|1997|Reference year 1997|850|50 largest firms|487||24353523||99.388719245||1746680||466349||57529|
+01000US|United States|1|United States|52|Finance and insurance|52222|Sales financing|1997|Reference year 1997|003|All firms|8143|r|78133239|r|100||6163041|r|1661818|r|127832|r
+01000US|United States|1|United States|52|Finance and insurance|52222|Sales financing|1997|Reference year 1997|804|4 largest firms|2121||31998797||40.954141169||1694221||415615||39643|
+01000US|United States|1|United States|52|Finance and insurance|52222|Sales financing|1997|Reference year 1997|808|8 largest firms|2335||38465599||49.230774882||2087240||546910||46407|
+01000US|United States|1|United States|52|Finance and insurance|52222|Sales financing|1997|Reference year 1997|820|20 largest firms|3037||51397963||65.782455275||3197984||909386||65485|
+01000US|United States|1|United States|52|Finance and insurance|52222|Sales financing|1997|Reference year 1997|850|50 largest firms|3929||62337842||79.784023801||4027711||1147133||81355|
+01000US|United States|1|United States|52|Finance and insurance|522220|Sales financing|1997|Reference year 1997|003|All firms|8143|r|78133239|r|100||6163041|r|1661818|r|127832|r
+01000US|United States|1|United States|52|Finance and insurance|522220|Sales financing|1997|Reference year 1997|804|4 largest firms|2121||31998797||40.954141169||1694221||415615||39643|
+01000US|United States|1|United States|52|Finance and insurance|522220|Sales financing|1997|Reference year 1997|808|8 largest firms|2335||38465599||49.230774882||2087240||546910||46407|
+01000US|United States|1|United States|52|Finance and insurance|522220|Sales financing|1997|Reference year 1997|820|20 largest firms|3037||51397963||65.782455275||3197984||909386||65485|
+01000US|United States|1|United States|52|Finance and insurance|522220|Sales financing|1997|Reference year 1997|850|50 largest firms|3929||62337842||79.784023801||4027711||1147133||81355|
+01000US|United States|1|United States|52|Finance and insurance|52229|Other nondepository credit intermediation|1997|Reference year 1997|003|All firms|38825|r|126577399|r|100||14715062|r|3562326|r|370138|r
+01000US|United States|1|United States|52|Finance and insurance|52229|Other nondepository credit intermediation|1997|Reference year 1997|804|4 largest firms|751||51464193||40.658279761||1075867||304171||17432|
+01000US|United States|1|United States|52|Finance and insurance|52229|Other nondepository credit intermediation|1997|Reference year 1997|808|8 largest firms|2954||61456405||48.552431544||2575048||705468||55398|
+01000US|United States|1|United States|52|Finance and insurance|52229|Other nondepository credit intermediation|1997|Reference year 1997|820|20 largest firms|8436||76385049||60.346514941||4364540||1162106||103896|
+01000US|United States|1|United States|52|Finance and insurance|52229|Other nondepository credit intermediation|1997|Reference year 1997|850|50 largest firms|11819||91379081||72.19225685||6511084||1686828||154078|
+01000US|United States|1|United States|52|Finance and insurance|522291|Consumer lending|1997|Reference year 1997|003|All firms|13123||20720593||100||2688340||707458||90961|
+01000US|United States|1|United States|52|Finance and insurance|522291|Consumer lending|1997|Reference year 1997|804|4 largest firms|1456||8819299||42.562966224||791460||210477||26031|
+01000US|United States|1|United States|52|Finance and insurance|522291|Consumer lending|1997|Reference year 1997|808|8 largest firms|2914||11893420||57.399032933||1093647||286365||35629|
+01000US|United States|1|United States|52|Finance and insurance|522291|Consumer lending|1997|Reference year 1997|820|20 largest firms|5962||15848700||76.487675811||1790621||492098||58674|
+01000US|United States|1|United States|52|Finance and insurance|522291|Consumer lending|1997|Reference year 1997|850|50 largest firms|7273||17674163||85.297573289||2051388||561672||66457|
+01000US|United States|1|United States|52|Finance and insurance|522292|Real estate credit|1997|Reference year 1997|003|All firms|17959||37477199||100||9070227||2071235||215849|
+01000US|United States|1|United States|52|Finance and insurance|522292|Real estate credit|1997|Reference year 1997|804|4 largest firms|1173||5113637||13.644661651||945742||238032||19275|
+01000US|United States|1|United States|52|Finance and insurance|522292|Real estate credit|1997|Reference year 1997|808|8 largest firms|2855||8270657||22.068503572||1460862||363423||33442|
+01000US|United States|1|United States|52|Finance and insurance|522292|Real estate credit|1997|Reference year 1997|820|20 largest firms|4482||14119267||37.674285637||2497674||605669||57513|
+01000US|United States|1|United States|52|Finance and insurance|522292|Real estate credit|1997|Reference year 1997|850|50 largest firms|6659||21342882||56.948978498||4009195||974661||97041|
+01000US|United States|1|United States|52|Finance and insurance|522293|International trade financing|1997|Reference year 1997|003|All firms|194||3108579||100||340945||105012||4577|
+01000US|United States|1|United States|52|Finance and insurance|522293|International trade financing|1997|Reference year 1997|804|4 largest firms|41||1300024||41.820523139||164243||51753||1692|
+01000US|United States|1|United States|52|Finance and insurance|522293|International trade financing|1997|Reference year 1997|808|8 largest firms|46||1833454||58.98045377||180284||56151||1916|
+01000US|United States|1|United States|52|Finance and insurance|522293|International trade financing|1997|Reference year 1997|820|20 largest firms|71||2396569||77.095322332||232513||69775||2849|
+01000US|United States|1|United States|52|Finance and insurance|522293|International trade financing|1997|Reference year 1997|850|50 largest firms|107||2958966||95.187093524||310626||96801||3997|
+01000US|United States|1|United States|52|Finance and insurance|522294|Secondary market financing|1997|Reference year 1997|003|All firms|210||48948530||100||999636||283265||13692|
+01000US|United States|1|United States|52|Finance and insurance|522294|Secondary market financing|1997|Reference year 1997|804|4 largest firms|30||47940427||97.940483606||877012||255189||11203|
+01000US|United States|1|United States|52|Finance and insurance|522294|Secondary market financing|1997|Reference year 1997|808|8 largest firms|83||48335483||98.747568109||913569||263088||11699|
+01000US|United States|1|United States|52|Finance and insurance|522294|Secondary market financing|1997|Reference year 1997|820|20 largest firms|104||48844620||99.78771579||982255||279071||13220|
+01000US|United States|1|United States|52|Finance and insurance|522294|Secondary market financing|1997|Reference year 1997|850|50 largest firms|136||48931068||99.964325793||995150||282273||13521|
+01000US|United States|1|United States|52|Finance and insurance|522298|All other nondepository credit intermediation|1997|Reference year 1997|003|All firms|7339|r|16322498|r|100||1615914|r|395356|r|45059|r
+01000US|United States|1|United States|52|Finance and insurance|522298|All other nondepository credit intermediation|1997|Reference year 1997|804|4 largest firms|77||4897770||30.006252719||282389||65131||4641|
+01000US|United States|1|United States|52|Finance and insurance|522298|All other nondepository credit intermediation|1997|Reference year 1997|808|8 largest firms|225||7167149||43.909633195||362684||84474||6252|
+01000US|United States|1|United States|52|Finance and insurance|522298|All other nondepository credit intermediation|1997|Reference year 1997|820|20 largest firms|736||9890749||60.595804637||561088||141808||10801|
+01000US|United States|1|United States|52|Finance and insurance|522298|All other nondepository credit intermediation|1997|Reference year 1997|850|50 largest firms|1207||12020629||73.644542643||813107||209528||16396|
+01000US|United States|1|United States|52|Finance and insurance|5222981|Pawn shops|1997|Reference year 1997|003|All firms|5581||2051134||100||445449||103110||22463|
+01000US|United States|1|United States|52|Finance and insurance|5222981|Pawn shops|1997|Reference year 1997|804|4 largest firms|666||400771||19.538996477||86022||20797||4235|
+01000US|United States|1|United States|52|Finance and insurance|5222981|Pawn shops|1997|Reference year 1997|808|8 largest firms|754||478462||23.326706105||98171||23734||4833|
+01000US|United States|1|United States|52|Finance and insurance|5222981|Pawn shops|1997|Reference year 1997|820|20 largest firms|808||589862||28.757848098||118991||28450||5728|
+01000US|United States|1|United States|52|Finance and insurance|5222981|Pawn shops|1997|Reference year 1997|850|50 largest firms|938||707016||34.469517837||142804||33909||6702|
+01000US|United States|1|United States|52|Finance and insurance|5223|Activities related to credit intermediation|1997|Reference year 1997|003|All firms|16410|r|46463329|r|100||5832696|r|1338312|r|170463|r
+01000US|United States|1|United States|52|Finance and insurance|5223|Activities related to credit intermediation|1997|Reference year 1997|804|4 largest firms|34||11899574||25.610678908||138606||37917||7208|
+01000US|United States|1|United States|52|Finance and insurance|5223|Activities related to credit intermediation|1997|Reference year 1997|808|8 largest firms|39||17999813||38.739826412||269498||77429||10601|
+01000US|United States|1|United States|52|Finance and insurance|5223|Activities related to credit intermediation|1997|Reference year 1997|820|20 largest firms|180||30153346||64.897084753||1176708||302007||31320|
+01000US|United States|1|United States|52|Finance and insurance|5223|Activities related to credit intermediation|1997|Reference year 1997|850|50 largest firms|1326||35345261||76.07130561||2203058||561074||63245|
+01000US|United States|1|United States|52|Finance and insurance|52231|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|003|All firms|8967||5087429||100||1895660||377167||49341|
+01000US|United States|1|United States|52|Finance and insurance|52231|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|804|4 largest firms|14||145709||2.8640989388||28833||7077||520|
+01000US|United States|1|United States|52|Finance and insurance|52231|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|808|8 largest firms|57||220728||4.3386944565||61827||13155||1023|
+01000US|United States|1|United States|52|Finance and insurance|52231|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|820|20 largest firms|218||404928||7.9593838066||122925||25603||2163|
+01000US|United States|1|United States|52|Finance and insurance|52231|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|850|50 largest firms|368||737882||14.504025511||238246||47907||4604|
+01000US|United States|1|United States|52|Finance and insurance|522310|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|003|All firms|8967||5087429||100||1895660||377167||49341|
+01000US|United States|1|United States|52|Finance and insurance|522310|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|804|4 largest firms|14||145709||2.8640989388||28833||7077||520|
+01000US|United States|1|United States|52|Finance and insurance|522310|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|808|8 largest firms|57||220728||4.3386944565||61827||13155||1023|
+01000US|United States|1|United States|52|Finance and insurance|522310|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|820|20 largest firms|218||404928||7.9593838066||122925||25603||2163|
+01000US|United States|1|United States|52|Finance and insurance|522310|Mortgage & nonmortgage loan brokers|1997|Reference year 1997|850|50 largest firms|368||737882||14.504025511||238246||47907||4604|
+01000US|United States|1|United States|52|Finance and insurance|52232|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|003|All firms|1239|r|34779975|r|100||2257276|r|556910|r|63727|r
+01000US|United States|1|United States|52|Finance and insurance|52232|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|804|4 largest firms|34||11899574||34.213865881||138606||37917||7208|
+01000US|United States|1|United States|52|Finance and insurance|52232|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|808|8 largest firms|39||17999813||51.753381076||269498||77429||10601|
+01000US|United States|1|United States|52|Finance and insurance|52232|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|820|20 largest firms|102||29243146||84.080411214||981461||255376||23899|
+01000US|United States|1|United States|52|Finance and insurance|52232|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|850|50 largest firms|346||33158119||95.336810909||1850706||464570||50790|
+01000US|United States|1|United States|52|Finance and insurance|522320|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|003|All firms|1239|r|34779975|r|100||2257276|r|556910|r|63727|r
+01000US|United States|1|United States|52|Finance and insurance|522320|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|804|4 largest firms|34||11899574||34.213865881||138606||37917||7208|
+01000US|United States|1|United States|52|Finance and insurance|522320|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|808|8 largest firms|39||17999813||51.753381076||269498||77429||10601|
+01000US|United States|1|United States|52|Finance and insurance|522320|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|820|20 largest firms|102||29243146||84.080411214||981461||255376||23899|
+01000US|United States|1|United States|52|Finance and insurance|522320|Financial transactions processing, reserve, & clearinghouse act|1997|Reference year 1997|850|50 largest firms|346||33158119||95.336810909||1850706||464570||50790|
+01000US|United States|1|United States|52|Finance and insurance|5223201|Other central reserve depository institutions|1997|Reference year 1997|003|All firms|21||18915837||100||107307||28652||2041|
+01000US|United States|1|United States|52|Finance and insurance|5223201|Other central reserve depository institutions|1997|Reference year 1997|804|4 largest firms|5||8828859||46.674429474||41527||11587||675|
+01000US|United States|1|United States|52|Finance and insurance|5223201|Other central reserve depository institutions|1997|Reference year 1997|808|8 largest firms|10||14545349||76.895085319||70799||19111||1270|
+01000US|United States|1|United States|52|Finance and insurance|5223201|Other central reserve depository institutions|1997|Reference year 1997|820|20 largest firms|21||18915837||100||107307||28652||2041|
+01000US|United States|1|United States|52|Finance and insurance|5223201|Other central reserve depository institutions|1997|Reference year 1997|850|50 largest firms|21||18915837||100||107307||28652||2041|
+01000US|United States|1|United States|52|Finance and insurance|52239|Other activities related to credit intermediation|1997|Reference year 1997|003|All firms|6204||6595925||100||1679760||404235||57395|
+01000US|United States|1|United States|52|Finance and insurance|52239|Other activities related to credit intermediation|1997|Reference year 1997|804|4 largest firms|55||1702533||25.811891433||263636||70378||7161|
+01000US|United States|1|United States|52|Finance and insurance|52239|Other activities related to credit intermediation|1997|Reference year 1997|808|8 largest firms|107||2287182||34.675682334||384837||98741||10159|
+01000US|United States|1|United States|52|Finance and insurance|52239|Other activities related to credit intermediation|1997|Reference year 1997|820|20 largest firms|1035||3320899||50.347737429||605630||153333||19673|
+01000US|United States|1|United States|52|Finance and insurance|52239|Other activities related to credit intermediation|1997|Reference year 1997|850|50 largest firms|1361||4269355||64.727161088||892659||227608||28858|
+01000US|United States|1|United States|52|Finance and insurance|522390|Other activities related to credit intermediation|1997|Reference year 1997|003|All firms|6204||6595925||100||1679760||404235||57395|
+01000US|United States|1|United States|52|Finance and insurance|522390|Other activities related to credit intermediation|1997|Reference year 1997|804|4 largest firms|55||1702533||25.811891433||263636||70378||7161|
+01000US|United States|1|United States|52|Finance and insurance|522390|Other activities related to credit intermediation|1997|Reference year 1997|808|8 largest firms|107||2287182||34.675682334||384837||98741||10159|
+01000US|United States|1|United States|52|Finance and insurance|522390|Other activities related to credit intermediation|1997|Reference year 1997|820|20 largest firms|1035||3320899||50.347737429||605630||153333||19673|
+01000US|United States|1|United States|52|Finance and insurance|522390|Other activities related to credit intermediation|1997|Reference year 1997|850|50 largest firms|1361||4269355||64.727161088||892659||227608||28858|
+01000US|United States|1|United States|52|Finance and insurance|523|Securities intermediation & related activities|1997|Reference year 1997|003|All firms|54491||274986724||100||71281305||21414600||706053|
+01000US|United States|1|United States|52|Finance and insurance|523|Securities intermediation & related activities|1997|Reference year 1997|804|4 largest firms|2445||52975576||19.264775852||10980836||3795499||88842|
+01000US|United States|1|United States|52|Finance and insurance|523|Securities intermediation & related activities|1997|Reference year 1997|808|8 largest firms|3434||79859250||29.041129273||18191620||6239787||141108|
+01000US|United States|1|United States|52|Finance and insurance|523|Securities intermediation & related activities|1997|Reference year 1997|850|50 largest firms|9336||167365137||60.862988062||37828645||13091450||321440|
+01000US|United States|1|United States|52|Finance and insurance|5231|Securities & commodity contracts intermediation & brokerage|1997|Reference year 1997|003|All firms|26049||196417397||100||49982735||16124007||449201|
+01000US|United States|1|United States|52|Finance and insurance|5231|Securities & commodity contracts intermediation & brokerage|1997|Reference year 1997|804|4 largest firms|2289||52363385||26.659239864||10796281||3739852||86324|
+01000US|United States|1|United States|52|Finance and insurance|5231|Securities & commodity contracts intermediation & brokerage|1997|Reference year 1997|808|8 largest firms|3241||78344168||39.886572776||17794026||6088017||136754|
+01000US|United States|1|United States|52|Finance and insurance|5231|Securities & commodity contracts intermediation & brokerage|1997|Reference year 1997|820|20 largest firms|4561||123316381||62.782820098||28106256||10201380||211562|
+01000US|United States|1|United States|52|Finance and insurance|5231|Securities & commodity contracts intermediation & brokerage|1997|Reference year 1997|850|50 largest firms|8996||150696502||76.722583794||34790115||12398530||274222|
+01000US|United States|1|United States|52|Finance and insurance|52311|Investment banking & securities dealing|1997|Reference year 1997|003|All firms|4136||118385783||100||22330285||8494843||140782|
+01000US|United States|1|United States|52|Finance and insurance|52311|Investment banking & securities dealing|1997|Reference year 1997|808|8 largest firms|52||61488156||51.938800793||9518074||4171369||41853|
+01000US|United States|1|United States|52|Finance and insurance|52311|Investment banking & securities dealing|1997|Reference year 1997|820|20 largest firms|152||90164354||76.161471179||14015319||5937461||65478|
+01000US|United States|1|United States|52|Finance and insurance|52311|Investment banking & securities dealing|1997|Reference year 1997|850|50 largest firms|590||104583080||88.340911679||17426725||7315826||94578|
+01000US|United States|1|United States|52|Finance and insurance|523110|Investment banking & securities dealing|1997|Reference year 1997|003|All firms|4136||118385783||100||22330285||8494843||140782|
+01000US|United States|1|United States|52|Finance and insurance|523110|Investment banking & securities dealing|1997|Reference year 1997|804|4 largest firms|38||40915983||34.56156809||6528775||2856670||32718|
+01000US|United States|1|United States|52|Finance and insurance|523110|Investment banking & securities dealing|1997|Reference year 1997|808|8 largest firms|52||61488156||51.938800793||9518074||4171369||41853|
+01000US|United States|1|United States|52|Finance and insurance|523110|Investment banking & securities dealing|1997|Reference year 1997|820|20 largest firms|152||90164354||76.161471179||14015319||5937461||65478|
+01000US|United States|1|United States|52|Finance and insurance|523110|Investment banking & securities dealing|1997|Reference year 1997|850|50 largest firms|590||104583080||88.340911679||17426725||7315826||94578|
+01000US|United States|1|United States|52|Finance and insurance|52312|Securities brokerage|1997|Reference year 1997|003|All firms|19869||72756442||100||26519842||7346524||290656|
+01000US|United States|1|United States|52|Finance and insurance|52312|Securities brokerage|1997|Reference year 1997|804|4 largest firms|2712||27463290||37.746884324||8869438||2544258||87875|
+01000US|United States|1|United States|52|Finance and insurance|52312|Securities brokerage|1997|Reference year 1997|808|8 largest firms|3564||37275924||51.233846757||13309390||3921840||136223|
+01000US|United States|1|United States|52|Finance and insurance|52312|Securities brokerage|1997|Reference year 1997|820|20 largest firms|8114||45657867||62.754397748||16696309||4857510||173121|
+01000US|United States|1|United States|52|Finance and insurance|52312|Securities brokerage|1997|Reference year 1997|850|50 largest firms|9194||53494085||73.524877701||19748158||5628024||203343|
+01000US|United States|1|United States|52|Finance and insurance|523120|Securities brokerage|1997|Reference year 1997|003|All firms|19869||72756442||100||26519842||7346524||290656|
+01000US|United States|1|United States|52|Finance and insurance|523120|Securities brokerage|1997|Reference year 1997|804|4 largest firms|2712||27463290||37.746884324||8869438||2544258||87875|
+01000US|United States|1|United States|52|Finance and insurance|523120|Securities brokerage|1997|Reference year 1997|808|8 largest firms|3564||37275924||51.233846757||13309390||3921840||136223|
+01000US|United States|1|United States|52|Finance and insurance|523120|Securities brokerage|1997|Reference year 1997|820|20 largest firms|8114||45657867||62.754397748||16696309||4857510||173121|
+01000US|United States|1|United States|52|Finance and insurance|523120|Securities brokerage|1997|Reference year 1997|850|50 largest firms|9194||53494085||73.524877701||19748158||5628024||203343|
+01000US|United States|1|United States|52|Finance and insurance|52313|Commodity contracts dealing|1997|Reference year 1997|003|All firms|630||2241406||100||340990||83747||4519|
+01000US|United States|1|United States|52|Finance and insurance|52313|Commodity contracts dealing|1997|Reference year 1997|804|4 largest firms|10||1003905||44.789074358||83964||25944||474|
+01000US|United States|1|United States|52|Finance and insurance|52313|Commodity contracts dealing|1997|Reference year 1997|808|8 largest firms|15||1317389||58.775117047||119302||30887||618|
+01000US|United States|1|United States|52|Finance and insurance|52313|Commodity contracts dealing|1997|Reference year 1997|820|20 largest firms|29||1662832||74.187005835||177717||45598||1131|
+01000US|United States|1|United States|52|Finance and insurance|52313|Commodity contracts dealing|1997|Reference year 1997|850|50 largest firms|78||1991910||88.868772547||263335||66151||2286|
+01000US|United States|1|United States|52|Finance and insurance|523130|Commodity contracts dealing|1997|Reference year 1997|003|All firms|630||2241406||100||340990||83747||4519|
+01000US|United States|1|United States|52|Finance and insurance|523130|Commodity contracts dealing|1997|Reference year 1997|804|4 largest firms|10||1003905||44.789074358||83964||25944||474|
+01000US|United States|1|United States|52|Finance and insurance|523130|Commodity contracts dealing|1997|Reference year 1997|808|8 largest firms|15||1317389||58.775117047||119302||30887||618|
+01000US|United States|1|United States|52|Finance and insurance|523130|Commodity contracts dealing|1997|Reference year 1997|820|20 largest firms|29||1662832||74.187005835||177717||45598||1131|
+01000US|United States|1|United States|52|Finance and insurance|523130|Commodity contracts dealing|1997|Reference year 1997|850|50 largest firms|78||1991910||88.868772547||263335||66151||2286|
+01000US|United States|1|United States|52|Finance and insurance|52314|Commodity contracts brokerage|1997|Reference year 1997|003|All firms|1414||3033766||100||791618||198893||13244|
+01000US|United States|1|United States|52|Finance and insurance|52314|Commodity contracts brokerage|1997|Reference year 1997|804|4 largest firms|16||468415||15.440050419||77605||18943||1636|
+01000US|United States|1|United States|52|Finance and insurance|52314|Commodity contracts brokerage|1997|Reference year 1997|808|8 largest firms|28||799073||26.339308965||130216||35644||2753|
+01000US|United States|1|United States|52|Finance and insurance|52314|Commodity contracts brokerage|1997|Reference year 1997|820|20 largest firms|68||1447397||47.709579447||260053||63154||4764|
+01000US|United States|1|United States|52|Finance and insurance|52314|Commodity contracts brokerage|1997|Reference year 1997|850|50 largest firms|115||1994829||65.754214399||412912||111502||6542|
+01000US|United States|1|United States|52|Finance and insurance|523140|Commodity contracts brokerage|1997|Reference year 1997|003|All firms|1414||3033766||100||791618||198893||13244|
+01000US|United States|1|United States|52|Finance and insurance|523140|Commodity contracts brokerage|1997|Reference year 1997|804|4 largest firms|16||468415||15.440050419||77605||18943||1636|
+01000US|United States|1|United States|52|Finance and insurance|523140|Commodity contracts brokerage|1997|Reference year 1997|808|8 largest firms|28||799073||26.339308965||130216||35644||2753|
+01000US|United States|1|United States|52|Finance and insurance|523140|Commodity contracts brokerage|1997|Reference year 1997|820|20 largest firms|68||1447397||47.709579447||260053||63154||4764|
+01000US|United States|1|United States|52|Finance and insurance|523140|Commodity contracts brokerage|1997|Reference year 1997|850|50 largest firms|115||1994829||65.754214399||412912||111502||6542|
+01000US|United States|1|United States|52|Finance and insurance|5232|Securities & commodity exchanges|1997|Reference year 1997|003|All firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|5232|Securities & commodity exchanges|1997|Reference year 1997|804|4 largest firms|9||1394618||73.395384771||255170||90107||3402|
+01000US|United States|1|United States|52|Finance and insurance|5232|Securities & commodity exchanges|1997|Reference year 1997|808|8 largest firms|15||1785852||93.985087446||398583||120629||5927|
+01000US|United States|1|United States|52|Finance and insurance|5232|Securities & commodity exchanges|1997|Reference year 1997|820|20 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|5232|Securities & commodity exchanges|1997|Reference year 1997|850|50 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|52321|Securities & commodity exchanges|1997|Reference year 1997|003|All firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|52321|Securities & commodity exchanges|1997|Reference year 1997|804|4 largest firms|9||1394618||73.395384771||255170||90107||3402|
+01000US|United States|1|United States|52|Finance and insurance|52321|Securities & commodity exchanges|1997|Reference year 1997|808|8 largest firms|15||1785852||93.985087446||398583||120629||5927|
+01000US|United States|1|United States|52|Finance and insurance|52321|Securities & commodity exchanges|1997|Reference year 1997|820|20 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|52321|Securities & commodity exchanges|1997|Reference year 1997|850|50 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|523210|Securities & commodity exchanges|1997|Reference year 1997|003|All firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|523210|Securities & commodity exchanges|1997|Reference year 1997|804|4 largest firms|9||1394618||73.395384771||255170||90107||3402|
+01000US|United States|1|United States|52|Finance and insurance|523210|Securities & commodity exchanges|1997|Reference year 1997|808|8 largest firms|15||1785852||93.985087446||398583||120629||5927|
+01000US|United States|1|United States|52|Finance and insurance|523210|Securities & commodity exchanges|1997|Reference year 1997|820|20 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|523210|Securities & commodity exchanges|1997|Reference year 1997|850|50 largest firms|30||1900144||100||441511||130762||6716|
+01000US|United States|1|United States|52|Finance and insurance|5239|Other financial investment activities|1997|Reference year 1997|003|All firms|28412||76669183||100||20857059||5159831||250136|
+01000US|United States|1|United States|52|Finance and insurance|5239|Other financial investment activities|1997|Reference year 1997|804|4 largest firms|205||9104401||11.874915897||1696642||504121||25548|
+01000US|United States|1|United States|52|Finance and insurance|5239|Other financial investment activities|1997|Reference year 1997|808|8 largest firms|296||13615078||17.758214536||2692121||675373||36667|
+01000US|United States|1|United States|52|Finance and insurance|5239|Other financial investment activities|1997|Reference year 1997|820|20 largest firms|516||21274694||27.748690109||4482818||1268140||56285|
+01000US|United States|1|United States|52|Finance and insurance|5239|Other financial investment activities|1997|Reference year 1997|850|50 largest firms|1007||31029847||40.472385104||6958628||2058476||85325|
+01000US|United States|1|United States|52|Finance and insurance|52391|Miscellaneous intermediation|1997|Reference year 1997|003|All firms|7190||15345899||100||1592391||390688||30381|
+01000US|United States|1|United States|52|Finance and insurance|52391|Miscellaneous intermediation|1997|Reference year 1997|804|4 largest firms|7||1948294||12.695860959||44537||13450||223|
+01000US|United States|1|United States|52|Finance and insurance|52391|Miscellaneous intermediation|1997|Reference year 1997|808|8 largest firms|17||3098610||20.191778924||73915||16716||709|
+01000US|United States|1|United States|52|Finance and insurance|52391|Miscellaneous intermediation|1997|Reference year 1997|820|20 largest firms|42||4615130||30.074028247||141018||40362||1239|
+01000US|United States|1|United States|52|Finance and insurance|52391|Miscellaneous intermediation|1997|Reference year 1997|850|50 largest firms|102||6523667||42.510816734||217296||61184||2017|
+01000US|United States|1|United States|52|Finance and insurance|523910|Miscellaneous intermediation|1997|Reference year 1997|003|All firms|7190||15345899||100||1592391||390688||30381|
+01000US|United States|1|United States|52|Finance and insurance|523910|Miscellaneous intermediation|1997|Reference year 1997|804|4 largest firms|7||1948294||12.695860959||44537||13450||223|
+01000US|United States|1|United States|52|Finance and insurance|523910|Miscellaneous intermediation|1997|Reference year 1997|808|8 largest firms|17||3098610||20.191778924||73915||16716||709|
+01000US|United States|1|United States|52|Finance and insurance|523910|Miscellaneous intermediation|1997|Reference year 1997|820|20 largest firms|42||4615130||30.074028247||141018||40362||1239|
+01000US|United States|1|United States|52|Finance and insurance|523910|Miscellaneous intermediation|1997|Reference year 1997|850|50 largest firms|102||6523667||42.510816734||217296||61184||2017|
+01000US|United States|1|United States|52|Finance and insurance|52392|Portfolio management|1997|Reference year 1997|003|All firms|10888||43642899||100||13532909||3417028||123971|
+01000US|United States|1|United States|52|Finance and insurance|52392|Portfolio management|1997|Reference year 1997|804|4 largest firms|37||6652481||15.242986035||1490042||417844||16418|
+01000US|United States|1|United States|52|Finance and insurance|52392|Portfolio management|1997|Reference year 1997|808|8 largest firms|63||10026069||22.972967492||2042622||538159||23466|
+01000US|United States|1|United States|52|Finance and insurance|52392|Portfolio management|1997|Reference year 1997|820|20 largest firms|189||16347580||37.45759419||3663267||1073344||37367|
+01000US|United States|1|United States|52|Finance and insurance|52392|Portfolio management|1997|Reference year 1997|850|50 largest firms|488||23324678||53.444382785||5899322||1732445||54106|
+01000US|United States|1|United States|52|Finance and insurance|523920|Portfolio management|1997|Reference year 1997|003|All firms|10888||43642899||100||13532909||3417028||123971|
+01000US|United States|1|United States|52|Finance and insurance|523920|Portfolio management|1997|Reference year 1997|804|4 largest firms|37||6652481||15.242986035||1490042||417844||16418|
+01000US|United States|1|United States|52|Finance and insurance|523920|Portfolio management|1997|Reference year 1997|808|8 largest firms|63||10026069||22.972967492||2042622||538159||23466|
+01000US|United States|1|United States|52|Finance and insurance|523920|Portfolio management|1997|Reference year 1997|820|20 largest firms|189||16347580||37.45759419||3663267||1073344||37367|
+01000US|United States|1|United States|52|Finance and insurance|523920|Portfolio management|1997|Reference year 1997|850|50 largest firms|488||23324678||53.444382785||5899322||1732445||54106|
+01000US|United States|1|United States|52|Finance and insurance|52393|Investment advice|1997|Reference year 1997|003|All firms|7807||9397908||100||3197389||737976||42929|
+01000US|United States|1|United States|52|Finance and insurance|52393|Investment advice|1997|Reference year 1997|804|4 largest firms|207||1781382||18.955090856||255265||73554||8303|
+01000US|United States|1|United States|52|Finance and insurance|52393|Investment advice|1997|Reference year 1997|808|8 largest firms|213||2410871||25.653273048||365597||102099||9064|
+01000US|United States|1|United States|52|Finance and insurance|52393|Investment advice|1997|Reference year 1997|820|20 largest firms|271||3366657||35.823472628||619620||163966||11524|
+01000US|United States|1|United States|52|Finance and insurance|52393|Investment advice|1997|Reference year 1997|850|50 largest firms|456||4533953||48.244279472||1210914||314766||16425|
+01000US|United States|1|United States|52|Finance and insurance|523930|Investment advice|1997|Reference year 1997|003|All firms|7807||9397908||100||3197389||737976||42929|
+01000US|United States|1|United States|52|Finance and insurance|523930|Investment advice|1997|Reference year 1997|804|4 largest firms|207||1781382||18.955090856||255265||73554||8303|
+01000US|United States|1|United States|52|Finance and insurance|523930|Investment advice|1997|Reference year 1997|808|8 largest firms|213||2410871||25.653273048||365597||102099||9064|
+01000US|United States|1|United States|52|Finance and insurance|523930|Investment advice|1997|Reference year 1997|820|20 largest firms|271||3366657||35.823472628||619620||163966||11524|
+01000US|United States|1|United States|52|Finance and insurance|523930|Investment advice|1997|Reference year 1997|850|50 largest firms|456||4533953||48.244279472||1210914||314766||16425|
+01000US|United States|1|United States|52|Finance and insurance|52399|All other financial investment activities|1997|Reference year 1997|003|All firms|2527||8282477||100||2534370||614139||52855|
+01000US|United States|1|United States|52|Finance and insurance|52399|All other financial investment activities|1997|Reference year 1997|804|4 largest firms|17||2150007||25.958502511||611475||135230||11792|
+01000US|United States|1|United States|52|Finance and insurance|52399|All other financial investment activities|1997|Reference year 1997|808|8 largest firms|130||3087035||37.271881347||764683||178689||14674|
+01000US|United States|1|United States|52|Finance and insurance|52399|All other financial investment activities|1997|Reference year 1997|820|20 largest firms|170||4566396||55.13321679||1226467||286221||24989|
+01000US|United States|1|United States|52|Finance and insurance|52399|All other financial investment activities|1997|Reference year 1997|850|50 largest firms|292||6210734||74.986432199||1830253||435689||34540|
+01000US|United States|1|United States|52|Finance and insurance|523991|Trust, fiduciary, & custody activities|1997|Reference year 1997|003|All firms|2286||6935217||100||2179889||533283||47843|
+01000US|United States|1|United States|52|Finance and insurance|523991|Trust, fiduciary, & custody activities|1997|Reference year 1997|804|4 largest firms|16||2063702||29.756848272||591831||130446||11642|
+01000US|United States|1|United States|52|Finance and insurance|523991|Trust, fiduciary, & custody activities|1997|Reference year 1997|808|8 largest firms|50||2866024||41.32565715||859685||193465||16599|
+01000US|United States|1|United States|52|Finance and insurance|523991|Trust, fiduciary, & custody activities|1997|Reference year 1997|820|20 largest firms|167||4180151||60.274263949||1194876||278185||24766|
+01000US|United States|1|United States|52|Finance and insurance|523991|Trust, fiduciary, & custody activities|1997|Reference year 1997|850|50 largest firms|302||5476839||78.971415026||1655246||399604||33019|
+01000US|United States|1|United States|52|Finance and insurance|523999|Miscellaneous financial investment activities|1997|Reference year 1997|003|All firms|241||1347260||100||354481||80856||5012|
+01000US|United States|1|United States|52|Finance and insurance|523999|Miscellaneous financial investment activities|1997|Reference year 1997|804|4 largest firms|8||568087||42.166100085||68080||18230||1584|
+01000US|United States|1|United States|52|Finance and insurance|523999|Miscellaneous financial investment activities|1997|Reference year 1997|808|8 largest firms|16||816319||60.591051467||171673||33622||2374|
+01000US|United States|1|United States|52|Finance and insurance|523999|Miscellaneous financial investment activities|1997|Reference year 1997|820|20 largest firms|36||1146332||85.086174903||306780||70877||4121|
+01000US|United States|1|United States|52|Finance and insurance|523999|Miscellaneous financial investment activities|1997|Reference year 1997|850|50 largest firms|69||1293932||96.041743984||339766||77570||4641|
+01000US|United States|1|United States|52|Finance and insurance|524|Insurance carriers & related activities|1997|Reference year 1997|003|All firms|172299||1072784074||100||92230010||23448511||2327306|
+01000US|United States|1|United States|52|Finance and insurance|524|Insurance carriers & related activities|1997|Reference year 1997|804|4 largest firms|3636||147426650||13.742434622||9503653||2488713||272137|
+01000US|United States|1|United States|52|Finance and insurance|524|Insurance carriers & related activities|1997|Reference year 1997|808|8 largest firms|16463||233932237||21.806087792||15419123||4040361||391107|
+01000US|United States|1|United States|52|Finance and insurance|524|Insurance carriers & related activities|1997|Reference year 1997|820|20 largest firms|18960||406607159||37.902050269||25536685||6701222||609600|
+01000US|United States|1|United States|52|Finance and insurance|524|Insurance carriers & related activities|1997|Reference year 1997|850|50 largest firms|23421||610594213||56.916785754||37854906||9930650||897847|
+01000US|United States|1|United States|52|Finance and insurance|5241|Insurance carriers|1997|Reference year 1997|003|All firms|38739||995511823||100||65858315||17154803||1588015|
+01000US|United States|1|United States|52|Finance and insurance|5241|Insurance carriers|1997|Reference year 1997|804|4 largest firms|3610||147291697||14.795574859||9459945||2479283||269939|
+01000US|United States|1|United States|52|Finance and insurance|5241|Insurance carriers|1997|Reference year 1997|808|8 largest firms|16127||232822243||23.387190149||14998129||3936709||380485|
+01000US|United States|1|United States|52|Finance and insurance|5241|Insurance carriers|1997|Reference year 1997|820|20 largest firms|18481||404486714||40.631030657||24813575||6520399||592260|
+01000US|United States|1|United States|52|Finance and insurance|5241|Insurance carriers|1997|Reference year 1997|850|50 largest firms|22468||606179359||60.891226502||36447012||9562060||862158|
+01000US|United States|1|United States|52|Finance and insurance|52411|Direct life, health, & medical insurance carriers|1997|Reference year 1997|003|All firms|14615||666531816||100||34474359||9097402||889018|
+01000US|United States|1|United States|52|Finance and insurance|52411|Direct life, health, & medical insurance carriers|1997|Reference year 1997|804|4 largest firms|3226||106226080||15.9371357||5840669||1629916||170474|
+01000US|United States|1|United States|52|Finance and insurance|52411|Direct life, health, & medical insurance carriers|1997|Reference year 1997|808|8 largest firms|4036||166942161||25.046390434||8839053||2408680||234982|
+01000US|United States|1|United States|52|Finance and insurance|52411|Direct life, health, & medical insurance carriers|1997|Reference year 1997|820|20 largest firms|5601||293466771||44.028921644||14359575||3864525||375054|
+01000US|United States|1|United States|52|Finance and insurance|52411|Direct life, health, & medical insurance carriers|1997|Reference year 1997|850|50 largest firms|7498||440252609||66.051251933||20439305||5475677||510807|
+01000US|United States|1|United States|52|Finance and insurance|524113|Direct life insurance carriers|1997|Reference year 1997|003|All firms|11406||463375832||100||21852188||5865231||561385|
+01000US|United States|1|United States|52|Finance and insurance|524113|Direct life insurance carriers|1997|Reference year 1997|804|4 largest firms|3149||97125123||20.960334202||5372394||1513542||158906|
+01000US|United States|1|United States|52|Finance and insurance|524113|Direct life insurance carriers|1997|Reference year 1997|808|8 largest firms|3461||152489479||32.908379866||6842774||1909786||189179|
+01000US|United States|1|United States|52|Finance and insurance|524113|Direct life insurance carriers|1997|Reference year 1997|820|20 largest firms|5018||261120419||56.35175617||11252312||3102510||291592|
+01000US|United States|1|United States|52|Finance and insurance|524113|Direct life insurance carriers|1997|Reference year 1997|850|50 largest firms|6981||370588801||79.975858775||15788476||4307055||396286|
+01000US|United States|1|United States|52|Finance and insurance|524114|Direct health & medical insurance carriers|1997|Reference year 1997|003|All firms|3209||203155984||100||12622171||3232171||327633|
+01000US|United States|1|United States|52|Finance and insurance|524114|Direct health & medical insurance carriers|1997|Reference year 1997|804|4 largest firms|310||41461382||20.408644227||2086997||528982||51300|
+01000US|United States|1|United States|52|Finance and insurance|524114|Direct health & medical insurance carriers|1997|Reference year 1997|808|8 largest firms|970||66046440||32.510211464||3944552||1007159||98887|
+01000US|United States|1|United States|52|Finance and insurance|524114|Direct health & medical insurance carriers|1997|Reference year 1997|820|20 largest firms|1198||105929537||52.141972348||6165649||1586736||151957|
+01000US|United States|1|United States|52|Finance and insurance|524114|Direct health & medical insurance carriers|1997|Reference year 1997|850|50 largest firms|1576||152812506||75.219298487||8753475||2269743||219270|
+01000US|United States|1|United States|52|Finance and insurance|52412|Other direct insurance carriers|1997|Reference year 1997|003|All firms|23561||307694978||100||30374111||7784456||683119|
+01000US|United States|1|United States|52|Finance and insurance|52412|Other direct insurance carriers|1997|Reference year 1997|804|4 largest firms|11894||82657632||26.863497265||7699264||1907463||169704|
+01000US|United States|1|United States|52|Finance and insurance|52412|Other direct insurance carriers|1997|Reference year 1997|808|8 largest firms|12357||117751345||38.268855009||10877938||2729256||234380|
+01000US|United States|1|United States|52|Finance and insurance|52412|Other direct insurance carriers|1997|Reference year 1997|820|20 largest firms|14971||181051941||58.84137017||17081402||4339795||374710|
+01000US|United States|1|United States|52|Finance and insurance|52412|Other direct insurance carriers|1997|Reference year 1997|850|50 largest firms|17607||234737694||76.289088475||22568782||5819644||498317|
+01000US|United States|1|United States|52|Finance and insurance|524126|Direct property & casualty insurance carriers|1997|Reference year 1997|003|All firms|20903||299236173||100||28655057||7347921||639751|
+01000US|United States|1|United States|52|Finance and insurance|524126|Direct property & casualty insurance carriers|1997|Reference year 1997|804|4 largest firms|11894||82657632||27.622874324||7699264||1907463||169704|
+01000US|United States|1|United States|52|Finance and insurance|524126|Direct property & casualty insurance carriers|1997|Reference year 1997|808|8 largest firms|12357||117751345||39.350638601||10877938||2729256||234380|
+01000US|United States|1|United States|52|Finance and insurance|524126|Direct property & casualty insurance carriers|1997|Reference year 1997|820|20 largest firms|14971||181051941||60.504697405||17081402||4339795||374710|
+01000US|United States|1|United States|52|Finance and insurance|524126|Direct property & casualty insurance carriers|1997|Reference year 1997|850|50 largest firms|16454||232848787||77.81438476||21863669||5631297||482006|
+01000US|United States|1|United States|52|Finance and insurance|524127|Direct title insurance carriers|1997|Reference year 1997|003|All firms|2530||7495840||100||1662774||423303||41793|
+01000US|United States|1|United States|52|Finance and insurance|524127|Direct title insurance carriers|1997|Reference year 1997|804|4 largest firms|1107||4178627||55.745947085||834954||223089||19785|
+01000US|United States|1|United States|52|Finance and insurance|524127|Direct title insurance carriers|1997|Reference year 1997|808|8 largest firms|1688||6461732||86.204241286||1293363||339619||31890|
+01000US|United States|1|United States|52|Finance and insurance|524127|Direct title insurance carriers|1997|Reference year 1997|820|20 largest firms|1880||7022487||93.685124015||1493790||387142||36734|
+01000US|United States|1|United States|52|Finance and insurance|524127|Direct title insurance carriers|1997|Reference year 1997|850|50 largest firms|2022||7292161||97.282772845||1585862||406850||39181|
+01000US|United States|1|United States|52|Finance and insurance|524128|All other direct insurance carriers|1997|Reference year 1997|003|All firms|128||962965||100||56280||13232||1575|
+01000US|United States|1|United States|52|Finance and insurance|524128|All other direct insurance carriers|1997|Reference year 1997|804|4 largest firms|5||550194||57.135409906||12681||3093||392|
+01000US|United States|1|United States|52|Finance and insurance|524128|All other direct insurance carriers|1997|Reference year 1997|808|8 largest firms|9||721622||74.937510709||18416||4517||540|
+01000US|United States|1|United States|52|Finance and insurance|524128|All other direct insurance carriers|1997|Reference year 1997|820|20 largest firms|21||867906||90.128509344||32834||8169||912|
+01000US|United States|1|United States|52|Finance and insurance|524128|All other direct insurance carriers|1997|Reference year 1997|850|50 largest firms|51||943147||97.941981277||49423||11547||1343|
+01000US|United States|1|United States|52|Finance and insurance|52413|Reinsurance carriers|1997|Reference year 1997|003|All firms|563||21285029||100||1009845||272945||15878|
+01000US|United States|1|United States|52|Finance and insurance|52413|Reinsurance carriers|1997|Reference year 1997|804|4 largest firms|57||11882747||55.826783229||359326||105597||6672|
+01000US|United States|1|United States|52|Finance and insurance|52413|Reinsurance carriers|1997|Reference year 1997|808|8 largest firms|76||14611021||68.644590524||487484||144301||7507|
+01000US|United States|1|United States|52|Finance and insurance|52413|Reinsurance carriers|1997|Reference year 1997|820|20 largest firms|234||18195051||85.482857458||712941||200192||10320|
+01000US|United States|1|United States|52|Finance and insurance|52413|Reinsurance carriers|1997|Reference year 1997|850|50 largest firms|310||20631872||96.931378388||888603||242957||12993|
+01000US|United States|1|United States|52|Finance and insurance|524130|Reinsurance carriers|1997|Reference year 1997|003|All firms|563||21285029||100||1009845||272945||15878|
+01000US|United States|1|United States|52|Finance and insurance|524130|Reinsurance carriers|1997|Reference year 1997|804|4 largest firms|57||11882747||55.826783229||359326||105597||6672|
+01000US|United States|1|United States|52|Finance and insurance|524130|Reinsurance carriers|1997|Reference year 1997|808|8 largest firms|76||14611021||68.644590524||487484||144301||7507|
+01000US|United States|1|United States|52|Finance and insurance|524130|Reinsurance carriers|1997|Reference year 1997|820|20 largest firms|234||18195051||85.482857458||712941||200192||10320|
+01000US|United States|1|United States|52|Finance and insurance|524130|Reinsurance carriers|1997|Reference year 1997|850|50 largest firms|310||20631872||96.931378388||888603||242957||12993|
+01000US|United States|1|United States|52|Finance and insurance|5242|Agencies, brokerages, & other insurance related activities|1997|Reference year 1997|003|All firms|133560||77272251||100||26371695||6293708||739291|
+01000US|United States|1|United States|52|Finance and insurance|5242|Agencies, brokerages, & other insurance related activities|1997|Reference year 1997|804|4 largest firms|759||6707870||8.6808264457||2054715||550287||34852|
+01000US|United States|1|United States|52|Finance and insurance|5242|Agencies, brokerages, & other insurance related activities|1997|Reference year 1997|808|8 largest firms|1492||9074946||11.74412015||2876574||769449||54012|
+01000US|United States|1|United States|52|Finance and insurance|5242|Agencies, brokerages, & other insurance related activities|1997|Reference year 1997|820|20 largest firms|2299||12948627||16.757149989||4022519||1062321||81394|
+01000US|United States|1|United States|52|Finance and insurance|5242|Agencies, brokerages, & other insurance related activities|1997|Reference year 1997|850|50 largest firms|2844||16970421||21.961856657||5123846||1352844||107508|
+01000US|United States|1|United States|52|Finance and insurance|52421|Insurance agencies & brokerages|1997|Reference year 1997|003|All firms|120392||59174185||100||19532966||4656629||557670|
+01000US|United States|1|United States|52|Finance and insurance|52421|Insurance agencies & brokerages|1997|Reference year 1997|804|4 largest firms|458||6149799||10.392705873||1721390||467616||30494|
+01000US|United States|1|United States|52|Finance and insurance|52421|Insurance agencies & brokerages|1997|Reference year 1997|808|8 largest firms|757||7703443||13.018249428||2238280||606296||38757|
+01000US|United States|1|United States|52|Finance and insurance|52421|Insurance agencies & brokerages|1997|Reference year 1997|820|20 largest firms|1039||9867118||16.674700294||2735187||735544||49681|
+01000US|United States|1|United States|52|Finance and insurance|52421|Insurance agencies & brokerages|1997|Reference year 1997|850|50 largest firms|1368||12242749||20.689341138||3280229||879539||61147|
+01000US|United States|1|United States|52|Finance and insurance|524210|Insurance agencies & brokerages|1997|Reference year 1997|003|All firms|120392||59174185||100||19532966||4656629||557670|
+01000US|United States|1|United States|52|Finance and insurance|524210|Insurance agencies & brokerages|1997|Reference year 1997|804|4 largest firms|458||6149799||10.392705873||1721390||467616||30494|
+01000US|United States|1|United States|52|Finance and insurance|524210|Insurance agencies & brokerages|1997|Reference year 1997|808|8 largest firms|757||7703443||13.018249428||2238280||606296||38757|
+01000US|United States|1|United States|52|Finance and insurance|524210|Insurance agencies & brokerages|1997|Reference year 1997|820|20 largest firms|1039||9867118||16.674700294||2735187||735544||49681|
+01000US|United States|1|United States|52|Finance and insurance|524210|Insurance agencies & brokerages|1997|Reference year 1997|850|50 largest firms|1368||12242749||20.689341138||3280229||879539||61147|
+01000US|United States|1|United States|52|Finance and insurance|52429|Other insurance related activities|1997|Reference year 1997|003|All firms|13168||18098066||100||6838729||1637079||181621|
+01000US|United States|1|United States|52|Finance and insurance|52429|Other insurance related activities|1997|Reference year 1997|804|4 largest firms|729||1859373||10.273876778||730228||180802||19138|
+01000US|United States|1|United States|52|Finance and insurance|52429|Other insurance related activities|1997|Reference year 1997|808|8 largest firms|1049||2928667||16.182209746||1219714||303139||30134|
+01000US|United States|1|United States|52|Finance and insurance|52429|Other insurance related activities|1997|Reference year 1997|820|20 largest firms|1355||5069402||28.010738827||1747203||450929||43130|
+01000US|United States|1|United States|52|Finance and insurance|52429|Other insurance related activities|1997|Reference year 1997|850|50 largest firms|1769||7313810||40.412108122||2489361||616164||60896|
+01000US|United States|1|United States|52|Finance and insurance|524291|Claims adjusting|1997|Reference year 1997|003|All firms|4443||3494362||100||1389088||342620||38055|
+01000US|United States|1|United States|52|Finance and insurance|524291|Claims adjusting|1997|Reference year 1997|804|4 largest firms|540||1097797||31.416235639||443291||111136||11062|
+01000US|United States|1|United States|52|Finance and insurance|524291|Claims adjusting|1997|Reference year 1997|808|8 largest firms|705||1374943||39.347468866||514514||130100||12787|
+01000US|United States|1|United States|52|Finance and insurance|524291|Claims adjusting|1997|Reference year 1997|820|20 largest firms|872||1750750||50.102135955||637527||159453||15240|
+01000US|United States|1|United States|52|Finance and insurance|524291|Claims adjusting|1997|Reference year 1997|850|50 largest firms|1141||2139572||61.229260163||803303||203427||19871|
+01000US|United States|1|United States|52|Finance and insurance|524292|Third party administration of insurance & pension funds|1997|Reference year 1997|003|All firms|6257||10454217||100||3906542||923706||104456|
+01000US|United States|1|United States|52|Finance and insurance|524292|Third party administration of insurance & pension funds|1997|Reference year 1997|804|4 largest firms|201||1097811||10.501130788||363738||85695||7287|
+01000US|United States|1|United States|52|Finance and insurance|524292|Third party administration of insurance & pension funds|1997|Reference year 1997|808|8 largest firms|330||1797007||17.189302652||552879||137028||12333|
+01000US|United States|1|United States|52|Finance and insurance|524292|Third party administration of insurance & pension funds|1997|Reference year 1997|820|20 largest firms|446||2996662||28.664624046||921125||232806||21747|
+01000US|United States|1|United States|52|Finance and insurance|524292|Third party administration of insurance & pension funds|1997|Reference year 1997|850|50 largest firms|577||4299505||41.126992103||1339981||329940||33114|
+01000US|United States|1|United States|52|Finance and insurance|524298|All other insurance related activities|1997|Reference year 1997|003|All firms|2468||4149487||100||1543099||370753||39110|
+01000US|United States|1|United States|52|Finance and insurance|524298|All other insurance related activities|1997|Reference year 1997|804|4 largest firms|158||1040604||25.077895171||312061||80765||9094|
+01000US|United States|1|United States|52|Finance and insurance|524298|All other insurance related activities|1997|Reference year 1997|808|8 largest firms|319||1632507||39.342381359||557897||144973||14989|
+01000US|United States|1|United States|52|Finance and insurance|524298|All other insurance related activities|1997|Reference year 1997|820|20 largest firms|465||2322003||55.958796834||841497||205847||21358|
+01000US|United States|1|United States|52|Finance and insurance|524298|All other insurance related activities|1997|Reference year 1997|850|50 largest firms|573||2848269||68.64147303||1020126||249520||25241|
+01000US|United States|1|United States|52|Finance and insurance|525|Funds, trusts, & other financial vehicles (part)|1997|Reference year 1997|003|All firms|1489||16607993||100||1413480||315778||35271|
+01000US|United States|1|United States|52|Finance and insurance|525|Funds, trusts, & other financial vehicles (part)|1997|Reference year 1997|804|4 largest firms|7||3149170||18.961773406||98362||33116||2095|
+01000US|United States|1|United States|52|Finance and insurance|525|Funds, trusts, & other financial vehicles (part)|1997|Reference year 1997|808|8 largest firms|158||4775584||28.754732736||312474||58894||5707|
+01000US|United States|1|United States|52|Finance and insurance|525|Funds, trusts, & other financial vehicles (part)|1997|Reference year 1997|820|20 largest firms|538||8115507||48.865067561||555889||114810||11867|
+01000US|United States|1|United States|52|Finance and insurance|525|Funds, trusts, & other financial vehicles (part)|1997|Reference year 1997|850|50 largest firms|729||12261131||73.826686945||901547||196562||19664|
+01000US|United States|1|United States|52|Finance and insurance|5259|Other investment pools & funds (part)|1997|Reference year 1997|003|All firms|1489||16607993||100||1413480||315778||35271|
+01000US|United States|1|United States|52|Finance and insurance|5259|Other investment pools & funds (part)|1997|Reference year 1997|804|4 largest firms|7||3149170||18.961773406||98362||33116||2095|
+01000US|United States|1|United States|52|Finance and insurance|5259|Other investment pools & funds (part)|1997|Reference year 1997|808|8 largest firms|158||4775584||28.754732736||312474||58894||5707|
+01000US|United States|1|United States|52|Finance and insurance|5259|Other investment pools & funds (part)|1997|Reference year 1997|820|20 largest firms|538||8115507||48.865067561||555889||114810||11867|
+01000US|United States|1|United States|52|Finance and insurance|5259|Other investment pools & funds (part)|1997|Reference year 1997|850|50 largest firms|729||12261131||73.826686945||901547||196562||19664|
+01000US|United States|1|United States|52|Finance and insurance|52593|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|003|All firms|1489||16607993||100||1413480||315778||35271|
+01000US|United States|1|United States|52|Finance and insurance|52593|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|804|4 largest firms|7||3149170||18.961773406||98362||33116||2095|
+01000US|United States|1|United States|52|Finance and insurance|52593|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|808|8 largest firms|158||4775584||28.754732736||312474||58894||5707|
+01000US|United States|1|United States|52|Finance and insurance|52593|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|820|20 largest firms|538||8115507||48.865067561||555889||114810||11867|
+01000US|United States|1|United States|52|Finance and insurance|52593|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|850|50 largest firms|729||12261131||73.826686945||901547||196562||19664|
+01000US|United States|1|United States|52|Finance and insurance|525930|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|003|All firms|1489||16607993||100||1413480||315778||35271|
+01000US|United States|1|United States|52|Finance and insurance|525930|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|804|4 largest firms|7||3149170||18.961773406||98362||33116||2095|
+01000US|United States|1|United States|52|Finance and insurance|525930|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|808|8 largest firms|158||4775584||28.754732736||312474||58894||5707|
+01000US|United States|1|United States|52|Finance and insurance|525930|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|820|20 largest firms|538||8115507||48.865067561||555889||114810||11867|
+01000US|United States|1|United States|52|Finance and insurance|525930|Real Estate Investment Trusts (REITs)|1997|Reference year 1997|850|50 largest firms|729||12261131||73.826686945||901547||196562||19664|
+01000US|United States|1|United States|52|Finance and insurance|523|Securities intermediation & related activities|1997|Reference year 1997|820|20 largest firms|4211||131061591||47.661061266||29307858||10529489||226071|
+01000US|United States|1|United States|52|Finance and insurance|52311|Investment banking & securities dealing|1997|Reference year 1997|804|4 largest firms|38||40915983||34.56156809||6528775||2856670||32718|

@@ -1,0 +1,334 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|CONCENFI|CONCENFI_MEANING|ESTAB|ESTABF|ECVALUE|ECVALUEF|VALPCT|VALPCTF|PAY|PAYF|PAY1Q|PAY1QF|EMP|EMPF 
+01000US|United States|1|United States|51|Information|51|Information|1997|Reference year 1997|003|All firms|114475||623213854||100||129481577||0|N|3066167|
+01000US|United States|1|United States|51|Information|511|Publishing industries|1997|Reference year 1997|003|All firms|33896||179035423||100||43358072||0|N|1006214|
+01000US|United States|1|United States|51|Information|5111|Newspaper, periodical, book, & database publishers|1997|Reference year 1997|003|All firms|21806||117336003||100||24971288||0|N|739834|
+01000US|United States|1|United States|51|Information|5112|Software publishers|1997|Reference year 1997|003|All firms|12090||61699420||100||18386784||4358485||266380|
+01000US|United States|1|United States|51|Information|5112|Software publishers|1997|Reference year 1997|804|4 largest firms|236||17390963||28.186590733||3257246||834356||29060|
+01000US|United States|1|United States|51|Information|5112|Software publishers|1997|Reference year 1997|808|8 largest firms|251||21980709||35.625471034||3962154||997402||35437|
+01000US|United States|1|United States|51|Information|5112|Software publishers|1997|Reference year 1997|820|20 largest firms|586||28450513||46.111475602||5869969||1467536||57520|
+01000US|United States|1|United States|51|Information|5112|Software publishers|1997|Reference year 1997|850|50 largest firms|855||35265678||57.157227734||7898707||1935126||84999|
+01000US|United States|1|United States|51|Information|51121|Software publishers|1997|Reference year 1997|003|All firms|12090||61699420||100||18386784||4358485||266380|
+01000US|United States|1|United States|51|Information|51121|Software publishers|1997|Reference year 1997|804|4 largest firms|236||17390963||28.186590733||3257246||834356||29060|
+01000US|United States|1|United States|51|Information|51121|Software publishers|1997|Reference year 1997|808|8 largest firms|251||21980709||35.625471034||3962154||997402||35437|
+01000US|United States|1|United States|51|Information|51121|Software publishers|1997|Reference year 1997|820|20 largest firms|586||28450513||46.111475602||5869969||1467536||57520|
+01000US|United States|1|United States|51|Information|51121|Software publishers|1997|Reference year 1997|850|50 largest firms|855||35265678||57.157227734||7898707||1935126||84999|
+01000US|United States|1|United States|51|Information|511210|Software publishers|1997|Reference year 1997|003|All firms|12090||61699420||100||18386784||4358485||266380|
+01000US|United States|1|United States|51|Information|511210|Software publishers|1997|Reference year 1997|804|4 largest firms|236||17390963||28.186590733||3257246||834356||29060|
+01000US|United States|1|United States|51|Information|511210|Software publishers|1997|Reference year 1997|808|8 largest firms|251||21980709||35.625471034||3962154||997402||35437|
+01000US|United States|1|United States|51|Information|511210|Software publishers|1997|Reference year 1997|820|20 largest firms|586||28450513||46.111475602||5869969||1467536||57520|
+01000US|United States|1|United States|51|Information|511210|Software publishers|1997|Reference year 1997|850|50 largest firms|855||35265678||57.157227734||7898707||1935126||84999|
+01000US|United States|1|United States|51|Information|512|Motion picture & sound recording industries|1997|Reference year 1997|003|All firms|22204||55925533||100||9392048||2164901||275981|
+01000US|United States|1|United States|51|Information|512|Motion picture & sound recording industries|1997|Reference year 1997|804|4 largest firms|334||17415941||31.14130535||1831939||469980||45046|
+01000US|United States|1|United States|51|Information|512|Motion picture & sound recording industries|1997|Reference year 1997|808|8 largest firms|414||25699758||45.95353253||2636512||663199||53344|
+01000US|United States|1|United States|51|Information|512|Motion picture & sound recording industries|1997|Reference year 1997|820|20 largest firms|2327||32074014||57.351288901||3395723||839907||111052|
+01000US|United States|1|United States|51|Information|512|Motion picture & sound recording industries|1997|Reference year 1997|850|50 largest firms|2965||36915183||66.00774462||4019759||970087||134153|
+01000US|United States|1|United States|51|Information|5121|Motion picture & video industries|1997|Reference year 1997|003|All firms|19269||44785652||100||8280395||1924103||254467|
+01000US|United States|1|United States|51|Information|5121|Motion picture & video industries|1997|Reference year 1997|804|4 largest firms|321||14554411||32.497932597||1732437||445419||44003|
+01000US|United States|1|United States|51|Information|5121|Motion picture & video industries|1997|Reference year 1997|808|8 largest firms|625||20051238||44.771566572||2390615||609429||59221|
+01000US|United States|1|United States|51|Information|5121|Motion picture & video industries|1997|Reference year 1997|820|20 largest firms|2290||24659190||55.06046892||2940984||742090||106133|
+01000US|United States|1|United States|51|Information|5121|Motion picture & video industries|1997|Reference year 1997|850|50 largest firms|2956||28649419||63.970083544||3555721||874793||130918|
+01000US|United States|1|United States|51|Information|51211|Motion picture & video production|1997|Reference year 1997|003|All firms|8777||20152091||100||4944605||1119220||83558|
+01000US|United States|1|United States|51|Information|51211|Motion picture & video production|1997|Reference year 1997|804|4 largest firms|32||6757729||33.533636782||1151169||275953||26941|
+01000US|United States|1|United States|51|Information|51211|Motion picture & video production|1997|Reference year 1997|808|8 largest firms|65||8354369||41.456586317||1767083||446160||33708|
+01000US|United States|1|United States|51|Information|51211|Motion picture & video production|1997|Reference year 1997|820|20 largest firms|93||10443719||51.824493051||2073425||501600||37315|
+01000US|United States|1|United States|51|Information|51211|Motion picture & video production|1997|Reference year 1997|850|50 largest firms|146||12245621||60.766006863||2439950||581415||42724|
+01000US|United States|1|United States|51|Information|512110|Motion picture & video production|1997|Reference year 1997|003|All firms|8777||20152091||100||4944605||1119220||83558|
+01000US|United States|1|United States|51|Information|512110|Motion picture & video production|1997|Reference year 1997|804|4 largest firms|32||6757729||33.533636782||1151169||275953||26941|
+01000US|United States|1|United States|51|Information|512110|Motion picture & video production|1997|Reference year 1997|808|8 largest firms|65||8354369||41.456586317||1767083||446160||33708|
+01000US|United States|1|United States|51|Information|512110|Motion picture & video production|1997|Reference year 1997|820|20 largest firms|93||10443719||51.824493051||2073425||501600||37315|
+01000US|United States|1|United States|51|Information|512110|Motion picture & video production|1997|Reference year 1997|850|50 largest firms|146||12245621||60.766006863||2439950||581415||42724|
+01000US|United States|1|United States|51|Information|5121101|Motion picture production (except for television)|1997|Reference year 1997|003|All firms|4733||10040215||100||2447848||546786||49890|
+01000US|United States|1|United States|51|Information|5121101|Motion picture production (except for television)|1997|Reference year 1997|804|4 largest firms|10||5380522||53.589708985||939913||225742||23200|
+01000US|United States|1|United States|51|Information|5121101|Motion picture production (except for television)|1997|Reference year 1997|808|8 largest firms|22||6086863||60.624827257||1013996||245303||24121|
+01000US|United States|1|United States|51|Information|5121101|Motion picture production (except for television)|1997|Reference year 1997|820|20 largest firms|52||6885260||68.576818325||1393084||349864||29655|
+01000US|United States|1|United States|51|Information|5121101|Motion picture production (except for television)|1997|Reference year 1997|850|50 largest firms|84||7364445||73.349475086||1598031||384996||31799|
+01000US|United States|1|United States|51|Information|5121102|Motion picture & video production for television|1997|Reference year 1997|003|All firms|4044||10111876||100||2496757||572434||33668|
+01000US|United States|1|United States|51|Information|5121102|Motion picture & video production for television|1997|Reference year 1997|804|4 largest firms|16||2234185||22.09466374||288042||73841||3765|
+01000US|United States|1|United States|51|Information|5121102|Motion picture & video production for television|1997|Reference year 1997|808|8 largest firms|29||3090996||30.567977693||352392||91140||4862|
+01000US|United States|1|United States|51|Information|5121102|Motion picture & video production for television|1997|Reference year 1997|820|20 largest firms|60||4516019||44.660545679||804490||182831||10176|
+01000US|United States|1|United States|51|Information|5121102|Motion picture & video production for television|1997|Reference year 1997|850|50 largest firms|104||5798635||57.344799323||1123865||247880||13800|
+01000US|United States|1|United States|51|Information|51212|Motion picture & video distribution|1997|Reference year 1997|003|All firms|756||12508661||100||766780||193825||12663|
+01000US|United States|1|United States|51|Information|51212|Motion picture & video distribution|1997|Reference year 1997|804|4 largest firms|52||9344406||74.703487448||381404||105669||5094|
+01000US|United States|1|United States|51|Information|51212|Motion picture & video distribution|1997|Reference year 1997|808|8 largest firms|74||10932168||87.396788513||466249||122925||6082|
+01000US|United States|1|United States|51|Information|51212|Motion picture & video distribution|1997|Reference year 1997|820|20 largest firms|100||11449922||91.535952569||542049||144197||7050|
+01000US|United States|1|United States|51|Information|51212|Motion picture & video distribution|1997|Reference year 1997|850|50 largest firms|141||11888704||95.043778067||614557||159631||8691|
+01000US|United States|1|United States|51|Information|512120|Motion picture & video distribution|1997|Reference year 1997|003|All firms|756||12508661||100||766780||193825||12663|
+01000US|United States|1|United States|51|Information|512120|Motion picture & video distribution|1997|Reference year 1997|804|4 largest firms|52||9344406||74.703487448||381404||105669||5094|
+01000US|United States|1|United States|51|Information|512120|Motion picture & video distribution|1997|Reference year 1997|808|8 largest firms|74||10932168||87.396788513||466249||122925||6082|
+01000US|United States|1|United States|51|Information|512120|Motion picture & video distribution|1997|Reference year 1997|820|20 largest firms|100||11449922||91.535952569||542049||144197||7050|
+01000US|United States|1|United States|51|Information|512120|Motion picture & video distribution|1997|Reference year 1997|850|50 largest firms|141||11888704||95.043778067||614557||159631||8691|
+01000US|United States|1|United States|51|Information|5121201|Motion picture film exchanges|1997|Reference year 1997|003|All firms|477||9211872||100||478852||120597||7744|
+01000US|United States|1|United States|51|Information|5121201|Motion picture film exchanges|1997|Reference year 1997|804|4 largest firms|41||7547698||81.934464569||296641||82505||3576|
+01000US|United States|1|United States|51|Information|5121201|Motion picture film exchanges|1997|Reference year 1997|808|8 largest firms|52||8422308||91.428843128||320111||86493||3864|
+01000US|United States|1|United States|51|Information|5121201|Motion picture film exchanges|1997|Reference year 1997|820|20 largest firms|69||8703793||94.484519542||362501||94815||4821|
+01000US|United States|1|United States|51|Information|5121201|Motion picture film exchanges|1997|Reference year 1997|850|50 largest firms|106||8948620||97.142252954||410241||104411||5771|
+01000US|United States|1|United States|51|Information|5121202|Film or tape distribution for television|1997|Reference year 1997|003|All firms|279||3296789||100||287928||73228||4919|
+01000US|United States|1|United States|51|Information|5121202|Film or tape distribution for television|1997|Reference year 1997|804|4 largest firms|14||2405186||72.955412069||100342||25254||1959|
+01000US|United States|1|United States|51|Information|5121202|Film or tape distribution for television|1997|Reference year 1997|808|8 largest firms|26||2679301||81.270017584||169751||41490||2509|
+01000US|United States|1|United States|51|Information|5121202|Film or tape distribution for television|1997|Reference year 1997|820|20 largest firms|49||3007706||91.231376955||217154||57651||3252|
+01000US|United States|1|United States|51|Information|5121202|Film or tape distribution for television|1997|Reference year 1997|850|50 largest firms|85||3178040||96.398040639||255901||65773||4130|
+01000US|United States|1|United States|51|Information|51213|Motion picture & video exhibition|1997|Reference year 1997|003|All firms|6358||7597319||100||944454||223015||125041|
+01000US|United States|1|United States|51|Information|51213|Motion picture & video exhibition|1997|Reference year 1997|804|4 largest firms|1357||2329486||30.661947985||253627||61861||36289|
+01000US|United States|1|United States|51|Information|51213|Motion picture & video exhibition|1997|Reference year 1997|808|8 largest firms|1951||3876213||51.02080089||435040||106954||57339|
+01000US|United States|1|United States|51|Information|51213|Motion picture & video exhibition|1997|Reference year 1997|820|20 largest firms|2850||5593947||73.630539931||614069||149796||82645|
+01000US|United States|1|United States|51|Information|51213|Motion picture & video exhibition|1997|Reference year 1997|850|50 largest firms|3492||6324402||83.245181623||708295||171581||95445|
+01000US|United States|1|United States|51|Information|512131|Motion picture theaters (except drive-ins)|1997|Reference year 1997|003|All firms|5998||7486977||100||923677||219900||123045|
+01000US|United States|1|United States|51|Information|512131|Motion picture theaters (except drive-ins)|1997|Reference year 1997|804|4 largest firms|1355||2327706||31.090064788||253469||61853||36282|
+01000US|United States|1|United States|51|Information|512131|Motion picture theaters (except drive-ins)|1997|Reference year 1997|808|8 largest firms|1943||3873150||51.731827145||434505||106921||57327|
+01000US|United States|1|United States|51|Information|512131|Motion picture theaters (except drive-ins)|1997|Reference year 1997|820|20 largest firms|2819||5562113||74.290504699||607840||148713||81817|
+01000US|United States|1|United States|51|Information|512131|Motion picture theaters (except drive-ins)|1997|Reference year 1997|850|50 largest firms|3452||6286988||83.972316197||701398||170390||94555|
+01000US|United States|1|United States|51|Information|512132|Drive-in motion picture theaters|1997|Reference year 1997|003|All firms|360||110342||100||20777||3115||1996|
+01000US|United States|1|United States|51|Information|512132|Drive-in motion picture theaters|1997|Reference year 1997|804|4 largest firms|24||35772||32.419205742||6739||1291||861|
+01000US|United States|1|United States|51|Information|512132|Drive-in motion picture theaters|1997|Reference year 1997|808|8 largest firms|28||44921||40.710699462||8865||1824||1038|
+01000US|United States|1|United States|51|Information|512132|Drive-in motion picture theaters|1997|Reference year 1997|820|20 largest firms|56||58770||53.26167733||11391||2236||1381|
+01000US|United States|1|United States|51|Information|512132|Drive-in motion picture theaters|1997|Reference year 1997|850|50 largest firms|94||76022||68.896702978||14437||2571||1565|
+01000US|United States|1|United States|51|Information|51219|Postproduction & other motion picture & video industries|1997|Reference year 1997|003|All firms|3378||4527581||100||1624556||388043||33205|
+01000US|United States|1|United States|51|Information|51219|Postproduction & other motion picture & video industries|1997|Reference year 1997|804|4 largest firms|10||740569||16.356836023||190501||43331||2632|
+01000US|United States|1|United States|51|Information|51219|Postproduction & other motion picture & video industries|1997|Reference year 1997|808|8 largest firms|32||969316||21.409136579||260712||60837||4179|
+01000US|United States|1|United States|51|Information|51219|Postproduction & other motion picture & video industries|1997|Reference year 1997|820|20 largest firms|67||1447895||31.97943891||483594||124472||7666|
+01000US|United States|1|United States|51|Information|51219|Postproduction & other motion picture & video industries|1997|Reference year 1997|850|50 largest firms|152||2035258||44.952437074||687731||169854||11685|
+01000US|United States|1|United States|51|Information|512191|Teleproduction & other postproduction services|1997|Reference year 1997|003|All firms|3001||3684397||100||1436584||343944||29114|
+01000US|United States|1|United States|51|Information|512191|Teleproduction & other postproduction services|1997|Reference year 1997|804|4 largest firms|10||321074||8.7144246399||122933||29906||1783|
+01000US|United States|1|United States|51|Information|512191|Teleproduction & other postproduction services|1997|Reference year 1997|808|8 largest firms|35||531163||14.416551745||196469||47207||3537|
+01000US|United States|1|United States|51|Information|512191|Teleproduction & other postproduction services|1997|Reference year 1997|820|20 largest firms|66||944364||25.631439826||393153||103857||6476|
+01000US|United States|1|United States|51|Information|512191|Teleproduction & other postproduction services|1997|Reference year 1997|850|50 largest firms|116||1459676||39.617771918||591028||147580||9970|
+01000US|United States|1|United States|51|Information|512199|Other motion picture & video industries|1997|Reference year 1997|003|All firms|377||843184||100||187972||44099||4091|
+01000US|United States|1|United States|51|Information|512199|Other motion picture & video industries|1997|Reference year 1997|804|4 largest firms|7||587499||69.676250973||108132||24624||1670|
+01000US|United States|1|United States|51|Information|512199|Other motion picture & video industries|1997|Reference year 1997|808|8 largest firms|42||635449||75.36302871||120861||28195||2154|
+01000US|United States|1|United States|51|Information|512199|Other motion picture & video industries|1997|Reference year 1997|820|20 largest firms|56||681631||80.84012505||133353||31161||2421|
+01000US|United States|1|United States|51|Information|512199|Other motion picture & video industries|1997|Reference year 1997|850|50 largest firms|89||742837||88.099038881||152727||35767||3052|
+01000US|United States|1|United States|51|Information|5122|Sound recording industries|1997|Reference year 1997|003|All firms|2935||11139881||100||1111653||240798||21514|
+01000US|United States|1|United States|51|Information|5122|Sound recording industries|1997|Reference year 1997|804|4 largest firms|29||5916027||53.106734264||353060||81221||4089|
+01000US|United States|1|United States|51|Information|5122|Sound recording industries|1997|Reference year 1997|808|8 largest firms|44||8404733||75.44724221||488219||106450||5300|
+01000US|United States|1|United States|51|Information|5122|Sound recording industries|1997|Reference year 1997|820|20 largest firms|86||9239203||82.938076268||610221||133960||7398|
+01000US|United States|1|United States|51|Information|5122|Sound recording industries|1997|Reference year 1997|850|50 largest firms|146||9725337||87.301982849||702270||153711||9668|
+01000US|United States|1|United States|51|Information|51221|Record production|1997|Reference year 1997|003|All firms|283||182369||100||46520||9325||998|
+01000US|United States|1|United States|51|Information|51221|Record production|1997|Reference year 1997|804|4 largest firms|4||37256||20.428910615||6569||1449||125|
+01000US|United States|1|United States|51|Information|51221|Record production|1997|Reference year 1997|808|8 largest firms|8||60456||33.150370951||11388||2310||195|
+01000US|United States|1|United States|51|Information|51221|Record production|1997|Reference year 1997|820|20 largest firms|20||87680||48.078346649||17861||3577||358|
+01000US|United States|1|United States|51|Information|51221|Record production|1997|Reference year 1997|850|50 largest firms|50||124929||68.503418892||28706||6216||538|
+01000US|United States|1|United States|51|Information|512210|Record production|1997|Reference year 1997|003|All firms|283||182369||100||46520||9325||998|
+01000US|United States|1|United States|51|Information|512210|Record production|1997|Reference year 1997|804|4 largest firms|4||37256||20.428910615||6569||1449||125|
+01000US|United States|1|United States|51|Information|512210|Record production|1997|Reference year 1997|808|8 largest firms|8||60456||33.150370951||11388||2310||195|
+01000US|United States|1|United States|51|Information|512210|Record production|1997|Reference year 1997|820|20 largest firms|20||87680||48.078346649||17861||3577||358|
+01000US|United States|1|United States|51|Information|512210|Record production|1997|Reference year 1997|850|50 largest firms|50||124929||68.503418892||28706||6216||538|
+01000US|United States|1|United States|51|Information|51222|Integrated record production/distribution|1997|Reference year 1997|003|All firms|285||8735863||100||598072||131582||7879|
+01000US|United States|1|United States|51|Information|51222|Integrated record production/distribution|1997|Reference year 1997|804|4 largest firms|8||5845968||66.91918131||219267||46881||2103|
+01000US|United States|1|United States|51|Information|51222|Integrated record production/distribution|1997|Reference year 1997|808|8 largest firms|32||7862220||89.999350951||437943||94644||4552|
+01000US|United States|1|United States|51|Information|51222|Integrated record production/distribution|1997|Reference year 1997|820|20 largest firms|45||8452478||96.756073212||528783||114465||6219|
+01000US|United States|1|United States|51|Information|51222|Integrated record production/distribution|1997|Reference year 1997|850|50 largest firms|75||8621764||98.693901221||569997||125213||6874|
+01000US|United States|1|United States|51|Information|512220|Integrated record production/distribution|1997|Reference year 1997|003|All firms|285||8735863||100||598072||131582||7879|
+01000US|United States|1|United States|51|Information|512220|Integrated record production/distribution|1997|Reference year 1997|804|4 largest firms|8||5845968||66.91918131||219267||46881||2103|
+01000US|United States|1|United States|51|Information|512220|Integrated record production/distribution|1997|Reference year 1997|808|8 largest firms|32||7862220||89.999350951||437943||94644||4552|
+01000US|United States|1|United States|51|Information|512220|Integrated record production/distribution|1997|Reference year 1997|820|20 largest firms|45||8452478||96.756073212||528783||114465||6219|
+01000US|United States|1|United States|51|Information|512220|Integrated record production/distribution|1997|Reference year 1997|850|50 largest firms|75||8621764||98.693901221||569997||125213||6874|
+01000US|United States|1|United States|51|Information|51223|Music publishers|1997|Reference year 1997|003|All firms|721||1368407||100||214949||44629||4335|
+01000US|United States|1|United States|51|Information|51223|Music publishers|1997|Reference year 1997|804|4 largest firms|12||663734||48.504136562||55330||13387||883|
+01000US|United States|1|United States|51|Information|51223|Music publishers|1997|Reference year 1997|808|8 largest firms|24||804551||58.794715315||73505||17590||1173|
+01000US|United States|1|United States|51|Information|51223|Music publishers|1997|Reference year 1997|820|20 largest firms|41||998364||72.958118455||109320||24261||1752|
+01000US|United States|1|United States|51|Information|51223|Music publishers|1997|Reference year 1997|850|50 largest firms|75||1142531||83.493507414||148073||32152||2555|
+01000US|United States|1|United States|51|Information|512230|Music publishers|1997|Reference year 1997|003|All firms|721||1368407||100||214949||44629||4335|
+01000US|United States|1|United States|51|Information|512230|Music publishers|1997|Reference year 1997|804|4 largest firms|12||663734||48.504136562||55330||13387||883|
+01000US|United States|1|United States|51|Information|512230|Music publishers|1997|Reference year 1997|808|8 largest firms|24||804551||58.794715315||73505||17590||1173|
+01000US|United States|1|United States|51|Information|512230|Music publishers|1997|Reference year 1997|820|20 largest firms|41||998364||72.958118455||109320||24261||1752|
+01000US|United States|1|United States|51|Information|512230|Music publishers|1997|Reference year 1997|850|50 largest firms|75||1142531||83.493507414||148073||32152||2555|
+01000US|United States|1|United States|51|Information|51224|Sound recording studios|1997|Reference year 1997|003|All firms|1269||540601||100||162976||34901||5528|
+01000US|United States|1|United States|51|Information|51224|Sound recording studios|1997|Reference year 1997|804|4 largest firms|6||37318||6.903057893||8327||2092||198|
+01000US|United States|1|United States|51|Information|51224|Sound recording studios|1997|Reference year 1997|808|8 largest firms|11||62723||11.602457265||16335||4084||345|
+01000US|United States|1|United States|51|Information|51224|Sound recording studios|1997|Reference year 1997|820|20 largest firms|24||110840||20.503106728||29650||6899||802|
+01000US|United States|1|United States|51|Information|51224|Sound recording studios|1997|Reference year 1997|850|50 largest firms|55||182439||33.747440349||54128||11594||1323|
+01000US|United States|1|United States|51|Information|512240|Sound recording studios|1997|Reference year 1997|003|All firms|1269||540601||100||162976||34901||5528|
+01000US|United States|1|United States|51|Information|512240|Sound recording studios|1997|Reference year 1997|804|4 largest firms|6||37318||6.903057893||8327||2092||198|
+01000US|United States|1|United States|51|Information|512240|Sound recording studios|1997|Reference year 1997|808|8 largest firms|11||62723||11.602457265||16335||4084||345|
+01000US|United States|1|United States|51|Information|512240|Sound recording studios|1997|Reference year 1997|820|20 largest firms|24||110840||20.503106728||29650||6899||802|
+01000US|United States|1|United States|51|Information|512240|Sound recording studios|1997|Reference year 1997|850|50 largest firms|55||182439||33.747440349||54128||11594||1323|
+01000US|United States|1|United States|51|Information|51229|Other sound recording industries|1997|Reference year 1997|003|All firms|377||312641||100||89136||20361||2774|
+01000US|United States|1|United States|51|Information|51229|Other sound recording industries|1997|Reference year 1997|804|4 largest firms|48||152542||48.791425309||42000||10008||1195|
+01000US|United States|1|United States|51|Information|51229|Other sound recording industries|1997|Reference year 1997|808|8 largest firms|62||185549||59.348901776||48922||11891||1506|
+01000US|United States|1|United States|51|Information|51229|Other sound recording industries|1997|Reference year 1997|820|20 largest firms|75||224373||71.766978739||61035||14036||1678|
+01000US|United States|1|United States|51|Information|51229|Other sound recording industries|1997|Reference year 1997|850|50 largest firms|106||258986||82.83814343||72827||16697||2052|
+01000US|United States|1|United States|51|Information|512290|Other sound recording industries|1997|Reference year 1997|003|All firms|377||312641||100||89136||20361||2774|
+01000US|United States|1|United States|51|Information|512290|Other sound recording industries|1997|Reference year 1997|804|4 largest firms|48||152542||48.791425309||42000||10008||1195|
+01000US|United States|1|United States|51|Information|512290|Other sound recording industries|1997|Reference year 1997|808|8 largest firms|62||185549||59.348901776||48922||11891||1506|
+01000US|United States|1|United States|51|Information|512290|Other sound recording industries|1997|Reference year 1997|820|20 largest firms|75||224373||71.766978739||61035||14036||1678|
+01000US|United States|1|United States|51|Information|512290|Other sound recording industries|1997|Reference year 1997|850|50 largest firms|106||258986||82.83814343||72827||16697||2052|
+01000US|United States|1|United States|51|Information|513|Broadcasting & telecommunications|1997|Reference year 1997|003|All firms|43480||346315686||100||63479623||16949095||1434455|
+01000US|United States|1|United States|51|Information|513|Broadcasting & telecommunications|1997|Reference year 1997|804|4 largest firms|8260||110495716||31.906067345||18565703||5714838||380467|
+01000US|United States|1|United States|51|Information|513|Broadcasting & telecommunications|1997|Reference year 1997|808|8 largest firms|13812||174074834||50.264784714||30455637||8811360||605165|
+01000US|United States|1|United States|51|Information|513|Broadcasting & telecommunications|1997|Reference year 1997|820|20 largest firms|19217||249008353||71.902129492||44021678||12298008||900317|
+01000US|United States|1|United States|51|Information|513|Broadcasting & telecommunications|1997|Reference year 1997|850|50 largest firms|21483||280307407||80.939852953||48943896||13522570||1012467|
+01000US|United States|1|United States|51|Information|5131|Radio & television broadcasting|1997|Reference year 1997|003|All firms|8789||40425210||100||9868917||2399390||249715|
+01000US|United States|1|United States|51|Information|5131|Radio & television broadcasting|1997|Reference year 1997|804|4 largest firms|164||15809399||39.107772106||2949855||722300||34861|
+01000US|United States|1|United States|51|Information|5131|Radio & television broadcasting|1997|Reference year 1997|808|8 largest firms|249||18786241||46.471597798||3564339||866160||45797|
+01000US|United States|1|United States|51|Information|5131|Radio & television broadcasting|1997|Reference year 1997|820|20 largest firms|524||23844304||58.983748013||4671901||1149812||71696|
+01000US|United States|1|United States|51|Information|5131|Radio & television broadcasting|1997|Reference year 1997|850|50 largest firms|874||28582567||70.704807718||5891236||1445803||100035|
+01000US|United States|1|United States|51|Information|51311|Radio broadcasting|1997|Reference year 1997|003|All firms|6894||10648134||100||3604481||871022||126673|
+01000US|United States|1|United States|51|Information|51311|Radio broadcasting|1997|Reference year 1997|804|4 largest firms|204||2412598||22.657472192||677250||164844||15765|
+01000US|United States|1|United States|51|Information|51311|Radio broadcasting|1997|Reference year 1997|808|8 largest firms|265||3355451||31.512103435||932391||222787||20441|
+01000US|United States|1|United States|51|Information|51311|Radio broadcasting|1997|Reference year 1997|820|20 largest firms|403||4488344||42.151460528||1302977||310748||28802|
+01000US|United States|1|United States|51|Information|51311|Radio broadcasting|1997|Reference year 1997|850|50 largest firms|612||5735369||53.862667393||1681875||409740||40328|
+01000US|United States|1|United States|51|Information|513111|Radio networks|1997|Reference year 1997|003|All firms|303||851348||100||216563||51319||5648|
+01000US|United States|1|United States|51|Information|513111|Radio networks|1997|Reference year 1997|804|4 largest firms|18||452997||53.209380888||86845||19666||1670|
+01000US|United States|1|United States|51|Information|513111|Radio networks|1997|Reference year 1997|808|8 largest firms|24||574383||67.46747511||122587||28638||2333|
+01000US|United States|1|United States|51|Information|513111|Radio networks|1997|Reference year 1997|820|20 largest firms|66||690848||81.147544835||156774||37718||3271|
+01000US|United States|1|United States|51|Information|513111|Radio networks|1997|Reference year 1997|850|50 largest firms|103||778091||91.395175651||187024||44493||4199|
+01000US|United States|1|United States|51|Information|513112|Radio stations|1997|Reference year 1997|003|All firms|6591||9796786||100||3387918||819703||121025|
+01000US|United States|1|United States|51|Information|513112|Radio stations|1997|Reference year 1997|804|4 largest firms|196||2268094||23.151409044||643885||157057||15162|
+01000US|United States|1|United States|51|Information|513112|Radio stations|1997|Reference year 1997|808|8 largest firms|272||3074838||31.386191349||905903||216210||19981|
+01000US|United States|1|United States|51|Information|513112|Radio stations|1997|Reference year 1997|820|20 largest firms|402||4100521||41.855778007||1227489||292354||27647|
+01000US|United States|1|United States|51|Information|513112|Radio stations|1997|Reference year 1997|850|50 largest firms|591||5215849||53.240409661||1573038||385633||38307|
+01000US|United States|1|United States|51|Information|51312|Television broadcasting|1997|Reference year 1997|003|All firms|1895||29777076||100||6264436||1528368||123042|
+01000US|United States|1|United States|51|Information|51312|Television broadcasting|1997|Reference year 1997|804|4 largest firms|84||14463254||48.571773803||2582745||635164||29298|
+01000US|United States|1|United States|51|Information|51312|Television broadcasting|1997|Reference year 1997|808|8 largest firms|145||17235312||57.881143199||3113647||763358||38634|
+01000US|United States|1|United States|51|Information|51312|Television broadcasting|1997|Reference year 1997|820|20 largest firms|306||21219783||71.262144745||3898330||956425||54389|
+01000US|United States|1|United States|51|Information|51312|Television broadcasting|1997|Reference year 1997|850|50 largest firms|523||24938807||83.75169879||4817430||1184861||76112|
+01000US|United States|1|United States|51|Information|513120|Television broadcasting|1997|Reference year 1997|003|All firms|1895||29777076||100||6264436||1528368||123042|
+01000US|United States|1|United States|51|Information|513120|Television broadcasting|1997|Reference year 1997|804|4 largest firms|84||14463254||48.571773803||2582745||635164||29298|
+01000US|United States|1|United States|51|Information|513120|Television broadcasting|1997|Reference year 1997|808|8 largest firms|145||17235312||57.881143199||3113647||763358||38634|
+01000US|United States|1|United States|51|Information|513120|Television broadcasting|1997|Reference year 1997|820|20 largest firms|306||21219783||71.262144745||3898330||956425||54389|
+01000US|United States|1|United States|51|Information|513120|Television broadcasting|1997|Reference year 1997|850|50 largest firms|523||24938807||83.75169879||4817430||1184861||76112|
+01000US|United States|1|United States|51|Information|5132|Cable networks & program distribution|1997|Reference year 1997|003|All firms|4679||45389578||100||6151186||1531812||174351|
+01000US|United States|1|United States|51|Information|5132|Cable networks & program distribution|1997|Reference year 1997|804|4 largest firms|1221||19211694||42.326222993||2618201||623968||78742|
+01000US|United States|1|United States|51|Information|5132|Cable networks & program distribution|1997|Reference year 1997|808|8 largest firms|1375||26974728||59.429343009||3664404||922526||104441|
+01000US|United States|1|United States|51|Information|5132|Cable networks & program distribution|1997|Reference year 1997|820|20 largest firms|1744||33713841||74.276612574||4295055||1070937||120820|
+01000US|United States|1|United States|51|Information|5132|Cable networks & program distribution|1997|Reference year 1997|850|50 largest firms|2299||39903717||87.913831232||5126666||1281596||141024|
+01000US|United States|1|United States|51|Information|51321|Cable networks|1997|Reference year 1997|003|All firms|494||10389609||100||1358211||369092||26488|
+01000US|United States|1|United States|51|Information|51321|Cable networks|1997|Reference year 1997|804|4 largest firms|81||6347438||61.094098921||643380||198121||11697|
+01000US|United States|1|United States|51|Information|51321|Cable networks|1997|Reference year 1997|808|8 largest firms|107||7824490||75.310726323||826889||235299||14704|
+01000US|United States|1|United States|51|Information|51321|Cable networks|1997|Reference year 1997|820|20 largest firms|169||9410622||90.577248865||1107429||306049||20172|
+01000US|United States|1|United States|51|Information|51321|Cable networks|1997|Reference year 1997|850|50 largest firms|236||10115528||97.361970022||1281620||352403||23967|
+01000US|United States|1|United States|51|Information|513210|Cable networks|1997|Reference year 1997|003|All firms|494||10389609||100||1358211||369092||26488|
+01000US|United States|1|United States|51|Information|513210|Cable networks|1997|Reference year 1997|804|4 largest firms|81||6347438||61.094098921||643380||198121||11697|
+01000US|United States|1|United States|51|Information|513210|Cable networks|1997|Reference year 1997|808|8 largest firms|107||7824490||75.310726323||826889||235299||14704|
+01000US|United States|1|United States|51|Information|513210|Cable networks|1997|Reference year 1997|820|20 largest firms|169||9410622||90.577248865||1107429||306049||20172|
+01000US|United States|1|United States|51|Information|513210|Cable networks|1997|Reference year 1997|850|50 largest firms|236||10115528||97.361970022||1281620||352403||23967|
+01000US|United States|1|United States|51|Information|51322|Cable & other program distribution|1997|Reference year 1997|003|All firms|4185||34999969||100||4792975||1162720||147863|
+01000US|United States|1|United States|51|Information|51322|Cable & other program distribution|1997|Reference year 1997|804|4 largest firms|1145||17071184||48.774854629||2450362||576268||75450|
+01000US|United States|1|United States|51|Information|51322|Cable & other program distribution|1997|Reference year 1997|808|8 largest firms|1331||21804133||62.297578035||3074436||738237||92773|
+01000US|United States|1|United States|51|Information|51322|Cable & other program distribution|1997|Reference year 1997|820|20 largest firms|1806||27124931||77.4998715||3537210||853870||107653|
+01000US|United States|1|United States|51|Information|513220|Cable & other program distribution|1997|Reference year 1997|003|All firms|4185||34999969||100||4792975||1162720||147863|
+01000US|United States|1|United States|51|Information|513220|Cable & other program distribution|1997|Reference year 1997|804|4 largest firms|1145||17071184||48.774854629||2450362||576268||75450|
+01000US|United States|1|United States|51|Information|513220|Cable & other program distribution|1997|Reference year 1997|808|8 largest firms|1331||21804133||62.297578035||3074436||738237||92773|
+01000US|United States|1|United States|51|Information|513220|Cable & other program distribution|1997|Reference year 1997|820|20 largest firms|1806||27124931||77.4998715||3537210||853870||107653|
+01000US|United States|1|United States|51|Information|513220|Cable & other program distribution|1997|Reference year 1997|850|50 largest firms|2266||31350462||89.572827907||4125689||1000994||124467|
+01000US|United States|1|United States|51|Information|5133|Telecommunications|1997|Reference year 1997|003|All firms|30012||260500898||100||47459520||13017893||1010389|
+01000US|United States|1|United States|51|Information|5133|Telecommunications|1997|Reference year 1997|804|4 largest firms|8251||110297365||42.340493199||18534619||5707469||379449|
+01000US|United States|1|United States|51|Information|5133|Telecommunications|1997|Reference year 1997|820|20 largest firms|18899||219055351||84.090055997||39625813||11205738||813898|
+01000US|United States|1|United States|51|Information|5133|Telecommunications|1997|Reference year 1997|850|50 largest firms|20021||232725840||89.33782639||42223736||11825058||868972|
+01000US|United States|1|United States|51|Information|51331|Wired telecommunications carriers|1997|Reference year 1997|003|All firms|20815||208790552||100||39564540||11070591||815427|
+01000US|United States|1|United States|51|Information|51331|Wired telecommunications carriers|1997|Reference year 1997|804|4 largest firms|6442||98065502||46.968361863||15619052||4535201||300724|
+01000US|United States|1|United States|51|Information|51331|Wired telecommunications carriers|1997|Reference year 1997|808|8 largest firms|12537||156290870||74.855336366||28181591||8204061||555341|
+01000US|United States|1|United States|51|Information|51331|Wired telecommunications carriers|1997|Reference year 1997|820|20 largest firms|16997||193573818||92.711962369||36177351||10273882||734895|
+01000US|United States|1|United States|51|Information|51331|Wired telecommunications carriers|1997|Reference year 1997|850|50 largest firms|17441||199152338||95.383788247||37549067||10606047||762087|
+01000US|United States|1|United States|51|Information|513310|Wired telecommunications carriers|1997|Reference year 1997|003|All firms|20815||208790552||100||39564540||11070591||815427|
+01000US|United States|1|United States|51|Information|513310|Wired telecommunications carriers|1997|Reference year 1997|804|4 largest firms|6442||98065502||46.968361863||15619052||4535201||300724|
+01000US|United States|1|United States|51|Information|513310|Wired telecommunications carriers|1997|Reference year 1997|808|8 largest firms|12537||156290870||74.855336366||28181591||8204061||555341|
+01000US|United States|1|United States|51|Information|513310|Wired telecommunications carriers|1997|Reference year 1997|820|20 largest firms|16997||193573818||92.711962369||36177351||10273882||734895|
+01000US|United States|1|United States|51|Information|513310|Wired telecommunications carriers|1997|Reference year 1997|850|50 largest firms|17441||199152338||95.383788247||37549067||10606047||762087|
+01000US|United States|1|United States|51|Information|51332|Wireless telecommunications carriers (except satellite)|1997|Reference year 1997|003|All firms|6386||37888862||100||5839301||1501225||146302|
+01000US|United States|1|United States|51|Information|51332|Wireless telecommunications carriers (except satellite)|1997|Reference year 1997|804|4 largest firms|822||13546491||35.753227426||1753324||461983||37226|
+01000US|United States|1|United States|51|Information|51332|Wireless telecommunications carriers (except satellite)|1997|Reference year 1997|808|8 largest firms|1573||22092179||58.307845192||2880831||797273||62322|
+01000US|United States|1|United States|51|Information|51332|Wireless telecommunications carriers (except satellite)|1997|Reference year 1997|820|20 largest firms|2476||30017965||79.226356812||4233520||1128859||96760|
+01000US|United States|1|United States|51|Information|51332|Wireless telecommunications carriers (except satellite)|1997|Reference year 1997|850|50 largest firms|3024||33956145||89.620387648||4891792||1282992||114017|
+01000US|United States|1|United States|51|Information|513321|Paging|1997|Reference year 1997|003|All firms|3427||16970204||100||2583708||639148||70445|
+01000US|United States|1|United States|51|Information|513321|Paging|1997|Reference year 1997|804|4 largest firms|561||8536287||50.301616881||932501||240639||22653|
+01000US|United States|1|United States|51|Information|513321|Paging|1997|Reference year 1997|808|8 largest firms|750||11051597||65.123536523||1375261||352937||33301|
+01000US|United States|1|United States|51|Information|513321|Paging|1997|Reference year 1997|820|20 largest firms|1324||14381706||84.746806815||2074931||515956||51018|
+01000US|United States|1|United States|51|Information|513321|Paging|1997|Reference year 1997|850|50 largest firms|1622||15532163||91.52608301||2273157||566033||57773|
+01000US|United States|1|United States|51|Information|513322|Cellular & other wireless telecommunications|1997|Reference year 1997|003|All firms|2959||20918658||100||3255593||862077||75857|
+01000US|United States|1|United States|51|Information|513322|Cellular & other wireless telecommunications|1997|Reference year 1997|804|4 largest firms|692||10747206||51.376173366||1491571||419758||29423|
+01000US|United States|1|United States|51|Information|513322|Cellular & other wireless telecommunications|1997|Reference year 1997|808|8 largest firms|1219||15602087||74.584550309||2226527||622494||47286|
+01000US|United States|1|United States|51|Information|513322|Cellular & other wireless telecommunications|1997|Reference year 1997|820|20 largest firms|1440||18411369||88.014102052||2604982||713542||56736|
+01000US|United States|1|United States|51|Information|513322|Cellular & other wireless telecommunications|1997|Reference year 1997|850|50 largest firms|1674||19525490||93.340069903||2919012||788000||64995|
+01000US|United States|1|United States|51|Information|51333|Telecommunications resellers|1997|Reference year 1997|003|All firms|1656||7592298||100||1185078||255740||30028|
+01000US|United States|1|United States|51|Information|51333|Telecommunications resellers|1997|Reference year 1997|804|4 largest firms|25||1261479||16.615246135||268205||52550||4802|
+01000US|United States|1|United States|51|Information|51333|Telecommunications resellers|1997|Reference year 1997|808|8 largest firms|67||1924160||25.343578453||318001||64802||5941|
+01000US|United States|1|United States|51|Information|51333|Telecommunications resellers|1997|Reference year 1997|820|20 largest firms|100||3047372||40.137676366||384576||80152||7942|
+01000US|United States|1|United States|51|Information|51333|Telecommunications resellers|1997|Reference year 1997|850|50 largest firms|194||4420522||58.223768351||595053||127797||13457|
+01000US|United States|1|United States|51|Information|513330|Telecommunications resellers|1997|Reference year 1997|003|All firms|1656||7592298||100||1185078||255740||30028|
+01000US|United States|1|United States|51|Information|513330|Telecommunications resellers|1997|Reference year 1997|804|4 largest firms|25||1261479||16.615246135||268205||52550||4802|
+01000US|United States|1|United States|51|Information|513330|Telecommunications resellers|1997|Reference year 1997|808|8 largest firms|67||1924160||25.343578453||318001||64802||5941|
+01000US|United States|1|United States|51|Information|513330|Telecommunications resellers|1997|Reference year 1997|820|20 largest firms|100||3047372||40.137676366||384576||80152||7942|
+01000US|United States|1|United States|51|Information|513330|Telecommunications resellers|1997|Reference year 1997|850|50 largest firms|194||4420522||58.223768351||595053||127797||13457|
+01000US|United States|1|United States|51|Information|51334|Satellite telecommunications|1997|Reference year 1997|003|All firms|521||5096182||100||599282||132401||11931|
+01000US|United States|1|United States|51|Information|51334|Satellite telecommunications|1997|Reference year 1997|804|4 largest firms|66||2321580||45.555280404||194561||51317||3549|
+01000US|United States|1|United States|51|Information|51334|Satellite telecommunications|1997|Reference year 1997|808|8 largest firms|71||3028717||59.431099596||259282||59950||4549|
+01000US|United States|1|United States|51|Information|51334|Satellite telecommunications|1997|Reference year 1997|820|20 largest firms|120||4044091||79.355309524||387333||85705||6750|
+01000US|United States|1|United States|51|Information|51334|Satellite telecommunications|1997|Reference year 1997|850|50 largest firms|172||4631055||90.873030045||483853||107143||8671|
+01000US|United States|1|United States|51|Information|513340|Satellite telecommunications|1997|Reference year 1997|003|All firms|521||5096182||100||599282||132401||11931|
+01000US|United States|1|United States|51|Information|513340|Satellite telecommunications|1997|Reference year 1997|804|4 largest firms|66||2321580||45.555280404||194561||51317||3549|
+01000US|United States|1|United States|51|Information|513340|Satellite telecommunications|1997|Reference year 1997|808|8 largest firms|71||3028717||59.431099596||259282||59950||4549|
+01000US|United States|1|United States|51|Information|513340|Satellite telecommunications|1997|Reference year 1997|820|20 largest firms|120||4044091||79.355309524||387333||85705||6750|
+01000US|United States|1|United States|51|Information|513340|Satellite telecommunications|1997|Reference year 1997|850|50 largest firms|172||4631055||90.873030045||483853||107143||8671|
+01000US|United States|1|United States|51|Information|51339|Other telecommunications|1997|Reference year 1997|003|All firms|634||1133004||100||271319||57936||6701|
+01000US|United States|1|United States|51|Information|51339|Other telecommunications|1997|Reference year 1997|804|4 largest firms|18||509172||44.940000212||129535||27488||2668|
+01000US|United States|1|United States|51|Information|51339|Other telecommunications|1997|Reference year 1997|808|8 largest firms|24||648153||57.206594151||156533||33911||3341|
+01000US|United States|1|United States|51|Information|51339|Other telecommunications|1997|Reference year 1997|820|20 largest firms|37||838928||74.044575306||197799||42612||4008|
+01000US|United States|1|United States|51|Information|51339|Other telecommunications|1997|Reference year 1997|850|50 largest firms|68||948742||83.736862359||217845||46626||4747|
+01000US|United States|1|United States|51|Information|513390|Other telecommunications|1997|Reference year 1997|003|All firms|634||1133004||100||271319||57936||6701|
+01000US|United States|1|United States|51|Information|513390|Other telecommunications|1997|Reference year 1997|804|4 largest firms|18||509172||44.940000212||129535||27488||2668|
+01000US|United States|1|United States|51|Information|513390|Other telecommunications|1997|Reference year 1997|808|8 largest firms|24||648153||57.206594151||156533||33911||3341|
+01000US|United States|1|United States|51|Information|513390|Other telecommunications|1997|Reference year 1997|820|20 largest firms|37||838928||74.044575306||197799||42612||4008|
+01000US|United States|1|United States|51|Information|513390|Other telecommunications|1997|Reference year 1997|850|50 largest firms|68||948742||83.736862359||217845||46626||4747|
+01000US|United States|1|United States|51|Information|514|Information services & data processing services|1997|Reference year 1997|003|All firms|14895||41937212||100||13251834||3372465||349517|
+01000US|United States|1|United States|51|Information|514|Information services & data processing services|1997|Reference year 1997|804|4 largest firms|2143||14034225||33.464849785||4175094||1193977||98688|
+01000US|United States|1|United States|51|Information|514|Information services & data processing services|1997|Reference year 1997|808|8 largest firms|2337||16946186||40.408470644||4835026||1341753||111664|
+01000US|United States|1|United States|51|Information|514|Information services & data processing services|1997|Reference year 1997|820|20 largest firms|2513||21314325||50.824372874||6175182||1680950||142542|
+01000US|United States|1|United States|51|Information|514|Information services & data processing services|1997|Reference year 1997|850|50 largest firms|2882||26266693||62.633379157||7551047||2035779||175670|
+01000US|United States|1|United States|51|Information|5141|Information services|1997|Reference year 1997|003|All firms|7307||11100567||100||3477977||781737||87267|
+01000US|United States|1|United States|51|Information|5141|Information services|1997|Reference year 1997|804|4 largest firms|98||3201544||28.841265496||778596||168181||7770|
+01000US|United States|1|United States|51|Information|5141|Information services|1997|Reference year 1997|808|8 largest firms|129||3945321||35.541616928||904734||195465||9721|
+01000US|United States|1|United States|51|Information|5141|Information services|1997|Reference year 1997|820|20 largest firms|381||5069155||45.665730408||1290505||297953||18878|
+01000US|United States|1|United States|51|Information|5141|Information services|1997|Reference year 1997|850|50 largest firms|490||6139425||55.307309978||1707890||396412||28601|
+01000US|United States|1|United States|51|Information|51411|News syndicates|1997|Reference year 1997|003|All firms|527||1402374||100||465466||117175||9483|
+01000US|United States|1|United States|51|Information|51411|News syndicates|1997|Reference year 1997|804|4 largest firms|142||711346||50.724414457||224920||54057||4908|
+01000US|United States|1|United States|51|Information|51411|News syndicates|1997|Reference year 1997|808|8 largest firms|173||934508||66.637573144||293273||77356||5750|
+01000US|United States|1|United States|51|Information|51411|News syndicates|1997|Reference year 1997|820|20 largest firms|226||1157761||82.557220827||369216||96607||7334|
+01000US|United States|1|United States|51|Information|51411|News syndicates|1997|Reference year 1997|850|50 largest firms|272||1302395||92.870732059||423562||108173||8239|
+01000US|United States|1|United States|51|Information|514110|News syndicates|1997|Reference year 1997|003|All firms|527||1402374||100||465466||117175||9483|
+01000US|United States|1|United States|51|Information|514110|News syndicates|1997|Reference year 1997|804|4 largest firms|142||711346||50.724414457||224920||54057||4908|
+01000US|United States|1|United States|51|Information|514110|News syndicates|1997|Reference year 1997|808|8 largest firms|173||934508||66.637573144||293273||77356||5750|
+01000US|United States|1|United States|51|Information|514110|News syndicates|1997|Reference year 1997|820|20 largest firms|226||1157761||82.557220827||369216||96607||7334|
+01000US|United States|1|United States|51|Information|514110|News syndicates|1997|Reference year 1997|850|50 largest firms|272||1302395||92.870732059||423562||108173||8239|
+01000US|United States|1|United States|51|Information|51412|Libraries & archives|1997|Reference year 1997|003|All firms|2298||860933||100||373164||90100||22044|
+01000US|United States|1|United States|51|Information|51412|Libraries & archives|1997|Reference year 1997|804|4 largest firms|118||206889||24.030789852||100471||25458||4286|
+01000US|United States|1|United States|51|Information|51412|Libraries & archives|1997|Reference year 1997|808|8 largest firms|131||250229||29.064863352||112883||28457||4859|
+01000US|United States|1|United States|51|Information|51412|Libraries & archives|1997|Reference year 1997|820|20 largest firms|175||330359||38.372207826||151549||37605||6398|
+01000US|United States|1|United States|51|Information|51412|Libraries & archives|1997|Reference year 1997|850|50 largest firms|214||431684||50.141416347||194312||47586||8513|
+01000US|United States|1|United States|51|Information|514120|Libraries & archives|1997|Reference year 1997|003|All firms|2298||860933||100||373164||90100||22044|
+01000US|United States|1|United States|51|Information|514120|Libraries & archives|1997|Reference year 1997|804|4 largest firms|118||206889||24.030789852||100471||25458||4286|
+01000US|United States|1|United States|51|Information|514120|Libraries & archives|1997|Reference year 1997|808|8 largest firms|131||250229||29.064863352||112883||28457||4859|
+01000US|United States|1|United States|51|Information|514120|Libraries & archives|1997|Reference year 1997|820|20 largest firms|175||330359||38.372207826||151549||37605||6398|
+01000US|United States|1|United States|51|Information|514120|Libraries & archives|1997|Reference year 1997|850|50 largest firms|214||431684||50.141416347||194312||47586||8513|
+01000US|United States|1|United States|51|Information|51419|Other information services|1997|Reference year 1997|003|All firms|4482||8837260||100||2639347||574462||55740|
+01000US|United States|1|United States|51|Information|51419|Other information services|1997|Reference year 1997|804|4 largest firms|43||3136222||35.488624302||658885||138066||5553|
+01000US|United States|1|United States|51|Information|51419|Other information services|1997|Reference year 1997|808|8 largest firms|85||3669629||41.524510991||826256||178195||8300|
+01000US|United States|1|United States|51|Information|51419|Other information services|1997|Reference year 1997|820|20 largest firms|137||4416467||49.975524088||1086327||238118||15242|
+01000US|United States|1|United States|51|Information|51419|Other information services|1997|Reference year 1997|850|50 largest firms|198||5180639||58.622683954||1403235||312506||20819|
+01000US|United States|1|United States|51|Information|514191|On-line information services|1997|Reference year 1997|003|All firms|4165||8042568||100||2355992||510949||49935|
+01000US|United States|1|United States|51|Information|514191|On-line information services|1997|Reference year 1997|804|4 largest firms|43||3136222||38.995281109||658885||138066||5553|
+01000US|United States|1|United States|51|Information|514191|On-line information services|1997|Reference year 1997|808|8 largest firms|95||3629273||45.125798128||813956||175468||7868|
+01000US|United States|1|United States|51|Information|514191|On-line information services|1997|Reference year 1997|820|20 largest firms|140||4197114||52.186242006||1063045||231299||14411|
+01000US|United States|1|United States|51|Information|514191|On-line information services|1997|Reference year 1997|850|50 largest firms|187||4826160||60.007699033||1282227||285995||19540|
+01000US|United States|1|United States|51|Information|514199|All other information services|1997|Reference year 1997|003|All firms|317||794692||100||283355||63513||5805|
+01000US|United States|1|United States|51|Information|514199|All other information services|1997|Reference year 1997|804|4 largest firms|16||318781||40.11377993||94031||21424||1680|
+01000US|United States|1|United States|51|Information|514199|All other information services|1997|Reference year 1997|808|8 largest firms|22||469965||59.138005668||156278||36806||2519|
+01000US|United States|1|United States|51|Information|514199|All other information services|1997|Reference year 1997|820|20 largest firms|68||634383||79.827530666||217868||50700||4168|
+01000US|United States|1|United States|51|Information|514199|All other information services|1997|Reference year 1997|850|50 largest firms|105||730642||91.940273716||260862||58745||5058|
+01000US|United States|1|United States|51|Information|5142|Data processing services|1997|Reference year 1997|003|All firms|7588||30836645||100||9773857||2590728||262250|
+01000US|United States|1|United States|51|Information|5142|Data processing services|1997|Reference year 1997|804|4 largest firms|2178||13161945||42.682804825||3873232||1149694||99425|
+01000US|United States|1|United States|51|Information|5142|Data processing services|1997|Reference year 1997|808|8 largest firms|2319||15315556||49.666739037||4567501||1290920||115217|
+01000US|United States|1|United States|51|Information|5142|Data processing services|1997|Reference year 1997|820|20 largest firms|2447||18761909||60.842899738||5648809||1576508||139700|
+01000US|United States|1|United States|51|Information|5142|Data processing services|1997|Reference year 1997|850|50 largest firms|2626||22735096||73.727527751||6707482||1854134||165321|
+01000US|United States|1|United States|51|Information|51421|Data processing services|1997|Reference year 1997|003|All firms|7588||30836645||100||9773857||2590728||262250|
+01000US|United States|1|United States|51|Information|51421|Data processing services|1997|Reference year 1997|804|4 largest firms|2178||13161945||42.682804825||3873232||1149694||99425|
+01000US|United States|1|United States|51|Information|51421|Data processing services|1997|Reference year 1997|808|8 largest firms|2319||15315556||49.666739037||4567501||1290920||115217|
+01000US|United States|1|United States|51|Information|51421|Data processing services|1997|Reference year 1997|820|20 largest firms|2447||18761909||60.842899738||5648809||1576508||139700|
+01000US|United States|1|United States|51|Information|51421|Data processing services|1997|Reference year 1997|850|50 largest firms|2626||22735096||73.727527751||6707482||1854134||165321|
+01000US|United States|1|United States|51|Information|514210|Data processing services|1997|Reference year 1997|003|All firms|7588||30836645||100||9773857||2590728||262250|
+01000US|United States|1|United States|51|Information|514210|Data processing services|1997|Reference year 1997|804|4 largest firms|2178||13161945||42.682804825||3873232||1149694||99425|
+01000US|United States|1|United States|51|Information|514210|Data processing services|1997|Reference year 1997|808|8 largest firms|2319||15315556||49.666739037||4567501||1290920||115217|
+01000US|United States|1|United States|51|Information|514210|Data processing services|1997|Reference year 1997|820|20 largest firms|2447||18761909||60.842899738||5648809||1576508||139700|
+01000US|United States|1|United States|51|Information|514210|Data processing services|1997|Reference year 1997|850|50 largest firms|2626||22735096||73.727527751||6707482||1854134||165321|
+01000US|United States|1|United States|51|Information|51322|Cable & other program distribution|1997|Reference year 1997|850|50 largest firms|2266||31350462||89.572827907||4125689||1000994||124467|
+01000US|United States|1|United States|51|Information|5133|Telecommunications|1997|Reference year 1997|808|8 largest firms|13752||173519550||66.60996232||30373784||8791506||602938|

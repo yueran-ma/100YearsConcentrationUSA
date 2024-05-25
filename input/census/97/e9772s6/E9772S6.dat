@@ -1,0 +1,241 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|CONCENFI|CONCENFI_MEANING|ESTAB|ESTABF|ECVALUE|ECVALUEF|VALPCT|VALPCTF|PAY|PAYF|PAY1Q|PAY1QF|EMP|EMPF 
+01000US|United States|1|United States|72|Accommodation and foodservices|72|Accommodation & food services|1997|Reference year 1997|003|All firms|545068|r|350399194|r|100||97007396|r|22671697|r|9451226|r
+01000US|United States|1|United States|72|Accommodation and foodservices|72|Accommodation & food services|1997|Reference year 1997|804|4 largest firms|15801||22903251||6.5363309597||6386026||1539187||542043|
+01000US|United States|1|United States|72|Accommodation and foodservices|72|Accommodation & food services|1997|Reference year 1997|808|8 largest firms|20364||34221683||9.7664845085||9488232||2284555||785993|
+01000US|United States|1|United States|72|Accommodation and foodservices|72|Accommodation & food services|1997|Reference year 1997|820|20 largest firms|28602||51777869||14.776823088||14260647||3466797||1195418|
+01000US|United States|1|United States|72|Accommodation and foodservices|72|Accommodation & food services|1997|Reference year 1997|850|50 largest firms|41909||73898408||21.089776822||20533308||4989470||1723697|
+01000US|United States|1|United States|72|Accommodation and foodservices|721|Accommodation|1997|Reference year 1997|003|All firms|58162|r|98457431|r|100||26673852|r|6285109|r|1696659|r
+01000US|United States|1|United States|72|Accommodation and foodservices|721|Accommodation|1997|Reference year 1997|804|4 largest firms|798||15468967||15.711325029||4143085||1002151||210821|
+01000US|United States|1|United States|72|Accommodation and foodservices|721|Accommodation|1997|Reference year 1997|808|8 largest firms|833||21325772||21.65989076||5618770||1372780||272901|
+01000US|United States|1|United States|72|Accommodation and foodservices|721|Accommodation|1997|Reference year 1997|820|20 largest firms|2080||30991675||31.477233039||8325865||2036084||413228|
+01000US|United States|1|United States|72|Accommodation and foodservices|721|Accommodation|1997|Reference year 1997|850|50 largest firms|3562||40664130||41.30122997||10825585||2643534||566149|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211|Traveler accommodation|1997|Reference year 1997|003|All firms|47079||94965838||100||25851424||6140495||1645666|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211|Traveler accommodation|1997|Reference year 1997|804|4 largest firms|797||15467808||16.287760236||4142701||1002075||210802|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211|Traveler accommodation|1997|Reference year 1997|808|8 largest firms|830||21270674||22.398237564||5606635||1369794||272338|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211|Traveler accommodation|1997|Reference year 1997|820|20 largest firms|2077||30936577||32.576532416||8313730||2033098||412665|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211|Traveler accommodation|1997|Reference year 1997|850|50 largest firms|3557||40606344||42.758896099||10812933||2640463||565566|
+01000US|United States|1|United States|72|Accommodation and foodservices|72111|Hotels (except casino hotels) & motels|1997|Reference year 1997|003|All firms|43188||73450881||100||19647141||4645544||1355660|
+01000US|United States|1|United States|72|Accommodation and foodservices|72111|Hotels (except casino hotels) & motels|1997|Reference year 1997|804|4 largest firms|782||12046988||16.401420699||3266704||787210||173266|
+01000US|United States|1|United States|72|Accommodation and foodservices|72111|Hotels (except casino hotels) & motels|1997|Reference year 1997|808|8 largest firms|1182||16764215||22.823708541||4376582||1053903||237067|
+01000US|United States|1|United States|72|Accommodation and foodservices|72111|Hotels (except casino hotels) & motels|1997|Reference year 1997|820|20 largest firms|2970||22689333||30.890484486||5813490||1409178||332430|
+01000US|United States|1|United States|72|Accommodation and foodservices|72111|Hotels (except casino hotels) & motels|1997|Reference year 1997|850|50 largest firms|4315||28632076||38.981256059||7378156||1783928||436750|
+01000US|United States|1|United States|72|Accommodation and foodservices|721110|Hotels (except casino hotels) & motels|1997|Reference year 1997|003|All firms|43188||73450881||100||19647141||4645544||1355660|
+01000US|United States|1|United States|72|Accommodation and foodservices|721110|Hotels (except casino hotels) & motels|1997|Reference year 1997|804|4 largest firms|782||12046988||16.401420699||3266704||787210||173266|
+01000US|United States|1|United States|72|Accommodation and foodservices|721110|Hotels (except casino hotels) & motels|1997|Reference year 1997|808|8 largest firms|1182||16764215||22.823708541||4376582||1053903||237067|
+01000US|United States|1|United States|72|Accommodation and foodservices|721110|Hotels (except casino hotels) & motels|1997|Reference year 1997|820|20 largest firms|2970||22689333||30.890484486||5813490||1409178||332430|
+01000US|United States|1|United States|72|Accommodation and foodservices|721110|Hotels (except casino hotels) & motels|1997|Reference year 1997|850|50 largest firms|4315||28632076||38.981256059||7378156||1783928||436750|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211101|Hotels (except casino hotels) with 25 guestrooms or more|1997|Reference year 1997|003|All firms|16782||61332724||100||16893477||4056274||1095292|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211101|Hotels (except casino hotels) with 25 guestrooms or more|1997|Reference year 1997|804|4 largest firms|781||12046895||19.641871768||3266682||787205||173264|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211101|Hotels (except casino hotels) with 25 guestrooms or more|1997|Reference year 1997|808|8 largest firms|1163||16721218||27.263126288||4366144||1051428||236317|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211101|Hotels (except casino hotels) with 25 guestrooms or more|1997|Reference year 1997|820|20 largest firms|1913||21975903||35.8306326||5740620||1396525||323295|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211101|Hotels (except casino hotels) with 25 guestrooms or more|1997|Reference year 1997|850|50 largest firms|2740||27289155||44.493629535||7118422||1730498||412703|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211102|Hotels with less than 25 guestrooms|1997|Reference year 1997|003|All firms|2386||582168||100||136543||28534||12947|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211102|Hotels with less than 25 guestrooms|1997|Reference year 1997|804|4 largest firms|5||20470||3.5161671545||5308||1577||386|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211102|Hotels with less than 25 guestrooms|1997|Reference year 1997|808|8 largest firms|9||33323||5.7239491006||8344||2383||573|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211102|Hotels with less than 25 guestrooms|1997|Reference year 1997|820|20 largest firms|21||61383||10.543863627||16966||4106||1170|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211102|Hotels with less than 25 guestrooms|1997|Reference year 1997|850|50 largest firms|60||108193||18.584497946||29224||7089||2137|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211103|Motels|1997|Reference year 1997|003|All firms|21829||9205638||100||2056135||439479||202712|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211103|Motels|1997|Reference year 1997|804|4 largest firms|1091||940637||10.218053328||170644||39334||19155|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211103|Motels|1997|Reference year 1997|808|8 largest firms|1224||1071442||11.638976028||202430||46153||21787|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211103|Motels|1997|Reference year 1997|820|20 largest firms|1466||1375553||14.942505886||283313||65059||28396|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211103|Motels|1997|Reference year 1997|850|50 largest firms|1777||1788350||19.426681779||377466||84986||36012|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211104|Motor hotels|1997|Reference year 1997|003|All firms|2139||2206110||100||522926||112304||42326|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211104|Motor hotels|1997|Reference year 1997|804|4 largest firms|505||843382||38.229372062||163059||34764||11947|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211104|Motor hotels|1997|Reference year 1997|808|8 largest firms|545||923446||41.858565529||182524||39349||13630|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211104|Motor hotels|1997|Reference year 1997|820|20 largest firms|565||1044543||47.347729714||215616||46974||16081|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211104|Motor hotels|1997|Reference year 1997|850|50 largest firms|614||1212738||54.971782912||261578||57470||19678|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211105|Organization hotels|1997|Reference year 1997|003|All firms|52||124241||100||38060||8953||2383|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211105|Organization hotels|1997|Reference year 1997|804|4 largest firms|7||65865||53.013900403||16263||3891||962|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211105|Organization hotels|1997|Reference year 1997|808|8 largest firms|11||91903||73.971555284||25275||6191||1541|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211105|Organization hotels|1997|Reference year 1997|820|20 largest firms|24||121271||97.609484792||36997||8746||2262|
+01000US|United States|1|United States|72|Accommodation and foodservices|7211105|Organization hotels|1997|Reference year 1997|850|50 largest firms|52||124241||100||38060||8953||2383|
+01000US|United States|1|United States|72|Accommodation and foodservices|72112|Casino hotels|1997|Reference year 1997|003|All firms|257||20652442||100||5998303||1454541||271220|
+01000US|United States|1|United States|72|Accommodation and foodservices|72112|Casino hotels|1997|Reference year 1997|804|4 largest firms|27||6544887||31.690620412||1786531||448540||72390|
+01000US|United States|1|United States|72|Accommodation and foodservices|72112|Casino hotels|1997|Reference year 1997|808|8 largest firms|46||10371362||50.218574636||2921429||725764||120773|
+01000US|United States|1|United States|72|Accommodation and foodservices|72112|Casino hotels|1997|Reference year 1997|820|20 largest firms|78||14831516||71.814829452||4178910||1036728||178338|
+01000US|United States|1|United States|72|Accommodation and foodservices|72112|Casino hotels|1997|Reference year 1997|850|50 largest firms|117||18695023||90.522094191||5351997||1302947||233213|
+01000US|United States|1|United States|72|Accommodation and foodservices|721120|Casino hotels|1997|Reference year 1997|003|All firms|257||20652442||100||5998303||1454541||271220|
+01000US|United States|1|United States|72|Accommodation and foodservices|721120|Casino hotels|1997|Reference year 1997|804|4 largest firms|27||6544887||31.690620412||1786531||448540||72390|
+01000US|United States|1|United States|72|Accommodation and foodservices|721120|Casino hotels|1997|Reference year 1997|808|8 largest firms|46||10371362||50.218574636||2921429||725764||120773|
+01000US|United States|1|United States|72|Accommodation and foodservices|721120|Casino hotels|1997|Reference year 1997|820|20 largest firms|78||14831516||71.814829452||4178910||1036728||178338|
+01000US|United States|1|United States|72|Accommodation and foodservices|721120|Casino hotels|1997|Reference year 1997|850|50 largest firms|117||18695023||90.522094191||5351997||1302947||233213|
+01000US|United States|1|United States|72|Accommodation and foodservices|72119|Other traveler accommodation|1997|Reference year 1997|003|All firms|3634||862515||100||205980||40410||18786|
+01000US|United States|1|United States|72|Accommodation and foodservices|72119|Other traveler accommodation|1997|Reference year 1997|804|4 largest firms|19||35257||4.0876970256||8764||2023||707|
+01000US|United States|1|United States|72|Accommodation and foodservices|72119|Other traveler accommodation|1997|Reference year 1997|808|8 largest firms|24||53996||6.2602969224||15009||4132||1301|
+01000US|United States|1|United States|72|Accommodation and foodservices|72119|Other traveler accommodation|1997|Reference year 1997|820|20 largest firms|42||87955||10.197503812||25483||6119||2003|
+01000US|United States|1|United States|72|Accommodation and foodservices|72119|Other traveler accommodation|1997|Reference year 1997|850|50 largest firms|75||144823||16.79078045||42803||10095||3280|
+01000US|United States|1|United States|72|Accommodation and foodservices|721191|Bed & breakfast inns|1997|Reference year 1997|003|All firms|2898||687336||100||168816||33912||16049|
+01000US|United States|1|United States|72|Accommodation and foodservices|721191|Bed & breakfast inns|1997|Reference year 1997|804|4 largest firms|15||27730||4.0344169373||8332||2635||820|
+01000US|United States|1|United States|72|Accommodation and foodservices|721191|Bed & breakfast inns|1997|Reference year 1997|808|8 largest firms|19||40935||5.9556025001||12393||3477||1105|
+01000US|United States|1|United States|72|Accommodation and foodservices|721191|Bed & breakfast inns|1997|Reference year 1997|820|20 largest firms|32||70231||10.217855605||20927||5504||1681|
+01000US|United States|1|United States|72|Accommodation and foodservices|721191|Bed & breakfast inns|1997|Reference year 1997|850|50 largest firms|64||120611||17.547604083||35773||8669||2805|
+01000US|United States|1|United States|72|Accommodation and foodservices|721199|All other traveler accommodation|1997|Reference year 1997|003|All firms|736||175179||100||37164||6498||2737|
+01000US|United States|1|United States|72|Accommodation and foodservices|721199|All other traveler accommodation|1997|Reference year 1997|804|4 largest firms|15||25400||14.499454843||6039||1317||470|
+01000US|United States|1|United States|72|Accommodation and foodservices|721199|All other traveler accommodation|1997|Reference year 1997|808|8 largest firms|19||35258||20.126841688||9334||1764||629|
+01000US|United States|1|United States|72|Accommodation and foodservices|721199|All other traveler accommodation|1997|Reference year 1997|820|20 largest firms|37||51523||29.411630389||13332||2613||933|
+01000US|United States|1|United States|72|Accommodation and foodservices|721199|All other traveler accommodation|1997|Reference year 1997|850|50 largest firms|67||75378||43.029130204||18243||3515||1264|
+01000US|United States|1|United States|72|Accommodation and foodservices|7212|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|003|All firms|7598||2734918||100||665297||105569||35331|
+01000US|United States|1|United States|72|Accommodation and foodservices|7212|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|804|4 largest firms|86||125558||4.5909237498||33522||7228||1715|
+01000US|United States|1|United States|72|Accommodation and foodservices|7212|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|808|8 largest firms|120||182798||6.6838567006||45891||9878||2578|
+01000US|United States|1|United States|72|Accommodation and foodservices|7212|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|820|20 largest firms|151||275681||10.080046276||69560||14182||3545|
+01000US|United States|1|United States|72|Accommodation and foodservices|7212|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|850|50 largest firms|198||416537||15.230328661||101995||19185||4861|
+01000US|United States|1|United States|72|Accommodation and foodservices|72121|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|003|All firms|7598||2734918||100||665297||105569||35331|
+01000US|United States|1|United States|72|Accommodation and foodservices|72121|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|804|4 largest firms|86||125558||4.5909237498||33522||7228||1715|
+01000US|United States|1|United States|72|Accommodation and foodservices|72121|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|808|8 largest firms|120||182798||6.6838567006||45891||9878||2578|
+01000US|United States|1|United States|72|Accommodation and foodservices|72121|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|820|20 largest firms|151||275681||10.080046276||69560||14182||3545|
+01000US|United States|1|United States|72|Accommodation and foodservices|72121|RV (recreational vehicle) parks & recreational camps|1997|Reference year 1997|850|50 largest firms|198||416537||15.230328661||101995||19185||4861|
+01000US|United States|1|United States|72|Accommodation and foodservices|721211|RV (recreational vehicle) parks & campgrounds|1997|Reference year 1997|003|All firms|4085||1394200||100||282619||51269||16474|
+01000US|United States|1|United States|72|Accommodation and foodservices|721211|RV (recreational vehicle) parks & campgrounds|1997|Reference year 1997|804|4 largest firms|86||125558||9.0057380577||33522||7228||1715|
+01000US|United States|1|United States|72|Accommodation and foodservices|721211|RV (recreational vehicle) parks & campgrounds|1997|Reference year 1997|808|8 largest firms|106||171547||12.304332234||42069||9189||2312|
+01000US|United States|1|United States|72|Accommodation and foodservices|721211|RV (recreational vehicle) parks & campgrounds|1997|Reference year 1997|820|20 largest firms|135||240934||17.281164826||56967||11957||3052|
+01000US|United States|1|United States|72|Accommodation and foodservices|721211|RV (recreational vehicle) parks & campgrounds|1997|Reference year 1997|850|50 largest firms|201||339254||24.333237699||78054||15776||3951|
+01000US|United States|1|United States|72|Accommodation and foodservices|721214|Recreational & vacation camps (except campgrounds)|1997|Reference year 1997|003|All firms|3513||1340718||100||382678||54300||18857|
+01000US|United States|1|United States|72|Accommodation and foodservices|721214|Recreational & vacation camps (except campgrounds)|1997|Reference year 1997|804|4 largest firms|20||45324||3.3805766761||12235||1866||518|
+01000US|United States|1|United States|72|Accommodation and foodservices|721214|Recreational & vacation camps (except campgrounds)|1997|Reference year 1997|808|8 largest firms|24||75883||5.659877767||20587||3501||857|
+01000US|United States|1|United States|72|Accommodation and foodservices|721214|Recreational & vacation camps (except campgrounds)|1997|Reference year 1997|820|20 largest firms|47||134165||10.006951499||36231||5816||1445|
+01000US|United States|1|United States|72|Accommodation and foodservices|721214|Recreational & vacation camps (except campgrounds)|1997|Reference year 1997|850|50 largest firms|89||227546||16.97195085||65878||10583||2496|
+01000US|United States|1|United States|72|Accommodation and foodservices|7213|Rooming & boarding houses|1997|Reference year 1997|003|All firms|3485|r|756675|r|100||157131|r|39045|r|15662|r
+01000US|United States|1|United States|72|Accommodation and foodservices|7213|Rooming & boarding houses|1997|Reference year 1997|804|4 largest firms|17||38631||5.1053622757||11008||3030||1020|
+01000US|United States|1|United States|72|Accommodation and foodservices|7213|Rooming & boarding houses|1997|Reference year 1997|808|8 largest firms|21||59219||7.8262133677||18252||4767||1393|
+01000US|United States|1|United States|72|Accommodation and foodservices|7213|Rooming & boarding houses|1997|Reference year 1997|820|20 largest firms|60||104519||13.812931576||28595||7109||2205|
+01000US|United States|1|United States|72|Accommodation and foodservices|7213|Rooming & boarding houses|1997|Reference year 1997|850|50 largest firms|104||156921||20.738229755||42163||10335||3050|
+01000US|United States|1|United States|72|Accommodation and foodservices|72131|Rooming & boarding houses|1997|Reference year 1997|003|All firms|3485|r|756675|r|100||157131|r|39045|r|15662|r
+01000US|United States|1|United States|72|Accommodation and foodservices|72131|Rooming & boarding houses|1997|Reference year 1997|804|4 largest firms|17||38631||5.1053622757||11008||3030||1020|
+01000US|United States|1|United States|72|Accommodation and foodservices|72131|Rooming & boarding houses|1997|Reference year 1997|808|8 largest firms|21||59219||7.8262133677||18252||4767||1393|
+01000US|United States|1|United States|72|Accommodation and foodservices|72131|Rooming & boarding houses|1997|Reference year 1997|820|20 largest firms|60||104519||13.812931576||28595||7109||2205|
+01000US|United States|1|United States|72|Accommodation and foodservices|72131|Rooming & boarding houses|1997|Reference year 1997|850|50 largest firms|104||156921||20.738229755||42163||10335||3050|
+01000US|United States|1|United States|72|Accommodation and foodservices|721310|Rooming & boarding houses|1997|Reference year 1997|003|All firms|3485|r|756675|r|100||157131|r|39045|r|15662|r
+01000US|United States|1|United States|72|Accommodation and foodservices|721310|Rooming & boarding houses|1997|Reference year 1997|804|4 largest firms|17||38631||5.1053622757||11008||3030||1020|
+01000US|United States|1|United States|72|Accommodation and foodservices|721310|Rooming & boarding houses|1997|Reference year 1997|808|8 largest firms|21||59219||7.8262133677||18252||4767||1393|
+01000US|United States|1|United States|72|Accommodation and foodservices|721310|Rooming & boarding houses|1997|Reference year 1997|820|20 largest firms|60||104519||13.812931576||28595||7109||2205|
+01000US|United States|1|United States|72|Accommodation and foodservices|721310|Rooming & boarding houses|1997|Reference year 1997|850|50 largest firms|104||156921||20.738229755||42163||10335||3050|
+01000US|United States|1|United States|72|Accommodation and foodservices|722|Food services & drinking places|1997|Reference year 1997|003|All firms|486906|r|251941763|r|100||70333544|r|16386588|r|7754567|r
+01000US|United States|1|United States|72|Accommodation and foodservices|722|Food services & drinking places|1997|Reference year 1997|804|4 largest firms|15285||16192382||6.4270336951||4610597||1115763||513864|
+01000US|United States|1|United States|72|Accommodation and foodservices|722|Food services & drinking places|1997|Reference year 1997|808|8 largest firms|25822||24280209||9.6372307278||6832852||1658821||790776|
+01000US|United States|1|United States|72|Accommodation and foodservices|722|Food services & drinking places|1997|Reference year 1997|820|20 largest firms|34214||36081353||14.321306865||10236556||2469589||1095645|
+01000US|United States|1|United States|72|Accommodation and foodservices|722|Food services & drinking places|1997|Reference year 1997|850|50 largest firms|45935||49946138||19.824477453||14247859||3425669||1529139|
+01000US|United States|1|United States|72|Accommodation and foodservices|7221|Full-service restaurants|1997|Reference year 1997|003|All firms|191245||112450172||100||34435004||8104400||3641402|
+01000US|United States|1|United States|72|Accommodation and foodservices|7221|Full-service restaurants|1997|Reference year 1997|804|4 largest firms|5517||7665586||6.8168735215||2397745||611647||289011|
+01000US|United States|1|United States|72|Accommodation and foodservices|7221|Full-service restaurants|1997|Reference year 1997|808|8 largest firms|7192||11399992||10.137816419||3427993||854028||394403|
+01000US|United States|1|United States|72|Accommodation and foodservices|7221|Full-service restaurants|1997|Reference year 1997|820|20 largest firms|10671||17048857||15.161254711||5293275||1299402||596584|
+01000US|United States|1|United States|72|Accommodation and foodservices|7221|Full-service restaurants|1997|Reference year 1997|850|50 largest firms|13626||22438820||19.954455917||6959497||1704389||763086|
+01000US|United States|1|United States|72|Accommodation and foodservices|72211|Full-service restaurants|1997|Reference year 1997|003|All firms|191245||112450172||100||34435004||8104400||3641402|
+01000US|United States|1|United States|72|Accommodation and foodservices|72211|Full-service restaurants|1997|Reference year 1997|804|4 largest firms|5517||7665586||6.8168735215||2397745||611647||289011|
+01000US|United States|1|United States|72|Accommodation and foodservices|72211|Full-service restaurants|1997|Reference year 1997|808|8 largest firms|7192||11399992||10.137816419||3427993||854028||394403|
+01000US|United States|1|United States|72|Accommodation and foodservices|72211|Full-service restaurants|1997|Reference year 1997|820|20 largest firms|10671||17048857||15.161254711||5293275||1299402||596584|
+01000US|United States|1|United States|72|Accommodation and foodservices|72211|Full-service restaurants|1997|Reference year 1997|850|50 largest firms|13626||22438820||19.954455917||6959497||1704389||763086|
+01000US|United States|1|United States|72|Accommodation and foodservices|722110|Full-service restaurants|1997|Reference year 1997|003|All firms|191245||112450172||100||34435004||8104400||3641402|
+01000US|United States|1|United States|72|Accommodation and foodservices|722110|Full-service restaurants|1997|Reference year 1997|804|4 largest firms|5517||7665586||6.8168735215||2397745||611647||289011|
+01000US|United States|1|United States|72|Accommodation and foodservices|722110|Full-service restaurants|1997|Reference year 1997|808|8 largest firms|7192||11399992||10.137816419||3427993||854028||394403|
+01000US|United States|1|United States|72|Accommodation and foodservices|722110|Full-service restaurants|1997|Reference year 1997|820|20 largest firms|10671||17048857||15.161254711||5293275||1299402||596584|
+01000US|United States|1|United States|72|Accommodation and foodservices|722110|Full-service restaurants|1997|Reference year 1997|850|50 largest firms|13626||22438820||19.954455917||6959497||1704389||763086|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222|Limited-service eating places|1997|Reference year 1997|003|All firms|214774|r|107788072|r|100||27483082|r|6326880|r|3327001|r
+01000US|United States|1|United States|72|Accommodation and foodservices|7222|Limited-service eating places|1997|Reference year 1997|804|4 largest firms|11751||10957225||10.165526479||2822933||676071||312191|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222|Limited-service eating places|1997|Reference year 1997|808|8 largest firms|15259||14264226||13.233584881||3734675||892547||465350|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222|Limited-service eating places|1997|Reference year 1997|820|20 largest firms|21155||19975028||18.531761102||5214352||1243852||619673|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222|Limited-service eating places|1997|Reference year 1997|850|50 largest firms|28734||26525767||24.609185885||6944074||1649288||815874|
+01000US|United States|1|United States|72|Accommodation and foodservices|72221|Limited-service eating places|1997|Reference year 1997|003|All firms|214774|r|107788072|r|100||27483082|r|6326880|r|3327001|r
+01000US|United States|1|United States|72|Accommodation and foodservices|72221|Limited-service eating places|1997|Reference year 1997|804|4 largest firms|11751||10957225||10.165526479||2822933||676071||312191|
+01000US|United States|1|United States|72|Accommodation and foodservices|72221|Limited-service eating places|1997|Reference year 1997|808|8 largest firms|15259||14264226||13.233584881||3734675||892547||465350|
+01000US|United States|1|United States|72|Accommodation and foodservices|72221|Limited-service eating places|1997|Reference year 1997|820|20 largest firms|21155||19975028||18.531761102||5214352||1243852||619673|
+01000US|United States|1|United States|72|Accommodation and foodservices|72221|Limited-service eating places|1997|Reference year 1997|850|50 largest firms|28734||26525767||24.609185885||6944074||1649288||815874|
+01000US|United States|1|United States|72|Accommodation and foodservices|722211|Limited-service restaurants|1997|Reference year 1997|003|All firms|174104||94698045||100||24032405||5548491||2944280|
+01000US|United States|1|United States|72|Accommodation and foodservices|722211|Limited-service restaurants|1997|Reference year 1997|804|4 largest firms|11749||10956321||11.569743599||2822485||676019||312177|
+01000US|United States|1|United States|72|Accommodation and foodservices|722211|Limited-service restaurants|1997|Reference year 1997|808|8 largest firms|14857||14081866||14.870281641||3649046||873534||454074|
+01000US|United States|1|United States|72|Accommodation and foodservices|722211|Limited-service restaurants|1997|Reference year 1997|820|20 largest firms|20233||19315323||20.396749479||5057654||1204374||610241|
+01000US|United States|1|United States|72|Accommodation and foodservices|722211|Limited-service restaurants|1997|Reference year 1997|850|50 largest firms|26830||24653375||26.033668382||6418937||1525926||766052|
+01000US|United States|1|United States|72|Accommodation and foodservices|722212|Cafeterias|1997|Reference year 1997|003|All firms|4172||2578922||100||799108||194661||72324|
+01000US|United States|1|United States|72|Accommodation and foodservices|722212|Cafeterias|1997|Reference year 1997|804|4 largest firms|624||1216236||47.160635335||395039||97736||32167|
+01000US|United States|1|United States|72|Accommodation and foodservices|722212|Cafeterias|1997|Reference year 1997|808|8 largest firms|757||1451855||56.296972146||474676||117488||39641|
+01000US|United States|1|United States|72|Accommodation and foodservices|722212|Cafeterias|1997|Reference year 1997|820|20 largest firms|839||1581274||61.315309265||516258||128634||43644|
+01000US|United States|1|United States|72|Accommodation and foodservices|722212|Cafeterias|1997|Reference year 1997|850|50 largest firms|926||1692916||65.644327358||551121||137210||47549|
+01000US|United States|1|United States|72|Accommodation and foodservices|722213|Snack & nonalcoholic beverage bars|1997|Reference year 1997|003|All firms|36498|r|10511105|r|100||2651569|r|583728|r|310397|r
+01000US|United States|1|United States|72|Accommodation and foodservices|722213|Snack & nonalcoholic beverage bars|1997|Reference year 1997|804|4 largest firms|2119||1501170||14.281752489||339791||78460||40636|
+01000US|United States|1|United States|72|Accommodation and foodservices|722213|Snack & nonalcoholic beverage bars|1997|Reference year 1997|808|8 largest firms|3309||1826545||17.377288116||423835||101022||50615|
+01000US|United States|1|United States|72|Accommodation and foodservices|722213|Snack & nonalcoholic beverage bars|1997|Reference year 1997|820|20 largest firms|3910||2182080||20.75975837||514133||122984||61597|
+01000US|United States|1|United States|72|Accommodation and foodservices|722213|Snack & nonalcoholic beverage bars|1997|Reference year 1997|850|50 largest firms|4572||2582982||24.573838811||616786||146561||71510|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222131|Ice cream & soft serve shops|1997|Reference year 1997|003|All firms|9753||2120143||100||488082||85405||69425|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222131|Ice cream & soft serve shops|1997|Reference year 1997|804|4 largest firms|305||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|72|Accommodation and foodservices|7222131|Ice cream & soft serve shops|1997|Reference year 1997|808|8 largest firms|323||343335||16.193954842||82820||17246||10855|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222131|Ice cream & soft serve shops|1997|Reference year 1997|820|20 largest firms|385||375485||17.71036199||89891||18541||11801|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222131|Ice cream & soft serve shops|1997|Reference year 1997|850|50 largest firms|460||424339||20.014640522||102809||21114||13164|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222132|Frozen yogurt shops|1997|Reference year 1997|003|All firms|1582||304191||100||73379||15849||11422|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222132|Frozen yogurt shops|1997|Reference year 1997|804|4 largest firms|95||16766||5.5116686555||5862||1343||775|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222132|Frozen yogurt shops|1997|Reference year 1997|808|8 largest firms|121||27025||8.8842207692||8604||1988||1099|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222132|Frozen yogurt shops|1997|Reference year 1997|820|20 largest firms|166||47029||15.460352213||12829||2915||1712|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222132|Frozen yogurt shops|1997|Reference year 1997|850|50 largest firms|255||80613||26.500784047||21339||4688||2791|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222133|Donut shops|1997|Reference year 1997|003|All firms|6792||2329466||100||604078||138048||61421|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222133|Donut shops|1997|Reference year 1997|804|4 largest firms|278||115357||4.952079146||34418||8396||2992|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222133|Donut shops|1997|Reference year 1997|808|8 largest firms|306||148089||6.3572080468||42605||10191||3721|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222133|Donut shops|1997|Reference year 1997|820|20 largest firms|362||211970||9.0995103599||59792||13801||5183|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222133|Donut shops|1997|Reference year 1997|850|50 largest firms|467||311695||13.380534423||86408||19303||7524|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222134|Bagel shops|1997|Reference year 1997|003|All firms|3926||1445838||100||399348||96850||45972|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222134|Bagel shops|1997|Reference year 1997|804|4 largest firms|694||288978||19.986886498||84011||22438||11317|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222134|Bagel shops|1997|Reference year 1997|808|8 largest firms|799||357120||24.69986264||102363||26114||12930|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222134|Bagel shops|1997|Reference year 1997|820|20 largest firms|934||478351||33.084688603||133924||33655||16002|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222134|Bagel shops|1997|Reference year 1997|850|50 largest firms|1116||598021||41.361549496||171644||43268||20188|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222135|Coffee shops|1997|Reference year 1997|003|All firms|6843||2001380||100||467197||108169||56592|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222135|Coffee shops|1997|Reference year 1997|804|4 largest firms|1458||918673||45.901977635||188822||44810||22657|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222135|Coffee shops|1997|Reference year 1997|808|8 largest firms|1579||1007808||50.355654598||211519||50433||24741|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222135|Coffee shops|1997|Reference year 1997|820|20 largest firms|1724||1079929||53.959218139||231380||55442||26389|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222135|Coffee shops|1997|Reference year 1997|850|50 largest firms|1838||1146160||57.268484746||248731||59308||27896|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222136|Cookie shops|1997|Reference year 1997|003|All firms|1798||412655||100||100003||23831||10908|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222136|Cookie shops|1997|Reference year 1997|804|4 largest firms|561||137564||33.336322109||32736||8165||3168|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222136|Cookie shops|1997|Reference year 1997|808|8 largest firms|575||153849||37.282718009||37306||9385||3424|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222136|Cookie shops|1997|Reference year 1997|820|20 largest firms|657||179408||43.476511856||42981||10665||4288|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222136|Cookie shops|1997|Reference year 1997|850|50 largest firms|724||210944||51.118731143||51534||12532||5109|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222137|Other snack & nonalcoholic beverage bars|1997|Reference year 1997|003|All firms|5804|r|1897432|r|100||519482|r|115576|r|54657|r
+01000US|United States|1|United States|72|Accommodation and foodservices|7222137|Other snack & nonalcoholic beverage bars|1997|Reference year 1997|804|4 largest firms|550||358864||18.913141551||87014||20694||10181|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222137|Other snack & nonalcoholic beverage bars|1997|Reference year 1997|808|8 largest firms|779||446536||23.533702394||108169||25981||12547|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222137|Other snack & nonalcoholic beverage bars|1997|Reference year 1997|820|20 largest firms|897||553471||29.169477483||136556||32316||15244|
+01000US|United States|1|United States|72|Accommodation and foodservices|7222137|Other snack & nonalcoholic beverage bars|1997|Reference year 1997|850|50 largest firms|1044||679819||35.828372242||169368||39576||18161|
+01000US|United States|1|United States|72|Accommodation and foodservices|7223|Special food services|1997|Reference year 1997|003|All firms|28062||19407810||100||5765977||1332760||464870|
+01000US|United States|1|United States|72|Accommodation and foodservices|7223|Special food services|1997|Reference year 1997|804|4 largest firms|9978||7928679||40.853032877||2267915||533500||189656|
+01000US|United States|1|United States|72|Accommodation and foodservices|7223|Special food services|1997|Reference year 1997|808|8 largest firms|11863||10585141||54.540625655||3121428||741207||246664|
+01000US|United States|1|United States|72|Accommodation and foodservices|7223|Special food services|1997|Reference year 1997|820|20 largest firms|13762||12424319||64.017109607||3692300||878384||285932|
+01000US|United States|1|United States|72|Accommodation and foodservices|7223|Special food services|1997|Reference year 1997|850|50 largest firms|14525||13308831||68.574615065||3955179||942336||303642|
+01000US|United States|1|United States|72|Accommodation and foodservices|72231|Food service contractors|1997|Reference year 1997|003|All firms|18991||15159590||100||4617362||1100648||361996|
+01000US|United States|1|United States|72|Accommodation and foodservices|72231|Food service contractors|1997|Reference year 1997|804|4 largest firms|9922||7820619||51.588591776||2245013||528561||188844|
+01000US|United States|1|United States|72|Accommodation and foodservices|72231|Food service contractors|1997|Reference year 1997|808|8 largest firms|11807||10477081||69.111902103||3098526||736268||245852|
+01000US|United States|1|United States|72|Accommodation and foodservices|72231|Food service contractors|1997|Reference year 1997|820|20 largest firms|13700||12311556||81.21298795||3667959||873098||285027|
+01000US|United States|1|United States|72|Accommodation and foodservices|72231|Food service contractors|1997|Reference year 1997|850|50 largest firms|14456||13183613||86.965498407||3939501||940901||303700|
+01000US|United States|1|United States|72|Accommodation and foodservices|722310|Food service contractors|1997|Reference year 1997|003|All firms|18991||15159590||100||4617362||1100648||361996|
+01000US|United States|1|United States|72|Accommodation and foodservices|722310|Food service contractors|1997|Reference year 1997|804|4 largest firms|9922||7820619||51.588591776||2245013||528561||188844|
+01000US|United States|1|United States|72|Accommodation and foodservices|722310|Food service contractors|1997|Reference year 1997|808|8 largest firms|11807||10477081||69.111902103||3098526||736268||245852|
+01000US|United States|1|United States|72|Accommodation and foodservices|722310|Food service contractors|1997|Reference year 1997|820|20 largest firms|13700||12311556||81.21298795||3667959||873098||285027|
+01000US|United States|1|United States|72|Accommodation and foodservices|722310|Food service contractors|1997|Reference year 1997|850|50 largest firms|14456||13183613||86.965498407||3939501||940901||303700|
+01000US|United States|1|United States|72|Accommodation and foodservices|72232|Caterers|1997|Reference year 1997|003|All firms|6478||3368823||100||978105||196689||91191|
+01000US|United States|1|United States|72|Accommodation and foodservices|72232|Caterers|1997|Reference year 1997|808|8 largest firms|18||132566||3.9350835589||39124||8123||1873|
+01000US|United States|1|United States|72|Accommodation and foodservices|72232|Caterers|1997|Reference year 1997|820|20 largest firms|39||264124||7.8402456882||77795||15374||4421|
+01000US|United States|1|United States|72|Accommodation and foodservices|72232|Caterers|1997|Reference year 1997|850|50 largest firms|79||486078||14.428718873||145974||30052||8529|
+01000US|United States|1|United States|72|Accommodation and foodservices|722320|Caterers|1997|Reference year 1997|003|All firms|6478||3368823||100||978105||196689||91191|
+01000US|United States|1|United States|72|Accommodation and foodservices|722320|Caterers|1997|Reference year 1997|804|4 largest firms|11||81082||2.4068346719||21212||4511||1061|
+01000US|United States|1|United States|72|Accommodation and foodservices|722320|Caterers|1997|Reference year 1997|808|8 largest firms|18||132566||3.9350835589||39124||8123||1873|
+01000US|United States|1|United States|72|Accommodation and foodservices|722320|Caterers|1997|Reference year 1997|850|50 largest firms|79||486078||14.428718873||145974||30052||8529|
+01000US|United States|1|United States|72|Accommodation and foodservices|72233|Mobile food services|1997|Reference year 1997|003|All firms|2593||879397||100||170510||35423||11683|
+01000US|United States|1|United States|72|Accommodation and foodservices|72233|Mobile food services|1997|Reference year 1997|804|4 largest firms|60||151029||17.174154563||27876||6154||1029|
+01000US|United States|1|United States|72|Accommodation and foodservices|72233|Mobile food services|1997|Reference year 1997|808|8 largest firms|67||190709||21.686337343||35136||7912||1396|
+01000US|United States|1|United States|72|Accommodation and foodservices|72233|Mobile food services|1997|Reference year 1997|820|20 largest firms|109||264123||30.034557771||48234||10551||2026|
+01000US|United States|1|United States|72|Accommodation and foodservices|72233|Mobile food services|1997|Reference year 1997|850|50 largest firms|159||361545||41.112830724||65936||14462||2998|
+01000US|United States|1|United States|72|Accommodation and foodservices|722330|Mobile food services|1997|Reference year 1997|003|All firms|2593||879397||100||170510||35423||11683|
+01000US|United States|1|United States|72|Accommodation and foodservices|722330|Mobile food services|1997|Reference year 1997|804|4 largest firms|60||151029||17.174154563||27876||6154||1029|
+01000US|United States|1|United States|72|Accommodation and foodservices|722330|Mobile food services|1997|Reference year 1997|808|8 largest firms|67||190709||21.686337343||35136||7912||1396|
+01000US|United States|1|United States|72|Accommodation and foodservices|722330|Mobile food services|1997|Reference year 1997|820|20 largest firms|109||264123||30.034557771||48234||10551||2026|
+01000US|United States|1|United States|72|Accommodation and foodservices|722330|Mobile food services|1997|Reference year 1997|850|50 largest firms|159||361545||41.112830724||65936||14462||2998|
+01000US|United States|1|United States|72|Accommodation and foodservices|7224|Drinking places (alcoholic beverages)|1997|Reference year 1997|003|All firms|52825||12295709||100||2649481||622548||321294|
+01000US|United States|1|United States|72|Accommodation and foodservices|7224|Drinking places (alcoholic beverages)|1997|Reference year 1997|804|4 largest firms|26||78005||.6344083127||26512||6561||3622|
+01000US|United States|1|United States|72|Accommodation and foodservices|7224|Drinking places (alcoholic beverages)|1997|Reference year 1997|808|8 largest firms|45||124881||1.0156470034||35069||8471||4509|
+01000US|United States|1|United States|72|Accommodation and foodservices|7224|Drinking places (alcoholic beverages)|1997|Reference year 1997|820|20 largest firms|78||237732||1.9334549964||60059||14723||6903|
+01000US|United States|1|United States|72|Accommodation and foodservices|7224|Drinking places (alcoholic beverages)|1997|Reference year 1997|850|50 largest firms|127||413459||3.3626283771||109210||25469||10576|
+01000US|United States|1|United States|72|Accommodation and foodservices|72241|Drinking places (alcoholic beverages)|1997|Reference year 1997|003|All firms|52825||12295709||100||2649481||622548||321294|
+01000US|United States|1|United States|72|Accommodation and foodservices|72241|Drinking places (alcoholic beverages)|1997|Reference year 1997|804|4 largest firms|26||78005||.6344083127||26512||6561||3622|
+01000US|United States|1|United States|72|Accommodation and foodservices|72241|Drinking places (alcoholic beverages)|1997|Reference year 1997|808|8 largest firms|45||124881||1.0156470034||35069||8471||4509|
+01000US|United States|1|United States|72|Accommodation and foodservices|72241|Drinking places (alcoholic beverages)|1997|Reference year 1997|820|20 largest firms|78||237732||1.9334549964||60059||14723||6903|
+01000US|United States|1|United States|72|Accommodation and foodservices|72241|Drinking places (alcoholic beverages)|1997|Reference year 1997|850|50 largest firms|127||413459||3.3626283771||109210||25469||10576|
+01000US|United States|1|United States|72|Accommodation and foodservices|722410|Drinking places (alcoholic beverages)|1997|Reference year 1997|003|All firms|52825||12295709||100||2649481||622548||321294|
+01000US|United States|1|United States|72|Accommodation and foodservices|722410|Drinking places (alcoholic beverages)|1997|Reference year 1997|804|4 largest firms|26||78005||.6344083127||26512||6561||3622|
+01000US|United States|1|United States|72|Accommodation and foodservices|722410|Drinking places (alcoholic beverages)|1997|Reference year 1997|808|8 largest firms|45||124881||1.0156470034||35069||8471||4509|
+01000US|United States|1|United States|72|Accommodation and foodservices|722410|Drinking places (alcoholic beverages)|1997|Reference year 1997|820|20 largest firms|78||237732||1.9334549964||60059||14723||6903|
+01000US|United States|1|United States|72|Accommodation and foodservices|722410|Drinking places (alcoholic beverages)|1997|Reference year 1997|850|50 largest firms|127||413459||3.3626283771||109210||25469||10576|
+01000US|United States|1|United States|72|Accommodation and foodservices|72232|Caterers|1997|Reference year 1997|804|4 largest firms|11||81082||2.4068346719||21212||4511||1061|
+01000US|United States|1|United States|72|Accommodation and foodservices|722320|Caterers|1997|Reference year 1997|820|20 largest firms|39||264124||7.8402456882||77795||15374||4421|

@@ -1,0 +1,25 @@
+DE_NAME|DISP_LABEL|DATA_TYPE|MAX_LEN|DECIMAL_PLACES|DE_TYPE|IB_TYPE|FLAG_DE_NAME|MEANING_TABLE_NAME
+GEO_ID|AFF Geographic Identifier|CHARACTER|60|0|G|||META0422
+GEOGRAPHY|Geographic Area|CHARACTER|1000|0||||
+GEOTYPE|Type of geography flag|CHARACTER|1|0|G|||META0500
+GEOTYPE_MEANING|Meaning of Type of geography flag|CHARACTER|4000|0||||
+SECTOR|NAICS economic sector code|CHARACTER|2|0|I|||META0500
+SECTOR_MEANING|Meaning of NAICS economic sector code|CHARACTER|4000|0||||
+NAICS|1997 NAICS code|CHARACTER|8|0|I|NAICS||META1422
+NAICS_MEANING|Meaning of 1997 NAICS code|CHARACTER|255|0||||
+YEAR|Year|CHARACTER|4|0|O|||META0500
+YEAR_MEANING|Meaning of Year|CHARACTER|4000|0||||
+COMPANY|Number of companies|NUMBER|6|0|D||COMPANYF|
+COMPANYF|Number of companies|CHARACTER|3|0|F|||META0500
+ECVALUE|Total value shps ($1,000)|NUMBER|11|0|D||ECVALUEF|
+ECVALUEF|Total value shps flag|CHARACTER|3|0|F|||META0500
+VSTOP4|% of val ship actd by top 4|NUMBER|3|1|D||VSTOP4F|
+VSTOP4F|% of val ship actd by top 4|CHARACTER|3|0|F|||META0500
+VSTOP8|% of val ship actd by top 8|NUMBER|3|1|D||VSTOP8F|
+VSTOP8F|% of val ship actd by top 8|CHARACTER|3|0|F|||META0500
+VSTOP20|% of val ship actd by top 20|NUMBER|3|1|D||VSTOP20F|
+VSTOP20F|% of val ship actd by top 20|CHARACTER|3|0|F|||META0500
+VSTOP50|% of val ship actd by top 50|NUMBER|3|1|D||VSTOP50F|
+VSTOP50F|% of val ship actd by top 50|CHARACTER|3|0|F|||META0500
+VSHERFI|% of val ship hdahl-hman index|NUMBER|4|1|D||VSHERFIF|
+VSHERFIF|% of val ship hdahl-hman index|CHARACTER|3|0|F|||META0500

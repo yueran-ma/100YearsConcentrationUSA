@@ -1,0 +1,1006 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|CONCENFI|CONCENFI_MEANING|ESTAB|ESTABF|ECVALUE|ECVALUEF|VALPCT|VALPCTF|PAY|PAYF|PAY1Q|PAY1QF|EMP|EMPF 
+01000US|United States|1|United States|44|Retail trade|44-45|Retail trade|1997|Reference year 1997|003|All firms|1118447|r|2460886012|r|100||237195503|r|55386162|r|13991103|r
+01000US|United States|1|United States|44|Retail trade|44-45|Retail trade|1997|Reference year 1997|804|4 largest firms|10969||193717460||7.8718583086||17434555||4116112||1459968|
+01000US|United States|1|United States|44|Retail trade|44-45|Retail trade|1997|Reference year 1997|808|8 largest firms|17231||288344881||11.717116502||27240573||6351366||2085568|
+01000US|United States|1|United States|44|Retail trade|44-45|Retail trade|1997|Reference year 1997|820|20 largest firms|35245||454546989||18.470867272||43816391||10272837||3177449|
+01000US|United States|1|United States|44|Retail trade|44-45|Retail trade|1997|Reference year 1997|850|50 largest firms|70612||631285683||25.652780337||58778641||13888187||4213856|
+01000US|United States|1|United States|44|Retail trade|441|Motor vehicle & parts dealers|1997|Reference year 1997|003|All firms|122633||645367776||100||50238931||11531623||1718963|
+01000US|United States|1|United States|44|Retail trade|441|Motor vehicle & parts dealers|1997|Reference year 1997|804|4 largest firms|2609||10411249||1.6132272771||1165598||262415||50603|
+01000US|United States|1|United States|44|Retail trade|441|Motor vehicle & parts dealers|1997|Reference year 1997|808|8 largest firms|6205||16719813||2.5907418408||2126261||497148||91045|
+01000US|United States|1|United States|44|Retail trade|441|Motor vehicle & parts dealers|1997|Reference year 1997|820|20 largest firms|10409||26929421||4.1727247628||3193887||758803||137854|
+01000US|United States|1|United States|44|Retail trade|441|Motor vehicle & parts dealers|1997|Reference year 1997|850|50 largest firms|11431||43132396||6.6833823448||4260535||1019366||168765|
+01000US|United States|1|United States|44|Retail trade|4411|Automobile dealers|1997|Reference year 1997|003|All firms|49237||553652292||100||37400147||8568404||1138995|
+01000US|United States|1|United States|44|Retail trade|4411|Automobile dealers|1997|Reference year 1997|804|4 largest firms|167||8503069||1.5358139256||570098||128967||14429|
+01000US|United States|1|United States|44|Retail trade|4411|Automobile dealers|1997|Reference year 1997|808|8 largest firms|232||11842019||2.1388909919||774570||171956||18934|
+01000US|United States|1|United States|44|Retail trade|4411|Automobile dealers|1997|Reference year 1997|820|20 largest firms|347||19714394||3.5607897384||1206250||276980||30199|
+01000US|United States|1|United States|44|Retail trade|4411|Automobile dealers|1997|Reference year 1997|850|50 largest firms|580||32390854||5.8503964434||1997613||464034||51944|
+01000US|United States|1|United States|44|Retail trade|44111|New car dealers|1997|Reference year 1997|003|All firms|25897||518971824||100||35202751||8072223||1046243|
+01000US|United States|1|United States|44|Retail trade|44111|New car dealers|1997|Reference year 1997|804|4 largest firms|142||7916307||1.5253828115||496375||119643||13487|
+01000US|United States|1|United States|44|Retail trade|44111|New car dealers|1997|Reference year 1997|808|8 largest firms|202||11091041||2.1371181415||688475||165818||18643|
+01000US|United States|1|United States|44|Retail trade|44111|New car dealers|1997|Reference year 1997|820|20 largest firms|313||18800222||3.6225901158||1113685||269651||29494|
+01000US|United States|1|United States|44|Retail trade|44111|New car dealers|1997|Reference year 1997|850|50 largest firms|532||31168911||6.0058965745||1884831||451530||50657|
+01000US|United States|1|United States|44|Retail trade|441110|New car dealers|1997|Reference year 1997|003|All firms|25897||518971824||100||35202751||8072223||1046243|
+01000US|United States|1|United States|44|Retail trade|441110|New car dealers|1997|Reference year 1997|804|4 largest firms|142||7916307||1.5253828115||496375||119643||13487|
+01000US|United States|1|United States|44|Retail trade|441110|New car dealers|1997|Reference year 1997|808|8 largest firms|202||11091041||2.1371181415||688475||165818||18643|
+01000US|United States|1|United States|44|Retail trade|441110|New car dealers|1997|Reference year 1997|820|20 largest firms|313||18800222||3.6225901158||1113685||269651||29494|
+01000US|United States|1|United States|44|Retail trade|441110|New car dealers|1997|Reference year 1997|850|50 largest firms|532||31168911||6.0058965745||1884831||451530||50657|
+01000US|United States|1|United States|44|Retail trade|44112|Used car dealers|1997|Reference year 1997|003|All firms|23340||34680468||100||2197396||496181||92752|
+01000US|United States|1|United States|44|Retail trade|44112|Used car dealers|1997|Reference year 1997|804|4 largest firms|62||1616454||4.6609924641||123618||17378||1829|
+01000US|United States|1|United States|44|Retail trade|44112|Used car dealers|1997|Reference year 1997|808|8 largest firms|76||2025525||5.8405353699||141352||21798||2375|
+01000US|United States|1|United States|44|Retail trade|44112|Used car dealers|1997|Reference year 1997|820|20 largest firms|105||2724519||7.856061804||181914||31514||3357|
+01000US|United States|1|United States|44|Retail trade|44112|Used car dealers|1997|Reference year 1997|850|50 largest firms|185||3786861||10.919290363||247663||46432||5328|
+01000US|United States|1|United States|44|Retail trade|441120|Used car dealers|1997|Reference year 1997|003|All firms|23340||34680468||100||2197396||496181||92752|
+01000US|United States|1|United States|44|Retail trade|441120|Used car dealers|1997|Reference year 1997|804|4 largest firms|62||1616454||4.6609924641||123618||17378||1829|
+01000US|United States|1|United States|44|Retail trade|441120|Used car dealers|1997|Reference year 1997|808|8 largest firms|76||2025525||5.8405353699||141352||21798||2375|
+01000US|United States|1|United States|44|Retail trade|441120|Used car dealers|1997|Reference year 1997|820|20 largest firms|105||2724519||7.856061804||181914||31514||3357|
+01000US|United States|1|United States|44|Retail trade|441120|Used car dealers|1997|Reference year 1997|850|50 largest firms|185||3786861||10.919290363||247663||46432||5328|
+01000US|United States|1|United States|44|Retail trade|4412|Other motor vehicle dealers|1997|Reference year 1997|003|All firms|13589||28890506||100||2569916||546742||102768|
+01000US|United States|1|United States|44|Retail trade|4412|Other motor vehicle dealers|1997|Reference year 1997|804|4 largest firms|211||1019734||3.5296508825||66382||15551||3006|
+01000US|United States|1|United States|44|Retail trade|4412|Other motor vehicle dealers|1997|Reference year 1997|808|8 largest firms|225||1504007||5.2058866674||90959||21396||3689|
+01000US|United States|1|United States|44|Retail trade|4412|Other motor vehicle dealers|1997|Reference year 1997|820|20 largest firms|333||2385640||8.2575223847||164443||37965||6414|
+01000US|United States|1|United States|44|Retail trade|4412|Other motor vehicle dealers|1997|Reference year 1997|850|50 largest firms|436||3685669||12.757370882||246681||56848||9231|
+01000US|United States|1|United States|44|Retail trade|44121|Recreational vehicle dealers|1997|Reference year 1997|003|All firms|3014||10069749||100||813962||175534||29463|
+01000US|United States|1|United States|44|Retail trade|44121|Recreational vehicle dealers|1997|Reference year 1997|804|4 largest firms|33||814978||8.0933298337||48049||11612||1267|
+01000US|United States|1|United States|44|Retail trade|44121|Recreational vehicle dealers|1997|Reference year 1997|808|8 largest firms|49||1200902||11.925838469||78075||19312||2212|
+01000US|United States|1|United States|44|Retail trade|44121|Recreational vehicle dealers|1997|Reference year 1997|820|20 largest firms|91||1951539||19.380214939||130461||31622||3944|
+01000US|United States|1|United States|44|Retail trade|44121|Recreational vehicle dealers|1997|Reference year 1997|850|50 largest firms|152||2960660||29.401527287||201048||46652||5919|
+01000US|United States|1|United States|44|Retail trade|441210|Recreational vehicle dealers|1997|Reference year 1997|003|All firms|3014||10069749||100||813962||175534||29463|
+01000US|United States|1|United States|44|Retail trade|441210|Recreational vehicle dealers|1997|Reference year 1997|804|4 largest firms|33||814978||8.0933298337||48049||11612||1267|
+01000US|United States|1|United States|44|Retail trade|441210|Recreational vehicle dealers|1997|Reference year 1997|808|8 largest firms|49||1200902||11.925838469||78075||19312||2212|
+01000US|United States|1|United States|44|Retail trade|441210|Recreational vehicle dealers|1997|Reference year 1997|820|20 largest firms|91||1951539||19.380214939||130461||31622||3944|
+01000US|United States|1|United States|44|Retail trade|441210|Recreational vehicle dealers|1997|Reference year 1997|850|50 largest firms|152||2960660||29.401527287||201048||46652||5919|
+01000US|United States|1|United States|44|Retail trade|44122|Motorcycle, boat, & other motor vehicle dealers|1997|Reference year 1997|003|All firms|10575||18820757||100||1755954||371208||73305|
+01000US|United States|1|United States|44|Retail trade|44122|Motorcycle, boat, & other motor vehicle dealers|1997|Reference year 1997|804|4 largest firms|244||639182||3.3961545755||44081||8759||2756|
+01000US|United States|1|United States|44|Retail trade|44122|Motorcycle, boat, & other motor vehicle dealers|1997|Reference year 1997|808|8 largest firms|261||856880||4.552845563||57273||11699||3170|
+01000US|United States|1|United States|44|Retail trade|44122|Motorcycle, boat, & other motor vehicle dealers|1997|Reference year 1997|820|20 largest firms|319||1309823||6.9594597072||90383||18789||4515|
+01000US|United States|1|United States|44|Retail trade|44122|Motorcycle, boat, & other motor vehicle dealers|1997|Reference year 1997|850|50 largest firms|377||2001748||10.635852745||153335||32866||6508|
+01000US|United States|1|United States|44|Retail trade|441221|Motorcycle dealers|1997|Reference year 1997|003|All firms|3635||7369260||100||712065||151433||29026|
+01000US|United States|1|United States|44|Retail trade|441221|Motorcycle dealers|1997|Reference year 1997|804|4 largest firms|7||120096||1.629688734||11467||2548||396|
+01000US|United States|1|United States|44|Retail trade|441221|Motorcycle dealers|1997|Reference year 1997|808|8 largest firms|12||199492||2.7070832078||18590||4080||613|
+01000US|United States|1|United States|44|Retail trade|441221|Motorcycle dealers|1997|Reference year 1997|820|20 largest firms|24||398712||5.4104754073||39288||8466||1161|
+01000US|United States|1|United States|44|Retail trade|441221|Motorcycle dealers|1997|Reference year 1997|850|50 largest firms|68||782008||10.61175749||75594||15993||2287|
+01000US|United States|1|United States|44|Retail trade|441222|Boat dealers|1997|Reference year 1997|003|All firms|5262||8934230||100||839296||174483||35134|
+01000US|United States|1|United States|44|Retail trade|441222|Boat dealers|1997|Reference year 1997|804|4 largest firms|252||549276||6.1479948468||44280||9372||2842|
+01000US|United States|1|United States|44|Retail trade|441222|Boat dealers|1997|Reference year 1997|808|8 largest firms|298||743112||8.3175830486||58338||12385||3475|
+01000US|United States|1|United States|44|Retail trade|441222|Boat dealers|1997|Reference year 1997|820|20 largest firms|320||1142496||12.787850772||83333||17570||4263|
+01000US|United States|1|United States|44|Retail trade|441222|Boat dealers|1997|Reference year 1997|850|50 largest firms|378||1732426||19.390882035||132393||28787||5676|
+01000US|United States|1|United States|44|Retail trade|441229|All other motor vehicle dealers|1997|Reference year 1997|003|All firms|1678||2517267||100||204593||45292||9145|
+01000US|United States|1|United States|44|Retail trade|441229|All other motor vehicle dealers|1997|Reference year 1997|804|4 largest firms|6||267490||10.626206914||15430||3003||653|
+01000US|United States|1|United States|44|Retail trade|441229|All other motor vehicle dealers|1997|Reference year 1997|808|8 largest firms|10||333079||13.231770805||23012||4641||832|
+01000US|United States|1|United States|44|Retail trade|441229|All other motor vehicle dealers|1997|Reference year 1997|820|20 largest firms|23||467100||18.555838534||29487||5838||1038|
+01000US|United States|1|United States|44|Retail trade|441229|All other motor vehicle dealers|1997|Reference year 1997|850|50 largest firms|55||694771||27.600210864||47512||9617||1635|
+01000US|United States|1|United States|44|Retail trade|4413|Automotive parts, accessories, & tire stores|1997|Reference year 1997|003|All firms|59807||62824978||100||10268868||2416477||477200|
+01000US|United States|1|United States|44|Retail trade|4413|Automotive parts, accessories, & tire stores|1997|Reference year 1997|804|4 largest firms|5086||7960445||12.670828154||1471501||351259||70402|
+01000US|United States|1|United States|44|Retail trade|4413|Automotive parts, accessories, & tire stores|1997|Reference year 1997|808|8 largest firms|8633||12046655||19.174945035||2055054||502051||101664|
+01000US|United States|1|United States|44|Retail trade|4413|Automotive parts, accessories, & tire stores|1997|Reference year 1997|820|20 largest firms|12333||17703016||28.178308316||2816914||686693||139307|
+01000US|United States|1|United States|44|Retail trade|4413|Automotive parts, accessories, & tire stores|1997|Reference year 1997|850|50 largest firms|14025||21578609||34.347181148||3280606||799931||159833|
+01000US|United States|1|United States|44|Retail trade|44131|Automotive parts & accessories stores|1997|Reference year 1997|003|All firms|42519||43165668||100||6718215||1589637||334556|
+01000US|United States|1|United States|44|Retail trade|44131|Automotive parts & accessories stores|1997|Reference year 1997|804|4 largest firms|4247||7065402||16.368105319||998323||238295||55764|
+01000US|United States|1|United States|44|Retail trade|44131|Automotive parts & accessories stores|1997|Reference year 1997|808|8 largest firms|6924||10299148||23.85958211||1473604||360885||83618|
+01000US|United States|1|United States|44|Retail trade|44131|Automotive parts & accessories stores|1997|Reference year 1997|820|20 largest firms|9304||13573553||31.445251814||1871304||452670||106801|
+01000US|United States|1|United States|44|Retail trade|44131|Automotive parts & accessories stores|1997|Reference year 1997|850|50 largest firms|10625||16109677||37.320578475||2204361||534308||121576|
+01000US|United States|1|United States|44|Retail trade|441310|Automotive parts & accessories stores|1997|Reference year 1997|003|All firms|42519||43165668||100||6718215||1589637||334556|
+01000US|United States|1|United States|44|Retail trade|441310|Automotive parts & accessories stores|1997|Reference year 1997|804|4 largest firms|4247||7065402||16.368105319||998323||238295||55764|
+01000US|United States|1|United States|44|Retail trade|441310|Automotive parts & accessories stores|1997|Reference year 1997|808|8 largest firms|6924||10299148||23.85958211||1473604||360885||83618|
+01000US|United States|1|United States|44|Retail trade|441310|Automotive parts & accessories stores|1997|Reference year 1997|820|20 largest firms|9304||13573553||31.445251814||1871304||452670||106801|
+01000US|United States|1|United States|44|Retail trade|441310|Automotive parts & accessories stores|1997|Reference year 1997|850|50 largest firms|10625||16109677||37.320578475||2204361||534308||121576|
+01000US|United States|1|United States|44|Retail trade|44132|Tire dealers|1997|Reference year 1997|003|All firms|17288||19659310||100||3550653||826840||142644|
+01000US|United States|1|United States|44|Retail trade|44132|Tire dealers|1997|Reference year 1997|804|4 largest firms|3131||3999253||20.34279433||880542||211398||33312|
+01000US|United States|1|United States|44|Retail trade|44132|Tire dealers|1997|Reference year 1997|808|8 largest firms|3711||5373980||27.335547382||1094930||270107||40978|
+01000US|United States|1|United States|44|Retail trade|44132|Tire dealers|1997|Reference year 1997|820|20 largest firms|4080||6675442||33.95562713||1238524||303515||45895|
+01000US|United States|1|United States|44|Retail trade|44132|Tire dealers|1997|Reference year 1997|850|50 largest firms|4679||7966005||40.520267497||1410687||343188||52257|
+01000US|United States|1|United States|44|Retail trade|441320|Tire dealers|1997|Reference year 1997|003|All firms|17288||19659310||100||3550653||826840||142644|
+01000US|United States|1|United States|44|Retail trade|441320|Tire dealers|1997|Reference year 1997|804|4 largest firms|3131||3999253||20.34279433||880542||211398||33312|
+01000US|United States|1|United States|44|Retail trade|441320|Tire dealers|1997|Reference year 1997|808|8 largest firms|3711||5373980||27.335547382||1094930||270107||40978|
+01000US|United States|1|United States|44|Retail trade|441320|Tire dealers|1997|Reference year 1997|820|20 largest firms|4080||6675442||33.95562713||1238524||303515||45895|
+01000US|United States|1|United States|44|Retail trade|441320|Tire dealers|1997|Reference year 1997|850|50 largest firms|4679||7966005||40.520267497||1410687||343188||52257|
+01000US|United States|1|United States|44|Retail trade|442|Furniture & home furnishings stores|1997|Reference year 1997|003|All firms|64725||71690813||100||9959441||2324291||482845|
+01000US|United States|1|United States|44|Retail trade|442|Furniture & home furnishings stores|1997|Reference year 1997|804|4 largest firms|1954||4636343||6.4671368701||674202||164316||35742|
+01000US|United States|1|United States|44|Retail trade|442|Furniture & home furnishings stores|1997|Reference year 1997|808|8 largest firms|2455||7316882||10.206164073||897751||214905||51338|
+01000US|United States|1|United States|44|Retail trade|442|Furniture & home furnishings stores|1997|Reference year 1997|820|20 largest firms|4317||12032425||16.783775349||1440621||348764||80623|
+01000US|United States|1|United States|44|Retail trade|442|Furniture & home furnishings stores|1997|Reference year 1997|850|50 largest firms|6773||17002679||23.716677617||1987462||482499||110176|
+01000US|United States|1|United States|44|Retail trade|4421|Furniture stores|1997|Reference year 1997|003|All firms|29461||40968335||100||5619603||1325781||251300|
+01000US|United States|1|United States|44|Retail trade|4421|Furniture stores|1997|Reference year 1997|804|4 largest firms|1116||3810308||9.3006171718||523455||131097||24395|
+01000US|United States|1|United States|44|Retail trade|4421|Furniture stores|1997|Reference year 1997|808|8 largest firms|1460||5612441||13.699460815||742206||184493||33605|
+01000US|United States|1|United States|44|Retail trade|4421|Furniture stores|1997|Reference year 1997|820|20 largest firms|2259||8376673||20.446701092||1023031||249665||46181|
+01000US|United States|1|United States|44|Retail trade|4421|Furniture stores|1997|Reference year 1997|850|50 largest firms|3269||11500855||28.072546761||1372255||333554||61021|
+01000US|United States|1|United States|44|Retail trade|44211|Furniture stores|1997|Reference year 1997|003|All firms|29461||40968335||100||5619603||1325781||251300|
+01000US|United States|1|United States|44|Retail trade|44211|Furniture stores|1997|Reference year 1997|804|4 largest firms|1116||3810308||9.3006171718||523455||131097||24395|
+01000US|United States|1|United States|44|Retail trade|44211|Furniture stores|1997|Reference year 1997|808|8 largest firms|1460||5612441||13.699460815||742206||184493||33605|
+01000US|United States|1|United States|44|Retail trade|44211|Furniture stores|1997|Reference year 1997|820|20 largest firms|2259||8376673||20.446701092||1023031||249665||46181|
+01000US|United States|1|United States|44|Retail trade|44211|Furniture stores|1997|Reference year 1997|850|50 largest firms|3269||11500855||28.072546761||1372255||333554||61021|
+01000US|United States|1|United States|44|Retail trade|442110|Furniture stores|1997|Reference year 1997|003|All firms|29461||40968335||100||5619603||1325781||251300|
+01000US|United States|1|United States|44|Retail trade|442110|Furniture stores|1997|Reference year 1997|804|4 largest firms|1116||3810308||9.3006171718||523455||131097||24395|
+01000US|United States|1|United States|44|Retail trade|442110|Furniture stores|1997|Reference year 1997|808|8 largest firms|1460||5612441||13.699460815||742206||184493||33605|
+01000US|United States|1|United States|44|Retail trade|442110|Furniture stores|1997|Reference year 1997|820|20 largest firms|2259||8376673||20.446701092||1023031||249665||46181|
+01000US|United States|1|United States|44|Retail trade|442110|Furniture stores|1997|Reference year 1997|850|50 largest firms|3269||11500855||28.072546761||1372255||333554||61021|
+01000US|United States|1|United States|44|Retail trade|4422|Home furnishings stores|1997|Reference year 1997|003|All firms|35264||30722478||100||4339838||998510||231545|
+01000US|United States|1|United States|44|Retail trade|4422|Home furnishings stores|1997|Reference year 1997|804|4 largest firms|1338||3502910||11.401782109||373220||83620||26904|
+01000US|United States|1|United States|44|Retail trade|4422|Home furnishings stores|1997|Reference year 1997|808|8 largest firms|2624||5116644||16.654398776||567786||132313||40949|
+01000US|United States|1|United States|44|Retail trade|4422|Home furnishings stores|1997|Reference year 1997|820|20 largest firms|4027||7241852||23.571835579||799019||192679||57128|
+01000US|United States|1|United States|44|Retail trade|4422|Home furnishings stores|1997|Reference year 1997|850|50 largest firms|5586||9160663||29.817461339||1028045||247465||73257|
+01000US|United States|1|United States|44|Retail trade|44221|Floor covering stores|1997|Reference year 1997|003|All firms|16603||16471814||100||2458208||560005||96186|
+01000US|United States|1|United States|44|Retail trade|44221|Floor covering stores|1997|Reference year 1997|804|4 largest firms|1039||862010||5.2332426775||140876||37546||6274|
+01000US|United States|1|United States|44|Retail trade|44221|Floor covering stores|1997|Reference year 1997|808|8 largest firms|1058||1088446||6.6079303712||168398||43491||7011|
+01000US|United States|1|United States|44|Retail trade|44221|Floor covering stores|1997|Reference year 1997|820|20 largest firms|1178||1523704||9.2503715741||221017||55941||8720|
+01000US|United States|1|United States|44|Retail trade|44221|Floor covering stores|1997|Reference year 1997|850|50 largest firms|1333||2219946||13.477240576||314377||77535||11239|
+01000US|United States|1|United States|44|Retail trade|442210|Floor covering stores|1997|Reference year 1997|003|All firms|16603||16471814||100||2458208||560005||96186|
+01000US|United States|1|United States|44|Retail trade|442210|Floor covering stores|1997|Reference year 1997|804|4 largest firms|1039||862010||5.2332426775||140876||37546||6274|
+01000US|United States|1|United States|44|Retail trade|442210|Floor covering stores|1997|Reference year 1997|808|8 largest firms|1058||1088446||6.6079303712||168398||43491||7011|
+01000US|United States|1|United States|44|Retail trade|442210|Floor covering stores|1997|Reference year 1997|820|20 largest firms|1178||1523704||9.2503715741||221017||55941||8720|
+01000US|United States|1|United States|44|Retail trade|442210|Floor covering stores|1997|Reference year 1997|850|50 largest firms|1333||2219946||13.477240576||314377||77535||11239|
+01000US|United States|1|United States|44|Retail trade|44229|Other home furnishings stores|1997|Reference year 1997|003|All firms|18661||14250664||100||1881630||438505||135359|
+01000US|United States|1|United States|44|Retail trade|44229|Other home furnishings stores|1997|Reference year 1997|804|4 largest firms|1338||3502910||24.580679188||373220||83620||26904|
+01000US|United States|1|United States|44|Retail trade|44229|Other home furnishings stores|1997|Reference year 1997|808|8 largest firms|2387||4854822||34.067338897||513061||118571||39851|
+01000US|United States|1|United States|44|Retail trade|44229|Other home furnishings stores|1997|Reference year 1997|820|20 largest firms|3260||6742405||47.312918191||700465||164120||52595|
+01000US|United States|1|United States|44|Retail trade|44229|Other home furnishings stores|1997|Reference year 1997|850|50 largest firms|4660||8273181||58.054705381||883439||209073||67663|
+01000US|United States|1|United States|44|Retail trade|442291|Window treatment stores|1997|Reference year 1997|003|All firms|2126||915301||100||148564||33990||8548|
+01000US|United States|1|United States|44|Retail trade|442291|Window treatment stores|1997|Reference year 1997|804|4 largest firms|225||151191||16.51817271||16591||3691||990|
+01000US|United States|1|United States|44|Retail trade|442291|Window treatment stores|1997|Reference year 1997|808|8 largest firms|246||189461||20.699310937||22400||4933||1304|
+01000US|United States|1|United States|44|Retail trade|442291|Window treatment stores|1997|Reference year 1997|820|20 largest firms|317||259803||28.384433099||35242||7933||1954|
+01000US|United States|1|United States|44|Retail trade|442291|Window treatment stores|1997|Reference year 1997|850|50 largest firms|381||343144||37.489743811||50240||11591||2577|
+01000US|United States|1|United States|44|Retail trade|442299|All other home furnishings stores|1997|Reference year 1997|003|All firms|16535||13335363||100||1733066||404515||126811|
+01000US|United States|1|United States|44|Retail trade|442299|All other home furnishings stores|1997|Reference year 1997|804|4 largest firms|1338||3502910||26.26782638||373220||83620||26904|
+01000US|United States|1|United States|44|Retail trade|442299|All other home furnishings stores|1997|Reference year 1997|808|8 largest firms|2385||4852948||36.391570293||512967||118548||39832|
+01000US|United States|1|United States|44|Retail trade|442299|All other home furnishings stores|1997|Reference year 1997|820|20 largest firms|3118||6740223||50.543978443||700992||164308||52591|
+01000US|United States|1|United States|44|Retail trade|442299|All other home furnishings stores|1997|Reference year 1997|850|50 largest firms|4529||8208201||61.552137726||877533||207882||67333|
+01000US|United States|1|United States|44|Retail trade|443|Electronics & appliance stores|1997|Reference year 1997|003|All firms|43373||68561331||100||7064114||1642430||345042|
+01000US|United States|1|United States|44|Retail trade|443|Electronics & appliance stores|1997|Reference year 1997|804|4 largest firms|6184||25628949||37.381055219||1672274||393827||109876|
+01000US|United States|1|United States|44|Retail trade|443|Electronics & appliance stores|1997|Reference year 1997|808|8 largest firms|6354||29336249||42.788330641||1944011||467566||122174|
+01000US|United States|1|United States|44|Retail trade|443|Electronics & appliance stores|1997|Reference year 1997|820|20 largest firms|8531||33695415||49.146383987||2315489||559548||142168|
+01000US|United States|1|United States|44|Retail trade|443|Electronics & appliance stores|1997|Reference year 1997|850|50 largest firms|9313||37111493||54.12889811||2715296||648124||155403|
+01000US|United States|1|United States|44|Retail trade|4431|Electronics & appliance stores|1997|Reference year 1997|003|All firms|43373||68561331||100||7064114||1642430||345042|
+01000US|United States|1|United States|44|Retail trade|4431|Electronics & appliance stores|1997|Reference year 1997|804|4 largest firms|6184||25628949||37.381055219||1672274||393827||109876|
+01000US|United States|1|United States|44|Retail trade|4431|Electronics & appliance stores|1997|Reference year 1997|808|8 largest firms|6354||29336249||42.788330641||1944011||467566||122174|
+01000US|United States|1|United States|44|Retail trade|4431|Electronics & appliance stores|1997|Reference year 1997|820|20 largest firms|8531||33695415||49.146383987||2315489||559548||142168|
+01000US|United States|1|United States|44|Retail trade|4431|Electronics & appliance stores|1997|Reference year 1997|850|50 largest firms|9313||37111493||54.12889811||2715296||648124||155403|
+01000US|United States|1|United States|44|Retail trade|44311|Appliance, television, & other electronics stores|1997|Reference year 1997|003|All firms|28789||42250978||100||4462377||1059555||237033|
+01000US|United States|1|United States|44|Retail trade|44311|Appliance, television, & other electronics stores|1997|Reference year 1997|804|4 largest firms|5989||20071271||47.504867225||1458732||348461||95958|
+01000US|United States|1|United States|44|Retail trade|44311|Appliance, television, & other electronics stores|1997|Reference year 1997|808|8 largest firms|6381||22354647||52.909182363||1624688||394699||104966|
+01000US|United States|1|United States|44|Retail trade|44311|Appliance, television, & other electronics stores|1997|Reference year 1997|820|20 largest firms|6670||24985102||59.134967243||1862938||450238||114718|
+01000US|United States|1|United States|44|Retail trade|44311|Appliance, television, & other electronics stores|1997|Reference year 1997|850|50 largest firms|7136||26679690||63.145733573||2064725||499323||121872|
+01000US|United States|1|United States|44|Retail trade|443111|Household appliance stores|1997|Reference year 1997|003|All firms|10484||10082894||100||1217530||286701||60220|
+01000US|United States|1|United States|44|Retail trade|443111|Household appliance stores|1997|Reference year 1997|804|4 largest firms|94||1349595||13.384996411||93885||23800||4067|
+01000US|United States|1|United States|44|Retail trade|443111|Household appliance stores|1997|Reference year 1997|808|8 largest firms|163||1877330||18.618959993||142062||34489||5573|
+01000US|United States|1|United States|44|Retail trade|443111|Household appliance stores|1997|Reference year 1997|820|20 largest firms|359||2411381||23.915564321||199859||48249||8104|
+01000US|United States|1|United States|44|Retail trade|443111|Household appliance stores|1997|Reference year 1997|850|50 largest firms|616||3055448||30.303283958||267966||65562||10322|
+01000US|United States|1|United States|44|Retail trade|443112|Radio, television, & other electronics stores|1997|Reference year 1997|003|All firms|18305||32168084||100||3244847||772854||176813|
+01000US|United States|1|United States|44|Retail trade|443112|Radio, television, & other electronics stores|1997|Reference year 1997|804|4 largest firms|5938||20048270||62.323481871||1456732||346642||95785|
+01000US|United States|1|United States|44|Retail trade|443112|Radio, television, & other electronics stores|1997|Reference year 1997|808|8 largest firms|6295||22152809||68.865801892||1607632||388512||104534|
+01000US|United States|1|United States|44|Retail trade|443112|Radio, television, & other electronics stores|1997|Reference year 1997|820|20 largest firms|6583||23733293||73.779007167||1804671||434811||111144|
+01000US|United States|1|United States|44|Retail trade|443112|Radio, television, & other electronics stores|1997|Reference year 1997|850|50 largest firms|6826||24643031||76.607083593||1906648||459540||115113|
+01000US|United States|1|United States|44|Retail trade|44312|Computer & software stores|1997|Reference year 1997|003|All firms|11741||24058663||100||2277764||506828||90501|
+01000US|United States|1|United States|44|Retail trade|44312|Computer & software stores|1997|Reference year 1997|804|4 largest firms|300||8391317||34.878567442||422588||100691||22065|
+01000US|United States|1|United States|44|Retail trade|44312|Computer & software stores|1997|Reference year 1997|808|8 largest firms|1376||9677371||40.224059832||521820||124607||28676|
+01000US|United States|1|United States|44|Retail trade|44312|Computer & software stores|1997|Reference year 1997|820|20 largest firms|1457||10632241||44.192983625||626369||142918||30749|
+01000US|United States|1|United States|44|Retail trade|44312|Computer & software stores|1997|Reference year 1997|850|50 largest firms|1588||11857899||49.287439622||759081||174252||33918|
+01000US|United States|1|United States|44|Retail trade|443120|Computer & software stores|1997|Reference year 1997|003|All firms|11741||24058663||100||2277764||506828||90501|
+01000US|United States|1|United States|44|Retail trade|443120|Computer & software stores|1997|Reference year 1997|804|4 largest firms|300||8391317||34.878567442||422588||100691||22065|
+01000US|United States|1|United States|44|Retail trade|443120|Computer & software stores|1997|Reference year 1997|808|8 largest firms|1376||9677371||40.224059832||521820||124607||28676|
+01000US|United States|1|United States|44|Retail trade|443120|Computer & software stores|1997|Reference year 1997|820|20 largest firms|1457||10632241||44.192983625||626369||142918||30749|
+01000US|United States|1|United States|44|Retail trade|443120|Computer & software stores|1997|Reference year 1997|850|50 largest firms|1588||11857899||49.287439622||759081||174252||33918|
+01000US|United States|1|United States|44|Retail trade|4431201|Computer stores (custom assembly)|1997|Reference year 1997|003|All firms|3801||3983465||100||395184||86940||17013|
+01000US|United States|1|United States|44|Retail trade|4431201|Computer stores (custom assembly)|1997|Reference year 1997|804|4 largest firms|14||194316||4.8780647||11808||2854||294|
+01000US|United States|1|United States|44|Retail trade|4431201|Computer stores (custom assembly)|1997|Reference year 1997|808|8 largest firms|37||326724||8.2020050383||23643||5356||628|
+01000US|United States|1|United States|44|Retail trade|4431201|Computer stores (custom assembly)|1997|Reference year 1997|820|20 largest firms|57||558089||14.010139414||46378||11514||1110|
+01000US|United States|1|United States|44|Retail trade|4431201|Computer stores (custom assembly)|1997|Reference year 1997|850|50 largest firms|110||922491||23.158004401||78091||18669||2166|
+01000US|United States|1|United States|44|Retail trade|4431202|Other computer stores|1997|Reference year 1997|003|All firms|5670||17230438||100||1465645||337031||58592|
+01000US|United States|1|United States|44|Retail trade|4431202|Other computer stores|1997|Reference year 1997|804|4 largest firms|300||8391317||48.70054377||422588||100691||22065|
+01000US|United States|1|United States|44|Retail trade|4431202|Other computer stores|1997|Reference year 1997|808|8 largest firms|381||8940375||51.887102348||470173||113096||23370|
+01000US|United States|1|United States|44|Retail trade|4431202|Other computer stores|1997|Reference year 1997|820|20 largest firms|430||9595046||55.686605297||508606||121278||24311|
+01000US|United States|1|United States|44|Retail trade|4431202|Other computer stores|1997|Reference year 1997|850|50 largest firms|495||10487971||60.868858934||591038||139647||26649|
+01000US|United States|1|United States|44|Retail trade|4431203|Prepackaged software stores|1997|Reference year 1997|003|All firms|2270||2844760||100||416935||82857||14896|
+01000US|United States|1|United States|44|Retail trade|4431203|Prepackaged software stores|1997|Reference year 1997|804|4 largest firms|1014||1096214||38.534498517||85991||20085||6099|
+01000US|United States|1|United States|44|Retail trade|4431203|Prepackaged software stores|1997|Reference year 1997|808|8 largest firms|1070||1359451||47.787897749||148662||29055||7065|
+01000US|United States|1|United States|44|Retail trade|4431203|Prepackaged software stores|1997|Reference year 1997|820|20 largest firms|1087||1639595||57.635617767||182092||35341||7772|
+01000US|United States|1|United States|44|Retail trade|4431203|Prepackaged software stores|1997|Reference year 1997|850|50 largest firms|1130||1974474||69.407401679||238386||46773||8941|
+01000US|United States|1|United States|44|Retail trade|44313|Camera & photographic supplies stores|1997|Reference year 1997|003|All firms|2843||2251690||100||323973||76047||17508|
+01000US|United States|1|United States|44|Retail trade|44313|Camera & photographic supplies stores|1997|Reference year 1997|804|4 largest firms|979||736166||32.693932113||106638||25737||6155|
+01000US|United States|1|United States|44|Retail trade|44313|Camera & photographic supplies stores|1997|Reference year 1997|808|8 largest firms|1065||868724||38.580976955||120430||28847||7009|
+01000US|United States|1|United States|44|Retail trade|44313|Camera & photographic supplies stores|1997|Reference year 1997|820|20 largest firms|1099||1010755||44.888728022||134901||32535||7558|
+01000US|United States|1|United States|44|Retail trade|44313|Camera & photographic supplies stores|1997|Reference year 1997|850|50 largest firms|1210||1210875||53.776274709||161078||38732||8678|
+01000US|United States|1|United States|44|Retail trade|443130|Camera & photographic supplies stores|1997|Reference year 1997|003|All firms|2843||2251690||100||323973||76047||17508|
+01000US|United States|1|United States|44|Retail trade|443130|Camera & photographic supplies stores|1997|Reference year 1997|804|4 largest firms|979||736166||32.693932113||106638||25737||6155|
+01000US|United States|1|United States|44|Retail trade|443130|Camera & photographic supplies stores|1997|Reference year 1997|808|8 largest firms|1065||868724||38.580976955||120430||28847||7009|
+01000US|United States|1|United States|44|Retail trade|443130|Camera & photographic supplies stores|1997|Reference year 1997|820|20 largest firms|1099||1010755||44.888728022||134901||32535||7558|
+01000US|United States|1|United States|44|Retail trade|443130|Camera & photographic supplies stores|1997|Reference year 1997|850|50 largest firms|1210||1210875||53.776274709||161078||38732||8678|
+01000US|United States|1|United States|44|Retail trade|444|Building material & garden equipment & supplies dealers|1997|Reference year 1997|804|4 largest firms|1612||39976355||17.56692004||3627037||865372||185694|
+01000US|United States|1|United States|44|Retail trade|444|Building material & garden equipment & supplies dealers|1997|Reference year 1997|808|8 largest firms|4478||49029748||21.545277519||4545102||1137353||234147|
+01000US|United States|1|United States|44|Retail trade|444|Building material & garden equipment & supplies dealers|1997|Reference year 1997|820|20 largest firms|6650||63794025||28.033184521||5809884||1438068||297766|
+01000US|United States|1|United States|44|Retail trade|444|Building material & garden equipment & supplies dealers|1997|Reference year 1997|850|50 largest firms|9759||78533582||34.510228744||7087380||1744544||351411|
+01000US|United States|1|United States|44|Retail trade|4441|Building material & supplies dealers|1997|Reference year 1997|003|All firms|71916||195888196||100||22313100||5192421||952296|
+01000US|United States|1|United States|44|Retail trade|4441|Building material & supplies dealers|1997|Reference year 1997|804|4 largest firms|1612||39976355||20.407740648||3627037||865372||185694|
+01000US|United States|1|United States|44|Retail trade|4441|Building material & supplies dealers|1997|Reference year 1997|808|8 largest firms|4478||49029748||25.029455067||4545102||1137353||234147|
+01000US|United States|1|United States|44|Retail trade|4441|Building material & supplies dealers|1997|Reference year 1997|850|50 largest firms|8827||75458637||38.52127823||6911089||1702264||342250|
+01000US|United States|1|United States|44|Retail trade|44411|Home centers|1997|Reference year 1997|003|All firms|3997||51627926||100||4996451||1205643||283853|
+01000US|United States|1|United States|44|Retail trade|44411|Home centers|1997|Reference year 1997|804|4 largest firms|1385||38810324||75.173122391||3545516||868152||190885|
+01000US|United States|1|United States|44|Retail trade|44411|Home centers|1997|Reference year 1997|808|8 largest firms|1781||45368115||87.875145323||4256281||1033834||240856|
+01000US|United States|1|United States|44|Retail trade|44411|Home centers|1997|Reference year 1997|820|20 largest firms|2100||47631946||92.260041591||4477688||1089287||257068|
+01000US|United States|1|United States|44|Retail trade|44411|Home centers|1997|Reference year 1997|850|50 largest firms|2286||48486453||93.915167152||4573237||1111669||262634|
+01000US|United States|1|United States|44|Retail trade|444110|Home centers|1997|Reference year 1997|003|All firms|3997||51627926||100||4996451||1205643||283853|
+01000US|United States|1|United States|44|Retail trade|444110|Home centers|1997|Reference year 1997|804|4 largest firms|1385||38810324||75.173122391||3545516||868152||190885|
+01000US|United States|1|United States|44|Retail trade|444110|Home centers|1997|Reference year 1997|808|8 largest firms|1781||45368115||87.875145323||4256281||1033834||240856|
+01000US|United States|1|United States|44|Retail trade|444110|Home centers|1997|Reference year 1997|820|20 largest firms|2100||47631946||92.260041591||4477688||1089287||257068|
+01000US|United States|1|United States|44|Retail trade|444110|Home centers|1997|Reference year 1997|850|50 largest firms|2286||48486453||93.915167152||4573237||1111669||262634|
+01000US|United States|1|United States|44|Retail trade|44412|Paint & wallpaper stores|1997|Reference year 1997|003|All firms|8429||7943420||100||1011136||235096||43517|
+01000US|United States|1|United States|44|Retail trade|44412|Paint & wallpaper stores|1997|Reference year 1997|804|4 largest firms|2780||3441994||43.331386229||371265||88753||15224|
+01000US|United States|1|United States|44|Retail trade|44412|Paint & wallpaper stores|1997|Reference year 1997|808|8 largest firms|3405||4096115||51.566139018||426310||102051||17307|
+01000US|United States|1|United States|44|Retail trade|44412|Paint & wallpaper stores|1997|Reference year 1997|820|20 largest firms|3810||4678873||58.902500434||506773||119612||20325|
+01000US|United States|1|United States|44|Retail trade|44412|Paint & wallpaper stores|1997|Reference year 1997|850|50 largest firms|4159||5168009||65.060251126||571194||134283||22888|
+01000US|United States|1|United States|44|Retail trade|444120|Paint & wallpaper stores|1997|Reference year 1997|003|All firms|8429||7943420||100||1011136||235096||43517|
+01000US|United States|1|United States|44|Retail trade|444120|Paint & wallpaper stores|1997|Reference year 1997|804|4 largest firms|2780||3441994||43.331386229||371265||88753||15224|
+01000US|United States|1|United States|44|Retail trade|444120|Paint & wallpaper stores|1997|Reference year 1997|808|8 largest firms|3405||4096115||51.566139018||426310||102051||17307|
+01000US|United States|1|United States|44|Retail trade|444120|Paint & wallpaper stores|1997|Reference year 1997|820|20 largest firms|3810||4678873||58.902500434||506773||119612||20325|
+01000US|United States|1|United States|44|Retail trade|444120|Paint & wallpaper stores|1997|Reference year 1997|850|50 largest firms|4159||5168009||65.060251126||571194||134283||22888|
+01000US|United States|1|United States|44|Retail trade|44413|Hardware stores|1997|Reference year 1997|003|All firms|15748||13605263||100||2095331||482498||137831|
+01000US|United States|1|United States|44|Retail trade|44413|Hardware stores|1997|Reference year 1997|804|4 largest firms|553||1672547||12.293382348||202907||44258||13837|
+01000US|United States|1|United States|44|Retail trade|44413|Hardware stores|1997|Reference year 1997|808|8 largest firms|797||2086044||15.332625323||249210||54722||16050|
+01000US|United States|1|United States|44|Retail trade|44413|Hardware stores|1997|Reference year 1997|820|20 largest firms|942||2523484||18.547851666||296036||66803||19552|
+01000US|United States|1|United States|44|Retail trade|44413|Hardware stores|1997|Reference year 1997|850|50 largest firms|1214||3071265||22.57409504||378433||85500||24344|
+01000US|United States|1|United States|44|Retail trade|444130|Hardware stores|1997|Reference year 1997|003|All firms|15748||13605263||100||2095331||482498||137831|
+01000US|United States|1|United States|44|Retail trade|444130|Hardware stores|1997|Reference year 1997|804|4 largest firms|553||1672547||12.293382348||202907||44258||13837|
+01000US|United States|1|United States|44|Retail trade|444130|Hardware stores|1997|Reference year 1997|808|8 largest firms|797||2086044||15.332625323||249210||54722||16050|
+01000US|United States|1|United States|44|Retail trade|444130|Hardware stores|1997|Reference year 1997|820|20 largest firms|942||2523484||18.547851666||296036||66803||19552|
+01000US|United States|1|United States|44|Retail trade|444130|Hardware stores|1997|Reference year 1997|850|50 largest firms|1214||3071265||22.57409504||378433||85500||24344|
+01000US|United States|1|United States|44|Retail trade|44419|Other building material dealers|1997|Reference year 1997|003|All firms|43742||122711587||100||14210182||3269184||487095|
+01000US|United States|1|United States|44|Retail trade|44419|Other building material dealers|1997|Reference year 1997|804|4 largest firms|1472||8677590||7.0715326989||723015||205163||21413|
+01000US|United States|1|United States|44|Retail trade|44419|Other building material dealers|1997|Reference year 1997|808|8 largest firms|1994||12629065||10.291664633||1011216||277771||29451|
+01000US|United States|1|United States|44|Retail trade|44419|Other building material dealers|1997|Reference year 1997|820|20 largest firms|3063||19690236||16.045946827||1626156||423729||51616|
+01000US|United States|1|United States|44|Retail trade|44419|Other building material dealers|1997|Reference year 1997|850|50 largest firms|4213||26861796||21.89018711||2223255||568430||71647|
+01000US|United States|1|United States|44|Retail trade|444190|Other building material dealers|1997|Reference year 1997|003|All firms|43742||122711587||100||14210182||3269184||487095|
+01000US|United States|1|United States|44|Retail trade|444190|Other building material dealers|1997|Reference year 1997|804|4 largest firms|1472||8677590||7.0715326989||723015||205163||21413|
+01000US|United States|1|United States|44|Retail trade|444190|Other building material dealers|1997|Reference year 1997|808|8 largest firms|1994||12629065||10.291664633||1011216||277771||29451|
+01000US|United States|1|United States|44|Retail trade|444190|Other building material dealers|1997|Reference year 1997|820|20 largest firms|3063||19690236||16.045946827||1626156||423729||51616|
+01000US|United States|1|United States|44|Retail trade|444190|Other building material dealers|1997|Reference year 1997|850|50 largest firms|4213||26861796||21.89018711||2223255||568430||71647|
+01000US|United States|1|United States|44|Retail trade|4441901|Retail lumber yards|1997|Reference year 1997|003|All firms|11046||41846016||100||4451507||1006509||171556|
+01000US|United States|1|United States|44|Retail trade|4441901|Retail lumber yards|1997|Reference year 1997|804|4 largest firms|698||4058617||9.6989328685||326715||78398||12612|
+01000US|United States|1|United States|44|Retail trade|4441901|Retail lumber yards|1997|Reference year 1997|808|8 largest firms|1060||6101223||14.580176521||522404||125587||21060|
+01000US|United States|1|United States|44|Retail trade|4441901|Retail lumber yards|1997|Reference year 1997|820|20 largest firms|1495||8952129||21.393025802||757326||179323||31383|
+01000US|United States|1|United States|44|Retail trade|4441901|Retail lumber yards|1997|Reference year 1997|850|50 largest firms|1715||11835146||28.282611181||1044954||240847||40859|
+01000US|United States|1|United States|44|Retail trade|4441902|All other building material dealers|1997|Reference year 1997|003|All firms|32696||80865571||100||9758675||2262675||315539|
+01000US|United States|1|United States|44|Retail trade|4441902|All other building material dealers|1997|Reference year 1997|804|4 largest firms|1154||7206251||8.9113956791||638066||186647||16993|
+01000US|United States|1|United States|44|Retail trade|4441902|All other building material dealers|1997|Reference year 1997|808|8 largest firms|1618||10751736||13.295814111||890603||248960||24240|
+01000US|United States|1|United States|44|Retail trade|4441902|All other building material dealers|1997|Reference year 1997|820|20 largest firms|2329||15578158||19.264265135||1265573||338890||34551|
+01000US|United States|1|United States|44|Retail trade|4441902|All other building material dealers|1997|Reference year 1997|850|50 largest firms|2937||19897254||24.60534657||1645295||432271||45423|
+01000US|United States|1|United States|44|Retail trade|4442|Lawn & garden equipment & supplies stores|1997|Reference year 1997|003|All firms|21201||31677905||100||3295756||706145||165616|
+01000US|United States|1|United States|44|Retail trade|4442|Lawn & garden equipment & supplies stores|1997|Reference year 1997|804|4 largest firms|795||3437379||10.851030079||237024||57840||8488|
+01000US|United States|1|United States|44|Retail trade|4442|Lawn & garden equipment & supplies stores|1997|Reference year 1997|808|8 largest firms|1443||5166529||16.309566558||377454||89174||18182|
+01000US|United States|1|United States|44|Retail trade|4442|Lawn & garden equipment & supplies stores|1997|Reference year 1997|820|20 largest firms|1912||6893970||21.762708108||495532||115917||23805|
+01000US|United States|1|United States|44|Retail trade|4442|Lawn & garden equipment & supplies stores|1997|Reference year 1997|850|50 largest firms|2265||8195520||25.871407847||602532||140047||29038|
+01000US|United States|1|United States|44|Retail trade|44421|Outdoor power equipment stores|1997|Reference year 1997|003|All firms|4769||4069193||100||535455||117543||26479|
+01000US|United States|1|United States|44|Retail trade|44421|Outdoor power equipment stores|1997|Reference year 1997|804|4 largest firms|154||193797||4.7625413688||26562||5702||1849|
+01000US|United States|1|United States|44|Retail trade|44421|Outdoor power equipment stores|1997|Reference year 1997|808|8 largest firms|160||291240||7.1571930847||36000||7855||2122|
+01000US|United States|1|United States|44|Retail trade|44421|Outdoor power equipment stores|1997|Reference year 1997|820|20 largest firms|186||486186||11.94797101||60214||13566||2900|
+01000US|United States|1|United States|44|Retail trade|44421|Outdoor power equipment stores|1997|Reference year 1997|850|50 largest firms|227||753103||18.507428869||88595||19479||3813|
+01000US|United States|1|United States|44|Retail trade|444210|Outdoor power equipment stores|1997|Reference year 1997|003|All firms|4769||4069193||100||535455||117543||26479|
+01000US|United States|1|United States|44|Retail trade|444210|Outdoor power equipment stores|1997|Reference year 1997|804|4 largest firms|154||193797||4.7625413688||26562||5702||1849|
+01000US|United States|1|United States|44|Retail trade|444210|Outdoor power equipment stores|1997|Reference year 1997|808|8 largest firms|160||291240||7.1571930847||36000||7855||2122|
+01000US|United States|1|United States|44|Retail trade|444210|Outdoor power equipment stores|1997|Reference year 1997|820|20 largest firms|186||486186||11.94797101||60214||13566||2900|
+01000US|United States|1|United States|44|Retail trade|444210|Outdoor power equipment stores|1997|Reference year 1997|850|50 largest firms|227||753103||18.507428869||88595||19479||3813|
+01000US|United States|1|United States|44|Retail trade|44422|Nursery & garden centers|1997|Reference year 1997|003|All firms|16432||27608712||100||2760301||588602||139137|
+01000US|United States|1|United States|44|Retail trade|44422|Nursery & garden centers|1997|Reference year 1997|804|4 largest firms|794||3437115||12.449385542||236917||57813||8483|
+01000US|United States|1|United States|44|Retail trade|44422|Nursery & garden centers|1997|Reference year 1997|808|8 largest firms|1442||5166265||18.712444825||377347||89147||18177|
+01000US|United States|1|United States|44|Retail trade|44422|Nursery & garden centers|1997|Reference year 1997|820|20 largest firms|1857||6867607||24.874782279||492399||114913||23274|
+01000US|United States|1|United States|44|Retail trade|44422|Nursery & garden centers|1997|Reference year 1997|850|50 largest firms|2105||8094680||29.319296025||585513||136364||27531|
+01000US|United States|1|United States|44|Retail trade|444220|Nursery & garden centers|1997|Reference year 1997|003|All firms|16432||27608712||100||2760301||588602||139137|
+01000US|United States|1|United States|44|Retail trade|444220|Nursery & garden centers|1997|Reference year 1997|804|4 largest firms|794||3437115||12.449385542||236917||57813||8483|
+01000US|United States|1|United States|44|Retail trade|444220|Nursery & garden centers|1997|Reference year 1997|808|8 largest firms|1442||5166265||18.712444825||377347||89147||18177|
+01000US|United States|1|United States|44|Retail trade|444220|Nursery & garden centers|1997|Reference year 1997|820|20 largest firms|1857||6867607||24.874782279||492399||114913||23274|
+01000US|United States|1|United States|44|Retail trade|444220|Nursery & garden centers|1997|Reference year 1997|850|50 largest firms|2105||8094680||29.319296025||585513||136364||27531|
+01000US|United States|1|United States|44|Retail trade|445|Food & beverage stores|1997|Reference year 1997|003|All firms|148528||401764499||100||40581095||9646391||2893074|
+01000US|United States|1|United States|44|Retail trade|445|Food & beverage stores|1997|Reference year 1997|804|4 largest firms|4355||73409786||18.27184487||7591085||1703243||451998|
+01000US|United States|1|United States|44|Retail trade|445|Food & beverage stores|1997|Reference year 1997|808|8 largest firms|8323||121337643||30.201185844||12241594||2864780||815260|
+01000US|United States|1|United States|44|Retail trade|445|Food & beverage stores|1997|Reference year 1997|820|20 largest firms|11471||171784798||42.757585209||17740342||4205911||1138720|
+01000US|United States|1|United States|44|Retail trade|445|Food & beverage stores|1997|Reference year 1997|850|50 largest firms|16590||217381413||54.106675314||22269442||5337544||1458323|
+01000US|United States|1|United States|44|Retail trade|4451|Grocery stores|1997|Reference year 1997|003|All firms|96542||368250471||100||37426166||8915996||2643608|
+01000US|United States|1|United States|44|Retail trade|4451|Grocery stores|1997|Reference year 1997|804|4 largest firms|4352||73405967||19.933706208||7590784||1703174||451976|
+01000US|United States|1|United States|44|Retail trade|4451|Grocery stores|1997|Reference year 1997|808|8 largest firms|8320||121333824||32.948722013||12241293||2864711||815238|
+01000US|United States|1|United States|44|Retail trade|4451|Grocery stores|1997|Reference year 1997|820|20 largest firms|11434||171729901||46.633993579||17735749||4204894||1138478|
+01000US|United States|1|United States|44|Retail trade|4451|Grocery stores|1997|Reference year 1997|850|50 largest firms|16533||217288282||59.005567979||22261943||5335890||1457898|
+01000US|United States|1|United States|44|Retail trade|44511|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|003|All firms|69461||351402705||100||35827805||8536818||2489721|
+01000US|United States|1|United States|44|Retail trade|44511|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|804|4 largest firms|4171||73243220||20.843100795||7571528||1698688||450124|
+01000US|United States|1|United States|44|Retail trade|44511|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|808|8 largest firms|8139||121171077||34.482112766||12222037||2860225||813386|
+01000US|United States|1|United States|44|Retail trade|44511|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|820|20 largest firms|11248||171565746||48.823114779||17716254||4200347||1136608|
+01000US|United States|1|United States|44|Retail trade|44511|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|850|50 largest firms|14978||216893988||61.722344454||22160937||5304838||1441570|
+01000US|United States|1|United States|44|Retail trade|445110|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|003|All firms|69461||351402705||100||35827805||8536818||2489721|
+01000US|United States|1|United States|44|Retail trade|445110|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|804|4 largest firms|4171||73243220||20.843100795||7571528||1698688||450124|
+01000US|United States|1|United States|44|Retail trade|445110|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|808|8 largest firms|8139||121171077||34.482112766||12222037||2860225||813386|
+01000US|United States|1|United States|44|Retail trade|445110|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|820|20 largest firms|11248||171565746||48.823114779||17716254||4200347||1136608|
+01000US|United States|1|United States|44|Retail trade|445110|Supermarkets & other grocery (except convenience) stores|1997|Reference year 1997|850|50 largest firms|14978||216893988||61.722344454||22160937||5304838||1441570|
+01000US|United States|1|United States|44|Retail trade|44512|Convenience stores|1997|Reference year 1997|003|All firms|27081||16847766||100||1598361||379178||153887|
+01000US|United States|1|United States|44|Retail trade|44512|Convenience stores|1997|Reference year 1997|804|4 largest firms|2020||2523887||14.980544008||281044||73683||26794|
+01000US|United States|1|United States|44|Retail trade|44512|Convenience stores|1997|Reference year 1997|808|8 largest firms|2601||3209271||19.048644194||361202||93073||32507|
+01000US|United States|1|United States|44|Retail trade|44512|Convenience stores|1997|Reference year 1997|820|20 largest firms|3574||3997616||23.727869915||454114||115233||41067|
+01000US|United States|1|United States|44|Retail trade|44512|Convenience stores|1997|Reference year 1997|850|50 largest firms|4244||4682279||27.791690602||527850||133516||47337|
+01000US|United States|1|United States|44|Retail trade|445120|Convenience stores|1997|Reference year 1997|003|All firms|27081||16847766||100||1598361||379178||153887|
+01000US|United States|1|United States|44|Retail trade|445120|Convenience stores|1997|Reference year 1997|804|4 largest firms|2020||2523887||14.980544008||281044||73683||26794|
+01000US|United States|1|United States|44|Retail trade|445120|Convenience stores|1997|Reference year 1997|808|8 largest firms|2601||3209271||19.048644194||361202||93073||32507|
+01000US|United States|1|United States|44|Retail trade|445120|Convenience stores|1997|Reference year 1997|820|20 largest firms|3574||3997616||23.727869915||454114||115233||41067|
+01000US|United States|1|United States|44|Retail trade|445120|Convenience stores|1997|Reference year 1997|850|50 largest firms|4244||4682279||27.791690602||527850||133516||47337|
+01000US|United States|1|United States|44|Retail trade|4452|Specialty food stores|1997|Reference year 1997|003|All firms|22373||10829908||100||1455642||335544||118831|
+01000US|United States|1|United States|44|Retail trade|4452|Specialty food stores|1997|Reference year 1997|804|4 largest firms|610||597358||5.5158178629||69670||17486||4745|
+01000US|United States|1|United States|44|Retail trade|4452|Specialty food stores|1997|Reference year 1997|808|8 largest firms|2066||932343||8.6089650992||131561||34264||9236|
+01000US|United States|1|United States|44|Retail trade|4452|Specialty food stores|1997|Reference year 1997|820|20 largest firms|2699||1403141||12.95616731||192356||48571||14470|
+01000US|United States|1|United States|44|Retail trade|4452|Specialty food stores|1997|Reference year 1997|850|50 largest firms|3118||1940729||17.920087594||256190||63648||18501|
+01000US|United States|1|United States|44|Retail trade|44521|Meat markets|1997|Reference year 1997|003|All firms|7214||4347021||100||544414||129157||39866|
+01000US|United States|1|United States|44|Retail trade|44521|Meat markets|1997|Reference year 1997|804|4 largest firms|205||307814||7.0810331949||28132||8465||1894|
+01000US|United States|1|United States|44|Retail trade|44521|Meat markets|1997|Reference year 1997|808|8 largest firms|262||412331||9.4853694059||40797||11208||2365|
+01000US|United States|1|United States|44|Retail trade|44521|Meat markets|1997|Reference year 1997|820|20 largest firms|308||572592||13.172055069||62839||16331||3542|
+01000US|United States|1|United States|44|Retail trade|44521|Meat markets|1997|Reference year 1997|850|50 largest firms|358||781216||17.971295745||85714||21728||4733|
+01000US|United States|1|United States|44|Retail trade|445210|Meat markets|1997|Reference year 1997|003|All firms|7214||4347021||100||544414||129157||39866|
+01000US|United States|1|United States|44|Retail trade|445210|Meat markets|1997|Reference year 1997|804|4 largest firms|205||307814||7.0810331949||28132||8465||1894|
+01000US|United States|1|United States|44|Retail trade|445210|Meat markets|1997|Reference year 1997|808|8 largest firms|262||412331||9.4853694059||40797||11208||2365|
+01000US|United States|1|United States|44|Retail trade|445210|Meat markets|1997|Reference year 1997|820|20 largest firms|308||572592||13.172055069||62839||16331||3542|
+01000US|United States|1|United States|44|Retail trade|445210|Meat markets|1997|Reference year 1997|850|50 largest firms|358||781216||17.971295745||85714||21728||4733|
+01000US|United States|1|United States|44|Retail trade|44522|Fish & seafood markets|1997|Reference year 1997|003|All firms|1634||1037553||100||101933||22755||7120|
+01000US|United States|1|United States|44|Retail trade|44522|Fish & seafood markets|1997|Reference year 1997|804|4 largest firms|4||92002||8.8672096751||2533||539||114|
+01000US|United States|1|United States|44|Retail trade|44522|Fish & seafood markets|1997|Reference year 1997|808|8 largest firms|9||129842||12.514252284||4190||938||196|
+01000US|United States|1|United States|44|Retail trade|44522|Fish & seafood markets|1997|Reference year 1997|820|20 largest firms|29||195786||18.869975799||10474||2463||501|
+01000US|United States|1|United States|44|Retail trade|44522|Fish & seafood markets|1997|Reference year 1997|850|50 largest firms|65||303159||29.218651963||21959||4992||1105|
+01000US|United States|1|United States|44|Retail trade|445220|Fish & seafood markets|1997|Reference year 1997|003|All firms|1634||1037553||100||101933||22755||7120|
+01000US|United States|1|United States|44|Retail trade|445220|Fish & seafood markets|1997|Reference year 1997|804|4 largest firms|4||92002||8.8672096751||2533||539||114|
+01000US|United States|1|United States|44|Retail trade|445220|Fish & seafood markets|1997|Reference year 1997|808|8 largest firms|9||129842||12.514252284||4190||938||196|
+01000US|United States|1|United States|44|Retail trade|445220|Fish & seafood markets|1997|Reference year 1997|820|20 largest firms|29||195786||18.869975799||10474||2463||501|
+01000US|United States|1|United States|44|Retail trade|445220|Fish & seafood markets|1997|Reference year 1997|850|50 largest firms|65||303159||29.218651963||21959||4992||1105|
+01000US|United States|1|United States|44|Retail trade|44523|Fruit & vegetable markets|1997|Reference year 1997|003|All firms|3179||2106828||100||236967||49558||17251|
+01000US|United States|1|United States|44|Retail trade|44523|Fruit & vegetable markets|1997|Reference year 1997|804|4 largest firms|17||114065||5.4140632268||15505||3540||757|
+01000US|United States|1|United States|44|Retail trade|44523|Fruit & vegetable markets|1997|Reference year 1997|808|8 largest firms|27||170164||8.0767865246||23174||5675||1284|
+01000US|United States|1|United States|44|Retail trade|44523|Fruit & vegetable markets|1997|Reference year 1997|820|20 largest firms|65||296818||14.088383105||40808||9347||2171|
+01000US|United States|1|United States|44|Retail trade|44523|Fruit & vegetable markets|1997|Reference year 1997|850|50 largest firms|113||502220||23.837731414||64683||14324||3730|
+01000US|United States|1|United States|44|Retail trade|445230|Fruit & vegetable markets|1997|Reference year 1997|003|All firms|3179||2106828||100||236967||49558||17251|
+01000US|United States|1|United States|44|Retail trade|445230|Fruit & vegetable markets|1997|Reference year 1997|804|4 largest firms|17||114065||5.4140632268||15505||3540||757|
+01000US|United States|1|United States|44|Retail trade|445230|Fruit & vegetable markets|1997|Reference year 1997|808|8 largest firms|27||170164||8.0767865246||23174||5675||1284|
+01000US|United States|1|United States|44|Retail trade|445230|Fruit & vegetable markets|1997|Reference year 1997|820|20 largest firms|65||296818||14.088383105||40808||9347||2171|
+01000US|United States|1|United States|44|Retail trade|445230|Fruit & vegetable markets|1997|Reference year 1997|850|50 largest firms|113||502220||23.837731414||64683||14324||3730|
+01000US|United States|1|United States|44|Retail trade|44529|Other specialty food stores|1997|Reference year 1997|003|All firms|10346||3338506||100||572328||134074||54594|
+01000US|United States|1|United States|44|Retail trade|44529|Other specialty food stores|1997|Reference year 1997|804|4 largest firms|859||536410||16.06736666||75076||18969||5607|
+01000US|United States|1|United States|44|Retail trade|44529|Other specialty food stores|1997|Reference year 1997|808|8 largest firms|2348||820183||24.567366361||131392||32537||10212|
+01000US|United States|1|United States|44|Retail trade|44529|Other specialty food stores|1997|Reference year 1997|820|20 largest firms|2715||1112901||33.335300281||170992||41922||13598|
+01000US|United States|1|United States|44|Retail trade|44529|Other specialty food stores|1997|Reference year 1997|850|50 largest firms|3027||1359874||40.733010514||210585||52431||16894|
+01000US|United States|1|United States|44|Retail trade|445291|Baked goods stores|1997|Reference year 1997|003|All firms|2790||890310||100||191036||45756||14810|
+01000US|United States|1|United States|44|Retail trade|445291|Baked goods stores|1997|Reference year 1997|804|4 largest firms|597||284991||32.010311015||61562||14841||2645|
+01000US|United States|1|United States|44|Retail trade|445291|Baked goods stores|1997|Reference year 1997|808|8 largest firms|768||358628||40.281250351||72875||17872||3761|
+01000US|United States|1|United States|44|Retail trade|445291|Baked goods stores|1997|Reference year 1997|820|20 largest firms|932||439436||49.357639474||89904||21873||4735|
+01000US|United States|1|United States|44|Retail trade|445291|Baked goods stores|1997|Reference year 1997|850|50 largest firms|1045||508612||57.127517382||106229||26150||6169|
+01000US|United States|1|United States|44|Retail trade|445292|Confectionery & nut stores|1997|Reference year 1997|003|All firms|3684||1227942||100||190786||43675||21578|
+01000US|United States|1|United States|44|Retail trade|445292|Confectionery & nut stores|1997|Reference year 1997|804|4 largest firms|938||453786||36.955002761||60978||14955||6484|
+01000US|United States|1|United States|44|Retail trade|445292|Confectionery & nut stores|1997|Reference year 1997|808|8 largest firms|1120||539843||43.963232791||72688||17970||7878|
+01000US|United States|1|United States|44|Retail trade|445292|Confectionery & nut stores|1997|Reference year 1997|820|20 largest firms|1280||623151||50.747592313||85051||20514||9076|
+01000US|United States|1|United States|44|Retail trade|445292|Confectionery & nut stores|1997|Reference year 1997|850|50 largest firms|1431||713091||58.072042491||97984||23265||10544|
+01000US|United States|1|United States|44|Retail trade|445299|All other specialty food stores|1997|Reference year 1997|003|All firms|3872||1220254||100||190506||44643||18206|
+01000US|United States|1|United States|44|Retail trade|445299|All other specialty food stores|1997|Reference year 1997|804|4 largest firms|853||181105||14.841582162||25651||6469||2217|
+01000US|United States|1|United States|44|Retail trade|445299|All other specialty food stores|1997|Reference year 1997|808|8 largest firms|896||251276||20.592106234||31554||7815||2635|
+01000US|United States|1|United States|44|Retail trade|445299|All other specialty food stores|1997|Reference year 1997|820|20 largest firms|930||336754||27.597041272||43511||11954||3643|
+01000US|United States|1|United States|44|Retail trade|445299|All other specialty food stores|1997|Reference year 1997|850|50 largest firms|1016||436203||35.746901875||59661||15365||4687|
+01000US|United States|1|United States|44|Retail trade|4453|Beer, wine, & liquor stores|1997|Reference year 1997|003|All firms|29613||22684120||100||1699287||394851||130635|
+01000US|United States|1|United States|44|Retail trade|4453|Beer, wine, & liquor stores|1997|Reference year 1997|804|4 largest firms|1295||1639581||7.2278801205||125945||31005||6341|
+01000US|United States|1|United States|44|Retail trade|4453|Beer, wine, & liquor stores|1997|Reference year 1997|808|8 largest firms|1902||2557135||11.272797887||175989||43541||10148|
+01000US|United States|1|United States|44|Retail trade|4453|Beer, wine, & liquor stores|1997|Reference year 1997|820|20 largest firms|2397||3408973||15.028015193||225736||55710||12658|
+01000US|United States|1|United States|44|Retail trade|4453|Beer, wine, & liquor stores|1997|Reference year 1997|850|50 largest firms|2778||4274280||18.842608838||289526||69995||15732|
+01000US|United States|1|United States|44|Retail trade|44531|Beer, wine, & liquor stores|1997|Reference year 1997|003|All firms|29613||22684120||100||1699287||394851||130635|
+01000US|United States|1|United States|44|Retail trade|44531|Beer, wine, & liquor stores|1997|Reference year 1997|804|4 largest firms|1295||1639581||7.2278801205||125945||31005||6341|
+01000US|United States|1|United States|44|Retail trade|44531|Beer, wine, & liquor stores|1997|Reference year 1997|808|8 largest firms|1902||2557135||11.272797887||175989||43541||10148|
+01000US|United States|1|United States|44|Retail trade|44531|Beer, wine, & liquor stores|1997|Reference year 1997|820|20 largest firms|2397||3408973||15.028015193||225736||55710||12658|
+01000US|United States|1|United States|44|Retail trade|44531|Beer, wine, & liquor stores|1997|Reference year 1997|850|50 largest firms|2778||4274280||18.842608838||289526||69995||15732|
+01000US|United States|1|United States|44|Retail trade|445310|Beer, wine, & liquor stores|1997|Reference year 1997|003|All firms|29613||22684120||100||1699287||394851||130635|
+01000US|United States|1|United States|44|Retail trade|445310|Beer, wine, & liquor stores|1997|Reference year 1997|804|4 largest firms|1295||1639581||7.2278801205||125945||31005||6341|
+01000US|United States|1|United States|44|Retail trade|445310|Beer, wine, & liquor stores|1997|Reference year 1997|808|8 largest firms|1902||2557135||11.272797887||175989||43541||10148|
+01000US|United States|1|United States|44|Retail trade|445310|Beer, wine, & liquor stores|1997|Reference year 1997|820|20 largest firms|2397||3408973||15.028015193||225736||55710||12658|
+01000US|United States|1|United States|44|Retail trade|445310|Beer, wine, & liquor stores|1997|Reference year 1997|850|50 largest firms|2778||4274280||18.842608838||289526||69995||15732|
+01000US|United States|1|United States|44|Retail trade|446|Health & personal care stores|1997|Reference year 1997|003|All firms|82941||117700863||100||15190635||3509022||903694|
+01000US|United States|1|United States|44|Retail trade|446|Health & personal care stores|1997|Reference year 1997|804|4 largest firms|13859||45982693||39.067422131||5375971||1189355||373392|
+01000US|United States|1|United States|44|Retail trade|446|Health & personal care stores|1997|Reference year 1997|808|8 largest firms|16162||56814303||48.270081928||6571424||1493506||432823|
+01000US|United States|1|United States|44|Retail trade|446|Health & personal care stores|1997|Reference year 1997|820|20 largest firms|25109||65258104||55.444031876||7476334||1709928||500498|
+01000US|United States|1|United States|44|Retail trade|446|Health & personal care stores|1997|Reference year 1997|850|50 largest firms|28670||71093127||60.401534184||8321179||1917833||541992|
+01000US|United States|1|United States|44|Retail trade|4461|Health & personal care stores|1997|Reference year 1997|003|All firms|82941||117700863||100||15190635||3509022||903694|
+01000US|United States|1|United States|44|Retail trade|4461|Health & personal care stores|1997|Reference year 1997|804|4 largest firms|13859||45982693||39.067422131||5375971||1189355||373392|
+01000US|United States|1|United States|44|Retail trade|4461|Health & personal care stores|1997|Reference year 1997|808|8 largest firms|16162||56814303||48.270081928||6571424||1493506||432823|
+01000US|United States|1|United States|44|Retail trade|4461|Health & personal care stores|1997|Reference year 1997|820|20 largest firms|25109||65258104||55.444031876||7476334||1709928||500498|
+01000US|United States|1|United States|44|Retail trade|4461|Health & personal care stores|1997|Reference year 1997|850|50 largest firms|28670||71093127||60.401534184||8321179||1917833||541992|
+01000US|United States|1|United States|44|Retail trade|44611|Pharmacies & drug stores|1997|Reference year 1997|003|All firms|43615||98630857||100||11587516||2671467||703752|
+01000US|United States|1|United States|44|Retail trade|44611|Pharmacies & drug stores|1997|Reference year 1997|804|4 largest firms|13858||45982670||46.620977855||5375948||1189355||373392|
+01000US|United States|1|United States|44|Retail trade|44611|Pharmacies & drug stores|1997|Reference year 1997|808|8 largest firms|15665||56716090||57.503393689||6443537||1461544||428198|
+01000US|United States|1|United States|44|Retail trade|44611|Pharmacies & drug stores|1997|Reference year 1997|820|20 largest firms|16609||62329353||63.194577129||7007121||1601879||458467|
+01000US|United States|1|United States|44|Retail trade|44611|Pharmacies & drug stores|1997|Reference year 1997|850|50 largest firms|17865||66177971||67.096619671||7514466||1727789||483330|
+01000US|United States|1|United States|44|Retail trade|446110|Pharmacies & drug stores|1997|Reference year 1997|003|All firms|43615||98630857||100||11587516||2671467||703752|
+01000US|United States|1|United States|44|Retail trade|446110|Pharmacies & drug stores|1997|Reference year 1997|804|4 largest firms|13858||45982670||46.620977855||5375948||1189355||373392|
+01000US|United States|1|United States|44|Retail trade|446110|Pharmacies & drug stores|1997|Reference year 1997|808|8 largest firms|15665||56716090||57.503393689||6443537||1461544||428198|
+01000US|United States|1|United States|44|Retail trade|446110|Pharmacies & drug stores|1997|Reference year 1997|820|20 largest firms|16609||62329353||63.194577129||7007121||1601879||458467|
+01000US|United States|1|United States|44|Retail trade|446110|Pharmacies & drug stores|1997|Reference year 1997|850|50 largest firms|17865||66177971||67.096619671||7514466||1727789||483330|
+01000US|United States|1|United States|44|Retail trade|4461101|Pharmacies & drug stores|1997|Reference year 1997|003|All firms|41743||96989832||100||11380631||2622887||687330|
+01000US|United States|1|United States|44|Retail trade|4461101|Pharmacies & drug stores|1997|Reference year 1997|804|4 largest firms|13644||45614311||47.029992793||5344713||1181403||368573|
+01000US|United States|1|United States|44|Retail trade|4461101|Pharmacies & drug stores|1997|Reference year 1997|808|8 largest firms|15450||56347052||58.095834211||6412163||1453552||423366|
+01000US|United States|1|United States|44|Retail trade|4461101|Pharmacies & drug stores|1997|Reference year 1997|820|20 largest firms|16363||61863183||63.783163373||6973174||1593733||453663|
+01000US|United States|1|United States|44|Retail trade|4461101|Pharmacies & drug stores|1997|Reference year 1997|850|50 largest firms|17598||65487385||67.519845792||7466154||1715741||476809|
+01000US|United States|1|United States|44|Retail trade|4461102|Proprietary stores|1997|Reference year 1997|003|All firms|1872||1641025||100||206885||48580||16422|
+01000US|United States|1|United States|44|Retail trade|4461102|Proprietary stores|1997|Reference year 1997|804|4 largest firms|260||612676||37.334958334||46062||11364||5953|
+01000US|United States|1|United States|44|Retail trade|4461102|Proprietary stores|1997|Reference year 1997|808|8 largest firms|335||750267||45.719413172||59520||14646||7111|
+01000US|United States|1|United States|44|Retail trade|4461102|Proprietary stores|1997|Reference year 1997|820|20 largest firms|434||859056||52.348745449||77374||18743||8003|
+01000US|United States|1|United States|44|Retail trade|4461102|Proprietary stores|1997|Reference year 1997|850|50 largest firms|479||973517||59.323715361||97418||23582||9002|
+01000US|United States|1|United States|44|Retail trade|44612|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|003|All firms|9014||4418998||100||603595||143825||46527|
+01000US|United States|1|United States|44|Retail trade|44612|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|804|4 largest firms|3050||2178696||49.302941527||243673||58507||19530|
+01000US|United States|1|United States|44|Retail trade|44612|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|808|8 largest firms|4113||2629007||59.493283319||317525||78528||25935|
+01000US|United States|1|United States|44|Retail trade|44612|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|820|20 largest firms|4464||2986221||67.576880551||375149||91042||28721|
+01000US|United States|1|United States|44|Retail trade|44612|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|850|50 largest firms|4693||3186277||72.104060694||407479||98254||30713|
+01000US|United States|1|United States|44|Retail trade|446120|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|003|All firms|9014||4418998||100||603595||143825||46527|
+01000US|United States|1|United States|44|Retail trade|446120|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|804|4 largest firms|3050||2178696||49.302941527||243673||58507||19530|
+01000US|United States|1|United States|44|Retail trade|446120|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|808|8 largest firms|4113||2629007||59.493283319||317525||78528||25935|
+01000US|United States|1|United States|44|Retail trade|446120|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|820|20 largest firms|4464||2986221||67.576880551||375149||91042||28721|
+01000US|United States|1|United States|44|Retail trade|446120|Cosmetics, beauty supplies, & perfume stores|1997|Reference year 1997|850|50 largest firms|4693||3186277||72.104060694||407479||98254||30713|
+01000US|United States|1|United States|44|Retail trade|44613|Optical goods stores|1997|Reference year 1997|804|4 largest firms|4213||2385151||37.082121828||433140||101918||27655|
+01000US|United States|1|United States|44|Retail trade|44613|Optical goods stores|1997|Reference year 1997|808|8 largest firms|5683||2942686||45.750160368||538212||125878||33138|
+01000US|United States|1|United States|44|Retail trade|44613|Optical goods stores|1997|Reference year 1997|820|20 largest firms|6390||3379294||52.538137753||631575||151711||37829|
+01000US|United States|1|United States|44|Retail trade|44613|Optical goods stores|1997|Reference year 1997|850|50 largest firms|6931||3677631||57.17640551||713694||171131||41359|
+01000US|United States|1|United States|44|Retail trade|446130|Optical goods stores|1997|Reference year 1997|003|All firms|15192||6432078||100||1401239||331165||73049|
+01000US|United States|1|United States|44|Retail trade|446130|Optical goods stores|1997|Reference year 1997|804|4 largest firms|4213||2385151||37.082121828||433140||101918||27655|
+01000US|United States|1|United States|44|Retail trade|446130|Optical goods stores|1997|Reference year 1997|808|8 largest firms|5683||2942686||45.750160368||538212||125878||33138|
+01000US|United States|1|United States|44|Retail trade|446130|Optical goods stores|1997|Reference year 1997|820|20 largest firms|6390||3379294||52.538137753||631575||151711||37829|
+01000US|United States|1|United States|44|Retail trade|446130|Optical goods stores|1997|Reference year 1997|850|50 largest firms|6931||3677631||57.17640551||713694||171131||41359|
+01000US|United States|1|United States|44|Retail trade|44619|Other health & personal care stores|1997|Reference year 1997|003|All firms|15120||8218930||100||1598285||362565||80366|
+01000US|United States|1|United States|44|Retail trade|44619|Other health & personal care stores|1997|Reference year 1997|804|4 largest firms|2622||1105669||13.452712214||208664||46882||12548|
+01000US|United States|1|United States|44|Retail trade|44619|Other health & personal care stores|1997|Reference year 1997|808|8 largest firms|2723||1330678||16.190404347||246518||56233||13517|
+01000US|United States|1|United States|44|Retail trade|44619|Other health & personal care stores|1997|Reference year 1997|820|20 largest firms|2916||1647276||20.042462948||306838||69353||15743|
+01000US|United States|1|United States|44|Retail trade|44619|Other health & personal care stores|1997|Reference year 1997|850|50 largest firms|3000||2065467||25.130607025||380639||85276||18447|
+01000US|United States|1|United States|44|Retail trade|446191|Food (health) supplement stores|1997|Reference year 1997|003|All firms|7404||3488590||100||484956||110124||38537|
+01000US|United States|1|United States|44|Retail trade|446191|Food (health) supplement stores|1997|Reference year 1997|804|4 largest firms|2164||853269||24.458850137||108689||25804||10389|
+01000US|United States|1|United States|44|Retail trade|446191|Food (health) supplement stores|1997|Reference year 1997|808|8 largest firms|2180||922898||26.454756793||118955||27740||11101|
+01000US|United States|1|United States|44|Retail trade|446191|Food (health) supplement stores|1997|Reference year 1997|820|20 largest firms|2224||1055624||30.259331134||139405||32243||12176|
+01000US|United States|1|United States|44|Retail trade|446191|Food (health) supplement stores|1997|Reference year 1997|850|50 largest firms|2290||1235672||35.42038474||165001||37964||13714|
+01000US|United States|1|United States|44|Retail trade|446199|All other health & personal care stores|1997|Reference year 1997|003|All firms|7716||4730340||100||1113329||252441||41829|
+01000US|United States|1|United States|44|Retail trade|446199|All other health & personal care stores|1997|Reference year 1997|804|4 largest firms|523||426631||9.0190345726||115502||24947||2888|
+01000US|United States|1|United States|44|Retail trade|446199|All other health & personal care stores|1997|Reference year 1997|808|8 largest firms|617||601362||12.712870534||160084||35764||3927|
+01000US|United States|1|United States|44|Retail trade|446199|All other health & personal care stores|1997|Reference year 1997|820|20 largest firms|770||862790||18.239492299||216738||47712||5697|
+01000US|United States|1|United States|44|Retail trade|446199|All other health & personal care stores|1997|Reference year 1997|850|50 largest firms|896||1195466||25.272306008||276044||61162||7522|
+01000US|United States|1|United States|44|Retail trade|447|Gasoline stations|1997|Reference year 1997|003|All firms|126889||198165786||100||11482092||2696514||922062|
+01000US|United States|1|United States|44|Retail trade|447|Gasoline stations|1997|Reference year 1997|804|4 largest firms|5467||13290688||6.7068530185||601762||138484||49067|
+01000US|United States|1|United States|44|Retail trade|447|Gasoline stations|1997|Reference year 1997|808|8 largest firms|7949||21387780||10.792872186||976182||229022||74913|
+01000US|United States|1|United States|44|Retail trade|447|Gasoline stations|1997|Reference year 1997|820|20 largest firms|15041||37939495||19.145330668||1757475||436948||141822|
+01000US|United States|1|United States|44|Retail trade|447|Gasoline stations|1997|Reference year 1997|850|50 largest firms|23940||55826645||28.171687014||2717823||659701||216941|
+01000US|United States|1|United States|44|Retail trade|4471|Gasoline stations|1997|Reference year 1997|003|All firms|126889||198165786||100||11482092||2696514||922062|
+01000US|United States|1|United States|44|Retail trade|4471|Gasoline stations|1997|Reference year 1997|804|4 largest firms|5467||13290688||6.7068530185||601762||138484||49067|
+01000US|United States|1|United States|44|Retail trade|4471|Gasoline stations|1997|Reference year 1997|808|8 largest firms|7949||21387780||10.792872186||976182||229022||74913|
+01000US|United States|1|United States|44|Retail trade|4471|Gasoline stations|1997|Reference year 1997|820|20 largest firms|15041||37939495||19.145330668||1757475||436948||141822|
+01000US|United States|1|United States|44|Retail trade|4471|Gasoline stations|1997|Reference year 1997|850|50 largest firms|23940||55826645||28.171687014||2717823||659701||216941|
+01000US|United States|1|United States|44|Retail trade|44711|Gasoline stations with convenience stores|1997|Reference year 1997|003|All firms|81684||127609117||100||7228587||1693169||613957|
+01000US|United States|1|United States|44|Retail trade|44711|Gasoline stations with convenience stores|1997|Reference year 1997|804|4 largest firms|5064||11589757||9.0822327373||543466||126035||44882|
+01000US|United States|1|United States|44|Retail trade|44711|Gasoline stations with convenience stores|1997|Reference year 1997|808|8 largest firms|8250||18281989||14.326553956||934263||241009||77325|
+01000US|United States|1|United States|44|Retail trade|44711|Gasoline stations with convenience stores|1997|Reference year 1997|820|20 largest firms|14160||30489455||23.89285007||1525176||380377||128947|
+01000US|United States|1|United States|44|Retail trade|44711|Gasoline stations with convenience stores|1997|Reference year 1997|850|50 largest firms|20930||42820682||33.556130633||2225307||542839||180891|
+01000US|United States|1|United States|44|Retail trade|447110|Gasoline stations with convenience stores|1997|Reference year 1997|003|All firms|81684||127609117||100||7228587||1693169||613957|
+01000US|United States|1|United States|44|Retail trade|447110|Gasoline stations with convenience stores|1997|Reference year 1997|804|4 largest firms|5064||11589757||9.0822327373||543466||126035||44882|
+01000US|United States|1|United States|44|Retail trade|447110|Gasoline stations with convenience stores|1997|Reference year 1997|808|8 largest firms|8250||18281989||14.326553956||934263||241009||77325|
+01000US|United States|1|United States|44|Retail trade|447110|Gasoline stations with convenience stores|1997|Reference year 1997|820|20 largest firms|14160||30489455||23.89285007||1525176||380377||128947|
+01000US|United States|1|United States|44|Retail trade|447110|Gasoline stations with convenience stores|1997|Reference year 1997|850|50 largest firms|20930||42820682||33.556130633||2225307||542839||180891|
+01000US|United States|1|United States|44|Retail trade|44719|Other gasoline stations|1997|Reference year 1997|003|All firms|45205||70556669||100||4253505||1003345||308105|
+01000US|United States|1|United States|44|Retail trade|44719|Other gasoline stations|1997|Reference year 1997|804|4 largest firms|952||5151971||7.3018909098||172337||40856||12324|
+01000US|United States|1|United States|44|Retail trade|44719|Other gasoline stations|1997|Reference year 1997|808|8 largest firms|1973||8271893||11.723757821||302435||74096||21618|
+01000US|United States|1|United States|44|Retail trade|44719|Other gasoline stations|1997|Reference year 1997|820|20 largest firms|3440||13023039||18.457559271||557180||131064||40187|
+01000US|United States|1|United States|44|Retail trade|44719|Other gasoline stations|1997|Reference year 1997|850|50 largest firms|4501||16954060||24.028997174||729422||171873||54115|
+01000US|United States|1|United States|44|Retail trade|447190|Other gasoline stations|1997|Reference year 1997|003|All firms|45205||70556669||100||4253505||1003345||308105|
+01000US|United States|1|United States|44|Retail trade|447190|Other gasoline stations|1997|Reference year 1997|804|4 largest firms|952||5151971||7.3018909098||172337||40856||12324|
+01000US|United States|1|United States|44|Retail trade|447190|Other gasoline stations|1997|Reference year 1997|808|8 largest firms|1973||8271893||11.723757821||302435||74096||21618|
+01000US|United States|1|United States|44|Retail trade|447190|Other gasoline stations|1997|Reference year 1997|820|20 largest firms|3440||13023039||18.457559271||557180||131064||40187|
+01000US|United States|1|United States|44|Retail trade|447190|Other gasoline stations|1997|Reference year 1997|850|50 largest firms|4501||16954060||24.028997174||729422||171873||54115|
+01000US|United States|1|United States|44|Retail trade|448|Clothing & clothing accessories stores|1997|Reference year 1997|003|All firms|156601||136397645||100||16597371||3913449||1280153|
+01000US|United States|1|United States|44|Retail trade|448|Clothing & clothing accessories stores|1997|Reference year 1997|804|4 largest firms|8131||24460233||17.933031762||2516523||605385||216702|
+01000US|United States|1|United States|44|Retail trade|448|Clothing & clothing accessories stores|1997|Reference year 1997|808|8 largest firms|18476||35683258||26.161198018||3672861||883306||313160|
+01000US|United States|1|United States|44|Retail trade|448|Clothing & clothing accessories stores|1997|Reference year 1997|820|20 largest firms|30818||51090486||37.457014745||5286169||1237581||461736|
+01000US|United States|1|United States|44|Retail trade|448|Clothing & clothing accessories stores|1997|Reference year 1997|850|50 largest firms|46295||67834863||49.733162915||7195870||1708880||613068|
+01000US|United States|1|United States|44|Retail trade|4481|Clothing stores|1997|Reference year 1997|003|All firms|94740||95918083||100||11225054||2660434||927930|
+01000US|United States|1|United States|44|Retail trade|4481|Clothing stores|1997|Reference year 1997|804|4 largest firms|8118||24428727||25.468322798||2510022||604430||216451|
+01000US|United States|1|United States|44|Retail trade|4481|Clothing stores|1997|Reference year 1997|808|8 largest firms|9327||32873169||34.272128854||3470422||834854||289779|
+01000US|United States|1|United States|44|Retail trade|4481|Clothing stores|1997|Reference year 1997|820|20 largest firms|18650||44697463||46.599620845||4649099||1116079||408415|
+01000US|United States|1|United States|44|Retail trade|4481|Clothing stores|1997|Reference year 1997|850|50 largest firms|29845||56818681||59.236672818||5910183||1417004||517115|
+01000US|United States|1|United States|44|Retail trade|44811|Men's clothing stores|1997|Reference year 1997|003|All firms|12143||9864629||100||1325198||325213||83581|
+01000US|United States|1|United States|44|Retail trade|44811|Men's clothing stores|1997|Reference year 1997|804|4 largest firms|2001||2246308||22.771337878||268566||68146||18001|
+01000US|United States|1|United States|44|Retail trade|44811|Men's clothing stores|1997|Reference year 1997|808|8 largest firms|2834||3241564||32.860475543||360997||89608||25524|
+01000US|United States|1|United States|44|Retail trade|44811|Men's clothing stores|1997|Reference year 1997|820|20 largest firms|3785||4593843||46.568837003||504279||124850||34677|
+01000US|United States|1|United States|44|Retail trade|44811|Men's clothing stores|1997|Reference year 1997|850|50 largest firms|4406||5361603||54.351795693||606505||149862||40299|
+01000US|United States|1|United States|44|Retail trade|448110|Men's clothing stores|1997|Reference year 1997|003|All firms|12143||9864629||100||1325198||325213||83581|
+01000US|United States|1|United States|44|Retail trade|448110|Men's clothing stores|1997|Reference year 1997|804|4 largest firms|2001||2246308||22.771337878||268566||68146||18001|
+01000US|United States|1|United States|44|Retail trade|448110|Men's clothing stores|1997|Reference year 1997|808|8 largest firms|2834||3241564||32.860475543||360997||89608||25524|
+01000US|United States|1|United States|44|Retail trade|448110|Men's clothing stores|1997|Reference year 1997|820|20 largest firms|3785||4593843||46.568837003||504279||124850||34677|
+01000US|United States|1|United States|44|Retail trade|448110|Men's clothing stores|1997|Reference year 1997|850|50 largest firms|4406||5361603||54.351795693||606505||149862||40299|
+01000US|United States|1|United States|44|Retail trade|44812|Women's clothing stores|1997|Reference year 1997|003|All firms|39672||27257683||100||3365846||797371||305685|
+01000US|United States|1|United States|44|Retail trade|44812|Women's clothing stores|1997|Reference year 1997|804|4 largest firms|4720||7413497||27.197825288||864527||207067||80268|
+01000US|United States|1|United States|44|Retail trade|44812|Women's clothing stores|1997|Reference year 1997|808|8 largest firms|7646||10068686||36.938891688||1155028||280746||105521|
+01000US|United States|1|United States|44|Retail trade|44812|Women's clothing stores|1997|Reference year 1997|820|20 largest firms|13297||14134303||51.854381754||1594122||384309||153994|
+01000US|United States|1|United States|44|Retail trade|44812|Women's clothing stores|1997|Reference year 1997|850|50 largest firms|17500||17590513||64.534146208||2001849||482013||191994|
+01000US|United States|1|United States|44|Retail trade|448120|Women's clothing stores|1997|Reference year 1997|003|All firms|39672||27257683||100||3365846||797371||305685|
+01000US|United States|1|United States|44|Retail trade|448120|Women's clothing stores|1997|Reference year 1997|804|4 largest firms|4720||7413497||27.197825288||864527||207067||80268|
+01000US|United States|1|United States|44|Retail trade|448120|Women's clothing stores|1997|Reference year 1997|808|8 largest firms|7646||10068686||36.938891688||1155028||280746||105521|
+01000US|United States|1|United States|44|Retail trade|448120|Women's clothing stores|1997|Reference year 1997|820|20 largest firms|13297||14134303||51.854381754||1594122||384309||153994|
+01000US|United States|1|United States|44|Retail trade|448120|Women's clothing stores|1997|Reference year 1997|850|50 largest firms|17500||17590513||64.534146208||2001849||482013||191994|
+01000US|United States|1|United States|44|Retail trade|44813|Children's & infants' clothing stores|1997|Reference year 1997|003|All firms|5115||4638006||100||474416||112113||46520|
+01000US|United States|1|United States|44|Retail trade|44813|Children's & infants' clothing stores|1997|Reference year 1997|804|4 largest firms|1498||2806544||60.511866522||244606||58325||24583|
+01000US|United States|1|United States|44|Retail trade|44813|Children's & infants' clothing stores|1997|Reference year 1997|808|8 largest firms|1862||3254957||70.180094635||288988||68257||28596|
+01000US|United States|1|United States|44|Retail trade|44813|Children's & infants' clothing stores|1997|Reference year 1997|820|20 largest firms|2068||3509469||75.667625268||321297||76450||31501|
+01000US|United States|1|United States|44|Retail trade|44813|Children's & infants' clothing stores|1997|Reference year 1997|850|50 largest firms|2165||3691371||79.589612433||348043||82590||33532|
+01000US|United States|1|United States|44|Retail trade|448130|Children's & infants' clothing stores|1997|Reference year 1997|003|All firms|5115||4638006||100||474416||112113||46520|
+01000US|United States|1|United States|44|Retail trade|448130|Children's & infants' clothing stores|1997|Reference year 1997|804|4 largest firms|1498||2806544||60.511866522||244606||58325||24583|
+01000US|United States|1|United States|44|Retail trade|448130|Children's & infants' clothing stores|1997|Reference year 1997|808|8 largest firms|1862||3254957||70.180094635||288988||68257||28596|
+01000US|United States|1|United States|44|Retail trade|448130|Children's & infants' clothing stores|1997|Reference year 1997|820|20 largest firms|2068||3509469||75.667625268||321297||76450||31501|
+01000US|United States|1|United States|44|Retail trade|448130|Children's & infants' clothing stores|1997|Reference year 1997|850|50 largest firms|2165||3691371||79.589612433||348043||82590||33532|
+01000US|United States|1|United States|44|Retail trade|44814|Family clothing stores|1997|Reference year 1997|003|All firms|20450||44796060||100||4797129||1130114||392269|
+01000US|United States|1|United States|44|Retail trade|44814|Family clothing stores|1997|Reference year 1997|804|4 largest firms|3199||19400534||43.308572227||2037398||494541||150062|
+01000US|United States|1|United States|44|Retail trade|44814|Family clothing stores|1997|Reference year 1997|808|8 largest firms|4871||25288430||56.452353176||2588915||619338||207861|
+01000US|United States|1|United States|44|Retail trade|44814|Family clothing stores|1997|Reference year 1997|820|20 largest firms|7720||31740347||70.855220303||3190481||763065||268589|
+01000US|United States|1|United States|44|Retail trade|44814|Family clothing stores|1997|Reference year 1997|850|50 largest firms|10171||37526465||83.771798234||3814542||906907||317459|
+01000US|United States|1|United States|44|Retail trade|448140|Family clothing stores|1997|Reference year 1997|003|All firms|20450||44796060||100||4797129||1130114||392269|
+01000US|United States|1|United States|44|Retail trade|448140|Family clothing stores|1997|Reference year 1997|804|4 largest firms|3199||19400534||43.308572227||2037398||494541||150062|
+01000US|United States|1|United States|44|Retail trade|448140|Family clothing stores|1997|Reference year 1997|808|8 largest firms|4871||25288430||56.452353176||2588915||619338||207861|
+01000US|United States|1|United States|44|Retail trade|448140|Family clothing stores|1997|Reference year 1997|820|20 largest firms|7720||31740347||70.855220303||3190481||763065||268589|
+01000US|United States|1|United States|44|Retail trade|448140|Family clothing stores|1997|Reference year 1997|850|50 largest firms|10171||37526465||83.771798234||3814542||906907||317459|
+01000US|United States|1|United States|44|Retail trade|44815|Clothing accessories stores|1997|Reference year 1997|003|All firms|5860||2132281||100||313776||74453||25754|
+01000US|United States|1|United States|44|Retail trade|44815|Clothing accessories stores|1997|Reference year 1997|804|4 largest firms|2548||907379||42.554381904||129933||30818||12351|
+01000US|United States|1|United States|44|Retail trade|44815|Clothing accessories stores|1997|Reference year 1997|808|8 largest firms|2767||1103062||51.731549453||151212||35602||13504|
+01000US|United States|1|United States|44|Retail trade|44815|Clothing accessories stores|1997|Reference year 1997|820|20 largest firms|3003||1333441||62.535894659||182531||43998||15552|
+01000US|United States|1|United States|44|Retail trade|44815|Clothing accessories stores|1997|Reference year 1997|850|50 largest firms|3299||1516335||71.113281974||210211||50612||17086|
+01000US|United States|1|United States|44|Retail trade|448150|Clothing accessories stores|1997|Reference year 1997|003|All firms|5860||2132281||100||313776||74453||25754|
+01000US|United States|1|United States|44|Retail trade|448150|Clothing accessories stores|1997|Reference year 1997|804|4 largest firms|2548||907379||42.554381904||129933||30818||12351|
+01000US|United States|1|United States|44|Retail trade|448150|Clothing accessories stores|1997|Reference year 1997|808|8 largest firms|2767||1103062||51.731549453||151212||35602||13504|
+01000US|United States|1|United States|44|Retail trade|448150|Clothing accessories stores|1997|Reference year 1997|820|20 largest firms|3003||1333441||62.535894659||182531||43998||15552|
+01000US|United States|1|United States|44|Retail trade|448150|Clothing accessories stores|1997|Reference year 1997|850|50 largest firms|3299||1516335||71.113281974||210211||50612||17086|
+01000US|United States|1|United States|44|Retail trade|44819|Other clothing stores|1997|Reference year 1997|003|All firms|11500||7229424||100||948689||221170||74121|
+01000US|United States|1|United States|44|Retail trade|44819|Other clothing stores|1997|Reference year 1997|804|4 largest firms|1852||2900854||40.125658697||275249||67645||24348|
+01000US|United States|1|United States|44|Retail trade|44819|Other clothing stores|1997|Reference year 1997|808|8 largest firms|2506||3242445||44.850668601||329588||80873||28581|
+01000US|United States|1|United States|44|Retail trade|44819|Other clothing stores|1997|Reference year 1997|820|20 largest firms|3022||3770195||52.15069693||396963||96458||32782|
+01000US|United States|1|United States|44|Retail trade|44819|Other clothing stores|1997|Reference year 1997|850|50 largest firms|3308||4127334||57.090772377||448818||108527||36140|
+01000US|United States|1|United States|44|Retail trade|448190|Other clothing stores|1997|Reference year 1997|003|All firms|11500||7229424||100||948689||221170||74121|
+01000US|United States|1|United States|44|Retail trade|448190|Other clothing stores|1997|Reference year 1997|804|4 largest firms|1852||2900854||40.125658697||275249||67645||24348|
+01000US|United States|1|United States|44|Retail trade|448190|Other clothing stores|1997|Reference year 1997|808|8 largest firms|2506||3242445||44.850668601||329588||80873||28581|
+01000US|United States|1|United States|44|Retail trade|448190|Other clothing stores|1997|Reference year 1997|820|20 largest firms|3022||3770195||52.15069693||396963||96458||32782|
+01000US|United States|1|United States|44|Retail trade|448190|Other clothing stores|1997|Reference year 1997|850|50 largest firms|3308||4127334||57.090772377||448818||108527||36140|
+01000US|United States|1|United States|44|Retail trade|4482|Shoe stores|1997|Reference year 1997|003|All firms|31399||20543252||100||2348605||542374||185803|
+01000US|United States|1|United States|44|Retail trade|4482|Shoe stores|1997|Reference year 1997|804|4 largest firms|12467||7760089||37.774394239||761971||177555||63528|
+01000US|United States|1|United States|44|Retail trade|4482|Shoe stores|1997|Reference year 1997|808|8 largest firms|14322||10088567||49.108909339||1018892||235086||88422|
+01000US|United States|1|United States|44|Retail trade|4482|Shoe stores|1997|Reference year 1997|820|20 largest firms|18772||13259720||64.54537967||1331589||309377||116143|
+01000US|United States|1|United States|44|Retail trade|4482|Shoe stores|1997|Reference year 1997|850|50 largest firms|21133||14946085||72.754230927||1536791||357664||130086|
+01000US|United States|1|United States|44|Retail trade|44821|Shoe stores|1997|Reference year 1997|003|All firms|31399||20543252||100||2348605||542374||185803|
+01000US|United States|1|United States|44|Retail trade|44821|Shoe stores|1997|Reference year 1997|804|4 largest firms|12467||7760089||37.774394239||761971||177555||63528|
+01000US|United States|1|United States|44|Retail trade|44821|Shoe stores|1997|Reference year 1997|808|8 largest firms|14322||10088567||49.108909339||1018892||235086||88422|
+01000US|United States|1|United States|44|Retail trade|44821|Shoe stores|1997|Reference year 1997|820|20 largest firms|18772||13259720||64.54537967||1331589||309377||116143|
+01000US|United States|1|United States|44|Retail trade|44821|Shoe stores|1997|Reference year 1997|850|50 largest firms|21133||14946085||72.754230927||1536791||357664||130086|
+01000US|United States|1|United States|44|Retail trade|448210|Shoe stores|1997|Reference year 1997|003|All firms|31399||20543252||100||2348605||542374||185803|
+01000US|United States|1|United States|44|Retail trade|448210|Shoe stores|1997|Reference year 1997|804|4 largest firms|12467||7760089||37.774394239||761971||177555||63528|
+01000US|United States|1|United States|44|Retail trade|448210|Shoe stores|1997|Reference year 1997|808|8 largest firms|14322||10088567||49.108909339||1018892||235086||88422|
+01000US|United States|1|United States|44|Retail trade|448210|Shoe stores|1997|Reference year 1997|820|20 largest firms|18772||13259720||64.54537967||1331589||309377||116143|
+01000US|United States|1|United States|44|Retail trade|448210|Shoe stores|1997|Reference year 1997|850|50 largest firms|21133||14946085||72.754230927||1536791||357664||130086|
+01000US|United States|1|United States|44|Retail trade|4482101|Men's shoe stores|1997|Reference year 1997|003|All firms|2376||1317461||100||177238||41612||9879|
+01000US|United States|1|United States|44|Retail trade|4482101|Men's shoe stores|1997|Reference year 1997|804|4 largest firms|1002||546185||41.457394185||66325||15263||3843|
+01000US|United States|1|United States|44|Retail trade|4482101|Men's shoe stores|1997|Reference year 1997|808|8 largest firms|1270||705091||53.518927695||88033||20198||5038|
+01000US|United States|1|United States|44|Retail trade|4482101|Men's shoe stores|1997|Reference year 1997|820|20 largest firms|1440||860887||65.344401087||108659||25060||6016|
+01000US|United States|1|United States|44|Retail trade|4482101|Men's shoe stores|1997|Reference year 1997|850|50 largest firms|1550||975806||74.067164037||126338||29282||6764|
+01000US|United States|1|United States|44|Retail trade|4482102|Women's shoe stores|1997|Reference year 1997|003|All firms|4466||2343324||100||325172||74833||26825|
+01000US|United States|1|United States|44|Retail trade|4482102|Women's shoe stores|1997|Reference year 1997|804|4 largest firms|2045||1162728||49.618746703||144371||33589||14500|
+01000US|United States|1|United States|44|Retail trade|4482102|Women's shoe stores|1997|Reference year 1997|808|8 largest firms|2282||1266165||54.032861013||158869||37837||15897|
+01000US|United States|1|United States|44|Retail trade|4482102|Women's shoe stores|1997|Reference year 1997|820|20 largest firms|2513||1417555||60.493341936||181300||42485||17290|
+01000US|United States|1|United States|44|Retail trade|4482102|Women's shoe stores|1997|Reference year 1997|850|50 largest firms|2635||1578798||67.374293952||208641||47859||18449|
+01000US|United States|1|United States|44|Retail trade|4482103|Children's & juveniles' shoe stores|1997|Reference year 1997|003|All firms|1047||459463||100||67030||16312||5632|
+01000US|United States|1|United States|44|Retail trade|4482103|Children's & juveniles' shoe stores|1997|Reference year 1997|804|4 largest firms|469||265736||57.836213144||32570||8323||2783|
+01000US|United States|1|United States|44|Retail trade|4482103|Children's & juveniles' shoe stores|1997|Reference year 1997|808|8 largest firms|515||280886||61.133540677||35050||8918||3025|
+01000US|United States|1|United States|44|Retail trade|4482103|Children's & juveniles' shoe stores|1997|Reference year 1997|820|20 largest firms|551||302463||65.829675077||39006||9770||3332|
+01000US|United States|1|United States|44|Retail trade|4482103|Children's & juveniles' shoe stores|1997|Reference year 1997|850|50 largest firms|604||334993||72.909679343||45250||11254||3784|
+01000US|United States|1|United States|44|Retail trade|4482104|Family shoe stores|1997|Reference year 1997|003|All firms|18233||10498695||100||1159247||268533||93308|
+01000US|United States|1|United States|44|Retail trade|4482104|Family shoe stores|1997|Reference year 1997|804|4 largest firms|8812||4827236||45.979390772||463525||106413||39321|
+01000US|United States|1|United States|44|Retail trade|4482104|Family shoe stores|1997|Reference year 1997|808|8 largest firms|10253||6083010||57.940629764||581738||133679||49118|
+01000US|United States|1|United States|44|Retail trade|4482104|Family shoe stores|1997|Reference year 1997|820|20 largest firms|12901||7580780||72.206879045||739603||172896||64128|
+01000US|United States|1|United States|44|Retail trade|4482104|Family shoe stores|1997|Reference year 1997|850|50 largest firms|13700||8260856||78.684598419||825992||192885||70356|
+01000US|United States|1|United States|44|Retail trade|4482105|Athletic footwear stores|1997|Reference year 1997|003|All firms|5277||5924309||100||619918||141084||50159|
+01000US|United States|1|United States|44|Retail trade|4482105|Athletic footwear stores|1997|Reference year 1997|804|4 largest firms|2875||3656804||61.725409664||368242||84936||28284|
+01000US|United States|1|United States|44|Retail trade|4482105|Athletic footwear stores|1997|Reference year 1997|808|8 largest firms|3586||4588606||77.45386002||456542||104013||37281|
+01000US|United States|1|United States|44|Retail trade|4482105|Athletic footwear stores|1997|Reference year 1997|820|20 largest firms|3782||4865515||82.127974756||488135||110887||39885|
+01000US|United States|1|United States|44|Retail trade|4482105|Athletic footwear stores|1997|Reference year 1997|850|50 largest firms|3949||5069314||85.568021519||511250||116121||41677|
+01000US|United States|1|United States|44|Retail trade|4483|Jewelry, luggage, & leather goods stores|1997|Reference year 1997|003|All firms|30462||19936310||100||3023712||710641||166420|
+01000US|United States|1|United States|44|Retail trade|4483|Jewelry, luggage, & leather goods stores|1997|Reference year 1997|804|4 largest firms|3160||3434590||17.227811967||504547||110854||36279|
+01000US|United States|1|United States|44|Retail trade|4483|Jewelry, luggage, & leather goods stores|1997|Reference year 1997|808|8 largest firms|4144||4464305||22.392834983||629069||142116||43305|
+01000US|United States|1|United States|44|Retail trade|4483|Jewelry, luggage, & leather goods stores|1997|Reference year 1997|820|20 largest firms|6024||5988324||30.037273698||853858||196895||53669|
+01000US|United States|1|United States|44|Retail trade|4483|Jewelry, luggage, & leather goods stores|1997|Reference year 1997|850|50 largest firms|7395||7425645||37.246837554||1055881||247710||63184|
+01000US|United States|1|United States|44|Retail trade|44831|Jewelry stores|1997|Reference year 1997|003|All firms|28336||18511350||100||2836030||666527||154877|
+01000US|United States|1|United States|44|Retail trade|44831|Jewelry stores|1997|Reference year 1997|804|4 largest firms|3160||3434590||18.553968241||504547||110854||36279|
+01000US|United States|1|United States|44|Retail trade|44831|Jewelry stores|1997|Reference year 1997|808|8 largest firms|4293||4424284||23.900385439||638067||143838||43766|
+01000US|United States|1|United States|44|Retail trade|44831|Jewelry stores|1997|Reference year 1997|820|20 largest firms|5901||5852629||31.616435322||845517||195636||53525|
+01000US|United States|1|United States|44|Retail trade|44831|Jewelry stores|1997|Reference year 1997|850|50 largest firms|6753||6919337||37.378889168||1006110||234895||60206|
+01000US|United States|1|United States|44|Retail trade|448310|Jewelry stores|1997|Reference year 1997|003|All firms|28336||18511350||100||2836030||666527||154877|
+01000US|United States|1|United States|44|Retail trade|448310|Jewelry stores|1997|Reference year 1997|804|4 largest firms|3160||3434590||18.553968241||504547||110854||36279|
+01000US|United States|1|United States|44|Retail trade|448310|Jewelry stores|1997|Reference year 1997|808|8 largest firms|4293||4424284||23.900385439||638067||143838||43766|
+01000US|United States|1|United States|44|Retail trade|448310|Jewelry stores|1997|Reference year 1997|820|20 largest firms|5901||5852629||31.616435322||845517||195636||53525|
+01000US|United States|1|United States|44|Retail trade|448310|Jewelry stores|1997|Reference year 1997|850|50 largest firms|6753||6919337||37.378889168||1006110||234895||60206|
+01000US|United States|1|United States|44|Retail trade|44832|Luggage & leather goods stores|1997|Reference year 1997|003|All firms|2126||1424960||100||187682||44114||11543|
+01000US|United States|1|United States|44|Retail trade|44832|Luggage & leather goods stores|1997|Reference year 1997|804|4 largest firms|386||493631||34.64174433||48102||11602||2239|
+01000US|United States|1|United States|44|Retail trade|44832|Luggage & leather goods stores|1997|Reference year 1997|808|8 largest firms|744||675507||47.405330676||72292||17740||3989|
+01000US|United States|1|United States|44|Retail trade|44832|Luggage & leather goods stores|1997|Reference year 1997|820|20 largest firms|1041||865187||60.716581518||99115||23798||5808|
+01000US|United States|1|United States|44|Retail trade|44832|Luggage & leather goods stores|1997|Reference year 1997|850|50 largest firms|1198||1019816||71.568044015||123182||29234||7201|
+01000US|United States|1|United States|44|Retail trade|448320|Luggage & leather goods stores|1997|Reference year 1997|003|All firms|2126||1424960||100||187682||44114||11543|
+01000US|United States|1|United States|44|Retail trade|448320|Luggage & leather goods stores|1997|Reference year 1997|804|4 largest firms|386||493631||34.64174433||48102||11602||2239|
+01000US|United States|1|United States|44|Retail trade|448320|Luggage & leather goods stores|1997|Reference year 1997|808|8 largest firms|744||675507||47.405330676||72292||17740||3989|
+01000US|United States|1|United States|44|Retail trade|448320|Luggage & leather goods stores|1997|Reference year 1997|820|20 largest firms|1041||865187||60.716581518||99115||23798||5808|
+01000US|United States|1|United States|44|Retail trade|448320|Luggage & leather goods stores|1997|Reference year 1997|850|50 largest firms|1198||1019816||71.568044015||123182||29234||7201|
+01000US|United States|1|United States|44|Retail trade|451|Sporting goods, hobby, book, & music stores|1997|Reference year 1997|003|All firms|69149||62010926||100||7113235||1679554||560839|
+01000US|United States|1|United States|44|Retail trade|451|Sporting goods, hobby, book, & music stores|1997|Reference year 1997|804|4 largest firms|4649||14179876||22.866738033||1119441||262903||89241|
+01000US|United States|1|United States|44|Retail trade|451|Sporting goods, hobby, book, & music stores|1997|Reference year 1997|808|8 largest firms|7402||19308215||31.136795151||1698708||410507||133113|
+01000US|United States|1|United States|44|Retail trade|451|Sporting goods, hobby, book, & music stores|1997|Reference year 1997|820|20 largest firms|10093||25386008||40.937959869||2220300||537119||180591|
+01000US|United States|1|United States|44|Retail trade|451|Sporting goods, hobby, book, & music stores|1997|Reference year 1997|850|50 largest firms|13797||31455169||50.725204458||2869650||704329||242583|
+01000US|United States|1|United States|44|Retail trade|4511|Sporting goods, hobby, & musical instrument stores|1997|Reference year 1997|003|All firms|46315||41415227||100||4818678||1123250||362973|
+01000US|United States|1|United States|44|Retail trade|4511|Sporting goods, hobby, & musical instrument stores|1997|Reference year 1997|804|4 largest firms|2508||10918931||26.364532543||863392||189488||64237|
+01000US|United States|1|United States|44|Retail trade|4511|Sporting goods, hobby, & musical instrument stores|1997|Reference year 1997|808|8 largest firms|3721||13435714||32.441483419||1152276||269829||86348|
+01000US|United States|1|United States|44|Retail trade|4511|Sporting goods, hobby, & musical instrument stores|1997|Reference year 1997|820|20 largest firms|5304||17248971||41.648862627||1522593||362938||125559|
+01000US|United States|1|United States|44|Retail trade|4511|Sporting goods, hobby, & musical instrument stores|1997|Reference year 1997|850|50 largest firms|6947||20439498||49.352616128||1876398||455653||153469|
+01000US|United States|1|United States|44|Retail trade|45111|Sporting goods stores|1997|Reference year 1997|003|All firms|24424||20043321||100||2387903||555806||176190|
+01000US|United States|1|United States|44|Retail trade|45111|Sporting goods stores|1997|Reference year 1997|804|4 largest firms|496||2766138||13.800796784||266276||65491||20549|
+01000US|United States|1|United States|44|Retail trade|45111|Sporting goods stores|1997|Reference year 1997|808|8 largest firms|731||4354956||21.727716679||398757||98745||33890|
+01000US|United States|1|United States|44|Retail trade|45111|Sporting goods stores|1997|Reference year 1997|820|20 largest firms|1640||6370710||31.784702745||601261||150444||51026|
+01000US|United States|1|United States|44|Retail trade|45111|Sporting goods stores|1997|Reference year 1997|850|50 largest firms|2425||7592374||37.879820415||736764||185055||61798|
+01000US|United States|1|United States|44|Retail trade|451110|Sporting goods stores|1997|Reference year 1997|003|All firms|24424||20043321||100||2387903||555806||176190|
+01000US|United States|1|United States|44|Retail trade|451110|Sporting goods stores|1997|Reference year 1997|804|4 largest firms|496||2766138||13.800796784||266276||65491||20549|
+01000US|United States|1|United States|44|Retail trade|451110|Sporting goods stores|1997|Reference year 1997|808|8 largest firms|731||4354956||21.727716679||398757||98745||33890|
+01000US|United States|1|United States|44|Retail trade|451110|Sporting goods stores|1997|Reference year 1997|820|20 largest firms|1640||6370710||31.784702745||601261||150444||51026|
+01000US|United States|1|United States|44|Retail trade|451110|Sporting goods stores|1997|Reference year 1997|850|50 largest firms|2425||7592374||37.879820415||736764||185055||61798|
+01000US|United States|1|United States|44|Retail trade|4511101|General-line sporting goods stores|1997|Reference year 1997|804|4 largest firms|488||2738585||29.40980325||255305||63563||19749|
+01000US|United States|1|United States|44|Retail trade|4511101|General-line sporting goods stores|1997|Reference year 1997|808|8 largest firms|800||4189542||44.991704083||389775||98175||32994|
+01000US|United States|1|United States|44|Retail trade|4511101|General-line sporting goods stores|1997|Reference year 1997|820|20 largest firms|1288||5689592||61.100817134||540799||136532||45374|
+01000US|United States|1|United States|44|Retail trade|4511101|General-line sporting goods stores|1997|Reference year 1997|850|50 largest firms|1505||6192705||66.503773165||605983||151204||50221|
+01000US|United States|1|United States|44|Retail trade|4511102|Specialty-line sporting goods stores|1997|Reference year 1997|003|All firms|16966||10731511||100||1382608||314039||95519|
+01000US|United States|1|United States|44|Retail trade|4511102|Specialty-line sporting goods stores|1997|Reference year 1997|804|4 largest firms|458||898517||8.372697936||83530||19698||7954|
+01000US|United States|1|United States|44|Retail trade|4511102|Specialty-line sporting goods stores|1997|Reference year 1997|808|8 largest firms|591||1171633||10.917689037||111045||26790||9472|
+01000US|United States|1|United States|44|Retail trade|4511102|Specialty-line sporting goods stores|1997|Reference year 1997|850|50 largest firms|1182||2113551||19.694812781||218320||54200||16237|
+01000US|United States|1|United States|44|Retail trade|45112|Hobby, toy, & game stores|1997|Reference year 1997|003|All firms|10824||14388277||100||1368645||305783||111757|
+01000US|United States|1|United States|44|Retail trade|45112|Hobby, toy, & game stores|1997|Reference year 1997|804|4 largest firms|2487||10120750||70.340249913||789073||168170||59422|
+01000US|United States|1|United States|44|Retail trade|45112|Hobby, toy, & game stores|1997|Reference year 1997|808|8 largest firms|2819||10678519||74.216801636||856308||190878||64589|
+01000US|United States|1|United States|44|Retail trade|45112|Hobby, toy, & game stores|1997|Reference year 1997|820|20 largest firms|3503||11458130||79.635177999||952262||212778||73886|
+01000US|United States|1|United States|44|Retail trade|45112|Hobby, toy, & game stores|1997|Reference year 1997|850|50 largest firms|3884||11863001||82.44907295||1004720||223743||77973|
+01000US|United States|1|United States|44|Retail trade|451120|Hobby, toy, & game stores|1997|Reference year 1997|003|All firms|10824||14388277||100||1368645||305783||111757|
+01000US|United States|1|United States|44|Retail trade|451120|Hobby, toy, & game stores|1997|Reference year 1997|804|4 largest firms|2487||10120750||70.340249913||789073||168170||59422|
+01000US|United States|1|United States|44|Retail trade|451120|Hobby, toy, & game stores|1997|Reference year 1997|808|8 largest firms|2819||10678519||74.216801636||856308||190878||64589|
+01000US|United States|1|United States|44|Retail trade|451120|Hobby, toy, & game stores|1997|Reference year 1997|820|20 largest firms|3503||11458130||79.635177999||952262||212778||73886|
+01000US|United States|1|United States|44|Retail trade|451120|Hobby, toy, & game stores|1997|Reference year 1997|850|50 largest firms|3884||11863001||82.44907295||1004720||223743||77973|
+01000US|United States|1|United States|44|Retail trade|45113|Sewing, needlework, & piece goods stores|1997|Reference year 1997|003|All firms|6590||3182916||100||494767||130550||45351|
+01000US|United States|1|United States|44|Retail trade|45113|Sewing, needlework, & piece goods stores|1997|Reference year 1997|804|4 largest firms|1818||1729928||54.350413269||243407||73545||23318|
+01000US|United States|1|United States|44|Retail trade|45113|Sewing, needlework, & piece goods stores|1997|Reference year 1997|808|8 largest firms|1918||1819640||57.168960789||261733||77761||24834|
+01000US|United States|1|United States|44|Retail trade|45113|Sewing, needlework, & piece goods stores|1997|Reference year 1997|820|20 largest firms|2143||1931035||60.66873898||278203||81433||25935|
+01000US|United States|1|United States|44|Retail trade|45113|Sewing, needlework, & piece goods stores|1997|Reference year 1997|850|50 largest firms|2274||2083750||65.466697833||309756||88069||27685|
+01000US|United States|1|United States|44|Retail trade|451130|Sewing, needlework, & piece goods stores|1997|Reference year 1997|003|All firms|6590||3182916||100||494767||130550||45351|
+01000US|United States|1|United States|44|Retail trade|451130|Sewing, needlework, & piece goods stores|1997|Reference year 1997|804|4 largest firms|1818||1729928||54.350413269||243407||73545||23318|
+01000US|United States|1|United States|44|Retail trade|451130|Sewing, needlework, & piece goods stores|1997|Reference year 1997|808|8 largest firms|1918||1819640||57.168960789||261733||77761||24834|
+01000US|United States|1|United States|44|Retail trade|451130|Sewing, needlework, & piece goods stores|1997|Reference year 1997|820|20 largest firms|2143||1931035||60.66873898||278203||81433||25935|
+01000US|United States|1|United States|44|Retail trade|451130|Sewing, needlework, & piece goods stores|1997|Reference year 1997|850|50 largest firms|2274||2083750||65.466697833||309756||88069||27685|
+01000US|United States|1|United States|44|Retail trade|45114|Musical instrument & supplies stores|1997|Reference year 1997|003|All firms|4477||3800713||100||567363||131111||29675|
+01000US|United States|1|United States|44|Retail trade|45114|Musical instrument & supplies stores|1997|Reference year 1997|804|4 largest firms|92||558177||14.686112843||55541||12230||3582|
+01000US|United States|1|United States|44|Retail trade|45114|Musical instrument & supplies stores|1997|Reference year 1997|808|8 largest firms|119||700688||18.435698775||74078||16393||4060|
+01000US|United States|1|United States|44|Retail trade|45114|Musical instrument & supplies stores|1997|Reference year 1997|820|20 largest firms|217||895033||23.549081449||104926||23585||5206|
+01000US|United States|1|United States|44|Retail trade|45114|Musical instrument & supplies stores|1997|Reference year 1997|850|50 largest firms|323||1130784||29.75189129||150537||33968||7010|
+01000US|United States|1|United States|44|Retail trade|451140|Musical instrument & supplies stores|1997|Reference year 1997|003|All firms|4477||3800713||100||567363||131111||29675|
+01000US|United States|1|United States|44|Retail trade|451140|Musical instrument & supplies stores|1997|Reference year 1997|804|4 largest firms|92||558177||14.686112843||55541||12230||3582|
+01000US|United States|1|United States|44|Retail trade|451140|Musical instrument & supplies stores|1997|Reference year 1997|808|8 largest firms|119||700688||18.435698775||74078||16393||4060|
+01000US|United States|1|United States|44|Retail trade|451140|Musical instrument & supplies stores|1997|Reference year 1997|820|20 largest firms|217||895033||23.549081449||104926||23585||5206|
+01000US|United States|1|United States|44|Retail trade|451140|Musical instrument & supplies stores|1997|Reference year 1997|850|50 largest firms|323||1130784||29.75189129||150537||33968||7010|
+01000US|United States|1|United States|44|Retail trade|4512|Book, periodical, & music stores|1997|Reference year 1997|003|All firms|22834||20595699||100||2294557||556304||197866|
+01000US|United States|1|United States|44|Retail trade|4512|Book, periodical, & music stores|1997|Reference year 1997|804|4 largest firms|4487||8128469||39.466827516||756601||189646||63280|
+01000US|United States|1|United States|44|Retail trade|4512|Book, periodical, & music stores|1997|Reference year 1997|808|8 largest firms|6008||10261200||49.822052653||933437||233163||79813|
+01000US|United States|1|United States|44|Retail trade|4512|Book, periodical, & music stores|1997|Reference year 1997|820|20 largest firms|7743||12621692||61.283144602||1179572||291936||104526|
+01000US|United States|1|United States|44|Retail trade|4512|Book, periodical, & music stores|1997|Reference year 1997|850|50 largest firms|8540||13812914||67.066983257||1317291||327496||116011|
+01000US|United States|1|United States|44|Retail trade|45121|Book stores & news dealers|1997|Reference year 1997|003|All firms|14676||13228864||100||1566577||376702||131243|
+01000US|United States|1|United States|44|Retail trade|45121|Book stores & news dealers|1997|Reference year 1997|804|4 largest firms|3232||6689857||50.570154777||654443||160513||51345|
+01000US|United States|1|United States|44|Retail trade|45121|Book stores & news dealers|1997|Reference year 1997|808|8 largest firms|3840||7399011||55.930811595||741935||180245||59584|
+01000US|United States|1|United States|44|Retail trade|45121|Book stores & news dealers|1997|Reference year 1997|820|20 largest firms|4262||8048983||60.844098178||819644||200254||66649|
+01000US|United States|1|United States|44|Retail trade|45121|Book stores & news dealers|1997|Reference year 1997|850|50 largest firms|4507||8661795||65.476483846||898863||220372||73047|
+01000US|United States|1|United States|44|Retail trade|451211|Book stores|1997|Reference year 1997|003|All firms|12363||12375058||100||1447308||349597||121473|
+01000US|United States|1|United States|44|Retail trade|451211|Book stores|1997|Reference year 1997|804|4 largest firms|3232||6689857||54.059197137||654443||160513||51345|
+01000US|United States|1|United States|44|Retail trade|451211|Book stores|1997|Reference year 1997|808|8 largest firms|3840||7399011||59.789707652||741935||180245||59584|
+01000US|United States|1|United States|44|Retail trade|451211|Book stores|1997|Reference year 1997|820|20 largest firms|4244||8044662||65.007065017||815661||199430||66372|
+01000US|United States|1|United States|44|Retail trade|451211|Book stores|1997|Reference year 1997|850|50 largest firms|4480||8613571||69.604287915||888939||217928||72296|
+01000US|United States|1|United States|44|Retail trade|4512111|Book stores, general|1997|Reference year 1997|003|All firms|7693||8167174||100||964743||232958||78897|
+01000US|United States|1|United States|44|Retail trade|4512111|Book stores, general|1997|Reference year 1997|804|4 largest firms|2559||5534986||67.771128667||570697||140081||45214|
+01000US|United States|1|United States|44|Retail trade|4512111|Book stores, general|1997|Reference year 1997|808|8 largest firms|2858||5895544||72.185850332||618549||150611||48858|
+01000US|United States|1|United States|44|Retail trade|4512111|Book stores, general|1997|Reference year 1997|820|20 largest firms|3023||6168127||75.523394016||654284||159873||51571|
+01000US|United States|1|United States|44|Retail trade|4512111|Book stores, general|1997|Reference year 1997|850|50 largest firms|3257||6455727||79.04480791||698340||170618||54474|
+01000US|United States|1|United States|44|Retail trade|4512112|Specialty book stores|1997|Reference year 1997|003|All firms|2980||1418656||100||199287||47471||18517|
+01000US|United States|1|United States|44|Retail trade|4512112|Specialty book stores|1997|Reference year 1997|804|4 largest firms|308||278056||19.599959398||31904||8318||3364|
+01000US|United States|1|United States|44|Retail trade|4512112|Specialty book stores|1997|Reference year 1997|808|8 largest firms|379||351721||24.792550132||41122||10540||3957|
+01000US|United States|1|United States|44|Retail trade|4512112|Specialty book stores|1997|Reference year 1997|820|20 largest firms|463||460969||32.493359912||54969||14008||5101|
+01000US|United States|1|United States|44|Retail trade|4512112|Specialty book stores|1997|Reference year 1997|850|50 largest firms|575||600939||42.359740487||77632||19480||6514|
+01000US|United States|1|United States|44|Retail trade|4512113|College book stores|1997|Reference year 1997|003|All firms|1690||2789228||100||283278||69168||24059|
+01000US|United States|1|United States|44|Retail trade|4512113|College book stores|1997|Reference year 1997|804|4 largest firms|920||1620748||58.10740463||132694||31976||11783|
+01000US|United States|1|United States|44|Retail trade|4512113|College book stores|1997|Reference year 1997|808|8 largest firms|969||1772384||63.543890998||149681||36400||13003|
+01000US|United States|1|United States|44|Retail trade|4512113|College book stores|1997|Reference year 1997|820|20 largest firms|1024||1992549||71.43729376||180611||44191||15486|
+01000US|United States|1|United States|44|Retail trade|4512113|College book stores|1997|Reference year 1997|850|50 largest firms|1092||2262483||81.115025376||216948||52980||18393|
+01000US|United States|1|United States|44|Retail trade|451212|News dealers & newsstands|1997|Reference year 1997|003|All firms|2313||853806||100||119269||27105||9770|
+01000US|United States|1|United States|44|Retail trade|451212|News dealers & newsstands|1997|Reference year 1997|804|4 largest firms|70||85489||10.012696093||14119||3339||1022|
+01000US|United States|1|United States|44|Retail trade|451212|News dealers & newsstands|1997|Reference year 1997|808|8 largest firms|76||116474||13.64174063||21821||4643||1318|
+01000US|United States|1|United States|44|Retail trade|451212|News dealers & newsstands|1997|Reference year 1997|820|20 largest firms|125||181403||21.246395551||30823||6755||2013|
+01000US|United States|1|United States|44|Retail trade|451212|News dealers & newsstands|1997|Reference year 1997|850|50 largest firms|191||259445||30.386879455||39811||8723||2621|
+01000US|United States|1|United States|44|Retail trade|45122|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|003|All firms|8158||7366835||100||727980||179602||66623|
+01000US|United States|1|United States|44|Retail trade|45122|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|804|4 largest firms|2628||3448174||46.80672229||277180||72181||27655|
+01000US|United States|1|United States|44|Retail trade|45122|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|808|8 largest firms|3493||4722426||64.1038655||390993||99916||39894|
+01000US|United States|1|United States|44|Retail trade|45122|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|820|20 largest firms|4141||5439996||73.844412153||455545||116435||45942|
+01000US|United States|1|United States|44|Retail trade|45122|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|850|50 largest firms|4399||5790897||78.6076653||497146||125940||48622|
+01000US|United States|1|United States|44|Retail trade|451220|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|003|All firms|8158||7366835||100||727980||179602||66623|
+01000US|United States|1|United States|44|Retail trade|451220|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|804|4 largest firms|2628||3448174||46.80672229||277180||72181||27655|
+01000US|United States|1|United States|44|Retail trade|451220|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|808|8 largest firms|3493||4722426||64.1038655||390993||99916||39894|
+01000US|United States|1|United States|44|Retail trade|451220|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|820|20 largest firms|4141||5439996||73.844412153||455545||116435||45942|
+01000US|United States|1|United States|44|Retail trade|451220|Prerecorded tape, compact disc, & record stores|1997|Reference year 1997|850|50 largest firms|4399||5790897||78.6076653||497146||125940||48622|
+01000US|United States|1|United States|44|Retail trade|452|General merchandise stores|1997|Reference year 1997|003|All firms|36171||330444460|r|100||30870965|r|7349191|r|2507540|
+01000US|United States|1|United States|44|Retail trade|452|General merchandise stores|1997|Reference year 1997|804|4 largest firms|7028||184849500||55.939657757||16075121||3782633||1402294|
+01000US|United States|1|United States|44|Retail trade|452|General merchandise stores|1997|Reference year 1997|808|8 largest firms|8790||244725843||74.059599305||21912123||5180596||1766645|
+01000US|United States|1|United States|44|Retail trade|452|General merchandise stores|1997|Reference year 1997|820|20 largest firms|15200||290509313||87.914717348||26470546||6287796||2141495|
+01000US|United States|1|United States|44|Retail trade|452|General merchandise stores|1997|Reference year 1997|850|50 largest firms|22152||316440259||95.762010657||29186632||6936774||2363884|
+01000US|United States|1|United States|44|Retail trade|4521|Department stores (excl leased depts)|1997|Reference year 1997|003|All firms|10366||220108157|r|100||22083291|r|5266253|r|1795577|
+01000US|United States|1|United States|44|Retail trade|4521|Department stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|5955||136742735||62.125246453||12549812||2978454||1114794|
+01000US|United States|1|United States|44|Retail trade|4521|Department stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|7730||185404959||84.233570226||18250280||4331822||1488887|
+01000US|United States|1|United States|44|Retail trade|4521|Department stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|9651||211189959||95.948265561||21034989||5017358||1714239|
+01000US|United States|1|United States|44|Retail trade|4521|Department stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|10291||219674696||99.803069088||22012665||5248852||1790359|
+01000US|United States|1|United States|44|Retail trade|45211|Department stores (excl leased depts)|1997|Reference year 1997|003|All firms|10366||220108157|r|100||22083291|r|5266253|r|1795577|
+01000US|United States|1|United States|44|Retail trade|45211|Department stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|5955||136742735||62.125246453||12549812||2978454||1114794|
+01000US|United States|1|United States|44|Retail trade|45211|Department stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|7730||185404959||84.233570226||18250280||4331822||1488887|
+01000US|United States|1|United States|44|Retail trade|45211|Department stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|9651||211189959||95.948265561||21034989||5017358||1714239|
+01000US|United States|1|United States|44|Retail trade|45211|Department stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|10291||219674696||99.803069088||22012665||5248852||1790359|
+01000US|United States|1|United States|44|Retail trade|452110|Department stores (excl leased depts)|1997|Reference year 1997|003|All firms|10366||220108157|r|100||22083291|r|5266253|r|1795577|
+01000US|United States|1|United States|44|Retail trade|452110|Department stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|5955||136742735||62.125246453||12549812||2978454||1114794|
+01000US|United States|1|United States|44|Retail trade|452110|Department stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|7730||185404959||84.233570226||18250280||4331822||1488887|
+01000US|United States|1|United States|44|Retail trade|452110|Department stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|9651||211189959||95.948265561||21034989||5017358||1714239|
+01000US|United States|1|United States|44|Retail trade|452110|Department stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|10291||219674696||99.803069088||22012665||5248852||1790359|
+01000US|United States|1|United States|44|Retail trade|4521101|Conventional department stores (excl leased depts)|1997|Reference year 1997|003|All firms|2100||52453180||100||6060867||1463137||414940|
+01000US|United States|1|United States|44|Retail trade|4521101|Conventional department stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|1366||39637231||75.566878881||4335929||1036899||289089|
+01000US|United States|1|United States|44|Retail trade|4521101|Conventional department stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|1788||47366606||90.302639421||5422909||1315171||367968|
+01000US|United States|1|United States|44|Retail trade|4521101|Conventional department stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|2058||52124440||99.373269647||5996792||1448504||410636|
+01000US|United States|1|United States|44|Retail trade|4521101|Conventional department stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|2100||52453180||100||6060867||1463137||414940|
+01000US|United States|1|United States|44|Retail trade|4521102|Discount or mass merchandising dept stores (excl leased depts)|1997|Reference year 1997|003|All firms|6378||126122830|r|100||11329683|r|2679615|r|1031941|
+01000US|United States|1|United States|44|Retail trade|4521102|Discount or mass merchandising dept stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|4978||110919034||87.945246709||9857883||2323846||898105|
+01000US|United States|1|United States|44|Retail trade|4521102|Discount or mass merchandising dept stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|5762||119687949||94.8979253||10688761||2523423||976638|
+01000US|United States|1|United States|44|Retail trade|4521102|Discount or mass merchandising dept stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|6305||125616751||99.598741164||11266255||2665024||1027157|
+01000US|United States|1|United States|44|Retail trade|4521102|Discount or mass merchandising dept stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|6366||126090199||99.974127602||11322307||2678098||1031462|
+01000US|United States|1|United States|44|Retail trade|4521103|National chain department stores (excl leased depts)|1997|Reference year 1997|003|All firms|1888||41532147||100||4692741||1123501||348696|
+01000US|United States|1|United States|44|Retail trade|4521103|National chain department stores (excl leased depts)|1997|Reference year 1997|804|4 largest firms|1888||41532147||100||4692741||1123501||348696|
+01000US|United States|1|United States|44|Retail trade|4521103|National chain department stores (excl leased depts)|1997|Reference year 1997|808|8 largest firms|1888||41532147||100||4692741||1123501||348696|
+01000US|United States|1|United States|44|Retail trade|4521103|National chain department stores (excl leased depts)|1997|Reference year 1997|820|20 largest firms|1888||41532147||100||4692741||1123501||348696|
+01000US|United States|1|United States|44|Retail trade|4521103|National chain department stores (excl leased depts)|1997|Reference year 1997|850|50 largest firms|1888||41532147||100||4692741||1123501||348696|
+01000US|United States|1|United States|44|Retail trade|4529|Other general merchandise stores|1997|Reference year 1997|003|All firms|25805||110336303||100||8787674||2082938||711963|
+01000US|United States|1|United States|44|Retail trade|4529|Other general merchandise stores|1997|Reference year 1997|804|4 largest firms|1350||73501450||66.615835406||5226781||1223511||373169|
+01000US|United States|1|United States|44|Retail trade|4529|Other general merchandise stores|1997|Reference year 1997|808|8 largest firms|5149||87029021||78.876143784||6257120||1476127||493122|
+01000US|United States|1|United States|44|Retail trade|4529|Other general merchandise stores|1997|Reference year 1997|820|20 largest firms|11119||96875828||87.80050207||7246472||1700336||576437|
+01000US|United States|1|United States|44|Retail trade|4529|Other general merchandise stores|1997|Reference year 1997|850|50 largest firms|13739||102009184||92.452965367||7740962||1839660||625043|
+01000US|United States|1|United States|44|Retail trade|45291|Warehouse clubs & superstores|1997|Reference year 1997|003|All firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|45291|Warehouse clubs & superstores|1997|Reference year 1997|804|4 largest firms|1293||73401109||89.602323795||5214895||1218361||371700|
+01000US|United States|1|United States|44|Retail trade|45291|Warehouse clubs & superstores|1997|Reference year 1997|808|8 largest firms|1498||81433222||99.407298128||5809666||1356341||424553|
+01000US|United States|1|United States|44|Retail trade|45291|Warehouse clubs & superstores|1997|Reference year 1997|820|20 largest firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|45291|Warehouse clubs & superstores|1997|Reference year 1997|850|50 largest firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|452910|Warehouse clubs & superstores|1997|Reference year 1997|003|All firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|452910|Warehouse clubs & superstores|1997|Reference year 1997|804|4 largest firms|1293||73401109||89.602323795||5214895||1218361||371700|
+01000US|United States|1|United States|44|Retail trade|452910|Warehouse clubs & superstores|1997|Reference year 1997|808|8 largest firms|1498||81433222||99.407298128||5809666||1356341||424553|
+01000US|United States|1|United States|44|Retail trade|452910|Warehouse clubs & superstores|1997|Reference year 1997|820|20 largest firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|452910|Warehouse clubs & superstores|1997|Reference year 1997|850|50 largest firms|1530||81918756||100||5862565||1369489||428357|
+01000US|United States|1|United States|44|Retail trade|45299|All other general merchandise stores|1997|Reference year 1997|003|All firms|24275||28417547||100||2925109||713449||283606|
+01000US|United States|1|United States|44|Retail trade|45299|All other general merchandise stores|1997|Reference year 1997|804|4 largest firms|7658||10798765||38.000341831||979323||228317||114467|
+01000US|United States|1|United States|44|Retail trade|45299|All other general merchandise stores|1997|Reference year 1997|808|8 largest firms|9144||13734330||48.330455827||1258378||294207||135627|
+01000US|United States|1|United States|44|Retail trade|45299|All other general merchandise stores|1997|Reference year 1997|820|20 largest firms|11205||17446161||61.392213058||1612226||381026||167559|
+01000US|United States|1|United States|44|Retail trade|45299|All other general merchandise stores|1997|Reference year 1997|850|50 largest firms|12465||20735110||72.965868588||1942688||485022||202371|
+01000US|United States|1|United States|44|Retail trade|452990|All other general merchandise stores|1997|Reference year 1997|003|All firms|24275||28417547||100||2925109||713449||283606|
+01000US|United States|1|United States|44|Retail trade|452990|All other general merchandise stores|1997|Reference year 1997|804|4 largest firms|7658||10798765||38.000341831||979323||228317||114467|
+01000US|United States|1|United States|44|Retail trade|452990|All other general merchandise stores|1997|Reference year 1997|808|8 largest firms|9144||13734330||48.330455827||1258378||294207||135627|
+01000US|United States|1|United States|44|Retail trade|452990|All other general merchandise stores|1997|Reference year 1997|820|20 largest firms|11205||17446161||61.392213058||1612226||381026||167559|
+01000US|United States|1|United States|44|Retail trade|452990|All other general merchandise stores|1997|Reference year 1997|850|50 largest firms|12465||20735110||72.965868588||1942688||485022||202371|
+01000US|United States|1|United States|44|Retail trade|4529901|Variety stores|1997|Reference year 1997|003|All firms|14065||0|D|0|D|0|D|0|D|0|m
+01000US|United States|1|United States|44|Retail trade|4529901|Variety stores|1997|Reference year 1997|804|4 largest firms|7341||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529901|Variety stores|1997|Reference year 1997|808|8 largest firms|9510||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529901|Variety stores|1997|Reference year 1997|820|20 largest firms|10085||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529901|Variety stores|1997|Reference year 1997|850|50 largest firms|10375||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529902|Catalog showrooms|1997|Reference year 1997|003|All firms|671||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529902|Catalog showrooms|1997|Reference year 1997|804|4 largest firms|625||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529902|Catalog showrooms|1997|Reference year 1997|808|8 largest firms|649||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529902|Catalog showrooms|1997|Reference year 1997|820|20 largest firms|662||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529902|Catalog showrooms|1997|Reference year 1997|850|50 largest firms|671||0|D|0|D|0|D|0|D|0|l
+01000US|United States|1|United States|44|Retail trade|4529903|Miscellaneous general merchandise stores|1997|Reference year 1997|003|All firms|9539||13437528||100||1419918||338491||112045|
+01000US|United States|1|United States|44|Retail trade|4529903|Miscellaneous general merchandise stores|1997|Reference year 1997|804|4 largest firms|587||2698209||20.079653043||205377||48375||17835|
+01000US|United States|1|United States|44|Retail trade|4529903|Miscellaneous general merchandise stores|1997|Reference year 1997|808|8 largest firms|1103||4150259||30.885584015||369894||91795||33361|
+01000US|United States|1|United States|44|Retail trade|4529903|Miscellaneous general merchandise stores|1997|Reference year 1997|820|20 largest firms|1605||6367299||47.384451962||540789||133232||46028|
+01000US|United States|1|United States|44|Retail trade|4529903|Miscellaneous general merchandise stores|1997|Reference year 1997|850|50 largest firms|2121||8096913||60.255971188||733344||179181||60119|
+01000US|United States|1|United States|44|Retail trade|453|Miscellaneous store retailers|1997|Reference year 1997|003|All firms|129838||78109161||100||10165424||2300907||752986|
+01000US|United States|1|United States|44|Retail trade|453|Miscellaneous store retailers|1997|Reference year 1997|804|4 largest firms|2236||14167301||18.137822528||1023884||255050||73078|
+01000US|United States|1|United States|44|Retail trade|453|Miscellaneous store retailers|1997|Reference year 1997|808|8 largest firms|3717||17270835||22.111151597||1356333||326431||95900|
+01000US|United States|1|United States|44|Retail trade|453|Miscellaneous store retailers|1997|Reference year 1997|820|20 largest firms|8401||20179467||25.834955518||1775187||419193||127738|
+01000US|United States|1|United States|44|Retail trade|453|Miscellaneous store retailers|1997|Reference year 1997|850|50 largest firms|10867||23099023||29.572744995||2140646||507595||158045|
+01000US|United States|1|United States|44|Retail trade|4531|Florists|1997|Reference year 1997|003|All firms|26200||6555088||100||1396389||331479||125195|
+01000US|United States|1|United States|44|Retail trade|4531|Florists|1997|Reference year 1997|804|4 largest firms|135||149520||2.2809762432||19935||4669||1302|
+01000US|United States|1|United States|44|Retail trade|4531|Florists|1997|Reference year 1997|808|8 largest firms|239||203250||3.1006448731||31483||7674||2421|
+01000US|United States|1|United States|44|Retail trade|4531|Florists|1997|Reference year 1997|820|20 largest firms|304||294810||4.4974224602||55268||13380||4008|
+01000US|United States|1|United States|44|Retail trade|4531|Florists|1997|Reference year 1997|850|50 largest firms|428||445335||6.7937303054||98171||23369||6655|
+01000US|United States|1|United States|44|Retail trade|45311|Florists|1997|Reference year 1997|003|All firms|26200||6555088||100||1396389||331479||125195|
+01000US|United States|1|United States|44|Retail trade|45311|Florists|1997|Reference year 1997|804|4 largest firms|135||149520||2.2809762432||19935||4669||1302|
+01000US|United States|1|United States|44|Retail trade|45311|Florists|1997|Reference year 1997|808|8 largest firms|239||203250||3.1006448731||31483||7674||2421|
+01000US|United States|1|United States|44|Retail trade|45311|Florists|1997|Reference year 1997|820|20 largest firms|304||294810||4.4974224602||55268||13380||4008|
+01000US|United States|1|United States|44|Retail trade|45311|Florists|1997|Reference year 1997|850|50 largest firms|428||445335||6.7937303054||98171||23369||6655|
+01000US|United States|1|United States|44|Retail trade|453110|Florists|1997|Reference year 1997|003|All firms|26200||6555088||100||1396389||331479||125195|
+01000US|United States|1|United States|44|Retail trade|453110|Florists|1997|Reference year 1997|804|4 largest firms|135||149520||2.2809762432||19935||4669||1302|
+01000US|United States|1|United States|44|Retail trade|453110|Florists|1997|Reference year 1997|808|8 largest firms|239||203250||3.1006448731||31483||7674||2421|
+01000US|United States|1|United States|44|Retail trade|453110|Florists|1997|Reference year 1997|820|20 largest firms|304||294810||4.4974224602||55268||13380||4008|
+01000US|United States|1|United States|44|Retail trade|453110|Florists|1997|Reference year 1997|850|50 largest firms|428||445335||6.7937303054||98171||23369||6655|
+01000US|United States|1|United States|44|Retail trade|4532|Office supplies, stationery, & gift stores|1997|Reference year 1997|003|All firms|44615||31573035||100||3637361||840707||306492|
+01000US|United States|1|United States|44|Retail trade|4532|Office supplies, stationery, & gift stores|1997|Reference year 1997|804|4 largest firms|2300||13597559||43.067000052||981876||243712||73587|
+01000US|United States|1|United States|44|Retail trade|4532|Office supplies, stationery, & gift stores|1997|Reference year 1997|808|8 largest firms|4722||14642353||46.376133938||1128134||276071||88749|
+01000US|United States|1|United States|44|Retail trade|4532|Office supplies, stationery, & gift stores|1997|Reference year 1997|820|20 largest firms|6522||16229656||51.403534693||1342693||327748||109549|
+01000US|United States|1|United States|44|Retail trade|4532|Office supplies, stationery, & gift stores|1997|Reference year 1997|850|50 largest firms|7169||17231476||54.576558763||1458108||354088||117321|
+01000US|United States|1|United States|44|Retail trade|45321|Office supplies & stationery stores|1997|Reference year 1997|003|All firms|7330||17075739||100||1580695||387888||98121|
+01000US|United States|1|United States|44|Retail trade|45321|Office supplies & stationery stores|1997|Reference year 1997|804|4 largest firms|1932||12915958||75.639232949||914676||229035||62126|
+01000US|United States|1|United States|44|Retail trade|45321|Office supplies & stationery stores|1997|Reference year 1997|808|8 largest firms|2107||13303218||77.907128939||963757||240667||63871|
+01000US|United States|1|United States|44|Retail trade|45321|Office supplies & stationery stores|1997|Reference year 1997|820|20 largest firms|2228||13630714||79.825031291||1000030||248890||65634|
+01000US|United States|1|United States|44|Retail trade|45321|Office supplies & stationery stores|1997|Reference year 1997|850|50 largest firms|2301||13995408||81.960774875||1055989||262631||67366|
+01000US|United States|1|United States|44|Retail trade|453210|Office supplies & stationery stores|1997|Reference year 1997|003|All firms|7330||17075739||100||1580695||387888||98121|
+01000US|United States|1|United States|44|Retail trade|453210|Office supplies & stationery stores|1997|Reference year 1997|804|4 largest firms|1932||12915958||75.639232949||914676||229035||62126|
+01000US|United States|1|United States|44|Retail trade|453210|Office supplies & stationery stores|1997|Reference year 1997|808|8 largest firms|2107||13303218||77.907128939||963757||240667||63871|
+01000US|United States|1|United States|44|Retail trade|453210|Office supplies & stationery stores|1997|Reference year 1997|820|20 largest firms|2228||13630714||79.825031291||1000030||248890||65634|
+01000US|United States|1|United States|44|Retail trade|453210|Office supplies & stationery stores|1997|Reference year 1997|850|50 largest firms|2301||13995408||81.960774875||1055989||262631||67366|
+01000US|United States|1|United States|44|Retail trade|4532101|Stationery stores|1997|Reference year 1997|003|All firms|1202||512924||100||75050||17534||6156|
+01000US|United States|1|United States|44|Retail trade|4532101|Stationery stores|1997|Reference year 1997|804|4 largest firms|52||70251||13.696181111||8081||1707||440|
+01000US|United States|1|United States|44|Retail trade|4532101|Stationery stores|1997|Reference year 1997|808|8 largest firms|81||89339||17.41759013||10214||2301||717|
+01000US|United States|1|United States|44|Retail trade|4532101|Stationery stores|1997|Reference year 1997|820|20 largest firms|111||129329||25.214066801||16555||3903||1172|
+01000US|United States|1|United States|44|Retail trade|4532101|Stationery stores|1997|Reference year 1997|850|50 largest firms|153||183700||35.81427268||26003||6138||1719|
+01000US|United States|1|United States|44|Retail trade|4532102|Office supplies stores|1997|Reference year 1997|003|All firms|6128||16562815||100||1505645||370354||91965|
+01000US|United States|1|United States|44|Retail trade|4532102|Office supplies stores|1997|Reference year 1997|804|4 largest firms|1932||12915958||77.981659519||914676||229035||62126|
+01000US|United States|1|United States|44|Retail trade|4532102|Office supplies stores|1997|Reference year 1997|808|8 largest firms|2068||13253582||80.020105278||959556||239818||63669|
+01000US|United States|1|United States|44|Retail trade|4532102|Office supplies stores|1997|Reference year 1997|820|20 largest firms|2188||13580948||81.996617121||995813||248025||65427|
+01000US|United States|1|United States|44|Retail trade|4532102|Office supplies stores|1997|Reference year 1997|850|50 largest firms|2260||13944766||84.193212325||1051681||261746||67148|
+01000US|United States|1|United States|44|Retail trade|45322|Gift, novelty, & souvenir stores|1997|Reference year 1997|003|All firms|37285||14497296||100||2056666||452819||208371|
+01000US|United States|1|United States|44|Retail trade|45322|Gift, novelty, & souvenir stores|1997|Reference year 1997|804|4 largest firms|2560||1709789||11.793847625||212868||47561||24857|
+01000US|United States|1|United States|44|Retail trade|45322|Gift, novelty, & souvenir stores|1997|Reference year 1997|808|8 largest firms|3447||2424687||16.725098253||315297||70730||37375|
+01000US|United States|1|United States|44|Retail trade|45322|Gift, novelty, & souvenir stores|1997|Reference year 1997|820|20 largest firms|4688||3323848||22.927365213||421012||97147||48367|
+01000US|United States|1|United States|44|Retail trade|45322|Gift, novelty, & souvenir stores|1997|Reference year 1997|850|50 largest firms|5184||3925504||27.077490865||502331||115419||54939|
+01000US|United States|1|United States|44|Retail trade|453220|Gift, novelty, & souvenir stores|1997|Reference year 1997|003|All firms|37285||14497296||100||2056666||452819||208371|
+01000US|United States|1|United States|44|Retail trade|453220|Gift, novelty, & souvenir stores|1997|Reference year 1997|804|4 largest firms|2560||1709789||11.793847625||212868||47561||24857|
+01000US|United States|1|United States|44|Retail trade|453220|Gift, novelty, & souvenir stores|1997|Reference year 1997|808|8 largest firms|3447||2424687||16.725098253||315297||70730||37375|
+01000US|United States|1|United States|44|Retail trade|453220|Gift, novelty, & souvenir stores|1997|Reference year 1997|820|20 largest firms|4688||3323848||22.927365213||421012||97147||48367|
+01000US|United States|1|United States|44|Retail trade|453220|Gift, novelty, & souvenir stores|1997|Reference year 1997|850|50 largest firms|5184||3925504||27.077490865||502331||115419||54939|
+01000US|United States|1|United States|44|Retail trade|4533|Used merchandise stores|1997|Reference year 1997|003|All firms|17990||6043642||100||1203591||271689||97965|
+01000US|United States|1|United States|44|Retail trade|4533|Used merchandise stores|1997|Reference year 1997|804|4 largest firms|1314||583180||9.6494795688||179459||39978||13705|
+01000US|United States|1|United States|44|Retail trade|4533|Used merchandise stores|1997|Reference year 1997|808|8 largest firms|1374||688918||11.399053749||210444||47411||15963|
+01000US|United States|1|United States|44|Retail trade|4533|Used merchandise stores|1997|Reference year 1997|820|20 largest firms|1471||864225||14.299738469||255095||56647||18747|
+01000US|United States|1|United States|44|Retail trade|4533|Used merchandise stores|1997|Reference year 1997|850|50 largest firms|1734||1156013||19.127754424||316047||70916||23594|
+01000US|United States|1|United States|44|Retail trade|45331|Used merchandise stores|1997|Reference year 1997|003|All firms|17990||6043642||100||1203591||271689||97965|
+01000US|United States|1|United States|44|Retail trade|45331|Used merchandise stores|1997|Reference year 1997|804|4 largest firms|1314||583180||9.6494795688||179459||39978||13705|
+01000US|United States|1|United States|44|Retail trade|45331|Used merchandise stores|1997|Reference year 1997|820|20 largest firms|1471||864225||14.299738469||255095||56647||18747|
+01000US|United States|1|United States|44|Retail trade|45331|Used merchandise stores|1997|Reference year 1997|850|50 largest firms|1734||1156013||19.127754424||316047||70916||23594|
+01000US|United States|1|United States|44|Retail trade|453310|Used merchandise stores|1997|Reference year 1997|003|All firms|17990||6043642||100||1203591||271689||97965|
+01000US|United States|1|United States|44|Retail trade|453310|Used merchandise stores|1997|Reference year 1997|804|4 largest firms|1314||583180||9.6494795688||179459||39978||13705|
+01000US|United States|1|United States|44|Retail trade|453310|Used merchandise stores|1997|Reference year 1997|808|8 largest firms|1374||688918||11.399053749||210444||47411||15963|
+01000US|United States|1|United States|44|Retail trade|453310|Used merchandise stores|1997|Reference year 1997|820|20 largest firms|1471||864225||14.299738469||255095||56647||18747|
+01000US|United States|1|United States|44|Retail trade|453310|Used merchandise stores|1997|Reference year 1997|850|50 largest firms|1734||1156013||19.127754424||316047||70916||23594|
+01000US|United States|1|United States|44|Retail trade|4539|Other miscellaneous store retailers|1997|Reference year 1997|003|All firms|41033||33937396||100||3928083||857032||223334|
+01000US|United States|1|United States|44|Retail trade|4539|Other miscellaneous store retailers|1997|Reference year 1997|804|4 largest firms|1417||3673276||10.823682524||374457||82719||22313|
+01000US|United States|1|United States|44|Retail trade|4539|Other miscellaneous store retailers|1997|Reference year 1997|808|8 largest firms|2201||4607646||13.576899064||440478||96643||24814|
+01000US|United States|1|United States|44|Retail trade|4539|Other miscellaneous store retailers|1997|Reference year 1997|820|20 largest firms|2793||5744700||16.927344691||570232||127583||31908|
+01000US|United States|1|United States|44|Retail trade|4539|Other miscellaneous store retailers|1997|Reference year 1997|850|50 largest firms|3305||7189846||21.18561483||716654||158010||38173|
+01000US|United States|1|United States|44|Retail trade|45391|Pet & pet supplies stores|1997|Reference year 1997|003|All firms|8318||5492749||100||709075||169884||61192|
+01000US|United States|1|United States|44|Retail trade|45391|Pet & pet supplies stores|1997|Reference year 1997|804|4 largest firms|974||2353798||42.852822876||246511||59285||20401|
+01000US|United States|1|United States|44|Retail trade|45391|Pet & pet supplies stores|1997|Reference year 1997|808|8 largest firms|1058||2512518||45.742450638||262090||63045||21516|
+01000US|United States|1|United States|44|Retail trade|45391|Pet & pet supplies stores|1997|Reference year 1997|820|20 largest firms|1253||2691592||49.002639662||288659||69448||23559|
+01000US|United States|1|United States|44|Retail trade|45391|Pet & pet supplies stores|1997|Reference year 1997|850|50 largest firms|1415||2904512||52.879022872||314434||76295||25675|
+01000US|United States|1|United States|44|Retail trade|453910|Pet & pet supplies stores|1997|Reference year 1997|003|All firms|8318||5492749||100||709075||169884||61192|
+01000US|United States|1|United States|44|Retail trade|453910|Pet & pet supplies stores|1997|Reference year 1997|804|4 largest firms|974||2353798||42.852822876||246511||59285||20401|
+01000US|United States|1|United States|44|Retail trade|453910|Pet & pet supplies stores|1997|Reference year 1997|808|8 largest firms|1058||2512518||45.742450638||262090||63045||21516|
+01000US|United States|1|United States|44|Retail trade|453910|Pet & pet supplies stores|1997|Reference year 1997|820|20 largest firms|1253||2691592||49.002639662||288659||69448||23559|
+01000US|United States|1|United States|44|Retail trade|453910|Pet & pet supplies stores|1997|Reference year 1997|850|50 largest firms|1415||2904512||52.879022872||314434||76295||25675|
+01000US|United States|1|United States|44|Retail trade|45392|Art dealers|1997|Reference year 1997|003|All firms|5698||3000798||100||401152||87582||19510|
+01000US|United States|1|United States|44|Retail trade|45392|Art dealers|1997|Reference year 1997|804|4 largest firms|13||260888||8.6939540749||22013||2905||225|
+01000US|United States|1|United States|44|Retail trade|45392|Art dealers|1997|Reference year 1997|808|8 largest firms|20||386373||12.87567507||30756||4710||392|
+01000US|United States|1|United States|44|Retail trade|45392|Art dealers|1997|Reference year 1997|820|20 largest firms|116||589831||19.655804889||52458||9781||1101|
+01000US|United States|1|United States|44|Retail trade|45392|Art dealers|1997|Reference year 1997|850|50 largest firms|166||845132||28.163575156||75193||14695||1688|
+01000US|United States|1|United States|44|Retail trade|453920|Art dealers|1997|Reference year 1997|003|All firms|5698||3000798||100||401152||87582||19510|
+01000US|United States|1|United States|44|Retail trade|453920|Art dealers|1997|Reference year 1997|804|4 largest firms|13||260888||8.6939540749||22013||2905||225|
+01000US|United States|1|United States|44|Retail trade|453920|Art dealers|1997|Reference year 1997|808|8 largest firms|20||386373||12.87567507||30756||4710||392|
+01000US|United States|1|United States|44|Retail trade|453920|Art dealers|1997|Reference year 1997|820|20 largest firms|116||589831||19.655804889||52458||9781||1101|
+01000US|United States|1|United States|44|Retail trade|453920|Art dealers|1997|Reference year 1997|850|50 largest firms|166||845132||28.163575156||75193||14695||1688|
+01000US|United States|1|United States|44|Retail trade|45393|Manufactured (mobile) home dealers|1997|Reference year 1997|003|All firms|5485||13347491||100||1122749||236046||40401|
+01000US|United States|1|United States|44|Retail trade|45393|Manufactured (mobile) home dealers|1997|Reference year 1997|804|4 largest firms|606||1964719||14.719762688||184387||36735||4421|
+01000US|United States|1|United States|44|Retail trade|45393|Manufactured (mobile) home dealers|1997|Reference year 1997|808|8 largest firms|684||2282593||17.101288924||206018||41343||5120|
+01000US|United States|1|United States|44|Retail trade|45393|Manufactured (mobile) home dealers|1997|Reference year 1997|820|20 largest firms|831||2940203||22.028132478||256216||51732||6579|
+01000US|United States|1|United States|44|Retail trade|45393|Manufactured (mobile) home dealers|1997|Reference year 1997|850|50 largest firms|969||3686295||27.617887137||314052||63280||8439|
+01000US|United States|1|United States|44|Retail trade|453930|Manufactured (mobile) home dealers|1997|Reference year 1997|003|All firms|5485||13347491||100||1122749||236046||40401|
+01000US|United States|1|United States|44|Retail trade|453930|Manufactured (mobile) home dealers|1997|Reference year 1997|804|4 largest firms|606||1964719||14.719762688||184387||36735||4421|
+01000US|United States|1|United States|44|Retail trade|453930|Manufactured (mobile) home dealers|1997|Reference year 1997|808|8 largest firms|684||2282593||17.101288924||206018||41343||5120|
+01000US|United States|1|United States|44|Retail trade|453930|Manufactured (mobile) home dealers|1997|Reference year 1997|820|20 largest firms|831||2940203||22.028132478||256216||51732||6579|
+01000US|United States|1|United States|44|Retail trade|453930|Manufactured (mobile) home dealers|1997|Reference year 1997|850|50 largest firms|969||3686295||27.617887137||314052||63280||8439|
+01000US|United States|1|United States|44|Retail trade|45399|All other miscellaneous store retailers|1997|Reference year 1997|003|All firms|21532||12096358||100||1695107||363520||102231|
+01000US|United States|1|United States|44|Retail trade|45399|All other miscellaneous store retailers|1997|Reference year 1997|804|4 largest firms|931||728164||6.0196961763||92379||22145||4162|
+01000US|United States|1|United States|44|Retail trade|45399|All other miscellaneous store retailers|1997|Reference year 1997|808|8 largest firms|1217||1011995||8.3661131722||130792||30761||7174|
+01000US|United States|1|United States|44|Retail trade|45399|All other miscellaneous store retailers|1997|Reference year 1997|820|20 largest firms|1439||1531469||12.660579325||183683||42026||10624|
+01000US|United States|1|United States|44|Retail trade|45399|All other miscellaneous store retailers|1997|Reference year 1997|850|50 largest firms|1881||2142701||17.713604376||243915||55687||14152|
+01000US|United States|1|United States|44|Retail trade|453991|Tobacco stores|1997|Reference year 1997|003|All firms|3884||3068352||100||213374||46393||14880|
+01000US|United States|1|United States|44|Retail trade|453991|Tobacco stores|1997|Reference year 1997|804|4 largest firms|587||370406||12.071822268||22901||5027||1509|
+01000US|United States|1|United States|44|Retail trade|453991|Tobacco stores|1997|Reference year 1997|808|8 largest firms|615||481213||15.683109369||27668||6138||1886|
+01000US|United States|1|United States|44|Retail trade|453991|Tobacco stores|1997|Reference year 1997|820|20 largest firms|744||675853||22.026579741||39919||8933||2635|
+01000US|United States|1|United States|44|Retail trade|453991|Tobacco stores|1997|Reference year 1997|850|50 largest firms|894||927310||30.221760737||54168||12215||3682|
+01000US|United States|1|United States|44|Retail trade|453998|All other miscellaneous store retailers (except tobacco stores)|1997|Reference year 1997|003|All firms|17648||9028006||100||1481733||317127||87351|
+01000US|United States|1|United States|44|Retail trade|453998|All other miscellaneous store retailers (except tobacco stores)|1997|Reference year 1997|804|4 largest firms|676||585134||6.4813204599||90208||21535||5005|
+01000US|United States|1|United States|44|Retail trade|453998|All other miscellaneous store retailers (except tobacco stores)|1997|Reference year 1997|808|8 largest firms|765||834587||9.244422301||125383||29689||6888|
+01000US|United States|1|United States|44|Retail trade|453998|All other miscellaneous store retailers (except tobacco stores)|1997|Reference year 1997|820|20 largest firms|910||1246533||13.807401103||178862||41102||9924|
+01000US|United States|1|United States|44|Retail trade|453998|All other miscellaneous store retailers (except tobacco stores)|1997|Reference year 1997|850|50 largest firms|1209||1720651||19.059036957||230733||53493||12702|
+01000US|United States|1|United States|44|Retail trade|454|Nonstore retailers|1997|Reference year 1997|003|All firms|44482|r|123106651|r|100||12323344|r|2894224|r|505993|r
+01000US|United States|1|United States|44|Retail trade|454|Nonstore retailers|1997|Reference year 1997|804|4 largest firms|48||19294832||15.673265289||607376||149537||15095|
+01000US|United States|1|United States|44|Retail trade|454|Nonstore retailers|1997|Reference year 1997|808|8 largest firms|738||25461517||20.682486928||1245873||308833||41894|
+01000US|United States|1|United States|44|Retail trade|454|Nonstore retailers|1997|Reference year 1997|820|20 largest firms|1422||38370182||31.168244517||2043190||489984||71186|
+01000US|United States|1|United States|44|Retail trade|454|Nonstore retailers|1997|Reference year 1997|850|50 largest firms|2553||53325923||43.316849713||3172407||770183||110824|
+01000US|United States|1|United States|44|Retail trade|4541|Electronic shopping & mail-order houses|1997|Reference year 1997|003|All firms|10013||79018305||100||5743431||1313542||218406|
+01000US|United States|1|United States|44|Retail trade|4541|Electronic shopping & mail-order houses|1997|Reference year 1997|804|4 largest firms|48||19294832||24.418180066||607376||149537||15095|
+01000US|United States|1|United States|44|Retail trade|4541|Electronic shopping & mail-order houses|1997|Reference year 1997|808|8 largest firms|319||25295281||32.011925591||1109520||273927||37241|
+01000US|United States|1|United States|44|Retail trade|4541|Electronic shopping & mail-order houses|1997|Reference year 1997|820|20 largest firms|375||37372412||47.295891756||1770981||420127||63452|
+01000US|United States|1|United States|44|Retail trade|4541|Electronic shopping & mail-order houses|1997|Reference year 1997|850|50 largest firms|488||50011065||63.290480604||2564233||604557||88697|
+01000US|United States|1|United States|44|Retail trade|45411|Electronic shopping & mail-order houses|1997|Reference year 1997|003|All firms|10013||79018305||100||5743431||1313542||218406|
+01000US|United States|1|United States|44|Retail trade|45411|Electronic shopping & mail-order houses|1997|Reference year 1997|804|4 largest firms|48||19294832||24.418180066||607376||149537||15095|
+01000US|United States|1|United States|44|Retail trade|45411|Electronic shopping & mail-order houses|1997|Reference year 1997|808|8 largest firms|319||25295281||32.011925591||1109520||273927||37241|
+01000US|United States|1|United States|44|Retail trade|45411|Electronic shopping & mail-order houses|1997|Reference year 1997|820|20 largest firms|375||37372412||47.295891756||1770981||420127||63452|
+01000US|United States|1|United States|44|Retail trade|45411|Electronic shopping & mail-order houses|1997|Reference year 1997|850|50 largest firms|488||50011065||63.290480604||2564233||604557||88697|
+01000US|United States|1|United States|44|Retail trade|454110|Electronic shopping & mail-order houses|1997|Reference year 1997|003|All firms|10013||79018305||100||5743431||1313542||218406|
+01000US|United States|1|United States|44|Retail trade|454110|Electronic shopping & mail-order houses|1997|Reference year 1997|804|4 largest firms|48||19294832||24.418180066||607376||149537||15095|
+01000US|United States|1|United States|44|Retail trade|454110|Electronic shopping & mail-order houses|1997|Reference year 1997|808|8 largest firms|319||25295281||32.011925591||1109520||273927||37241|
+01000US|United States|1|United States|44|Retail trade|454110|Electronic shopping & mail-order houses|1997|Reference year 1997|820|20 largest firms|375||37372412||47.295891756||1770981||420127||63452|
+01000US|United States|1|United States|44|Retail trade|454110|Electronic shopping & mail-order houses|1997|Reference year 1997|850|50 largest firms|488||50011065||63.290480604||2564233||604557||88697|
+01000US|United States|1|United States|44|Retail trade|4542|Vending machine operators|1997|Reference year 1997|003|All firms|7070||6884497||100||1333428||315266||66348|
+01000US|United States|1|United States|44|Retail trade|4542|Vending machine operators|1997|Reference year 1997|804|4 largest firms|375||1335862||19.403915784||247168||56309||11784|
+01000US|United States|1|United States|44|Retail trade|4542|Vending machine operators|1997|Reference year 1997|808|8 largest firms|409||1601849||23.267480544||307737||71232||15106|
+01000US|United States|1|United States|44|Retail trade|4542|Vending machine operators|1997|Reference year 1997|820|20 largest firms|1037||2009397||29.187273958||393696||92380||19260|
+01000US|United States|1|United States|44|Retail trade|4542|Vending machine operators|1997|Reference year 1997|850|50 largest firms|1157||2577121||37.43368615||515576||121448||24878|
+01000US|United States|1|United States|44|Retail trade|45421|Vending machine operators|1997|Reference year 1997|003|All firms|7070||6884497||100||1333428||315266||66348|
+01000US|United States|1|United States|44|Retail trade|45421|Vending machine operators|1997|Reference year 1997|804|4 largest firms|375||1335862||19.403915784||247168||56309||11784|
+01000US|United States|1|United States|44|Retail trade|45421|Vending machine operators|1997|Reference year 1997|808|8 largest firms|409||1601849||23.267480544||307737||71232||15106|
+01000US|United States|1|United States|44|Retail trade|45421|Vending machine operators|1997|Reference year 1997|820|20 largest firms|1037||2009397||29.187273958||393696||92380||19260|
+01000US|United States|1|United States|44|Retail trade|45421|Vending machine operators|1997|Reference year 1997|850|50 largest firms|1157||2577121||37.43368615||515576||121448||24878|
+01000US|United States|1|United States|44|Retail trade|454210|Vending machine operators|1997|Reference year 1997|003|All firms|7070||6884497||100||1333428||315266||66348|
+01000US|United States|1|United States|44|Retail trade|454210|Vending machine operators|1997|Reference year 1997|804|4 largest firms|375||1335862||19.403915784||247168||56309||11784|
+01000US|United States|1|United States|44|Retail trade|454210|Vending machine operators|1997|Reference year 1997|808|8 largest firms|409||1601849||23.267480544||307737||71232||15106|
+01000US|United States|1|United States|44|Retail trade|454210|Vending machine operators|1997|Reference year 1997|820|20 largest firms|1037||2009397||29.187273958||393696||92380||19260|
+01000US|United States|1|United States|44|Retail trade|454210|Vending machine operators|1997|Reference year 1997|850|50 largest firms|1157||2577121||37.43368615||515576||121448||24878|
+01000US|United States|1|United States|44|Retail trade|4543|Direct selling establishments|1997|Reference year 1997|003|All firms|27399|r|37203849|r|100||5246485|r|1265416|r|221239|r
+01000US|United States|1|United States|44|Retail trade|4543|Direct selling establishments|1997|Reference year 1997|804|4 largest firms|1423||3468250||9.3222881321||532816||138162||17826|
+01000US|United States|1|United States|44|Retail trade|4543|Direct selling establishments|1997|Reference year 1997|808|8 largest firms|2105||5026518||13.510747235||687444||177817||24214|
+01000US|United States|1|United States|44|Retail trade|4543|Direct selling establishments|1997|Reference year 1997|820|20 largest firms|2968||7473228||20.087244199||1039893||270471||39089|
+01000US|United States|1|United States|44|Retail trade|4543|Direct selling establishments|1997|Reference year 1997|850|50 largest firms|3942||10467081||28.134403513||1388877||356402||50935|
+01000US|United States|1|United States|44|Retail trade|45431|Fuel dealers|1997|Reference year 1997|003|All firms|12532||22622249||100||2755293||686618||103778|
+01000US|United States|1|United States|44|Retail trade|45431|Fuel dealers|1997|Reference year 1997|804|4 largest firms|1357||2475064||10.940839702||332186||87760||12073|
+01000US|United States|1|United States|44|Retail trade|45431|Fuel dealers|1997|Reference year 1997|808|8 largest firms|1905||3537943||15.639218718||444474||116189||16569|
+01000US|United States|1|United States|44|Retail trade|45431|Fuel dealers|1997|Reference year 1997|820|20 largest firms|2538||4967283||21.957511828||615149||161120||22689|
+01000US|United States|1|United States|44|Retail trade|45431|Fuel dealers|1997|Reference year 1997|850|50 largest firms|2977||6654987||29.417884137||795156||209735||28702|
+01000US|United States|1|United States|44|Retail trade|454311|Heating oil dealers|1997|Reference year 1997|003|All firms|5657||13866783||100||1527865||387108||54106|
+01000US|United States|1|United States|44|Retail trade|454311|Heating oil dealers|1997|Reference year 1997|804|4 largest firms|124||1209729||8.7239340228||147569||42239||4416|
+01000US|United States|1|United States|44|Retail trade|454311|Heating oil dealers|1997|Reference year 1997|808|8 largest firms|184||1683579||12.141092855||191590||53948||5993|
+01000US|United States|1|United States|44|Retail trade|454311|Heating oil dealers|1997|Reference year 1997|820|20 largest firms|277||2533592||18.270942871||282738||78222||8754|
+01000US|United States|1|United States|44|Retail trade|454311|Heating oil dealers|1997|Reference year 1997|850|50 largest firms|396||3625136||26.142588371||360716||99140||11222|
+01000US|United States|1|United States|44|Retail trade|454312|Liquefied petroleum gas (bottled gas) dealers|1997|Reference year 1997|003|All firms|6623||8657339||100||1216039||296931||48889|
+01000US|United States|1|United States|44|Retail trade|454312|Liquefied petroleum gas (bottled gas) dealers|1997|Reference year 1997|804|4 largest firms|1527||2283227||26.373311707||297345||75332||11517|
+01000US|United States|1|United States|44|Retail trade|454312|Liquefied petroleum gas (bottled gas) dealers|1997|Reference year 1997|808|8 largest firms|2162||2871227||33.165237032||387804||97988||15294|
+01000US|United States|1|United States|44|Retail trade|454312|Liquefied petroleum gas (bottled gas) dealers|1997|Reference year 1997|820|20 largest firms|2630||3544551||40.942730786||468164||119253||18628|
+01000US|United States|1|United States|44|Retail trade|454312|Liquefied petroleum gas (bottled gas) dealers|1997|Reference year 1997|850|50 largest firms|2966||4259437||49.200302772||546792||138876||21791|
+01000US|United States|1|United States|44|Retail trade|454319|Other fuel dealers|1997|Reference year 1997|003|All firms|252||98127||100||11389||2579||783|
+01000US|United States|1|United States|44|Retail trade|454319|Other fuel dealers|1997|Reference year 1997|804|4 largest firms|4||14624||14.903135732||1437||290||73|
+01000US|United States|1|United States|44|Retail trade|454319|Other fuel dealers|1997|Reference year 1997|808|8 largest firms|8||25596||26.084563882||2059||445||101|
+01000US|United States|1|United States|44|Retail trade|454319|Other fuel dealers|1997|Reference year 1997|820|20 largest firms|20||42926||43.745350413||4048||974||187|
+01000US|United States|1|United States|44|Retail trade|454319|Other fuel dealers|1997|Reference year 1997|850|50 largest firms|50||64995||66.23559265||6475||1435||324|
+01000US|United States|1|United States|44|Retail trade|45439|Other direct selling establishments|1997|Reference year 1997|003|All firms|14867|r|14581600|r|100||2491192|r|578798|r|117461|r
+01000US|United States|1|United States|44|Retail trade|45439|Other direct selling establishments|1997|Reference year 1997|804|4 largest firms|463||2362806||16.20402425||325419||83394||11558|
+01000US|United States|1|United States|44|Retail trade|45439|Other direct selling establishments|1997|Reference year 1997|808|8 largest firms|932||3234734||22.18366983||472169||123153||19084|
+01000US|United States|1|United States|44|Retail trade|45439|Other direct selling establishments|1997|Reference year 1997|820|20 largest firms|1183||4767007||32.69193367||696510||173492||25563|
+01000US|United States|1|United States|44|Retail trade|45439|Other direct selling establishments|1997|Reference year 1997|850|50 largest firms|1367||5891579||40.404201185||900848||223435||37463|
+01000US|United States|1|United States|44|Retail trade|454390|Other direct selling establishments|1997|Reference year 1997|003|All firms|14867|r|14581600|r|100||2491192|r|578798|r|117461|r
+01000US|United States|1|United States|44|Retail trade|454390|Other direct selling establishments|1997|Reference year 1997|804|4 largest firms|463||2362806||16.20402425||325419||83394||11558|
+01000US|United States|1|United States|44|Retail trade|454390|Other direct selling establishments|1997|Reference year 1997|808|8 largest firms|932||3234734||22.18366983||472169||123153||19084|
+01000US|United States|1|United States|44|Retail trade|454390|Other direct selling establishments|1997|Reference year 1997|820|20 largest firms|1183||4767007||32.69193367||696510||173492||25563|
+01000US|United States|1|United States|44|Retail trade|454390|Other direct selling establishments|1997|Reference year 1997|850|50 largest firms|1367||5891579||40.404201185||900848||223435||37463|
+01000US|United States|1|United States|44|Retail trade|4543901|Direct selling, furniture, home furnishings, electronics, & appl|1997|Reference year 1997|003|All firms|4284||3617293||100||551054||126077||29503|
+01000US|United States|1|United States|44|Retail trade|4543901|Direct selling, furniture, home furnishings, electronics, & appl|1997|Reference year 1997|804|4 largest firms|424||810960||22.418974631||85241||19284||6227|
+01000US|United States|1|United States|44|Retail trade|4543901|Direct selling, furniture, home furnishings, electronics, & appl|1997|Reference year 1997|808|8 largest firms|432||996315||27.543110276||109739||25832||6876|
+01000US|United States|1|United States|44|Retail trade|4543901|Direct selling, furniture, home furnishings, electronics, & appl|1997|Reference year 1997|820|20 largest firms|460||1213622||33.550558387||138976||32452||8250|
+01000US|United States|1|United States|44|Retail trade|4543901|Direct selling, furniture, home furnishings, electronics, & appl|1997|Reference year 1997|850|50 largest firms|502||1492030||41.247142546||177227||40856||9864|
+01000US|United States|1|United States|44|Retail trade|4543902|Direct selling, books, periodicals, videos, & compact discs|1997|Reference year 1997|003|All firms|1263|r|1751884|r|100||324225|r|69601|r|19475|r
+01000US|United States|1|United States|44|Retail trade|4543902|Direct selling, books, periodicals, videos, & compact discs|1997|Reference year 1997|804|4 largest firms|10||618922||35.328937304||81259||13818||1716|
+01000US|United States|1|United States|44|Retail trade|4543902|Direct selling, books, periodicals, videos, & compact discs|1997|Reference year 1997|808|8 largest firms|41||797897||45.545081752||134127||25795||7481|
+01000US|United States|1|United States|44|Retail trade|4543902|Direct selling, books, periodicals, videos, & compact discs|1997|Reference year 1997|820|20 largest firms|60||1023029||58.395932607||166594||32988||8897|
+01000US|United States|1|United States|44|Retail trade|4543902|Direct selling, books, periodicals, videos, & compact discs|1997|Reference year 1997|850|50 largest firms|91||1236420||70.576590688||210214||42860||10930|
+01000US|United States|1|United States|44|Retail trade|4543903|Direct selling, other merchandise|1997|Reference year 1997|003|All firms|9320||9212423|r|100||1615913||383120||68483|
+01000US|United States|1|United States|44|Retail trade|4543903|Direct selling, other merchandise|1997|Reference year 1997|804|4 largest firms|463||2196037||23.837778617||326582||88759||11333|
+01000US|United States|1|United States|44|Retail trade|4543903|Direct selling, other merchandise|1997|Reference year 1997|808|8 largest firms|689||2902417||31.505468214||468566||125585||16492|
+01000US|United States|1|United States|44|Retail trade|4543903|Direct selling, other merchandise|1997|Reference year 1997|820|20 largest firms|830||3664190||39.774443705||600191||158425||20902|
+01000US|United States|1|United States|44|Retail trade|4543903|Direct selling, other merchandise|1997|Reference year 1997|850|50 largest firms|960||4387660||47.627643672||697999||180541||24286|
+01000US|United States|1|United States|44|Retail trade|444|Building material & garden equipment & supplies dealers|1997|Reference year 1997|003|All firms|93117||227566101||100||25608856||5898566||1117912|
+01000US|United States|1|United States|44|Retail trade|4441|Building material & supplies dealers|1997|Reference year 1997|820|20 largest firms|6439||63327707||32.328495689||5811500||1435305||297815|
+01000US|United States|1|United States|44|Retail trade|44613|Optical goods stores|1997|Reference year 1997|003|All firms|15192||6432078||100||1401239||331165||73049|
+01000US|United States|1|United States|44|Retail trade|4511101|General-line sporting goods stores|1997|Reference year 1997|003|All firms|7458||9311810||100||1005295||241767||80671|
+01000US|United States|1|United States|44|Retail trade|4511102|Specialty-line sporting goods stores|1997|Reference year 1997|820|20 largest firms|985||1578948||14.713193697||157174||38837||13209|
+01000US|United States|1|United States|44|Retail trade|45331|Used merchandise stores|1997|Reference year 1997|808|8 largest firms|1374||688918||11.399053749||210444||47411||15963|

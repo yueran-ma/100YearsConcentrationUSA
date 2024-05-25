@@ -1,0 +1,206 @@
+GEO_ID|GEOGRAPHY|GEOTYPE|GEOTYPE_MEANING|SECTOR|SECTOR_MEANING|NAICS|NAICS_MEANING|YEAR|YEAR_MEANING|CONCENFI|CONCENFI_MEANING|ESTAB|ESTABF|ECVALUE|ECVALUEF|VALPCT|VALPCTF|PAY|PAYF|PAY1Q|PAY1QF|EMP|EMPF 
+01000US|United States|1|United States|22|Utilities|22|Utilities|1997|Reference year 1997|003|All firms|15513||411713327||100||36594684||9619411||702703|
+01000US|United States|1|United States|22|Utilities|22|Utilities|1997|Reference year 1997|804|4 largest firms|774||60450109||14.7||3893992||1115865||63565|
+01000US|United States|1|United States|22|Utilities|22|Utilities|1997|Reference year 1997|808|8 largest firms|1306||94267425||22.9||5620517||1584883||96221|
+01000US|United States|1|United States|22|Utilities|22|Utilities|1997|Reference year 1997|820|20 largest firms|2613||167024533||40.6||12735288||3435653||219583|
+01000US|United States|1|United States|22|Utilities|22|Utilities|1997|Reference year 1997|850|50 largest firms|4625||265695265||64.5||22406753||6018205||391541|
+01000US|United States|1|United States|22|Utilities|221|Utilities|1997|Reference year 1997|003|All firms|15513||411713327||100||36594684||9619411||702703|
+01000US|United States|1|United States|22|Utilities|221|Utilities|1997|Reference year 1997|804|4 largest firms|774||60450109||14.7||3893992||1115865||63565|
+01000US|United States|1|United States|22|Utilities|221|Utilities|1997|Reference year 1997|808|8 largest firms|1306||94267425||22.9||5620517||1584883||96221|
+01000US|United States|1|United States|22|Utilities|221|Utilities|1997|Reference year 1997|820|20 largest firms|2613||167024533||40.6||12735288||3435653||219583|
+01000US|United States|1|United States|22|Utilities|221|Utilities|1997|Reference year 1997|850|50 largest firms|4625||265695265||64.5||22406753||6018205||391541|
+01000US|United States|1|United States|22|Utilities|2211|Electric power generation, transmission, & distribution|1997|Reference year 1997|003|All firms|7935||269095239||100||30439772||8073831||564525|
+01000US|United States|1|United States|22|Utilities|2211|Electric power generation, transmission, & distribution|1997|Reference year 1997|804|4 largest firms|1149||38506248||14.3||4740599||1376325||79268|
+01000US|United States|1|United States|22|Utilities|2211|Electric power generation, transmission, & distribution|1997|Reference year 1997|808|8 largest firms|1617||65570041||24.4||8469652||2330684||140444|
+01000US|United States|1|United States|22|Utilities|2211|Electric power generation, transmission, & distribution|1997|Reference year 1997|820|20 largest firms|2530||122341845||45.5||14257102||3868862||243931|
+01000US|United States|1|United States|22|Utilities|2211|Electric power generation, transmission, & distribution|1997|Reference year 1997|850|50 largest firms|4160||194333088||72.2||22691404||6118252||392143|
+01000US|United States|1|United States|22|Utilities|22111|Electric power generation|1997|Reference year 1997|003|All firms|1745||73375323||100||8369366||2212684||148686|
+01000US|United States|1|United States|22|Utilities|22111|Electric power generation|1997|Reference year 1997|804|4 largest firms|341||17464647||23.8||2157431||573910||36800|
+01000US|United States|1|United States|22|Utilities|22111|Electric power generation|1997|Reference year 1997|808|8 largest firms|449||26196212||35.7||3165173||858409||54408|
+01000US|United States|1|United States|22|Utilities|22111|Electric power generation|1997|Reference year 1997|820|20 largest firms|679||41823969||57||5089085||1362843||87305|
+01000US|United States|1|United States|22|Utilities|22111|Electric power generation|1997|Reference year 1997|850|50 largest firms|959||58487877||79.7||6832379||1825145||117552|
+01000US|United States|1|United States|22|Utilities|221111|Hydroelectric power generation|1997|Reference year 1997|003|All firms|353||3073908||100||394135||98922||7380|
+01000US|United States|1|United States|22|Utilities|221111|Hydroelectric power generation|1997|Reference year 1997|804|4 largest firms|70||1797920||58.5||250698||60374||4328|
+01000US|United States|1|United States|22|Utilities|221111|Hydroelectric power generation|1997|Reference year 1997|808|8 largest firms|119||2252922||73.3||285804||70853||5034|
+01000US|United States|1|United States|22|Utilities|221111|Hydroelectric power generation|1997|Reference year 1997|820|20 largest firms|175||2752116||89.5||351120||88214||6285|
+01000US|United States|1|United States|22|Utilities|221111|Hydroelectric power generation|1997|Reference year 1997|850|50 largest firms|263||3020047||98.2||383686||96543||7045|
+01000US|United States|1|United States|22|Utilities|2211111|Electric services (hydroelectric power generation)|1997|Reference year 1997|003|All firms|302||2651104||100||341334||84877||6344|
+01000US|United States|1|United States|22|Utilities|2211111|Electric services (hydroelectric power generation)|1997|Reference year 1997|804|4 largest firms|77||1742669||65.7||230415||54908||3932|
+01000US|United States|1|United States|22|Utilities|2211111|Electric services (hydroelectric power generation)|1997|Reference year 1997|808|8 largest firms|118||2117991||79.9||266347||65693||4695|
+01000US|United States|1|United States|22|Utilities|2211111|Electric services (hydroelectric power generation)|1997|Reference year 1997|820|20 largest firms|190||2478517||93.5||314629||78305||5654|
+01000US|United States|1|United States|22|Utilities|2211111|Electric services (hydroelectric power generation)|1997|Reference year 1997|850|50 largest firms|231||2619637||98.8||334325||83276||6120|
+01000US|United States|1|United States|22|Utilities|2211112|Electric & other serv combined (hydroelectric power generation)|1997|Reference year 1997|003|All firms|49||0|D|0|D|0|D|0|D|0|g
+01000US|United States|1|United States|22|Utilities|2211112|Electric & other serv combined (hydroelectric power generation)|1997|Reference year 1997|804|4 largest firms|10||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211112|Electric & other serv combined (hydroelectric power generation)|1997|Reference year 1997|808|8 largest firms|32||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211112|Electric & other serv combined (hydroelectric power generation)|1997|Reference year 1997|820|20 largest firms|49||0|D|0|D|0|D|0|D|0|g
+01000US|United States|1|United States|22|Utilities|2211112|Electric & other serv combined (hydroelectric power generation)|1997|Reference year 1997|850|50 largest firms|49||0|D|0|D|0|D|0|D|0|g
+01000US|United States|1|United States|22|Utilities|221112|Fossil fuel electric power generation|1997|Reference year 1997|003|All firms|1009||48324008||100||5048597||1329419||93765|
+01000US|United States|1|United States|22|Utilities|221112|Fossil fuel electric power generation|1997|Reference year 1997|804|4 largest firms|275||11055114||22.9||988008||254574||18746|
+01000US|United States|1|United States|22|Utilities|221112|Fossil fuel electric power generation|1997|Reference year 1997|808|8 largest firms|339||17499352||36.2||1938049||508921||34060|
+01000US|United States|1|United States|22|Utilities|221112|Fossil fuel electric power generation|1997|Reference year 1997|820|20 largest firms|469||27687828||57.3||2771438||744083||49871|
+01000US|United States|1|United States|22|Utilities|221112|Fossil fuel electric power generation|1997|Reference year 1997|850|50 largest firms|705||40231677||83.3||4151658||1110367||75612|
+01000US|United States|1|United States|22|Utilities|2211121|Electric services (fossil fuel power generation)|1997|Reference year 1997|003|All firms|834||37041869||100||3829528||1008378||71407|
+01000US|United States|1|United States|22|Utilities|2211121|Electric services (fossil fuel power generation)|1997|Reference year 1997|804|4 largest firms|256||10690009||28.9||1171312||302141||21113|
+01000US|United States|1|United States|22|Utilities|2211121|Electric services (fossil fuel power generation)|1997|Reference year 1997|808|8 largest firms|332||15586100||42.1||1637853||433450||29062|
+01000US|United States|1|United States|22|Utilities|2211121|Electric services (fossil fuel power generation)|1997|Reference year 1997|820|20 largest firms|429||23689288||64||2326724||631261||41812|
+01000US|United States|1|United States|22|Utilities|2211121|Electric services (fossil fuel power generation)|1997|Reference year 1997|850|50 largest firms|629||33303948||89.9||3366853||899109||62587|
+01000US|United States|1|United States|22|Utilities|2211122|Electric & other serv combined (fossil fuel power generation)|1997|Reference year 1997|003|All firms|174||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|22|Utilities|2211122|Electric & other serv combined (fossil fuel power generation)|1997|Reference year 1997|804|4 largest firms|61||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|22|Utilities|2211122|Electric & other serv combined (fossil fuel power generation)|1997|Reference year 1997|808|8 largest firms|86||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|22|Utilities|2211122|Electric & other serv combined (fossil fuel power generation)|1997|Reference year 1997|820|20 largest firms|125||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|22|Utilities|2211122|Electric & other serv combined (fossil fuel power generation)|1997|Reference year 1997|850|50 largest firms|174||0|D|0|D|0|D|0|D|0|j
+01000US|United States|1|United States|22|Utilities|221113|Nuclear electric power generation|1997|Reference year 1997|003|All firms|67||13966616||100||2201922||593607||34381|
+01000US|United States|1|United States|22|Utilities|221113|Nuclear electric power generation|1997|Reference year 1997|804|4 largest firms|13||5933709||42.5||778886||205278||10974|
+01000US|United States|1|United States|22|Utilities|221113|Nuclear electric power generation|1997|Reference year 1997|808|8 largest firms|26||9673776||69.3||1176085||320294||18420|
+01000US|United States|1|United States|22|Utilities|221113|Nuclear electric power generation|1997|Reference year 1997|820|20 largest firms|50||13672632||97.9||1923324||520824||30167|
+01000US|United States|1|United States|22|Utilities|221113|Nuclear electric power generation|1997|Reference year 1997|850|50 largest firms|67||13966616||100||2201922||593607||34381|
+01000US|United States|1|United States|22|Utilities|2211131|Electric services (nuclear power generation)|1997|Reference year 1997|003|All firms|56||9808861||100||1673481||453070||26508|
+01000US|United States|1|United States|22|Utilities|2211131|Electric services (nuclear power generation)|1997|Reference year 1997|804|4 largest firms|13||5228256||53.3||679427||178306||10090|
+01000US|United States|1|United States|22|Utilities|2211131|Electric services (nuclear power generation)|1997|Reference year 1997|808|8 largest firms|27||8111969||82.7||1026483||284751||16903|
+01000US|United States|1|United States|22|Utilities|2211131|Electric services (nuclear power generation)|1997|Reference year 1997|820|20 largest firms|50||9789263||99.8||1671009||452423||26461|
+01000US|United States|1|United States|22|Utilities|2211131|Electric services (nuclear power generation)|1997|Reference year 1997|850|50 largest firms|56||9808861||100||1673481||453070||26508|
+01000US|United States|1|United States|22|Utilities|2211132|Electric & other services combined (nuclear power generation)|1997|Reference year 1997|003|All firms|11||4157755||100||528441||140537||7873|
+01000US|United States|1|United States|22|Utilities|2211132|Electric & other services combined (nuclear power generation)|1997|Reference year 1997|804|4 largest firms|7||3595667||86.5||432396||113835||6292|
+01000US|United States|1|United States|22|Utilities|2211132|Electric & other services combined (nuclear power generation)|1997|Reference year 1997|808|8 largest firms|11||4157755||100||528441||140537||7873|
+01000US|United States|1|United States|22|Utilities|2211132|Electric & other services combined (nuclear power generation)|1997|Reference year 1997|820|20 largest firms|11||4157755||100||528441||140537||7873|
+01000US|United States|1|United States|22|Utilities|2211132|Electric & other services combined (nuclear power generation)|1997|Reference year 1997|850|50 largest firms|11||4157755||100||528441||140537||7873|
+01000US|United States|1|United States|22|Utilities|221119|Other electric power generation|1997|Reference year 1997|003|All firms|316||8010791||100||724712||190736||13160|
+01000US|United States|1|United States|22|Utilities|221119|Other electric power generation|1997|Reference year 1997|804|4 largest firms|14||3677465||45.9||304122||78894||5033|
+01000US|United States|1|United States|22|Utilities|221119|Other electric power generation|1997|Reference year 1997|808|8 largest firms|20||4729427||59||396658||110009||6861|
+01000US|United States|1|United States|22|Utilities|221119|Other electric power generation|1997|Reference year 1997|820|20 largest firms|77||6124179||76.4||518572||139448||9001|
+01000US|United States|1|United States|22|Utilities|221119|Other electric power generation|1997|Reference year 1997|850|50 largest firms|136||7374923||92.1||625140||166171||10952|
+01000US|United States|1|United States|22|Utilities|2211191|Electric services (other electric power generation)|1997|Reference year 1997|003|All firms|268||6864322||100||612726||154266||10990|
+01000US|United States|1|United States|22|Utilities|2211191|Electric services (other electric power generation)|1997|Reference year 1997|804|4 largest firms|14||3677465||53.6||304122||78894||5033|
+01000US|United States|1|United States|22|Utilities|2211191|Electric services (other electric power generation)|1997|Reference year 1997|808|8 largest firms|33||4477017||65.2||354663||90459||6133|
+01000US|United States|1|United States|22|Utilities|2211191|Electric services (other electric power generation)|1997|Reference year 1997|820|20 largest firms|76||5530259||80.6||464363||117122||7809|
+01000US|United States|1|United States|22|Utilities|2211191|Electric services (other electric power generation)|1997|Reference year 1997|850|50 largest firms|135||6511386||94.9||551621||139352||9536|
+01000US|United States|1|United States|22|Utilities|2211192|Electric & other serv combined (other electric power generation)|1997|Reference year 1997|003|All firms|44||1139389||100||110468||36161||2136|
+01000US|United States|1|United States|22|Utilities|2211192|Electric & other serv combined (other electric power generation)|1997|Reference year 1997|804|4 largest firms|4||795086||69.8||76470||27485||1452|
+01000US|United States|1|United States|22|Utilities|2211192|Electric & other serv combined (other electric power generation)|1997|Reference year 1997|808|8 largest firms|11||960393||84.3||89475||30637||1736|
+01000US|United States|1|United States|22|Utilities|2211192|Electric & other serv combined (other electric power generation)|1997|Reference year 1997|820|20 largest firms|35||1128349||99||109037||35806||2090|
+01000US|United States|1|United States|22|Utilities|2211192|Electric & other serv combined (other electric power generation)|1997|Reference year 1997|850|50 largest firms|44||1139389||100||110468||36161||2136|
+01000US|United States|1|United States|22|Utilities|22112|Electric power transmission, control, & distribution|1997|Reference year 1997|003|All firms|6190||195719916||100||22070406||5861147||415839|
+01000US|United States|1|United States|22|Utilities|22112|Electric power transmission, control, & distribution|1997|Reference year 1997|804|4 largest firms|813||34566363||17.7||4566704||1286980||74304|
+01000US|United States|1|United States|22|Utilities|22112|Electric power transmission, control, & distribution|1997|Reference year 1997|808|8 largest firms|1206||53429421||27.3||6417403||1772022||105838|
+01000US|United States|1|United States|22|Utilities|22112|Electric power transmission, control, & distribution|1997|Reference year 1997|820|20 largest firms|2286||97614463||49.9||11186885||3018893||191662|
+01000US|United States|1|United States|22|Utilities|22112|Electric power transmission, control, & distribution|1997|Reference year 1997|850|50 largest firms|3266||150617775||77||16907415||4566015||293831|
+01000US|United States|1|United States|22|Utilities|221121|Electric bulk power transmission & control|1997|Reference year 1997|003|All firms|120||955984||100||115706||31087||2418|
+01000US|United States|1|United States|22|Utilities|221121|Electric bulk power transmission & control|1997|Reference year 1997|804|4 largest firms|20||514249||53.8||47556||12643||992|
+01000US|United States|1|United States|22|Utilities|221121|Electric bulk power transmission & control|1997|Reference year 1997|808|8 largest firms|30||706841||73.9||61732||15960||1292|
+01000US|United States|1|United States|22|Utilities|221121|Electric bulk power transmission & control|1997|Reference year 1997|820|20 largest firms|46||905933||94.8||90506||24881||1825|
+01000US|United States|1|United States|22|Utilities|221121|Electric bulk power transmission & control|1997|Reference year 1997|850|50 largest firms|120||955984||100||115706||31087||2418|
+01000US|United States|1|United States|22|Utilities|2211211|Electric services (electric power transmission & control)|1997|Reference year 1997|003|All firms|99||523508||100||66484||18466||1639|
+01000US|United States|1|United States|22|Utilities|2211211|Electric services (electric power transmission & control)|1997|Reference year 1997|804|4 largest firms|18||287798||55||17476||4527||643|
+01000US|United States|1|United States|22|Utilities|2211211|Electric services (electric power transmission & control)|1997|Reference year 1997|808|8 largest firms|22||420926||80.4||34296||10338||957|
+01000US|United States|1|United States|22|Utilities|2211211|Electric services (electric power transmission & control)|1997|Reference year 1997|820|20 largest firms|39||516741||98.7||49655||14259||1267|
+01000US|United States|1|United States|22|Utilities|2211211|Electric services (electric power transmission & control)|1997|Reference year 1997|850|50 largest firms|99||523508||100||66484||18466||1639|
+01000US|United States|1|United States|22|Utilities|2211212|Electric & other serv combined (elec power transmsn & control)|1997|Reference year 1997|003|All firms|18||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211212|Electric & other serv combined (elec power transmsn & control)|1997|Reference year 1997|804|4 largest firms|13||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211212|Electric & other serv combined (elec power transmsn & control)|1997|Reference year 1997|808|8 largest firms|17||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211212|Electric & other serv combined (elec power transmsn & control)|1997|Reference year 1997|820|20 largest firms|18||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2211212|Electric & other serv combined (elec power transmsn & control)|1997|Reference year 1997|850|50 largest firms|18||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|221122|Electric power distribution|1997|Reference year 1997|003|All firms|6070||194763932||100||21954700||5830060||413421|
+01000US|United States|1|United States|22|Utilities|221122|Electric power distribution|1997|Reference year 1997|804|4 largest firms|813||34566363||17.7||4566704||1286980||74304|
+01000US|United States|1|United States|22|Utilities|221122|Electric power distribution|1997|Reference year 1997|808|8 largest firms|1205||53429421||27.4||6414108||1771030||105787|
+01000US|United States|1|United States|22|Utilities|221122|Electric power distribution|1997|Reference year 1997|820|20 largest firms|2280||97596820||50.1||11181304||3017367||191578|
+01000US|United States|1|United States|22|Utilities|221122|Electric power distribution|1997|Reference year 1997|850|50 largest firms|3259||150464199||77.3||16819355||4540561||293362|
+01000US|United States|1|United States|22|Utilities|2211221|Electric services (electric power distribution)|1997|Reference year 1997|003|All firms|4653||112894143||100||12580294||3357665||242347|
+01000US|United States|1|United States|22|Utilities|2211221|Electric services (electric power distribution)|1997|Reference year 1997|804|4 largest firms|1005||22475109||19.9||2606185||776406||46374|
+01000US|United States|1|United States|22|Utilities|2211221|Electric services (electric power distribution)|1997|Reference year 1997|808|8 largest firms|1273||39261388||34.8||4641778||1316126||84007|
+01000US|United States|1|United States|22|Utilities|2211221|Electric services (electric power distribution)|1997|Reference year 1997|820|20 largest firms|2159||70245803||62.2||7842432||2171325||140867|
+01000US|United States|1|United States|22|Utilities|2211221|Electric services (electric power distribution)|1997|Reference year 1997|850|50 largest firms|2744||90006781||79.7||10077927||2751412||182102|
+01000US|United States|1|United States|22|Utilities|2211222|Electric & other services combined (electric power distribution)|1997|Reference year 1997|003|All firms|1387||81442099||100||9322355||2455887||170396|
+01000US|United States|1|United States|22|Utilities|2211222|Electric & other services combined (electric power distribution)|1997|Reference year 1997|804|4 largest firms|174||28367719||34.8||3668584||953820||57766|
+01000US|United States|1|United States|22|Utilities|2211222|Electric & other services combined (electric power distribution)|1997|Reference year 1997|808|8 largest firms|301||42328439||52||4535709||1174145||72850|
+01000US|United States|1|United States|22|Utilities|2211222|Electric & other services combined (electric power distribution)|1997|Reference year 1997|820|20 largest firms|704||63983656||78.6||7114592||1886713||118469|
+01000US|United States|1|United States|22|Utilities|2211222|Electric & other services combined (electric power distribution)|1997|Reference year 1997|850|50 largest firms|1289||80654333||99||9207945||2428189||167773|
+01000US|United States|1|United States|22|Utilities|2211223|Other combination utilities (electric power distribution)|1997|Reference year 1997|003|All firms|30||427690||100||52051||16508||678|
+01000US|United States|1|United States|22|Utilities|2211223|Other combination utilities (electric power distribution)|1997|Reference year 1997|804|4 largest firms|8||411656||96.3||46711||15358||487|
+01000US|United States|1|United States|22|Utilities|2211223|Other combination utilities (electric power distribution)|1997|Reference year 1997|808|8 largest firms|12||419540||98.1||48438||15769||528|
+01000US|United States|1|United States|22|Utilities|2211223|Other combination utilities (electric power distribution)|1997|Reference year 1997|820|20 largest firms|24||427235||99.9||51908||16487||671|
+01000US|United States|1|United States|22|Utilities|2211223|Other combination utilities (electric power distribution)|1997|Reference year 1997|850|50 largest firms|30||427690||100||52051||16508||678|
+01000US|United States|1|United States|22|Utilities|2212|Natural gas distribution|1997|Reference year 1997|003|All firms|2747||136995356||100||5109542||1287668||102878|
+01000US|United States|1|United States|22|Utilities|2212|Natural gas distribution|1997|Reference year 1997|804|4 largest firms|241||46663259||34.1||712954||178374||12278|
+01000US|United States|1|United States|22|Utilities|2212|Natural gas distribution|1997|Reference year 1997|808|8 largest firms|560||66331770||48.4||1289570||330201||25100|
+01000US|United States|1|United States|22|Utilities|2212|Natural gas distribution|1997|Reference year 1997|820|20 largest firms|923||93969587||68.6||2001307||527096||38387|
+01000US|United States|1|United States|22|Utilities|2212|Natural gas distribution|1997|Reference year 1997|850|50 largest firms|1574||118152483||86.2||3879623||992688||76298|
+01000US|United States|1|United States|22|Utilities|22121|Natural gas distribution|1997|Reference year 1997|003|All firms|2747||136995356||100||5109542||1287668||102878|
+01000US|United States|1|United States|22|Utilities|22121|Natural gas distribution|1997|Reference year 1997|804|4 largest firms|241||46663259||34.1||712954||178374||12278|
+01000US|United States|1|United States|22|Utilities|22121|Natural gas distribution|1997|Reference year 1997|808|8 largest firms|560||66331770||48.4||1289570||330201||25100|
+01000US|United States|1|United States|22|Utilities|22121|Natural gas distribution|1997|Reference year 1997|820|20 largest firms|923||93969587||68.6||2001307||527096||38387|
+01000US|United States|1|United States|22|Utilities|22121|Natural gas distribution|1997|Reference year 1997|850|50 largest firms|1574||118152483||86.2||3879623||992688||76298|
+01000US|United States|1|United States|22|Utilities|221210|Natural gas distribution|1997|Reference year 1997|003|All firms|2747||136995356||100||5109542||1287668||102878|
+01000US|United States|1|United States|22|Utilities|221210|Natural gas distribution|1997|Reference year 1997|804|4 largest firms|241||46663259||34.1||712954||178374||12278|
+01000US|United States|1|United States|22|Utilities|221210|Natural gas distribution|1997|Reference year 1997|808|8 largest firms|560||66331770||48.4||1289570||330201||25100|
+01000US|United States|1|United States|22|Utilities|221210|Natural gas distribution|1997|Reference year 1997|820|20 largest firms|923||93969587||68.6||2001307||527096||38387|
+01000US|United States|1|United States|22|Utilities|221210|Natural gas distribution|1997|Reference year 1997|850|50 largest firms|1574||118152483||86.2||3879623||992688||76298|
+01000US|United States|1|United States|22|Utilities|2212101|Natural gas transmission & distribution (distribution)|1997|Reference year 1997|003|All firms|713||18266506||100||1534377||381259||29039|
+01000US|United States|1|United States|22|Utilities|2212101|Natural gas transmission & distribution (distribution)|1997|Reference year 1997|804|4 largest firms|99||8182364||44.8||478681||116665||8925|
+01000US|United States|1|United States|22|Utilities|2212101|Natural gas transmission & distribution (distribution)|1997|Reference year 1997|808|8 largest firms|273||12338947||67.5||867132||221845||16092|
+01000US|United States|1|United States|22|Utilities|2212101|Natural gas transmission & distribution (distribution)|1997|Reference year 1997|820|20 largest firms|644||16919286||92.6||1415589||349020||26706|
+01000US|United States|1|United States|22|Utilities|2212101|Natural gas transmission & distribution (distribution)|1997|Reference year 1997|850|50 largest firms|702||18257098||99.9||1533135||381003||29008|
+01000US|United States|1|United States|22|Utilities|2212102|Natural gas distribution|1997|Reference year 1997|003|All firms|1682||87105150||100||2955079||747581||62795|
+01000US|United States|1|United States|22|Utilities|2212102|Natural gas distribution|1997|Reference year 1997|804|4 largest firms|154||34731177||39.9||359405||88288||6549|
+01000US|United States|1|United States|22|Utilities|2212102|Natural gas distribution|1997|Reference year 1997|808|8 largest firms|376||46721961||53.6||740694||188996||16072|
+01000US|United States|1|United States|22|Utilities|2212102|Natural gas distribution|1997|Reference year 1997|820|20 largest firms|519||63270537||72.6||1327410||345085||26983|
+01000US|United States|1|United States|22|Utilities|2212102|Natural gas distribution|1997|Reference year 1997|850|50 largest firms|870||76600104||87.9||2255192||576346||46776|
+01000US|United States|1|United States|22|Utilities|2212103|Mixed, manufactured, or LP gas pro &/or dist (natural gas dist)|1997|Reference year 1997|003|All firms|86||0|D|0|D|0|D|0|D|0|g
+01000US|United States|1|United States|22|Utilities|2212103|Mixed, manufactured, or LP gas pro &/or dist (natural gas dist)|1997|Reference year 1997|804|4 largest firms|4||0|D|0|D|0|D|0|D|0|e
+01000US|United States|1|United States|22|Utilities|2212103|Mixed, manufactured, or LP gas pro &/or dist (natural gas dist)|1997|Reference year 1997|808|8 largest firms|9||0|D|0|D|0|D|0|D|0|e
+01000US|United States|1|United States|22|Utilities|2212103|Mixed, manufactured, or LP gas pro &/or dist (natural gas dist)|1997|Reference year 1997|820|20 largest firms|29||0|D|0|D|0|D|0|D|0|f
+01000US|United States|1|United States|22|Utilities|2212103|Mixed, manufactured, or LP gas pro &/or dist (natural gas dist)|1997|Reference year 1997|850|50 largest firms|68||0|D|0|D|0|D|0|D|0|g
+01000US|United States|1|United States|22|Utilities|2212104|Electric & other services combined (natural gas distribution)|1997|Reference year 1997|003|All firms|145||28110297||100||412733||104745||6704|
+01000US|United States|1|United States|22|Utilities|2212104|Electric & other services combined (natural gas distribution)|1997|Reference year 1997|804|4 largest firms|38||21832485||77.7||265389||65788||4006|
+01000US|United States|1|United States|22|Utilities|2212104|Electric & other services combined (natural gas distribution)|1997|Reference year 1997|808|8 largest firms|42||26804449||95.4||299027||72874||4419|
+01000US|United States|1|United States|22|Utilities|2212104|Electric & other services combined (natural gas distribution)|1997|Reference year 1997|820|20 largest firms|145||28110297||100||412733||104745||6704|
+01000US|United States|1|United States|22|Utilities|2212104|Electric & other services combined (natural gas distribution)|1997|Reference year 1997|850|50 largest firms|145||28110297||100||412733||104745||6704|
+01000US|United States|1|United States|22|Utilities|2212105|Gas & other services combined (natural gas distribution)|1997|Reference year 1997|003|All firms|119||2852525||100||148697||41810||3117|
+01000US|United States|1|United States|22|Utilities|2212105|Gas & other services combined (natural gas distribution)|1997|Reference year 1997|804|4 largest firms|35||1804145||63.2||50742||15078||986|
+01000US|United States|1|United States|22|Utilities|2212105|Gas & other services combined (natural gas distribution)|1997|Reference year 1997|808|8 largest firms|58||2366295||83||108773||31874||2089|
+01000US|United States|1|United States|22|Utilities|2212105|Gas & other services combined (natural gas distribution)|1997|Reference year 1997|820|20 largest firms|77||2781917||97.5||135693||38646||2721|
+01000US|United States|1|United States|22|Utilities|2212105|Gas & other services combined (natural gas distribution)|1997|Reference year 1997|850|50 largest firms|110||2851379||100||147765||41600||3081|
+01000US|United States|1|United States|22|Utilities|2213|Water, sewage, & other systems|1997|Reference year 1997|003|All firms|4831||5622732||100||1045370||257912||35300|
+01000US|United States|1|United States|22|Utilities|2213|Water, sewage, & other systems|1997|Reference year 1997|804|4 largest firms|135||1653747||29.4||256640||66435||5766|
+01000US|United States|1|United States|22|Utilities|2213|Water, sewage, & other systems|1997|Reference year 1997|808|8 largest firms|276||2253879||40.1||368327||95945||9063|
+01000US|United States|1|United States|22|Utilities|2213|Water, sewage, & other systems|1997|Reference year 1997|820|20 largest firms|363||3120899||55.5||534826||137532||13196|
+01000US|United States|1|United States|22|Utilities|2213|Water, sewage, & other systems|1997|Reference year 1997|850|50 largest firms|432||3745338||66.6||646578||165236||15951|
+01000US|United States|1|United States|22|Utilities|22131|Water supply & irrigation systems|1997|Reference year 1997|003|All firms|4052||4453835||100||825408||203319||27933|
+01000US|United States|1|United States|22|Utilities|22131|Water supply & irrigation systems|1997|Reference year 1997|804|4 largest firms|122||1623140||36.4||260782||68802||6152|
+01000US|United States|1|United States|22|Utilities|22131|Water supply & irrigation systems|1997|Reference year 1997|808|8 largest firms|180||2117125||47.5||335540||87301||7708|
+01000US|United States|1|United States|22|Utilities|22131|Water supply & irrigation systems|1997|Reference year 1997|820|20 largest firms|247||2802086||62.9||481375||123718||11221|
+01000US|United States|1|United States|22|Utilities|22131|Water supply & irrigation systems|1997|Reference year 1997|850|50 largest firms|300||3147040||70.7||549824||139874||13134|
+01000US|United States|1|United States|22|Utilities|221310|Water supply & irrigation systems|1997|Reference year 1997|003|All firms|4052||4453835||100||825408||203319||27933|
+01000US|United States|1|United States|22|Utilities|221310|Water supply & irrigation systems|1997|Reference year 1997|804|4 largest firms|122||1623140||36.4||260782||68802||6152|
+01000US|United States|1|United States|22|Utilities|221310|Water supply & irrigation systems|1997|Reference year 1997|808|8 largest firms|180||2117125||47.5||335540||87301||7708|
+01000US|United States|1|United States|22|Utilities|221310|Water supply & irrigation systems|1997|Reference year 1997|820|20 largest firms|247||2802086||62.9||481375||123718||11221|
+01000US|United States|1|United States|22|Utilities|221310|Water supply & irrigation systems|1997|Reference year 1997|850|50 largest firms|300||3147040||70.7||549824||139874||13134|
+01000US|United States|1|United States|22|Utilities|2213101|Water supply|1997|Reference year 1997|003|All firms|3721||4347227||100||800537||198099||26597|
+01000US|United States|1|United States|22|Utilities|2213101|Water supply|1997|Reference year 1997|804|4 largest firms|122||1623140||37.3||260782||68802||6152|
+01000US|United States|1|United States|22|Utilities|2213101|Water supply|1997|Reference year 1997|808|8 largest firms|180||2117125||48.7||335540||87301||7708|
+01000US|United States|1|United States|22|Utilities|2213101|Water supply|1997|Reference year 1997|820|20 largest firms|247||2802086||64.5||481375||123718||11221|
+01000US|United States|1|United States|22|Utilities|2213101|Water supply|1997|Reference year 1997|850|50 largest firms|303||3145060||72.3||549247||139704||13129|
+01000US|United States|1|United States|22|Utilities|2213102|Irrigation systems|1997|Reference year 1997|003|All firms|331||106608||100||24871||5220||1336|
+01000US|United States|1|United States|22|Utilities|2213102|Irrigation systems|1997|Reference year 1997|804|4 largest firms|10||18117||17||4180||947||158|
+01000US|United States|1|United States|22|Utilities|2213102|Irrigation systems|1997|Reference year 1997|808|8 largest firms|14||28364||26.6||5503||1178||211|
+01000US|United States|1|United States|22|Utilities|2213102|Irrigation systems|1997|Reference year 1997|820|20 largest firms|26||47994||45||10145||2109||405|
+01000US|United States|1|United States|22|Utilities|2213102|Irrigation systems|1997|Reference year 1997|850|50 largest firms|56||72021||67.6||16616||3568||681|
+01000US|United States|1|United States|22|Utilities|22132|Sewage treatment facilities|1997|Reference year 1997|003|All firms|696||595834||100||138967||34129||5600|
+01000US|United States|1|United States|22|Utilities|22132|Sewage treatment facilities|1997|Reference year 1997|804|4 largest firms|110||217385||36.5||58719||14925||2191|
+01000US|United States|1|United States|22|Utilities|22132|Sewage treatment facilities|1997|Reference year 1997|808|8 largest firms|116||292509||49.1||70356||18655||2663|
+01000US|United States|1|United States|22|Utilities|22132|Sewage treatment facilities|1997|Reference year 1997|820|20 largest firms|139||361022||60.6||83689||21610||3047|
+01000US|United States|1|United States|22|Utilities|22132|Sewage treatment facilities|1997|Reference year 1997|850|50 largest firms|177||441661||74.1||100350||25311||3548|
+01000US|United States|1|United States|22|Utilities|221320|Sewage treatment facilities|1997|Reference year 1997|003|All firms|696||595834||100||138967||34129||5600|
+01000US|United States|1|United States|22|Utilities|221320|Sewage treatment facilities|1997|Reference year 1997|804|4 largest firms|110||217385||36.5||58719||14925||2191|
+01000US|United States|1|United States|22|Utilities|221320|Sewage treatment facilities|1997|Reference year 1997|808|8 largest firms|116||292509||49.1||70356||18655||2663|
+01000US|United States|1|United States|22|Utilities|221320|Sewage treatment facilities|1997|Reference year 1997|820|20 largest firms|139||361022||60.6||83689||21610||3047|
+01000US|United States|1|United States|22|Utilities|221320|Sewage treatment facilities|1997|Reference year 1997|850|50 largest firms|177||441661||74.1||100350||25311||3548|
+01000US|United States|1|United States|22|Utilities|22133|Steam & air-conditioning supply|1997|Reference year 1997|003|All firms|83||573063||100||80995||20464||1767|
+01000US|United States|1|United States|22|Utilities|22133|Steam & air-conditioning supply|1997|Reference year 1997|804|4 largest firms|21||281222||49.1||41601||10886||885|
+01000US|United States|1|United States|22|Utilities|22133|Steam & air-conditioning supply|1997|Reference year 1997|808|8 largest firms|32||369332||64.4||49459||12801||1086|
+01000US|United States|1|United States|22|Utilities|22133|Steam & air-conditioning supply|1997|Reference year 1997|820|20 largest firms|46||502287||87.6||67550||17170||1442|
+01000US|United States|1|United States|22|Utilities|22133|Steam & air-conditioning supply|1997|Reference year 1997|850|50 largest firms|76||572728||99.9||80882||20444||1761|
+01000US|United States|1|United States|22|Utilities|221330|Steam & air-conditioning supply|1997|Reference year 1997|003|All firms|83||573063||100||80995||20464||1767|
+01000US|United States|1|United States|22|Utilities|221330|Steam & air-conditioning supply|1997|Reference year 1997|804|4 largest firms|21||281222||49.1||41601||10886||885|
+01000US|United States|1|United States|22|Utilities|221330|Steam & air-conditioning supply|1997|Reference year 1997|808|8 largest firms|32||369332||64.4||49459||12801||1086|
+01000US|United States|1|United States|22|Utilities|221330|Steam & air-conditioning supply|1997|Reference year 1997|820|20 largest firms|46||502287||87.6||67550||17170||1442|
+01000US|United States|1|United States|22|Utilities|221330|Steam & air-conditioning supply|1997|Reference year 1997|850|50 largest firms|76||572728||99.9||80882||20444||1761|

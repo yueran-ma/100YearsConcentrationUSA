@@ -1,0 +1,27 @@
+DE_NAME|DISP_LABEL|DATA_TYPE|MAX_LEN|DECIMAL_PLACES|DE_TYPE|IB_TYPE|FLAG_DE_NAME|MEANING_TABLE_NAME
+GEO_ID|AFF Geographic Identifier|CHARACTER|60|0|G|||META0422
+GEOGRAPHY|Geographic Area|CHARACTER|1000|0||||
+GEOTYPE|Type of geography flag|CHARACTER|1|0|G|||META0500
+GEOTYPE_MEANING|Meaning of Type of geography flag|CHARACTER|4000|0||||
+SECTOR|NAICS economic sector code|CHARACTER|2|0|I|||META0500
+SECTOR_MEANING|Meaning of NAICS economic sector code|CHARACTER|4000|0||||
+OPTYPE|Type of operation|CHARACTER|2|0|R|||META0500
+OPTYPE_MEANING|Meaning of Type of operation|CHARACTER|4000|0||||
+NAICS|1997 NAICS code|CHARACTER|8|0|I|NAICS||META1422
+NAICS_MEANING|Meaning of 1997 NAICS code|CHARACTER|255|0||||
+YEAR|Year|CHARACTER|4|0|O|||META0500
+YEAR_MEANING|Meaning of Year|CHARACTER|4000|0||||
+CONCENFI|Concentration ratio code|CHARACTER|3|0|X|||META0500
+CONCENFI_MEANING|Meaning of Concentration ratio code|CHARACTER|4000|0||||
+ESTAB|Number of establishments|NUMBER|9|0|D||ESTABF|
+ESTABF|Number of establishments|CHARACTER|3|0|F|||META0500
+ECVALUE|Sales ($1,000)|NUMBER|11|0|D||ECVALUEF|
+ECVALUEF|Sls, shps, rcpts, rev ($1,000)|CHARACTER|3|0|F|||META0500
+VALPCT|% sls, etc of largest firms|NUMBER|5|1|D||VALPCTF|
+VALPCTF|% sls, etc of largest firms|CHARACTER|3|0|F|||META0500
+PAY|Annual payroll ($1,000)|NUMBER|10|0|D||PAYF|
+PAYF|Annual payroll ($1,000)|CHARACTER|3|0|F|||META0500
+PAY1Q|First quarter payroll ($1,000)|NUMBER|10|0|D||PAY1QF|
+PAY1QF|First quarter payroll ($1,000)|CHARACTER|3|0|F|||META0500
+EMP|Number of employees|NUMBER|9|0|D||EMPF|
+EMPF|Number of employees|CHARACTER|3|0|F|||META0500

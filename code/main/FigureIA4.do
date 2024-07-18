@@ -47,12 +47,11 @@ twoway	(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: Appa
 		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: Food", msize(medsmall) msymbol(x)) ///
 		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: Furniture", msize(small) msymbol(D)) ///
 		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: General Merchandise", msize(medsmall) msymbol(x)) ///
-		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: Miscellaneous", msize(medsmall) msymbol(x)) ///
-		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Wholesale", msize(medsmall) msymbol(x)), ///
+		(connected tsh_assets_ipol_1pct year if subsector == "Trade: Retail: Miscellaneous", msize(medsmall) msymbol(x)), ///
 		ytitle("Top 1% Asset Share") xtitle("") ///
 		ylabel(0 "0" 0.2 "0.2" 0.4 "0.4" 0.6 "0.6" 0.8 "0.8" 1 "1.0") xlabel(1940(10)2010) /// 
 		legend(label(1 "Apparel") label(2 "Automotive") label(3 "Building Materials") label(4 "Restaurants") ///
-		label(5 "Food Stores") label(6 "Furniture") label(7 "General Merchandise") label(8 "Miscellaneous") label(9 "Wholesale") ///
-		order(3 1 2 4 5 6 7 8 9) cols(3) symxsize(0.6*) region(lwidth(none))) 
+		label(5 "Food Stores") label(6 "Furniture") label(7 "General Merchandise") label(8 "Miscellaneous") ///
+		order(3 1 2 4 5 6 7 8) cols(3) symxsize(0.6*) region(lwidth(none))) 
 graph export "$FIGURE/FigureIA4_PanelB.pdf", replace
 

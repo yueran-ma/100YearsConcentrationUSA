@@ -68,7 +68,7 @@ foreach y of local years {
 		merge m:1 year using "`popadj_1980'", nogen
 		
 		keep if 					sector_main	 		== "`s'"
-		bysort type year: gen 		d 			 		= 1 							if _n ==1
+		bysort type year: gen 		d 			 		= 1 							if _n == 1
 		keep if 					d 					== 1 
 		sort year
 		by year: egen double		temp 				= sum(number_total)
@@ -124,7 +124,7 @@ foreach y of local years {
 			// Additional thresholds
 			gen double 				p_top500 			= round(1 - (500 / number_total), 0.0000000001)
 			replace 				p_top500 			= 1 							if number_total < 500
-			gen double 				p_top5000 			= 1- (5000 / number_total)
+			gen double 				p_top5000 			= 1 - (5000 / number_total)
 			replace 				p_top5000 			= 1 							if number_total < 5000
 			gen double 				p_top500pop 		= round(1 - (number_top500pop / number_total), 0.0000000001)
 			replace 				p_top500pop 		= 1 							if number_total < number_top500pop
@@ -183,7 +183,7 @@ foreach y of local years {
 			cap replace 			varname 		= "_5000in1980" 					if float(p) == float(p_top5000in1980) & pct == .
 			
 			drop 					p pct p_* number_total
-			keep if 				varname 		!=""
+			keep if 				varname 		!= ""
 			
 			// Reshape to create time series structure
 			reshape wide 			top_share, 		i(year) j(varname) string
@@ -201,10 +201,10 @@ foreach y of local years {
 
 
 // Identify failed interpolations and set values to missing (too few brackets)
-gen 					n 					= 1 								if tables =="Combined"
-replace 				n 					= 2 								if tables =="Corporations"
-replace 				n 					= 3 								if tables =="Partnerships"
-replace 				n 					= 4 								if tables =="Sole Proprietorships"
+gen 					n 					= 1 								if tables == "Combined"
+replace 				n 					= 2 								if tables == "Corporations"
+replace 				n 					= 3 								if tables == "Partnerships"
+replace 				n 					= 4 								if tables == "Sole Proprietorships"
 
 sort 					n year sector_main
 gen 					issues 				= 1 								if top_share_1pct[_n] == top_share_1pct[_n-1]
@@ -282,9 +282,9 @@ foreach y of local years{
 		gen 					type 				= "combined"
 		
 		// Additional thresholds
-		gen double 				p_top500 			= round(1- (500 / number_total_all), 0.0000000001)
+		gen double 				p_top500 			= round(1 - (500 / number_total_all), 0.0000000001)
 		replace 				p_top500 			= 1 							if number_total_all < 500
-		gen double 				p_top5000 			= 1- (5000 / number_total_all)
+		gen double 				p_top5000 			= 1 - (5000 / number_total_all)
 		replace 				p_top5000 			= 1 							if number_total_all < 5000	
 
 		keep if 				year 				== `y'	
@@ -316,7 +316,7 @@ foreach y of local years{
 			// Additional thresholds
 			gen double 			p_top500 			= round(1 - (500 / number_total), 0.0000000001)
 			replace 			p_top500 			= 1 							if number_total < 500
-			gen double 			p_top5000 			= 1- (5000 / number_total)
+			gen double 			p_top5000 			= 1 - (5000 / number_total)
 			replace 			p_top5000 			= 1 							if number_total < 5000
 
 			// Create variables for gpinter
@@ -365,7 +365,7 @@ foreach y of local years{
 			replace 			varname 			= "_5000firms" 					if float(p) == float(p_top5000) & pct == 2
 			
 			drop 				p pct p_*
-			keep if 			varname 			!=""
+			keep if 			varname 			!= ""
 			
 			// Reshape to create time series structure
 			reshape wide 		top_share invpareto, i(year) j(varname) string
@@ -436,7 +436,7 @@ save 			"`sector_concent_assets'"
 
 // Run interpolation
 local years
-forvalues i = 1931/2013 {
+forvalues i = 1931 / 2013 {
 	local years `years' "`i'"
 }
 local sectors All Agriculture Construction Finance Manufacturing Mining Services Trade Utilities 
@@ -458,9 +458,9 @@ foreach y of local years {
 		replace 		p 				= pctile[_n-1] + p[_n-1] 					if _n > 1
 		
 		// Additional thresholds
-		gen double 		p_top500 		= 1- (500 / number_total)
+		gen double 		p_top500 		= 1 - (500 / number_total)
 		replace 		p_top500 		= 0 										if number_total <= 500
-		gen double 		p_top5000 		= 1- (5000 / number_total)
+		gen double 		p_top5000 		= 1 - (5000 / number_total)
 		replace 		p_top5000 		= 0 										if number_total <= 5000
 		
 		// Create variables for gpinter
@@ -492,7 +492,7 @@ foreach y of local years {
 		
 		gen 			pct				= 1 										if _n <= 127
 		replace 		pct 			= 2 										if _n > 127 & _n <= 129 & number_total > 5000 & number_total != .
-		replace 		pct				= 2 										if _n > 127 & _n <= 128 & number_total > 500 & number_total !=.
+		replace 		pct				= 2 										if _n > 127 & _n <= 128 & number_total > 500 & number_total != .
 
 		gen 			varname 		= ""
 		replace 		varname 		= "_50pct" 									if p == 0.5 & pct == 1
@@ -502,7 +502,7 @@ foreach y of local years {
 		replace 		varname 		= "_500firms" 								if p == p_top500 & pct == 2
 		replace 		varname 		= "_5000firms" 								if p == p_top5000 & pct == 2
 		drop 			p pct p_*
-		keep if 		varname 		!=""
+		keep if 		varname 		!= ""
 		
 		// Reshape to create time series structure
 		reshape wide	top_share, i(year) j(varname) string
@@ -554,10 +554,10 @@ foreach y of local years{
 	foreach s of local sectors {
 		
 		use "$OUTPUT/soi/brackets/sector_brackets_receipts_R5.dta", clear
-		merge m:1 sector_main year using "$DATA/soi/digitized/noncorp_totals_R5.dta", keep(1 3 4 5) update gen(merge1) keepusing(number_*)
+		merge m:1 sector_main year using "$DATA/soi/digitized/noncorp_totals_R5.dta", keep(1 3) gen(merge1) keepusing(number_*)
 
 		keep if 					sector_main 		== "`s'"
-		drop if 					number 				==.
+		drop if 					number 				== .
 		sort 						year sector_main thres_low
 
 		// Additional thresholds
@@ -568,7 +568,6 @@ foreach y of local years{
 		
 		// Top X% in corp matched to correspond to the 1980 percentile of top 5000 in all
 		sort 						sector_main
-		gen double					number_total_all 	= number_total_corp + number_total_prop_nonfarm + number_total_part
 		gen double					temp_p_top5000 		= 1 - (5000 / number_total_all) if year == 1980
 		by sector_main: egen double	p_top5000in1980all 	= mean(temp_p_top5000)
 		replace 					p_top5000in1980all 	= 0 							if number_total <= 5000
@@ -602,7 +601,7 @@ foreach y of local years{
 		
 		// Keep vars that are constant 
 		keep 						year sector_main p_top500 p_top5000 p_top5000in1980all number_total
-		keep if 					_n ==1
+		keep if 					_n == 1
 
 		// Import distribution and keep key statistics
 		cross using "$OUTPUT/temp/tabulation-output.dta"
@@ -771,7 +770,7 @@ rename 	top_share_5000firms 			tsh_assets_ipol_5000firms
 
 keep 	sector_main year tsh*
 
-merge 1:1 sector_main year using "`sector_concent_receipts'", nogen keepusing(top_share_* )
+merge 1:1 sector_main year using "`sector_concent_receipts'", nogen keepusing(top_share_*)
 
 rename 	top_share_0_1pct 				tsh_receipts_ipol_0_1pct
 rename 	top_share_1pct 					tsh_receipts_ipol_1pct
@@ -833,11 +832,10 @@ restore
 
 keep 	sector_main year tsh_receipts_ipol_500firms tsh_receipts_ipol_5000firms tsh_receipts_ipol_5000in1980all tsh_assets_ipol_500firms tsh_assets_ipol_5000firms 
 
-// Adjust to include estimated corp + noncorp in denominator 
-merge 1:1 sector_main year using "$DATA/soi/digitized/noncorp_totals_R5.dta", nogen
 merge 1:1 sector_main year using "`sector_type_concent_assets'", nogen
 
-gen corpsh									= receipts_total_corp / (receipts_total_corp + receipts_total_part + receipts_total_prop_nonfarm)
+// Adjust to include estimated corp + noncorp in denominator 
+merge 1:1 sector_main year using "$DATA/soi/digitized/noncorp_totals_R5.dta", nogen keep(1 3) keepusing(corpsh)
 
 gen tsh_Areceipts_ipol_500firms 			= tsh_receipts_ipol_500firms * corpsh
 gen tsh_Areceipts_ipol_5000firms 			= tsh_receipts_ipol_5000firms * corpsh

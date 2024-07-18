@@ -112,7 +112,7 @@ encode bracket_deletion, gen(ind_bracket_deletion)
 bysort sector_main year tables thres_low: egen 				temp = max(ind_bracket_deletion)
 bysort sector_main year tables thres_low: egen 				temp_total = max(ind_bracket_deletion_total)
 replace 													bracket_deletion_total = "yes" 	if temp_total == 2
-replace 													bracket_deletion = "yes" 		if temp ==2
+replace 													bracket_deletion = "yes" 		if temp == 2
 drop 														temp temp_total ind_bracket_deletion ind_bracket_deletion_total
 
 // Main sector totals
@@ -121,12 +121,12 @@ foreach var of local vars {
     
 	* Sum over sectors to have data for main sectors
 	bysort sector_main year tables thres_low: egen double 	`var'_total_temp = total(`var'_total)
-	replace 												`var'_total = `var'_total_temp 	if `var'_total_temp !=0
+	replace 												`var'_total = `var'_total_temp 	if `var'_total_temp != 0
 	drop 													`var'_total_temp 
 	
 	bysort sector_main year tables thres_low: egen double 	`var'_temp = total(`var')
-	replace 												`var' = `var'_temp 				if `var'_temp !=0 
-	replace 												`var' = . 						if bracket_deletion =="yes"
+	replace 												`var' = `var'_temp 				if `var'_temp != 0 
+	replace 												`var' = . 						if bracket_deletion == "yes"
 	drop 													`var'_temp
 	
 	

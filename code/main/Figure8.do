@@ -28,7 +28,7 @@ sort sector_main year
 // All 
 twoway 	(line tsh_assets_ipol_0_1pct tsh_Aassets_ipol_5000firms year, ///
 		lpattern(solid dash) lwidth(medthick medthick) color(eltblue navy)) ///
-		(scatter tsh_Aassets_ipol_5000firmscomb year, msymbol(D) msize( medsmall) color( navy)) if sector_main == "All" & year >= 1945 & year <= 2013, ///
+		(scatter tsh_Aassets_ipol_5000firmscomb year, msymbol(D) msize(medsmall) color(navy)) if sector_main == "All" & year >= 1945 & year <= 2013, ///
 		ytitle("Share") xtitle("") title("All (N=5,000)") ///
 		ylabel(0.4(0.1)0.9, format(%03.1f)) xlabel(1950(10)2010) yscale(range(0.36 0.9)) ///
 		legend(label(1 "Top 0.1% Corps in Corp") label(2 "Top N Corps in All") label(3 "Top N Corps and Partnerships in All") order(2 3 1) symxsize(*0.6)) ///

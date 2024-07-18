@@ -100,7 +100,7 @@ drop 																			if thres_low == "Total"
 destring 										thres_low, replace
 
 * In 1963 no business receipts for finance and no total receipts for the other sectors are given. We impute this using the aggregate sector level ratio of business to total receipts.
-gen double 										ratio = breceipts_total/ treceipts_total 
+gen double 										ratio = breceipts_total / treceipts_total 
 replace 										treceipts = breceipts / ratio 	if sector_main != "Finance" & year == 1963
 replace											breceipts = treceipts * ratio 	if sector_main == "Finance" & year == 1963
 				
@@ -196,12 +196,12 @@ sort 											sector_main year thres_low
 gen double										av = size / number
 
 * Case average is above the threshold (more common)
-by sector_main year: gen 						d_temp = 1 						if av[_n] > thres_low[_n+1] & av != . & av[_n+1]!= .  & av[_n+1] != 0
-by sector_main year: gen 						d_temp2 = 1 					if av[_n-1] > thres_low[_n] & av[_n-1] != . & av[_n]!=.  & av[_n] != 0
+by sector_main year: gen 						d_temp = 1 						if av[_n] > thres_low[_n+1] & av != . & av[_n+1] != .  & av[_n+1] != 0
+by sector_main year: gen 						d_temp2 = 1 					if av[_n-1] > thres_low[_n] & av[_n-1] != . & av[_n] != .  & av[_n] != 0
 
 
 * Case average is below the threshold (less common)
-by sector_main year: gen 						d_temp3 = 1 					if av[_n] < thres_low[_n] & av != . & av[_n]!= .  & av[_n] != 0
+by sector_main year: gen 						d_temp3 = 1 					if av[_n] < thres_low[_n] & av != . & av[_n] != .  & av[_n] != 0
 by sector_main year: gen 						d_temp4 = 1 					if av[_n+1] < thres_low[_n+1] & av[_n+1] != . & av[_n+1] != .  & av[_n+1] != 0
 
 gen 											d_comb = 1 						if d_temp == 1 | d_temp2 == 1 | d_temp3 == 1 | d_temp4 == 1

@@ -27,7 +27,7 @@ save 		"`manufacturing_concent_assets'"
 
 
 // Run interpolation
-forvalues i = 1931/1980 {
+forvalues i = 1931 / 1980 {
 	local years `years' "`i'"
 }
 local sectors Manufacturing
@@ -120,8 +120,8 @@ save 			"`manufacturing_concent_assets'", replace
 
 // Create file
 clear all
-gen 			year =.
-gen 			sector_main =""
+gen 			year = .
+gen 			sector_main = ""
 tempfile 		manufacturing_concent_ninc	
 save 			"`manufacturing_concent_ninc'"
 

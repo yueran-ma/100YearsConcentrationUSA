@@ -164,17 +164,17 @@ gen double 				tsh_ninc_ipol_100firms_adj = tsh_ninc_ipol_100firms * msh_va_ipol
 
 // Chandler series: scale by total corp assets and adjust for noncorporates
 *use baseline soi for denominator
-gen double 				ratio_chandler_top100adj = chandler_top100 / assets_total*msh_va_ipol * 10000 
+gen double 				ratio_chandler_top100adj = chandler_top100 * 10000 * msh_va_ipol / assets_total  
 *use early total for manufacturing 
-replace 				ratio_chandler_top100adj = chandler_top100 / assets_Manufacturing_lipol*msh_va_ipol * 10000			if ratio_chandler_top100adj == .  
+replace 				ratio_chandler_top100adj = chandler_top100 * 10000 * msh_va_ipol / assets_Manufacturing_lipol  		if ratio_chandler_top100adj == .  
 *before 1921 use early total for industrial and manufacturing share estimate (0.82 from capital stock)
-replace 				ratio_chandler_top100adj = chandler_top100 / (assets_Industrials_lipol*0.82) * msh_va_ipol * 10000	if ratio_chandler_top100adj == . 
+replace 				ratio_chandler_top100adj = chandler_top100 * 10000 * msh_va_ipol / (assets_Industrials_lipol*0.82)  if ratio_chandler_top100adj == . 
 
 // Collins-Preston series: scale by total corp assets and adjust for noncorporates
 *use baseline soi for denominator
-gen double 				ratio_cp_top100adj = cp_top100 / assets_total_Industrials * msh_va_ipol *10000 
+gen double 				ratio_cp_top100adj = cp_top100 * 10000 * msh_va_ipol / assets_total_Industrials  
 *use early total for industrials
-replace 				ratio_cp_top100adj = cp_top100 / assets_Industrials_lipol * msh_va_ipol *10000 						if ratio_cp_top100adj == .
+replace 				ratio_cp_top100adj = cp_top100 * 10000 * msh_va_ipol / assets_Industrials_lipol   					if ratio_cp_top100adj == .
 
 // Plot
 twoway 	(connected tsh_ninc_ipol_100firms_adj year, color(midgreen) msize(medsmall) cmissing(no)) ///

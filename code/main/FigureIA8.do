@@ -50,7 +50,7 @@ local snum : word count `s_list'
 
 local allnames ""
 
-forvalues i = 1/`snum'{
+forvalues i = 1 / `snum' {
 	local s : word `i' of `s_list'
 	local sn : word `i' of `s_name'
 	local yt : word `i' of `ytlist'
@@ -58,7 +58,7 @@ forvalues i = 1/`snum'{
 	local yl: word `i' of `ylabs'
 	
 	twoway	(line tsh_receipts_ipol_5000in1980 year, lpattern(solid shortdash dash) ///
-			lwidth(medthick medium medthick) color( eltblue navy navy)) ///
+			lwidth(medthick medium medthick) color(eltblue navy navy)) ///
 			(scatter top_share_5000in1980 top_share_5000firms year, msymbol(T D) msize(small small) color(eltblue navy)) ///
 			if sector_main == "`s'" & year >= 1959 & year <= 2013, ///
 			ytitle("`yt'", size(`size')) xtitle("", size(`size')) title(`sn', size(`size2')) ///

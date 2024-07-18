@@ -61,8 +61,8 @@ gen 														ind_zero = 1 		if thres_low == "less"
 replace 													ind_zero = 1 		if thres_low == "0"
 replace 													assets = 0 			if thres_low == "less" // Firms in liquidation; not key for numerator
 
-replace 													thres_low ="0" 		if thres_low == "less"
-replace 													thres_high ="1" 	if thres_high == "0"
+replace 													thres_low = "0" 		if thres_low == "less"
+replace 													thres_high = "1" 	if thres_high == "0"
 
 // Compute their totals
 local vars number assets

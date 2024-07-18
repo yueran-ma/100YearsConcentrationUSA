@@ -8,20 +8,19 @@ set type double
 
 ***** Rscript settings *****
 
-* Find your Rscript path: file.path(R.home("bin"), "Rscript"). 
-
+// Find your Rscript path: file.path(R.home("bin"), "Rscript")
 if ("`c(username)'" == "yueranma") |  ("`c(username)'" == "Yueran Ma") {
 	global		Rdirscript		"C:/PROGRA~1/R/R-43~1.1/bin/x64/Rscript"
 }
 else {
 	global		Rdirscript		"C:/Users/Zimmermann-K/AppData/Local/Programs/R/R-4.3.1/bin/x64/Rscript"
 }
-* global Rdirscript "C:\Program Files\R\R-4.3.1\bin\x64\Rscript.exe" 
+* global Rdirscript "C:\Program Files\R\R-4.3.1\bin\x64\Rscript" 
 
 
 ***** Paths *****
 
-* Paths relative to code/clean and code/main folder
+// Paths relative to code/clean and code/main folder
 global DATA 	"../../input"
 global OUTPUT 	"../../output"
 global FIGURE 	"../../figures"
@@ -58,10 +57,10 @@ do 				compute_concentration_manufacturing.do
 do 				compute_concentration_robustness.do
 do 				compute_concentration_subsector.do
 
-/* Combine Stata datasets into a joint excel spreadsheet */
+/* Combine Stata datasets into excel spreadsheets */
 do 				generate_excel.do
 
-/* External datasets */
+/* Clean external datasets */
 do 				BEA_profit.do
 do				clean_census_9712.do
 python script	fof.py

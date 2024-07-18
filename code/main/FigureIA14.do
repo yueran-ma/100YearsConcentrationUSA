@@ -43,7 +43,7 @@ label var profitability "Net Income (SOI)/Receipts (SOI)"
 label var profitability_bea "Net Income (BEA)/Receipts (SOI)"
 
 twoway	(line profitability year) ///
-		(line profitability_bea year, lp(dash) lcolor(midblue) ) if  profitability != ., ///
+		(line profitability_bea year, lp(dash) lcolor(midblue)) if  profitability != ., ///
 		ytitle("") xtitle("") xlabel(1930(20)2010) ylabel(-0.05 "-0.05" 0 "0" 0.05 "0.05" 0.1 "0.1" 0.15 "0.15", format(%03.2f)) legend(colgap(*1.5))
 graph export "$FIGURE/FigureIA14.pdf", replace 
  

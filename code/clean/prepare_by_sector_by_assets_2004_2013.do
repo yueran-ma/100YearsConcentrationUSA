@@ -8,13 +8,6 @@
 
 clear all
 
-set matsize 11000
-set more off, permanently
-
-global DATA 	"../../input"
-global OUTPUT 	"../../output"
-
-
 *========== 2004-2013 (csv files from IRS website) ===============
 
 clear
@@ -29,11 +22,11 @@ foreach i of local list {
 
 	import delimited "$DATA/soi/source_book/`i'sbfltfile/20`i'sb1.csv", clear 
 	// Keep all 1, 2 and 3 digit NAICS
-	keep if indy_cd<1000 | (indy_cd >= 211110 & indy_cd <=213110) ///
-		 | (indy_cd >= 551111 & indy_cd <=551112) 				  ///
-		 | (indy_cd >= 532100 & indy_cd <=532400) 				  ///
-		 | (indy_cd >= 221100 & indy_cd <=221500) 				  ///
-		 | (indy_cd >= 481000 & indy_cd <=483000)
+	keep if indy_cd < 1000 | (indy_cd >= 211110 & indy_cd <= 213110) ///
+		 | (indy_cd >= 551111 & indy_cd <= 551112) 				  ///
+		 | (indy_cd >= 532100 & indy_cd <= 532400) 				  ///
+		 | (indy_cd >= 221100 & indy_cd <= 221500) 				  ///
+		 | (indy_cd >= 481000 & indy_cd <= 483000)
 
 	tostring indy_cd, gen(ID)
 	cap drop if indy_cd == 900 // Other
@@ -41,7 +34,7 @@ foreach i of local list {
 	cap drop if indy_cd == 551 // Subsector name == sector name
 
 	merge m:1 ID using "$OUTPUT/temp/sector_list_NAICS_3digit_uniqueID.dta", assert(2 3) gen(m3) keepusing(sector_final sector_level sector_ID sector_main_ID indcode)
-	keep if m3 ==3  
+	keep if m3 == 3  
 	drop m3
 
 	// Keep variables we need 

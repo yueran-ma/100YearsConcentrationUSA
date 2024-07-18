@@ -10,22 +10,13 @@
 clear all
 
 
-******************************************************
-* set graph style
-set scheme s2color
-grstyle init
-grstyle set plain, horizontal grid
-grstyle set legend 6, nobox
-grstyle set symbol
-******************************************************
-
 /* Pre tax profits with IVA and CCAdj */
 
 // 1929-1948 
 import excel "$DATA/bea/BEAbyInd_profits.xlsx", sheet("29_47") cellrange(C9:U9) clear  
 
 local t = 1929
-foreach v of varlist C-U {
+foreach v of varlist C - U {
 	rename `v' NINC`t'
 	local t = `t' + 1
 }
@@ -43,7 +34,7 @@ save "`NINCpart1'"
 import excel "$DATA/bea/BEAbyInd_profits.xlsx", sheet("48_87") cellrange(C9:AP9) clear  
 
 local t = 1948
-foreach v of varlist C-AP {
+foreach v of varlist C - AP {
 	rename `v' NINC`t'
 	local t = `t' + 1
 }
@@ -63,7 +54,7 @@ save "`NINCpart2'"
 import excel "$DATA/bea/BEAbyInd_profits.xlsx", sheet("87_00") cellrange(C9:P9) clear  
 
 local t = 1987
-foreach v of varlist C-P {
+foreach v of varlist C - P {
 	rename `v' NINC`t'
 	local t = `t' + 1
 }
@@ -83,7 +74,7 @@ save "`NINCpart3'"
 import excel "$DATA/bea/BEAbyInd_profits.xlsx", sheet("98_23") cellrange(C9:AB9) clear  
 
 local t = 1998
-foreach v of varlist C-AB {
+foreach v of varlist C - AB {
 	rename `v' NINC`t'
 	local t = `t' + 1
 }
@@ -99,7 +90,7 @@ save "`NINCpart4'"
 
 //Combine
 clear
-forvalues k = 1/4 {
+forvalues k = 1 / 4 {
 	append using "`NINCpart`k''"
 }
 

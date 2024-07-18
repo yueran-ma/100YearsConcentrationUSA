@@ -53,7 +53,7 @@ local imargin_gap 10
 local margin_first 1.25 
 local margin_other 1.25
 
-forvalues i = 1/`snum' {
+forvalues i = 1 / `snum' {
     local s : word `i' of `s_list'
     local is_first_in_row = mod(`i' - 1, `ncols') == 0
 

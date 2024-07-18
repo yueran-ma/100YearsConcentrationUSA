@@ -24,7 +24,7 @@ tempfile 	subsector_BEA_concent
 save 		"`subsector_BEA_concent'"	
 
 
-forvalues i = 1931/2013 {
+forvalues i = 1931 / 2013 {
 	local years `years' "`i'"
 }
 
@@ -154,7 +154,7 @@ gen 		subsector 		= ""
 tempfile 	subsector_concent	
 save 		"`subsector_concent'"	
 
-forvalues i = 1931/2013 {
+forvalues i = 1931 / 2013 {
 	local years `years' "`i'"
 }
 

@@ -19,13 +19,6 @@
 
 clear all
 
-set matsize 11000
-set more off, permanently
-
-global DATA 	"../../input"
-global OUTPUT 	"../../output"
-
-
 
 ********************************************
 *======== Prepare sector assignment 
@@ -102,36 +95,36 @@ save 			"`source_book_NA'"
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y65_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 = subinstr(v1, "{", "0",.) 
-replace v1 = subinstr(v1, "A", "1",.) 
-replace v1 = subinstr(v1, "B", "2",.) 
-replace v1 = subinstr(v1, "C", "3",.) 
-replace v1 = subinstr(v1, "D", "4",.)
-replace v1 = subinstr(v1, "E", "5",.) 
-replace v1 = subinstr(v1, "F", "6",.) 
-replace v1 = subinstr(v1, "G", "7",.) 
-replace v1 = subinstr(v1, "H", "8",.) 
-replace v1 = subinstr(v1, "I", "9",.) 
+replace v1 = subinstr(v1, "{", "0", .) 
+replace v1 = subinstr(v1, "A", "1", .) 
+replace v1 = subinstr(v1, "B", "2", .) 
+replace v1 = subinstr(v1, "C", "3", .) 
+replace v1 = subinstr(v1, "D", "4", .)
+replace v1 = subinstr(v1, "E", "5", .) 
+replace v1 = subinstr(v1, "F", "6", .) 
+replace v1 = subinstr(v1, "G", "7", .) 
+replace v1 = subinstr(v1, "H", "8", .) 
+replace v1 = subinstr(v1, "I", "9", .) 
 
 gen year = "1965"
 gen minor_industry_1963_1967 = substr(v1, 1, 4)
 gen asset_size 		= substr(v1, 5, 2)
 gen file_type 		= substr(v1, 7, 1)
-gen number 			= substr(v1,21,10)
-gen assets 			= substr(v1,65,10)
+gen number 			= substr(v1, 21, 10)
+gen assets 			= substr(v1, 65, 10)
 
-gen cassets_1 		= substr(v1,164,10)
-gen cassets_2 		= substr(v1,186,10)
-gen cassets_3 		= substr(v1,208,10)
-gen intangibles 	= substr(v1,219,10)
-gen negcassets_1 	= substr(v1,175,10)
-gen negcassets_2 	= substr(v1,197,10)
-gen negintangibles 	= substr(v1,230,10)
+gen cassets_1 		= substr(v1, 164, 10)
+gen cassets_2 		= substr(v1, 186, 10)
+gen cassets_3 		= substr(v1, 208, 10)
+gen intangibles 	= substr(v1, 219, 10)
+gen negcassets_1 	= substr(v1, 175, 10)
+gen negcassets_2 	= substr(v1, 197, 10)
+gen negintangibles 	= substr(v1, 230, 10)
 
-gen treceipts 		= substr(v1,395,10)
-gen breceipts 		= substr(v1,406,10)
-gen inc 			= substr(v1,758,10)
-gen def 			= substr(v1,769,10)
+gen treceipts 		= substr(v1, 395, 10)
+gen breceipts 		= substr(v1, 406, 10)
+gen inc 			= substr(v1, 758, 10)
+gen def 			= substr(v1, 769, 10)
 drop v1
 
 // Add up variables with subcategories
@@ -188,16 +181,16 @@ save 			`source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y66_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 = subinstr(v1, "{", "0",.) 
-replace v1 = subinstr(v1, "A", "1",.) 
-replace v1 = subinstr(v1, "B", "2",.) 
-replace v1 = subinstr(v1, "C", "3",.) 
-replace v1 = subinstr(v1, "D", "4",.)
-replace v1 = subinstr(v1, "E", "5",.) 
-replace v1 = subinstr(v1, "F", "6",.) 
-replace v1 = subinstr(v1, "G", "7",.) 
-replace v1 = subinstr(v1, "H", "8",.) 
-replace v1 = subinstr(v1, "I", "9",.) 
+replace v1 = subinstr(v1, "{", "0", .) 
+replace v1 = subinstr(v1, "A", "1", .) 
+replace v1 = subinstr(v1, "B", "2", .) 
+replace v1 = subinstr(v1, "C", "3", .) 
+replace v1 = subinstr(v1, "D", "4", .)
+replace v1 = subinstr(v1, "E", "5", .) 
+replace v1 = subinstr(v1, "F", "6", .) 
+replace v1 = subinstr(v1, "G", "7", .) 
+replace v1 = subinstr(v1, "H", "8", .) 
+replace v1 = subinstr(v1, "I", "9", .) 
 
 gen year 							= "1966"
 gen minor_industry_1963_1967 		= substr(v1, 1, 4)
@@ -205,22 +198,22 @@ drop if minor_industry_1963_1967 	== "6055" // This is life insurance total; lif
 
 gen asset_size 		= substr(v1, 11, 3)
 gen file_type 		= substr(v1, 14, 1)
-gen number 			= substr(v1,21,10)
-gen assets 			= substr(v1,65,10)
-gen ind_assets 		= substr(v1,75,1)
+gen number 			= substr(v1, 21, 10)
+gen assets 			= substr(v1, 65, 10)
+gen ind_assets 		= substr(v1, 75, 1)
 
-gen cassets_1 		= substr(v1,197,10)
-gen cassets_2 		= substr(v1,219,10)
-gen cassets_3 		= substr(v1,241,10)
-gen intangibles 	= substr(v1,252,10)
-gen negcassets_1 	= substr(v1,208,10)
-gen negcassets_2 	= substr(v1,230,10)
-gen negintangibles 	= substr(v1,263,10)
+gen cassets_1 		= substr(v1, 197, 10)
+gen cassets_2 		= substr(v1, 219, 10)
+gen cassets_3 		= substr(v1, 241, 10)
+gen intangibles 	= substr(v1, 252, 10)
+gen negcassets_1 	= substr(v1, 208, 10)
+gen negcassets_2 	= substr(v1, 230, 10)
+gen negintangibles 	= substr(v1, 263, 10)
 
-gen treceipts 		= substr(v1,428,10)
-gen breceipts 		= substr(v1,439,10)
-gen inc 			= substr(v1,791,10)
-gen def 			= substr(v1,802,10)
+gen treceipts 		= substr(v1, 428, 10)
+gen breceipts 		= substr(v1, 439, 10)
+gen inc 			= substr(v1, 791, 10)
+gen def 			= substr(v1, 802, 10)
 drop v1
 
 // Add up variables with subcategories
@@ -256,7 +249,7 @@ destring 		number, replace
 replace 		number = number / 100
 replace 		number = round(number)
 
-// Round up cases where assets are >0, but rounded down in the Source Book
+// Round up cases where assets are > 0, but rounded down in the Source Book
 destring 		assets, replace
 replace 		assets = ceil(0.001*number + 0.001) if ind_assets == "1" & assets == 0
 drop 			ind_assets
@@ -288,38 +281,38 @@ save 			`source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y67_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 	= subinstr(v1, "{", "0",.) 
-replace v1 	= subinstr(v1, "A", "1",.) 
-replace v1 	= subinstr(v1, "B", "2",.) 
-replace v1 	= subinstr(v1, "C", "3",.) 
-replace v1 	= subinstr(v1, "D", "4",.)
-replace v1 	= subinstr(v1, "E", "5",.) 
-replace v1 	= subinstr(v1, "F", "6",.) 
-replace v1 	= subinstr(v1, "G", "7",.) 
-replace v1 	= subinstr(v1, "H", "8",.) 
-replace v1 	= subinstr(v1, "I", "9",.) 
+replace v1 	= subinstr(v1, "{", "0", .) 
+replace v1 	= subinstr(v1, "A", "1", .) 
+replace v1 	= subinstr(v1, "B", "2", .) 
+replace v1 	= subinstr(v1, "C", "3", .) 
+replace v1 	= subinstr(v1, "D", "4", .)
+replace v1 	= subinstr(v1, "E", "5", .) 
+replace v1 	= subinstr(v1, "F", "6", .) 
+replace v1 	= subinstr(v1, "G", "7", .) 
+replace v1 	= subinstr(v1, "H", "8", .) 
+replace v1 	= subinstr(v1, "I", "9", .) 
 
 gen year 						= "1967"
 gen minor_industry_1963_1967	= substr(v1, 1, 4)
 
 gen asset_size 			= substr(v1, 11, 3)
 gen file_type 			= substr(v1, 14, 1)
-gen number 				= substr(v1,21,10)
-gen assets 				= substr(v1,65,10)
-gen ind_assets 			= substr(v1,75,1)
+gen number 				= substr(v1, 21, 10)
+gen assets 				= substr(v1, 65, 10)
+gen ind_assets 			= substr(v1, 75, 1)
 
-gen cassets_1 			= substr(v1,186,10)
-gen cassets_2 			= substr(v1,208,10)
-gen cassets_3 			= substr(v1,230,10)
-gen intangibles 		= substr(v1,241,10)
-gen negcassets_1 		= substr(v1,197,10)
-gen negcassets_2 		= substr(v1,219,10)
-gen negintangibles 		= substr(v1,252,10)
+gen cassets_1 			= substr(v1, 186, 10)
+gen cassets_2 			= substr(v1, 208, 10)
+gen cassets_3 			= substr(v1, 230, 10)
+gen intangibles 		= substr(v1, 241, 10)
+gen negcassets_1 		= substr(v1, 197, 10)
+gen negcassets_2 		= substr(v1, 219, 10)
+gen negintangibles 		= substr(v1, 252, 10)
 
-gen treceipts 			= substr(v1,406,10)
-gen breceipts 			= substr(v1,417,10)
-gen inc 				= substr(v1,769,10)
-gen def 				= substr(v1,780,10)
+gen treceipts 			= substr(v1, 406, 10)
+gen breceipts 			= substr(v1, 417, 10)
+gen inc 				= substr(v1, 769, 10)
+gen def 				= substr(v1, 780, 10)
 drop v1
 
 // Add up variables with subcategories
@@ -359,9 +352,9 @@ replace 		number = number / 1000
 replace 		number = round(number)
 
 
-// Round up cases where assets are >0, but rounded down in the Source Book
+// Round up cases where assets are > 0, but rounded down in the Source Book
 destring 		assets, replace
-replace 		assets = ceil(0.001*number +0.001) if ind_assets =="1" & assets ==0
+replace 		assets = ceil(0.001*number +0.001) if ind_assets == "1" & assets == 0
 drop 			ind_assets
 
 
@@ -393,14 +386,14 @@ local varlist 	number assets treceipts breceipts cassets negcassets intangibles 
 
 // Create file with major group and minor industry for each division
 use 			`SIC_vintages', replace
-drop if 		division_code_1963_1967 ==""
+drop if 		division_code_1963_1967 == ""
 collapse (first) major_group_1963_1967 minor_industry_1963_1967, by(division_code_1963_1967)
 tempfile 		division
 save 			"`division'"
 
 // Create file with minor industry and division for each major group
 use 			`SIC_vintages', replace
-drop if 		major_group_1963_1967 ==""
+drop if 		major_group_1963_1967 == ""
 collapse (first) minor_industry_1963_1967 division_code_1963_1967, by(major_group_1963_1967)
 tempfile 		group
 save 			"`group'"
@@ -413,7 +406,7 @@ use 			`source_book_NA', replace
 // Calculate bracket sum for all variables.
 preserve
 collapse (sum) `varlist', by(minor_industry year)
-gen 			thres_low ="Total"
+gen 			thres_low = "Total"
 tempfile 		source_book_NA_total
 save 			"`source_book_NA_total'"
 restore
@@ -441,7 +434,7 @@ restore
 preserve
 bysort division_code_1963_1967 thres_low year: gen 	temp = _n
 bysort division_code_1963_1967 year: egen 			n = max(temp)
-keep 		if n >1  
+keep 		if n > 1  
 collapse (sum) `varlist', by(division_code_1963_1967 thres_low year)
 merge m:1 division_code_1963_1967 using `division', keep(3) nogen
 tempfile 	source_book_NA_div
@@ -463,7 +456,7 @@ restore
 preserve
 bysort major_group_1963_1967 thres_low year: gen 	temp = _n
 bysort major_group_1963_1967 year: egen 			n = max(temp)
-keep 		if n >1 
+keep 		if n > 1 
 drop 		if major_group_1963_1967 == "06" | major_group_1963_1967 == "01" | major_group_1963_1967 == "45" | major_group_1963_1967 == "60" // Drop Construction and Agriculture, both an industry and a major group
 collapse  (sum) `varlist', by(major_group_1963_1967 thres_low year)
 merge m:1 	major_group_1963_1967 using `group', keep(3) nogen
@@ -496,7 +489,7 @@ save 		"`source_book_NA_batch1'"
 ********************************************
 
 clear
-gen year =""
+gen year = ""
 save `source_book_NA', replace
 
 
@@ -504,36 +497,36 @@ save `source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y68_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 = subinstr(v1, "{", "0",.) 
-replace v1 = subinstr(v1, "A", "1",.) 
-replace v1 = subinstr(v1, "B", "2",.) 
-replace v1 = subinstr(v1, "C", "3",.) 
-replace v1 = subinstr(v1, "D", "4",.)
-replace v1 = subinstr(v1, "E", "5",.) 
-replace v1 = subinstr(v1, "F", "6",.) 
-replace v1 = subinstr(v1, "G", "7",.) 
-replace v1 = subinstr(v1, "H", "8",.) 
-replace v1 = subinstr(v1, "I", "9",.) 
+replace v1 = subinstr(v1, "{", "0", .) 
+replace v1 = subinstr(v1, "A", "1", .) 
+replace v1 = subinstr(v1, "B", "2", .) 
+replace v1 = subinstr(v1, "C", "3", .) 
+replace v1 = subinstr(v1, "D", "4", .)
+replace v1 = subinstr(v1, "E", "5", .) 
+replace v1 = subinstr(v1, "F", "6", .) 
+replace v1 = subinstr(v1, "G", "7", .) 
+replace v1 = subinstr(v1, "H", "8", .) 
+replace v1 = subinstr(v1, "I", "9", .) 
 
 gen year 						= "1968"
 gen minor_industry_1968_1972 	= substr(v1, 1, 4)
 gen asset_size 					= substr(v1, 11, 3)
 gen file_type 					= substr(v1, 14, 1)
-gen number 						= substr(v1,21,10)
-gen assets 						= substr(v1,65,10)
+gen number 						= substr(v1, 21, 10)
+gen assets 						= substr(v1, 65, 10)
 
-gen cassets_1 					= substr(v1,186,10)
-gen cassets_2 					= substr(v1,208,10)
-gen cassets_3 					= substr(v1,230,10)
-gen intangibles 				= substr(v1,241,10)
-gen negcassets_1 				= substr(v1,197,10)
-gen negcassets_2 				= substr(v1,219,10)
-gen negintangibles 				= substr(v1,252,10)
+gen cassets_1 					= substr(v1, 186, 10)
+gen cassets_2 					= substr(v1, 208, 10)
+gen cassets_3 					= substr(v1, 230, 10)
+gen intangibles 				= substr(v1, 241, 10)
+gen negcassets_1 				= substr(v1, 197, 10)
+gen negcassets_2 				= substr(v1, 219, 10)
+gen negintangibles 				= substr(v1, 252, 10)
 
-gen treceipts 					= substr(v1,406,10)
-gen breceipts 					= substr(v1,417,10)
-gen inc 						= substr(v1,769,10)
-gen def 						= substr(v1,780,10)
+gen treceipts 					= substr(v1, 406, 10)
+gen breceipts 					= substr(v1, 417, 10)
+gen inc 						= substr(v1, 769, 10)
+gen def 						= substr(v1, 780, 10)
 drop v1
 
 // Add up variables with subcategories
@@ -598,37 +591,37 @@ save 			`source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y69_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 = subinstr(v1, "{", "0",.) 
-replace v1 = subinstr(v1, "A", "1",.) 
-replace v1 = subinstr(v1, "B", "2",.) 
-replace v1 = subinstr(v1, "C", "3",.) 
-replace v1 = subinstr(v1, "D", "4",.)
-replace v1 = subinstr(v1, "E", "5",.) 
-replace v1 = subinstr(v1, "F", "6",.) 
-replace v1 = subinstr(v1, "G", "7",.) 
-replace v1 = subinstr(v1, "H", "8",.) 
-replace v1 = subinstr(v1, "I", "9",.) 
+replace v1 = subinstr(v1, "{", "0", .) 
+replace v1 = subinstr(v1, "A", "1", .) 
+replace v1 = subinstr(v1, "B", "2", .) 
+replace v1 = subinstr(v1, "C", "3", .) 
+replace v1 = subinstr(v1, "D", "4", .)
+replace v1 = subinstr(v1, "E", "5", .) 
+replace v1 = subinstr(v1, "F", "6", .) 
+replace v1 = subinstr(v1, "G", "7", .) 
+replace v1 = subinstr(v1, "H", "8", .) 
+replace v1 = subinstr(v1, "I", "9", .) 
 
 gen year = "1969"
 gen minor_industry_1968_1972 	= substr(v1, 1, 4)
 gen asset_size 					= substr(v1, 11, 3)
 gen file_type 					= substr(v1, 14, 1)
 
-gen number 						= substr(v1,21,10)
-gen assets 						= substr(v1,65,10)
+gen number 						= substr(v1, 21, 10)
+gen assets 						= substr(v1, 65, 10)
 
-gen cassets_1 					= substr(v1,186,10)
-gen cassets_2 					= substr(v1,208,10)
-gen cassets_3 					= substr(v1,230,10)
-gen intangibles 				= substr(v1,241,10)
-gen negcassets_1 				= substr(v1,197,10)
-gen negcassets_2 				= substr(v1,219,10)
-gen negintangibles 				= substr(v1,252,10)
+gen cassets_1 					= substr(v1, 186, 10)
+gen cassets_2 					= substr(v1, 208, 10)
+gen cassets_3 					= substr(v1, 230, 10)
+gen intangibles 				= substr(v1, 241, 10)
+gen negcassets_1 				= substr(v1, 197, 10)
+gen negcassets_2 				= substr(v1, 219, 10)
+gen negintangibles 				= substr(v1, 252, 10)
 
-gen treceipts 					= substr(v1,406,10)
-gen breceipts 					= substr(v1,417,10)
-gen inc 						= substr(v1,769,10)
-gen def 						= substr(v1,780,10)
+gen treceipts 					= substr(v1, 406, 10)
+gen breceipts 					= substr(v1, 417, 10)
+gen inc 						= substr(v1, 769, 10)
+gen def 						= substr(v1, 780, 10)
 
 drop v1
 
@@ -665,7 +658,7 @@ replace thres_low = "1000000000" 	if asset_size == "121"
 // Round number of returns
 destring 		number, replace
 replace 		number = number / 100
-replace 		number = round(number,1)
+replace 		number = round(number, 1)
 
 local varlist 	number assets treceipts breceipts cassets negcassets intangibles negintangibles inc def 
 
@@ -692,36 +685,36 @@ save 			`source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y70_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 = subinstr(v1, "{", "0",.) 
-replace v1 = subinstr(v1, "A", "1",.) 
-replace v1 = subinstr(v1, "B", "2",.) 
-replace v1 = subinstr(v1, "C", "3",.) 
-replace v1 = subinstr(v1, "D", "4",.)
-replace v1 = subinstr(v1, "E", "5",.) 
-replace v1 = subinstr(v1, "F", "6",.) 
-replace v1 = subinstr(v1, "G", "7",.) 
-replace v1 = subinstr(v1, "H", "8",.) 
-replace v1 = subinstr(v1, "I", "9",.) 
+replace v1 = subinstr(v1, "{", "0", .) 
+replace v1 = subinstr(v1, "A", "1", .) 
+replace v1 = subinstr(v1, "B", "2", .) 
+replace v1 = subinstr(v1, "C", "3", .) 
+replace v1 = subinstr(v1, "D", "4", .)
+replace v1 = subinstr(v1, "E", "5", .) 
+replace v1 = subinstr(v1, "F", "6", .) 
+replace v1 = subinstr(v1, "G", "7", .) 
+replace v1 = subinstr(v1, "H", "8", .) 
+replace v1 = subinstr(v1, "I", "9", .) 
 
 gen year = "1970"
 gen minor_industry_1968_1972 	= substr(v1, 1, 4)
 gen asset_size 					= substr(v1, 11, 3)
 gen file_type 					= substr(v1, 14, 1)
 
-gen number 						= substr(v1,20,11)
-gen assets 						= substr(v1,65,10)
+gen number 						= substr(v1, 20, 11)
+gen assets 						= substr(v1, 65, 10)
 
-gen cassets_1 					= substr(v1,186,10)
-gen cassets_2 					= substr(v1,208,10)
-gen cassets_3 					= substr(v1,230,10)
-gen intangibles 				= substr(v1,241,10)
-gen negcassets_1 				= substr(v1,197,10)
-gen negcassets_2 				= substr(v1,219,10)
-gen negintangibles 				= substr(v1,252,10)
+gen cassets_1 					= substr(v1, 186, 10)
+gen cassets_2 					= substr(v1, 208, 10)
+gen cassets_3 					= substr(v1, 230, 10)
+gen intangibles 				= substr(v1, 241, 10)
+gen negcassets_1 				= substr(v1, 197, 10)
+gen negcassets_2 				= substr(v1, 219, 10)
+gen negintangibles 				= substr(v1, 252, 10)
 
-gen treceipts 					= substr(v1,406,10)
-gen breceipts 					= substr(v1,417,10)
-gen ninc 						= substr(v1,758,10)
+gen treceipts 					= substr(v1, 406, 10)
+gen breceipts 					= substr(v1, 417, 10)
+gen ninc 						= substr(v1, 758, 10)
 
 drop v1
 
@@ -729,16 +722,16 @@ local vars ninc
 
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 // Add up variables with subcategories
@@ -775,7 +768,7 @@ replace thres_low = "1000000000" 	if asset_size == "121"
 // Round number of returns
 destring 		number, replace
 replace 		number = number / 100
-replace 		number = round(number,1)
+replace 		number = round(number, 1)
 
 local varlist	number assets treceipts breceipts cassets negcassets intangibles negintangibles ninc
 
@@ -805,14 +798,14 @@ local varlist 	number assets treceipts breceipts cassets negcassets intangibles 
 
 // Create file with major group and minor industry for each division
 use 			`SIC_vintages', replace
-drop 			if division_code_1968_1972 ==""
+drop 			if division_code_1968_1972 == ""
 collapse (first) major_group_1968_1972 minor_industry_1968_1972 ,by(division_code_1968_1972)
 tempfile 		division
 save 			"`division'", replace
 
 // Create file with minor industry and division for each major group
 use 			`SIC_vintages', replace
-drop 			if major_group_1968_1972 ==""
+drop 			if major_group_1968_1972 == ""
 collapse (first) minor_industry_1968_1972 division_code_1968_1972 ,by(major_group_1968_1972)
 tempfile 		group
 save 			"`group'"
@@ -825,7 +818,7 @@ use 			`source_book_NA', replace
 // Calculate bracket sum for all variables
 preserve
 collapse (sum) `varlist', by(minor_industry year)
-gen 			thres_low ="Total"
+gen 			thres_low = "Total"
 tempfile 		source_book_NA_total
 save 			"`source_book_NA_total'"
 restore
@@ -854,7 +847,7 @@ restore
 preserve
 bysort division_code_1968_1972 thres_low year: gen 	temp = _n
 bysort division_code_1968_1972 year: egen 			n = max(temp)
-keep 		if n >1  
+keep 		if n > 1  
 collapse (sum) `varlist', by(division_code_1968_1972 thres_low year)
 merge m:1 division_code_1968_1972 using `division', keep(3) nogen
 tempfile 	source_book_NA_div
@@ -876,7 +869,7 @@ restore
 preserve
 bysort major_group_1968_1972 thres_low year: gen 	temp = _n
 bysort major_group_1968_1972 year: egen 			n = max(temp)
-keep 		if n >1 
+keep 		if n > 1 
 drop 		if major_group_1968_1972 == "06" | major_group_1968_1972 == "01" | major_group_1968_1972 == "42" | major_group_1968_1972 == "56" // Drop Construction and Agriculture, both an industry and a major group
 
 collapse  (sum) `varlist', by(major_group_1968_1972 thres_low year)
@@ -906,7 +899,7 @@ gen minor_industry_1968_1972 	= minorindustry
 gen asset_size 					= totalassetsize
 gen file_type 					= netincomedeficit
 
-replace minor_industry_1968_1972 ="6055" if minor_industry_1968_1972 =="6051" // Note from the document for 1972
+replace minor_industry_1968_1972 = "6055" if minor_industry_1968_1972 == "6051" // Note from the document for 1972
 
 
 gen number 			= numberofreturnstotal
@@ -951,7 +944,7 @@ replace thres_low = "250000000" 	if asset_size == "120"
 // Round number of returns
 destring 		number, replace
 replace 		number = number / 100
-replace 		number = round(number,1)
+replace 		number = round(number, 1)
 
 // 1971 separates with and without net income. Need to be added up
 local varlist 	number assets treceipts breceipts cassets negcassets intangibles negintangibles ninc
@@ -975,7 +968,7 @@ destring 		`varlist', replace
 // Calculate bracket sum for all variables
 preserve
 collapse (sum) `varlist', by(minor_industry division_code major_group  year)
-gen 			thres_low ="Total"
+gen 			thres_low = "Total"
 tempfile 		source_book_NA_total
 save 			"`source_book_NA_total'", replace
 restore
@@ -1100,8 +1093,8 @@ gen number 			= numberofreturnstotal
 gen assets		 	= totalassets2
 gen ind_number 		= numberofreturnstotalfrequencycod 
 gen ind_assets 		= totalassets2frequencycode
-replace ind_number = "5" if ind_number =="3"
-replace ind_assets = "5" if ind_assets =="3"
+replace ind_number = "5" if ind_number == "3"
+replace ind_assets = "5" if ind_assets == "3"
 
 gen cassets_1 		= depreciableassets 
 gen cassets_2 		= depletableassets
@@ -1125,7 +1118,7 @@ foreach v of local vars {
 }
 
 // Keep "All Returns", Drop "Returns with net income"
-keep if file_type =="1"
+keep if file_type == "1"
 drop file_type
 
 gen 	thres_low = ""
@@ -1153,14 +1146,14 @@ save 			`source_book_NA', replace
 
 // Create file with major group and minor industry for each division
 use 	`SIC_vintages', replace
-drop 	if division_code_1973_1997 ==""
+drop 	if division_code_1973_1997 == ""
 collapse (first) minor_industry_1973_1997 major_group_1973_1997, by(division_code_1973_1997)
 tempfile division
 save 	"`division'"
 
 // Create file with minor industry and division for each major group
 use 	`SIC_vintages', replace
-drop 	if major_group_1973_1997 ==""
+drop 	if major_group_1973_1997 == ""
 collapse (first) minor_industry_1973_1997 division_code_1973_1997, by(major_group_1973_1997)
 tempfile group
 save 	"`group'"
@@ -1192,7 +1185,7 @@ restore
 preserve
 bysort division_code thres_low year: gen	temp = _n
 bysort division_code year: egen 			n = max(temp)
-keep 		if n >1  
+keep 		if n > 1  
 collapse (sum) `varlist', by(division_code thres_low year)
 merge m:1 division_code using `division', keep(3) nogen
 tempfile 	source_book_NA_div
@@ -1215,7 +1208,7 @@ restore
 preserve
 bysort major_group thres_low year: gen 	temp = _n
 bysort major_group year: egen 			n = max(temp)
-keep 		if n >1 
+keep 		if n > 1 
 drop 		if major_group == "01" // Drop Agriculture, both an industry and a major group
 drop 		if  major_group == "00" // Drop Other, both an industry and a major group
 collapse  (sum) `varlist', by(major_group thres_low year)
@@ -1254,8 +1247,8 @@ gen number 			= numberofreturns
 gen assets 			= totalassets
 gen ind_number 		= numberofreturnsfrequencycode 
 gen ind_assets 		= totalassetsfrequencycode
-replace ind_number 	= "5" if ind_number =="3"
-replace ind_assets 	= "5" if ind_assets =="3"
+replace ind_number 	= "5" if ind_number == "3"
+replace ind_assets 	= "5" if ind_assets == "3"
 
 gen cassets_1 		= depreciableassets
 gen cassets_2 		= depletableassets
@@ -1308,16 +1301,16 @@ save 	`source_book_NA', replace
 
 import delimited "$OUTPUT/soi/national_archive_converted/RG058.CORP.Y76_ASCII.txt", delimiter("", collapse) clear stringcols(_all)
 
-replace v1 	= subinstr(v1, "{", "0",.) 
-replace v1 	= subinstr(v1, "A", "1",.) 
-replace v1 	= subinstr(v1, "B", "2",.) 
-replace v1 	= subinstr(v1, "C", "3",.) 
-replace v1 	= subinstr(v1, "D", "4",.)
-replace v1 	= subinstr(v1, "E", "5",.) 
-replace v1 	= subinstr(v1, "F", "6",.) 
-replace v1 	= subinstr(v1, "G", "7",.) 
-replace v1 	= subinstr(v1, "H", "8",.) 
-replace v1 	= subinstr(v1, "I", "9",.) 
+replace v1 	= subinstr(v1, "{", "0", .) 
+replace v1 	= subinstr(v1, "A", "1", .) 
+replace v1 	= subinstr(v1, "B", "2", .) 
+replace v1 	= subinstr(v1, "C", "3", .) 
+replace v1 	= subinstr(v1, "D", "4", .)
+replace v1 	= subinstr(v1, "E", "5", .) 
+replace v1 	= subinstr(v1, "F", "6", .) 
+replace v1 	= subinstr(v1, "G", "7", .) 
+replace v1 	= subinstr(v1, "H", "8", .) 
+replace v1 	= subinstr(v1, "I", "9", .) 
 
 gen year 						= "1976"
 gen minor_industry_1973_1997 	= substr(v1, 1, 4)
@@ -1325,7 +1318,7 @@ gen major_group_1973_1997 		= substr(v1, 5, 2)
 gen division_code_1973_1997 	= substr(v1, 7, 2)
 gen asset_size 					= substr(v1, 11, 2)
 gen file_type 					= substr(v1, 14, 1)
-replace minor_industry_1973_1997 = "6355" if minor_industry_1973_1997 =="6351"
+replace minor_industry_1973_1997 = "6355" if minor_industry_1973_1997 == "6351"
 keep if file_type 				== "1" // 1: All returns
 
 // Add information on division to each major group
@@ -1338,50 +1331,50 @@ restore
 
 // Add information on major group and division to each minor industry
 preserve
-keep 		if minor_industry_1973_1997 !="0000"
+keep 		if minor_industry_1973_1997 != "0000"
 merge m:1 minor_industry_1973_1997 using `industry', nogen keep(3 5) replace update keepusing(major_group_1973_1997 division_code_1973_1997)
 tempfile 	source_book_NA_industry
 save 		"`source_book_NA_industry'", replace
 restore
 
-keep if major_group_1973_1997 =="00" & minor_industry_1973_1997 =="0000"
+keep if major_group_1973_1997 == "00" & minor_industry_1973_1997 == "0000"
 append using `source_book_NA_group'
 append using `source_book_NA_industry'
 
-gen number 			= substr(v1,21,11)
-gen assets 			= substr(v1,33,11)
-gen ind_number 		= substr(v1,32,1)
-gen ind_assets 		= substr(v1,44,1)
-replace ind_number 	= "5" if ind_number =="3"
-replace ind_assets 	= "5" if ind_assets =="3"
+gen number 			= substr(v1, 21, 11)
+gen assets 			= substr(v1, 33, 11)
+gen ind_number 		= substr(v1, 32, 1)
+gen ind_assets 		= substr(v1, 44, 1)
+replace ind_number 	= "5" if ind_number == "3"
+replace ind_assets 	= "5" if ind_assets == "3"
 
-gen cassets_1 		= substr(v1,165,11)
-gen cassets_2 		= substr(v1,189,11)
-gen cassets_3 		= substr(v1,213,11)
-gen intangibles 	= substr(v1,225,11)
-gen negcassets_1 	= substr(v1,177,11)
-gen negcassets_2 	= substr(v1,201,11)
-gen negintangibles 	= substr(v1,237,11)
+gen cassets_1 		= substr(v1, 165, 11)
+gen cassets_2 		= substr(v1, 189, 11)
+gen cassets_3 		= substr(v1, 213, 11)
+gen intangibles 	= substr(v1, 225, 11)
+gen negcassets_1 	= substr(v1, 177, 11)
+gen negcassets_2 	= substr(v1, 201, 11)
+gen negintangibles 	= substr(v1, 237, 11)
 
-gen treceipts 		= substr(v1,405,11)
-gen breceipts 		= substr(v1,417,11)
-gen ninc 			= substr(v1,789,11)
+gen treceipts 		= substr(v1, 405, 11)
+gen breceipts 		= substr(v1, 417, 11)
+gen ninc 			= substr(v1, 789, 11)
 
 drop v1
 
 local vars ninc 
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 // Add up variables with subcategories
@@ -1439,42 +1432,42 @@ save `source_book_NA', replace
 
 import delimited "$DATA/soi/national_archive/RG058.CORP.Y77.txt",  delimiter(" ", collapse) clear stringcols(_all)
 
-foreach v of varlist v1-v151 {
+foreach v of varlist v1 - v151 {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -3, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.)
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.)
-	replace `v' = subinstr(`v', "O", "6",.)
-	replace `v' = subinstr(`v', "P", "7",.)
-	replace `v' = subinstr(`v', "Q", "8",.)
-	replace `v' = subinstr(`v', "R", "9",.)
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .)
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .)
+	replace `v' = subinstr(`v', "O", "6", .)
+	replace `v' = subinstr(`v', "P", "7", .)
+	replace `v' = subinstr(`v', "Q", "8", .)
+	replace `v' = subinstr(`v', "R", "9", .)
 }
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen division_code 	= substr(v2, 1, 2)
 gen major_group 	= substr(v2, 3, 2)
 gen minor_industry 	= substr(v2, 5, 4)
 gen asset_size 		= substr(v2, 9, 2)
-gen number 			= substr(v3,1,strlen(v3)-2)
-gen assets 			= substr(v4,1,strlen(v4)-2)
-gen ind_number 		= substr(v3,-1,1)
-gen ind_assets 		= substr(v4,-1,1)
+gen number 			= substr(v3, 1, strlen(v3) - 2)
+gen assets 			= substr(v4, 1, strlen(v4) - 2)
+gen ind_number 		= substr(v3, -1, 1)
+gen ind_assets 		= substr(v4, -1, 1)
 
-gen cassets_1 		= substr(v15,1,strlen(v15)-2)
-gen cassets_2 		= substr(v17,1,strlen(v17)-2)
-gen cassets_3 		= substr(v19,1,strlen(v19)-2)
-gen intangibles 	= substr(v20,1,strlen(v20)-2)
-gen negcassets_1 	= substr(v16,1,strlen(v16)-2)
-gen negcassets_2 	= substr(v18,1,strlen(v18)-2)
-gen negintangibles 	= substr(v21,1,strlen(v21)-2)
+gen cassets_1 		= substr(v15, 1, strlen(v15) - 2)
+gen cassets_2 		= substr(v17, 1, strlen(v17) - 2)
+gen cassets_3 		= substr(v19, 1, strlen(v19) - 2)
+gen intangibles 	= substr(v20, 1, strlen(v20) - 2)
+gen negcassets_1 	= substr(v16, 1, strlen(v16) - 2)
+gen negcassets_2 	= substr(v18, 1, strlen(v18) - 2)
+gen negintangibles 	= substr(v21, 1, strlen(v21) - 2)
 
-gen treceipts 		= substr(v35,1,strlen(v35)-2)
-gen breceipts 		= substr(v36,1,strlen(v36)-2)
-gen ninc 			= substr(v67,1,strlen(v67)-2)
+gen treceipts 		= substr(v35, 1, strlen(v35) - 2)
+gen breceipts 		= substr(v36, 1, strlen(v36) - 2)
+gen ninc 			= substr(v67, 1, strlen(v67) - 2)
 
 // Add up variables with subcategories
 local vars cassets negcassets  
@@ -1515,44 +1508,44 @@ save 	`source_book_NA', replace
 
 import delimited "$DATA/soi/national_archive/RG058.CORP.Y78.txt",  clear stringcols(_all)
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v1,21,13)
-gen assets 			= substr(v1,47,13)
-gen ind_number 		= substr(v1,34,1)
-gen ind_assets 		= substr(v1,60,1)
+gen number 			= substr(v1, 21, 13)
+gen assets 			= substr(v1, 47, 13)
+gen ind_number 		= substr(v1, 34, 1)
+gen ind_assets 		= substr(v1, 60, 1)
 
-gen cassets_1 		= substr(v1,333,13)
-gen cassets_2 		= substr(v1,385,13)
-gen cassets_3 		= substr(v1,437,13)
-gen intangibles 	= substr(v1,463,13)
-gen negcassets_1 	= substr(v1,359,13)
-gen negcassets_2 	= substr(v1,411,13)
-gen negintangibles 	= substr(v1,489,13)
+gen cassets_1 		= substr(v1, 333, 13)
+gen cassets_2 		= substr(v1, 385, 13)
+gen cassets_3 		= substr(v1, 437, 13)
+gen intangibles 	= substr(v1, 463, 13)
+gen negcassets_1 	= substr(v1, 359, 13)
+gen negcassets_2 	= substr(v1, 411, 13)
+gen negintangibles 	= substr(v1, 489, 13)
 
-gen treceipts 		= substr(v1,853,13)
-gen breceipts 		= substr(v1,879,13)
-gen ninc 			= substr(v1,1685,13)
+gen treceipts 		= substr(v1, 853, 13)
+gen breceipts 		= substr(v1, 879, 13)
+gen ninc 			= substr(v1, 1685, 13)
 
 
 local vars ninc  
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 // Add up variables with subcategories
@@ -1594,43 +1587,43 @@ save 	`source_book_NA', replace
 
 import delimited "$DATA/soi/national_archive/RG058.CORP.Y79.txt",  clear stringcols(_all)
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v1,21,13)
-gen assets 			= substr(v1,50,13)
-gen ind_number 		= substr(v1,34,1)
-gen ind_assets 		= substr(v1,63,1)
+gen number 			= substr(v1, 21, 13)
+gen assets 			= substr(v1, 50, 13)
+gen ind_number 		= substr(v1, 34, 1)
+gen ind_assets 		= substr(v1, 63, 1)
 
-gen cassets_1 		= substr(v1,369,13)
-gen cassets_2 		= substr(v1,427,13)
-gen cassets_3 		= substr(v1,485,13)
-gen intangibles 	= substr(v1,514,13)
-gen negcassets_1 	= substr(v1,398,13)
-gen negcassets_2 	= substr(v1,456,13)
-gen negintangibles 	= substr(v1,543,13)
+gen cassets_1 		= substr(v1, 369, 13)
+gen cassets_2 		= substr(v1, 427, 13)
+gen cassets_3 		= substr(v1, 485, 13)
+gen intangibles 	= substr(v1, 514, 13)
+gen negcassets_1 	= substr(v1, 398, 13)
+gen negcassets_2 	= substr(v1, 456, 13)
+gen negintangibles 	= substr(v1, 543, 13)
 
-gen treceipts 		= substr(v1,949,13)
-gen breceipts 		= substr(v1,978,13)
-gen ninc 			= substr(v1,1877,13)
+gen treceipts 		= substr(v1, 949, 13)
+gen breceipts 		= substr(v1, 978, 13)
+gen ninc 			= substr(v1, 1877, 13)
 
 local vars ninc  
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 
@@ -1674,43 +1667,43 @@ save 	`source_book_NA', replace
 
 import delimited "$DATA/soi/national_archive/RG058.CORP.Y80.txt",  clear stringcols(_all)
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v1,21,13)
-gen assets 			= substr(v1,108,13)
-gen ind_number 		= substr(v1,34,1)
-gen ind_assets 		= substr(v1,121,1)
+gen number 			= substr(v1, 21 , 13)
+gen assets 			= substr(v1, 108, 13)
+gen ind_number 		= substr(v1, 34, 1)
+gen ind_assets 		= substr(v1, 121, 1)
 
-gen cassets_1 		= substr(v1,427,13)
-gen cassets_2 		= substr(v1,485,13)
-gen cassets_3 		= substr(v1,543,13)
-gen intangibles 	= substr(v1,572,13)
-gen negcassets_1 	= substr(v1,456,13)
-gen negcassets_2 	= substr(v1,514,13)
-gen negintangibles 	= substr(v1,601,13)
+gen cassets_1 		= substr(v1, 427, 13)
+gen cassets_2 		= substr(v1, 485, 13)
+gen cassets_3 		= substr(v1, 543, 13)
+gen intangibles 	= substr(v1, 572, 13)
+gen negcassets_1 	= substr(v1, 456, 13)
+gen negcassets_2 	= substr(v1, 514, 13)
+gen negintangibles 	= substr(v1, 601, 13)
 
-gen treceipts 		= substr(v1,1007,13)
-gen breceipts 		= substr(v1,1036,13)
-gen ninc 			= substr(v1,1935,13)
+gen treceipts 		= substr(v1, 1007, 13)
+gen breceipts 		= substr(v1, 1036, 13)
+gen ninc 			= substr(v1, 1935, 13)
 
 local vars ninc  
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 
@@ -1754,44 +1747,44 @@ save 	`source_book_NA', replace
 
 import delimited "$DATA/soi/national_archive/RG058.CORSCB.ST85.txt",  clear stringcols(_all)
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v1,15,19)
-gen assets 			= substr(v1,151,28)
-gen ind_number 		= substr(v1,34,1)
-gen ind_assets 		= substr(v1,179,1)
+gen number 			= substr(v1, 15, 19)
+gen assets 			= substr(v1, 151, 28)
+gen ind_number 		= substr(v1, 34, 1)
+gen ind_assets 		= substr(v1, 179, 1)
 
-gen cassets_1 		= substr(v1,441,28)
-gen cassets_2 		= substr(v1,499,28)
-gen cassets_3 		= substr(v1,557,28)
-gen intangibles 	= substr(v1,586,28)
-gen negcassets_1 	= substr(v1,470,28)
-gen negcassets_2 	= substr(v1,528,28)
-gen negintangibles 	= substr(v1,615,28)
+gen cassets_1 		= substr(v1, 441, 28)
+gen cassets_2 		= substr(v1, 499, 28)
+gen cassets_3 		= substr(v1, 557, 28)
+gen intangibles 	= substr(v1, 586, 28)
+gen negcassets_1 	= substr(v1, 470, 28)
+gen negcassets_2 	= substr(v1, 528, 28)
+gen negintangibles 	= substr(v1, 615, 28)
 
-gen treceipts 		= substr(v1,1021,28)
-gen breceipts 		= substr(v1,1050,28)
-gen ninc 			= substr(v1,1949,28)
+gen treceipts 		= substr(v1, 1021, 28)
+gen breceipts 		= substr(v1, 1050, 28)
+gen ninc 			= substr(v1, 1949, 28)
 
 
 local vars ninc  
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 // Add up variables with subcategories
@@ -1835,54 +1828,54 @@ import delimited "$DATA/soi/national_archive/RG058.CORSCB.ST86.txt",  clear stri
 
 // Note: A letter is used for the last entry of a number. The following letters seem have one for one match with numbers. */
 
-replace v1	= subinstr(v1, "{", "0",.) 
-replace v1 	= subinstr(v1, "A", "1",.) 
-replace v1 	= subinstr(v1, "B", "2",.) 
-replace v1 	= subinstr(v1, "C", "3",.) 
-replace v1 	= subinstr(v1, "D", "4",.)
-replace v1 	= subinstr(v1, "E", "5",.) 
-replace v1 	= subinstr(v1, "F", "6",.) 
-replace v1 	= subinstr(v1, "G", "7",.) 
-replace v1 	= subinstr(v1, "H", "8",.) 
-replace v1 	= subinstr(v1, "I", "9",.) 
+replace v1	= subinstr(v1, "{", "0", .) 
+replace v1 	= subinstr(v1, "A", "1", .) 
+replace v1 	= subinstr(v1, "B", "2", .) 
+replace v1 	= subinstr(v1, "C", "3", .) 
+replace v1 	= subinstr(v1, "D", "4", .)
+replace v1 	= subinstr(v1, "E", "5", .) 
+replace v1 	= subinstr(v1, "F", "6", .) 
+replace v1 	= subinstr(v1, "G", "7", .) 
+replace v1 	= subinstr(v1, "H", "8", .) 
+replace v1 	= subinstr(v1, "I", "9", .) 
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v1,15,19)
-gen assets 			= substr(v1,151,28)
-gen ind_number 		= substr(v1,34,1)
-gen ind_assets 		= substr(v1,179,1)
+gen number 			= substr(v1, 15, 19)
+gen assets 			= substr(v1, 151, 28)
+gen ind_number 		= substr(v1, 34, 1)
+gen ind_assets 		= substr(v1, 179, 1)
 
-gen cassets_1 		= substr(v1,441,28)
-gen cassets_2 		= substr(v1,499,28)
-gen cassets_3 		= substr(v1,557,28)
-gen intangibles 	= substr(v1,586,28)
-gen negcassets_1 	= substr(v1,470,28)
-gen negcassets_2 	= substr(v1,528,28)
-gen negintangibles 	= substr(v1,615,28)
+gen cassets_1 		= substr(v1, 441, 28)
+gen cassets_2 		= substr(v1, 499, 28)
+gen cassets_3 		= substr(v1, 557, 28)
+gen intangibles 	= substr(v1, 586, 28)
+gen negcassets_1 	= substr(v1, 470, 28)
+gen negcassets_2 	= substr(v1, 528, 28)
+gen negintangibles 	= substr(v1, 615, 28)
 
-gen treceipts 		= substr(v1,1050,28)
-gen breceipts 		= substr(v1,1079,28)
-gen ninc 			= substr(v1,1978,28)
+gen treceipts 		= substr(v1, 1050, 28)
+gen breceipts 		= substr(v1, 1079, 28)
+gen ninc 			= substr(v1, 1978, 28)
 
 local vars ninc  
 foreach v of local vars {
 	replace `v' = "-" + `v'  if	!inrange(real(substr(`v', -1, 1)), 0, 9)
-	replace `v' = subinstr(`v', "}", "0",.) 
-	replace `v' = subinstr(`v', "J", "1",.) 
-	replace `v' = subinstr(`v', "K", "2",.) 
-	replace `v' = subinstr(`v', "L", "3",.) 
-	replace `v' = subinstr(`v', "M", "4",.)
-	replace `v' = subinstr(`v', "N", "5",.) 
-	replace `v' = subinstr(`v', "O", "6",.) 
-	replace `v' = subinstr(`v', "P", "7",.) 
-	replace `v' = subinstr(`v', "Q", "8",.) 
-	replace `v' = subinstr(`v', "R", "9",.) 
+	replace `v' = subinstr(`v', "}", "0", .) 
+	replace `v' = subinstr(`v', "J", "1", .) 
+	replace `v' = subinstr(`v', "K", "2", .) 
+	replace `v' = subinstr(`v', "L", "3", .) 
+	replace `v' = subinstr(`v', "M", "4", .)
+	replace `v' = subinstr(`v', "N", "5", .) 
+	replace `v' = subinstr(`v', "O", "6", .) 
+	replace `v' = subinstr(`v', "P", "7", .) 
+	replace `v' = subinstr(`v', "Q", "8", .) 
+	replace `v' = subinstr(`v', "R", "9", .) 
 }
 
 // Add up variables with subcategories
@@ -1926,35 +1919,35 @@ import delimited "$DATA/soi/national_archive/RG058.CORSCB.ST87.txt",  clear stri
 
 rename 		v1 v
 gen 		v1 = substr(v, 1, 14)
-forvalues i=2/89 {
-	local 	start = (`i'-1) * 15 
+forvalues i = 2 / 89 {
+	local 	start = (`i' - 1) * 15 
 	gen 	v`i' = substr(v, `start', 15)
 }
 drop 		v
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v2,1,strlen(v2)-1)
-gen assets 			= substr(v3,1,strlen(v3)-1)
-gen ind_number 		= substr(v2,-1,1)
-gen ind_assets 		= substr(v3,-1,1)
+gen number 			= substr(v2, 1, strlen(v2) - 1)
+gen assets 			= substr(v3, 1, strlen(v3) - 1)
+gen ind_number 		= substr(v2, -1, 1)
+gen ind_assets 		= substr(v3, -1, 1)
 
-gen cassets_1 		= substr(v13,1,strlen(v13)-1)
-gen cassets_2 		= substr(v15,1,strlen(v15)-1)
-gen cassets_3 		= substr(v17,1,strlen(v17)-1)
-gen intangibles 	= substr(v18,1,strlen(v18)-1)
-gen negcassets_1 	= substr(v14,1,strlen(v14)-1)
-gen negcassets_2 	= substr(v16,1,strlen(v16)-1)
-gen negintangibles 	= substr(v19,1,strlen(v19)-1)
+gen cassets_1 		= substr(v13, 1, strlen(v13) - 1)
+gen cassets_2 		= substr(v15, 1, strlen(v15) - 1)
+gen cassets_3 		= substr(v17, 1, strlen(v17) - 1)
+gen intangibles 	= substr(v18, 1, strlen(v18) - 1)
+gen negcassets_1 	= substr(v14, 1, strlen(v14) - 1)
+gen negcassets_2 	= substr(v16, 1, strlen(v16) - 1)
+gen negintangibles 	= substr(v19, 1, strlen(v19) - 1)
 
-gen treceipts 		= substr(v34,1,strlen(v34)-1)
-gen breceipts 		= substr(v35,1,strlen(v35)-1)
-gen ninc 			= substr(v65,1,strlen(v65)-1)
+gen treceipts 		= substr(v34, 1, strlen(v34) - 1)
+gen breceipts 		= substr(v35, 1, strlen(v35) - 1)
+gen ninc 			= substr(v65, 1, strlen(v65) - 1)
 
 // Add up variables with subcategories
 local vars cassets negcassets 
@@ -1967,7 +1960,7 @@ foreach v of local vars {
 
 
 // Keep "All Returns", Drop "Returns with net income"
-keep if file_type =="1"
+keep if file_type == "1"
 drop 	file_type zero_filled
 
 gen 	thres_low = ""
@@ -1997,35 +1990,35 @@ import delimited "$DATA/soi/national_archive/RG058.CORP.Y88.txt",  clear stringc
 
 rename 		v1 v
 gen 		v1 = substr(v, 1, 14)
-forvalues i = 2/87 {
-	local 	start = (`i'-1) * 15 
+forvalues i = 2 / 87 {
+	local 	start = (`i' - 1) * 15 
 	gen		 v`i' = substr(v, `start', 15)
 }
 drop 		v
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v2,1,strlen(v2)-1)
-gen assets 			= substr(v3,1,strlen(v3)-1)
-gen ind_number 		= substr(v2,-1,1)
-gen ind_assets 		= substr(v3,-1,1)
+gen number 			= substr(v2, 1, strlen(v2) - 1)
+gen assets 			= substr(v3, 1, strlen(v3) - 1)
+gen ind_number 		= substr(v2, -1, 1)
+gen ind_assets 		= substr(v3, -1, 1)
 
-gen cassets_1 		= substr(v13,1,strlen(v13)-1)
-gen cassets_2 		= substr(v15,1,strlen(v15)-1)
-gen cassets_3 		= substr(v17,1,strlen(v17)-1)
-gen intangibles 	= substr(v18,1,strlen(v18)-1)
-gen negcassets_1 	= substr(v14,1,strlen(v14)-1)
-gen negcassets_2 	= substr(v16,1,strlen(v16)-1)
-gen negintangibles 	= substr(v19,1,strlen(v19)-1)
+gen cassets_1 		= substr(v13, 1, strlen(v13) - 1)
+gen cassets_2 		= substr(v15, 1, strlen(v15) - 1)
+gen cassets_3 		= substr(v17, 1, strlen(v17) - 1)
+gen intangibles 	= substr(v18, 1, strlen(v18) - 1)
+gen negcassets_1 	= substr(v14, 1, strlen(v14) - 1)
+gen negcassets_2 	= substr(v16, 1, strlen(v16) - 1)
+gen negintangibles 	= substr(v19, 1, strlen(v19) - 1)
 
-gen treceipts 		= substr(v34,1,strlen(v34)-1)
-gen breceipts 		= substr(v35,1,strlen(v35)-1)
-gen ninc 			= substr(v65,1,strlen(v65)-1)
+gen treceipts 		= substr(v34, 1, strlen(v34) - 1)
+gen breceipts 		= substr(v35, 1, strlen(v35) - 1)
+gen ninc 			= substr(v65, 1, strlen(v65) - 1)
 
 // Add up variables with subcategories
 local vars cassets negcassets 
@@ -2068,13 +2061,13 @@ import delimited "$DATA/soi/national_archive/RG058.CORP.Y89.txt",  clear stringc
 
 rename v1 v
 gen v1 = substr(v, 1, 14)
-forvalues i = 2/90 {
-	local 	start = (`i'-1) * 15 
+forvalues i = 2 / 90 {
+	local 	start = (`i' - 1) * 15 
 	gen 	v`i' = substr(v, `start', 15)
 }
 drop v
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
@@ -2082,22 +2075,22 @@ gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
 
-gen number 			= substr(v2,1,strlen(v2)-1)
-gen assets 			= substr(v3,1,strlen(v3)-1)
-gen ind_number 		= substr(v2,-1,1)
-gen ind_assets 		= substr(v3,-1,1)
+gen number 			= substr(v2, 1, strlen(v2) - 1)
+gen assets 			= substr(v3, 1, strlen(v3) - 1)
+gen ind_number 		= substr(v2, -1, 1)
+gen ind_assets 		= substr(v3, -1, 1)
 
-gen cassets_1 		= substr(v14,1,strlen(v14)-1)
-gen cassets_2 		= substr(v16,1,strlen(v16)-1)
-gen cassets_3 		= substr(v18,1,strlen(v18)-1)
-gen intangibles 	= substr(v19,1,strlen(v19)-1)
-gen negcassets_1 	= substr(v15,1,strlen(v15)-1)
-gen negcassets_2 	= substr(v17,1,strlen(v17)-1)
-gen negintangibles 	= substr(v20,1,strlen(v20)-1)
+gen cassets_1 		= substr(v14, 1, strlen(v14) - 1)
+gen cassets_2 		= substr(v16, 1, strlen(v16) - 1)
+gen cassets_3 		= substr(v18, 1, strlen(v18) - 1)
+gen intangibles 	= substr(v19, 1, strlen(v19) - 1)
+gen negcassets_1 	= substr(v15, 1, strlen(v15) - 1)
+gen negcassets_2 	= substr(v17, 1, strlen(v17) - 1)
+gen negintangibles 	= substr(v20, 1, strlen(v20) - 1)
 
-gen treceipts 		= substr(v35,1,strlen(v35)-1)
-gen breceipts 		= substr(v36,1,strlen(v36)-1)
-gen ninc 			= substr(v66,1,strlen(v66)-1)
+gen treceipts 		= substr(v35, 1, strlen(v35) - 1)
+gen breceipts 		= substr(v36, 1, strlen(v36) - 1)
+gen ninc 			= substr(v66, 1, strlen(v66) - 1)
 
 // Add up variables with subcategories
 local vars cassets negcassets 
@@ -2140,35 +2133,35 @@ import delimited "$DATA/soi/national_archive/RG058.CORP.Y90.txt",  clear stringc
 
 rename 		v1 v
 gen 		v1 = substr(v, 1, 14)
-forvalues i = 2/90 {
-	local 	start = (`i'-1) * 15 
+forvalues i = 2 / 90 {
+	local 	start = (`i' - 1) * 15 
 	gen 	v`i' = substr(v, `start', 15)
 }
 drop 		v
 
-gen year 			= "19" + substr(v1, 1,2)
+gen year 			= "19" + substr(v1, 1, 2)
 gen file_type 		= substr(v1, 3, 1)
 gen zero_filled 	= substr(v1, 4, 1)
 gen division_code 	= substr(v1, 5, 2)
 gen major_group 	= substr(v1, 7, 2)
 gen minor_industry 	= substr(v1, 9, 4)
 gen asset_size 		= substr(v1, 13, 2)
-gen number 			= substr(v2,1,strlen(v3)-1)
-gen assets 			= substr(v3,1,strlen(v3)-1)
-gen ind_number 		= substr(v2,-1,1)
-gen ind_assets 		= substr(v3,-1,1)
+gen number 			= substr(v2, 1, strlen(v3) - 1)
+gen assets 			= substr(v3, 1, strlen(v3) - 1)
+gen ind_number 		= substr(v2, -1, 1)
+gen ind_assets 		= substr(v3, -1, 1)
 
-gen cassets_1 		= substr(v14,1,strlen(v14)-1)
-gen cassets_2 		= substr(v16,1,strlen(v16)-1)
-gen cassets_3 		= substr(v18,1,strlen(v18)-1)
-gen intangibles 	= substr(v19,1,strlen(v19)-1)
-gen negcassets_1 	= substr(v15,1,strlen(v15)-1)
-gen negcassets_2 	= substr(v17,1,strlen(v17)-1)
-gen negintangibles 	= substr(v20,1,strlen(v20)-1)
+gen cassets_1 		= substr(v14, 1, strlen(v14) - 1)
+gen cassets_2 		= substr(v16, 1, strlen(v16) - 1)
+gen cassets_3 		= substr(v18, 1, strlen(v18) - 1)
+gen intangibles 	= substr(v19, 1, strlen(v19) - 1)
+gen negcassets_1 	= substr(v15, 1, strlen(v15) - 1)
+gen negcassets_2 	= substr(v17, 1, strlen(v17) - 1)
+gen negintangibles 	= substr(v20, 1, strlen(v20) - 1)
 
-gen treceipts 		= substr(v36,1,strlen(v36)-1)
-gen breceipts 		= substr(v37,1,strlen(v37)-1)
-gen ninc 			= substr(v67,1,strlen(v67)-1)
+gen treceipts 		= substr(v36, 1, strlen(v36) - 1)
+gen breceipts 		= substr(v37, 1, strlen(v37) - 1)
+gen ninc 			= substr(v67, 1, strlen(v67) - 1)
 
 // Add up variables with subcategories
 local vars cassets negcassets 
@@ -2247,7 +2240,7 @@ rename 			indcode 		scode
 
 
 // Manual adjustments
-replace number = number * assets/100000 if minor_industry_1973_1997 == "0000" & major_group_1973_1997 == "10" & division_code_1973_1997 == "40" & thres_low =="25000000" & year == 1987
+replace number = number * assets / 100000 if minor_industry_1973_1997 == "0000" & major_group_1973_1997 == "10" & division_code_1973_1997 == "40" & thres_low == "25000000" & year == 1987
 
 
 // Drop sector indentifiers

@@ -88,34 +88,34 @@ foreach i of local list {
 
 	// 2004-2013 Tables all have the same brackets
 	gen 	thres_low = ""
-	replace thres_low = "Total"   		if ac ==1
-	replace thres_low = "0" 	  		if ac ==2
-	replace thres_low = "1" 	  		if ac ==3
-	replace thres_low = "500000" 		if ac ==4
-	replace thres_low = "1000000" 	  	if ac ==5
-	replace thres_low = "5000000" 	  	if ac ==6
-	replace thres_low = "10000000"   	if ac ==7
-	replace thres_low = "25000000"   	if ac ==8
-	replace thres_low = "50000000"   	if ac ==9
-	replace thres_low = "100000000"  	if ac ==10
-	replace thres_low = "250000000"  	if ac ==11
-	replace thres_low = "500000000"  	if ac ==12
-	replace thres_low = "2500000000" 	if ac ==13
+	replace thres_low = "Total"   		if ac == 1
+	replace thres_low = "0" 	  		if ac == 2
+	replace thres_low = "1" 	  		if ac == 3
+	replace thres_low = "500000" 		if ac == 4
+	replace thres_low = "1000000" 	  	if ac == 5
+	replace thres_low = "5000000" 	  	if ac == 6
+	replace thres_low = "10000000"   	if ac == 7
+	replace thres_low = "25000000"   	if ac == 8
+	replace thres_low = "50000000"   	if ac == 9
+	replace thres_low = "100000000"  	if ac == 10
+	replace thres_low = "250000000"  	if ac == 11
+	replace thres_low = "500000000"  	if ac == 12
+	replace thres_low = "2500000000" 	if ac == 13
 
 	gen 	thres_high = ""
-	replace thres_high = ""   	   		if ac ==1
-	replace thres_high = "1" 	   		if ac ==2
-	replace thres_high = "500000" 	   	if ac ==3
-	replace thres_high = "1000000"    	if ac ==4
-	replace thres_high = "5000000"    	if ac ==5
-	replace thres_high = "10000000"   	if ac ==6
-	replace thres_high = "25000000"   	if ac ==7
-	replace thres_high = "50000000"   	if ac ==8
-	replace thres_high = "100000000"  	if ac ==9
-	replace thres_high = "250000000"  	if ac ==10
-	replace thres_high = "500000000"  	if ac ==11
-	replace thres_high = "2500000000" 	if ac ==12
-	replace thres_high = "more" 		if ac ==13
+	replace thres_high = ""   	   		if ac == 1
+	replace thres_high = "1" 	   		if ac == 2
+	replace thres_high = "500000" 	   	if ac == 3
+	replace thres_high = "1000000"    	if ac == 4
+	replace thres_high = "5000000"    	if ac == 5
+	replace thres_high = "10000000"   	if ac == 6
+	replace thres_high = "25000000"   	if ac == 7
+	replace thres_high = "50000000"   	if ac == 8
+	replace thres_high = "100000000"  	if ac == 9
+	replace thres_high = "250000000"  	if ac == 10
+	replace thres_high = "500000000"  	if ac == 11
+	replace thres_high = "2500000000" 	if ac == 12
+	replace thres_high = "more" 		if ac == 13
 	drop 	ac
 
 	append using `data'

@@ -29,7 +29,7 @@ drop *deletion*
 collapse (mean) *_total, by(sector_main year)
 
 keep if year < 1959
-keep if sector_main =="All"
+keep if sector_main == "All"
 
 // Baseline top share estimate 
 merge 1:1 sector_main year using "$OUTPUT/soi/topshares/sector_concent_R5.dta", keep(1 3) nogen 
@@ -61,7 +61,7 @@ twoway	(connected r_number year, color(navy)) ///
 twoway 	(connected tsh_assets_ipol_1pct year, color(navy)) ///
 		(connected tsh_assets_ipoladj_1pct year, lpattern(dash) color(eltblue)) if sector_main == "All" & year < 1959 & year >= 1930, ///
 		xtitle("") title("Top 1% Asset Shares with Imputed Assets") ylabel(, format(%03.2f)) xlabel(1930(10)1960) ///
-		legend(label(1 "Raw") label(2 "Adjusted") order(1 2) cols(1)) ///
+		legend(label(1 "Baseline") label(2 "Adjusted") order(1 2) cols(1)) ///
 		name(top1, replace) 
 		
 graph combine receipts top1, iscale(*1.3) ysize(7) xsize(15) graphregion(margin(small))  

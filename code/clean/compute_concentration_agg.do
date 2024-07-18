@@ -36,7 +36,7 @@ save 		"`by_capital'"
 	
 // Run interpolation: assets
 local years
-forvalues i = 1931/2018 {
+forvalues i = 1931 / 2018 {
 	local years `years' `i'
 }
 
@@ -84,10 +84,10 @@ foreach y of local years {
 	gen 		pct					= 1 										if _n <= 127
 		
 	gen 		varname 			= ""
-	replace 	varname 			= "_50pct" 									if p == 0.5 & pct== 1
-	replace 	varname 			= "_10pct" 									if p == 0.9 & pct== 1
-	replace 	varname 			= "_1pct" 									if p == 0.99 & pct== 1
-	replace 	varname 			= "_0_1pct" 								if p == 0.999 & pct== 1
+	replace 	varname 			= "_50pct" 									if p == 0.5 & pct == 1
+	replace 	varname 			= "_10pct" 									if p == 0.9 & pct == 1
+	replace 	varname 			= "_1pct" 									if p == 0.99 & pct == 1
+	replace 	varname 			= "_0_1pct" 								if p == 0.999 & pct == 1
 	drop 		p pct number_total	
 	keep if 	varname 			!= ""
 
@@ -169,7 +169,7 @@ foreach y of local years {
 	replace 	varname 			= "_1pct"									if p == 0.99 & pct == 1
 	replace 	varname 			= "_0_1pct" 								if p == 0.999 & pct == 1
 	drop 		p pct	
-	keep if 	varname 			!=""
+	keep if 	varname 			!= ""
 	
 	// Reshape to create time series structure
 	reshape wide top_share invpareto threshold, i(year) j(varname) string
@@ -193,7 +193,7 @@ save 			"`by_receipts'", replace
 // Run interpolation: Net income
 clear all
 local years
-forvalues i = 1918/1965 {
+forvalues i = 1918 / 1965 {
 	local years `years' `i'
 }
 local years `years' 1967 1973 1974
@@ -248,7 +248,7 @@ foreach y of local years {
 	replace 	varname 			= "_1pct" 									if p == 0.99 & pct == 1
 	replace 	varname 			= "_0_1pct" 								if p == 0.999 & pct == 1
 	drop 		p pct 
-	keep if 	varname 			!=""
+	keep if 	varname 			!= ""
 
 	// Reshape to create time series structure
 	reshape wide top_share invpareto threshold, i(year) j(varname) string

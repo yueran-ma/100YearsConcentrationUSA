@@ -42,7 +42,7 @@ save 		"`agg_concent_missing_bs'"
 
 
 // Run interpolation
-forvalues i = 1931/1958 {
+forvalues i = 1931 / 1958 {
 	local years `years' "`i'"
 }
 
@@ -125,7 +125,7 @@ foreach y of local years {
 sort year sector_main
 gen 					issues 				= 1 									if top_share_1pct[_n] == top_share_1pct[_n-1]
 foreach var of varlist top_* {
-	replace 			`var' 				= . 									if issues ==1
+	replace 			`var' 				= . 									if issues == 1
 }
 
 rename 					top_share_1pct 		tsh_assets_ipoladj_1pct

@@ -73,7 +73,7 @@ local snum : word count `s_list'
 
 local allnames ""
 
-forvalues i = 1/`snum'{
+forvalues i = 1 / `snum' {
 	local s : word `i' of `s_list'
 	local yt : word `i' of `ytlist'	
 		

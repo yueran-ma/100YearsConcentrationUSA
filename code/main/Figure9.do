@@ -62,7 +62,7 @@ drop RSE
 foreach item of varlist CR4 CR8 CR20 CR50 {
 	replace `item' = 100 		if `item'f == "X"								// these flags are used for maxing out at 100 (fewer than x firms)
 	replace `item' = `item'/100
-	replace `item' = . 			if `item'==0
+	replace `item' = . 			if `item' == 0
 }
 
 // Equal weighted average 
@@ -110,7 +110,7 @@ foreach t in 4 8 20 50 {
 }
 label var year "Year"
 
-twoway 	(connect CR20 year ) (connect CR20mean year, lpattern(longdash) mcolor(midblue) lcolor(midblue)), ///
+twoway 	(connect CR20 year) (connect CR20mean year, lpattern(longdash) mcolor(midblue) lcolor(midblue)), ///
 		ytitle("Average Top 20 Sales Share") ylabel(, format(%03.2f)) legend(label(1 "Value-Weighted") label(2 "Equal-Weighted"))
 graph export "$FIGURE/Figure9_PanelA.pdf", replace
 graph export "$FIGURE/Figure9_PanelA.eps", replace
@@ -226,10 +226,10 @@ foreach t in 4 8 20 50 {
 tostring sector_ID, gen(sector_ID_str)
 gen 							Manufacturing = substr(sector_ID_str, 1, 1) == "3"
 
-// SOI data use size by business receipts in non-finance sectors and total receipts in finance/management of companies
+// SOI data use size by business receipts in non-finance sectors and total receipts in finance (because non-business receipts are large)
 foreach t in 20 {
 	gen double 					receipts_top`t'_shr = breceipts_top`t'_shr
-	replace 					receipts_top`t'_shr = treceipts_top`t'_shr 		if substr(sector_ID_str, 1, 2) == "52" | substr(sector_ID_str, 1, 2) == "55"
+	replace 					receipts_top`t'_shr = treceipts_top`t'_shr 		if substr(sector_ID_str, 1, 2) == "52" | substr(sector_ID_str, 1, 2) == "53" | substr(sector_ID_str, 1, 2) == "55"
 }
 
 foreach t in 4 8 20 50 {

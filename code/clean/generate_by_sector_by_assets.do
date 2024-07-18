@@ -74,11 +74,11 @@ gen 	ID = sector_ID
 
 replace sector_ID = "31-33" 		if sector_ID == "31"
 replace sector_main_ID = "31-33" 	if sector_main_ID == "31"
-replace sector_ID ="48-49" 			if sector_ID == "48"
-replace sector_main_ID ="48-49" 	if sector_main_ID == "48"
+replace sector_ID = "48-49" 			if sector_ID == "48"
+replace sector_main_ID = "48-49" 	if sector_main_ID == "48"
 
-replace sector_ID ="41-45" 			if sector_ID =="41"
-replace sector_main_ID ="41-45" 	if sector_main_ID =="41"
+replace sector_ID = "41-45" 			if sector_ID == "41"
+replace sector_main_ID = "41-45" 	if sector_main_ID == "41"
 
 gen 	indcode = "NAICS"
 gen 	sector = sector_final
@@ -99,7 +99,7 @@ rename 	Code_final sector_ID
 rename 	Name sector
 rename 	Name_final sector_final
 
-gen 	indcode ="NAICS"
+gen 	indcode = "NAICS"
 tostring ID sector_ID sector_main_ID, replace
 
 replace sector = lower(sector)
@@ -197,7 +197,7 @@ replace sector_main = "Mining" 			if scode ==	"SIC" 	& sec_ID ==	"10-14"
 replace sector_main = "Mining" 			if scode ==	"NAICS" & sec_ID ==	"21"
 
 * SIC: 70-89; * NAICS: 512, 514, 516, 518, 519 (Info subsectors), 532 (Car leasing), 54 (Professional, Scientific, and Technical Services), 561 (Administrative and Support Services), 61 (Educational Services), 62 (Health Care and Social Assistance), 71 (Arts, Entertainment, and Recreation), 721 (Accommodation), 81 (Other Services)
-replace sector_main = "Services" 		if scode ==	"SIC" 	& sector == "Services" & sec_ID == "70-89" 
+replace sector_main = "Services" 		if scode ==	"SIC" 	& sec_ID == "70-89" 
 replace sector_main = "Services" 		if scode == "NAICS" & (sec_ID == "512" | sec_ID == "514" | sec_ID == "516" | sec_ID == "518" | sec_ID == "519") 
 replace sector_main = "Services" 		if scode == "NAICS" & sec_ID == "532"
 replace sector_main = "Services" 		if scode == "NAICS" & sec_ID == "54"
@@ -230,7 +230,7 @@ drop 									if scode == "NAICS" & sec_ID == "70" // Already captured by other 
 * Main sector, 2 digit
 gen 	sector_main2digit = "" 
 replace sector_main2digit = sector_main 	if year < 1998
-replace sector_main2digit = sector_main 	if sector_main =="All" | sector_main == "Agriculture" | sector_main =="Construction" | sector_main =="Mining" | sector_main =="Other"   
+replace sector_main2digit = sector_main 	if sector_main == "All" | sector_main == "Agriculture" | sector_main == "Construction" | sector_main == "Mining" | sector_main == "Other"   
 replace sector_main2digit = "Finance" 		if scode == "NAICS" & sec_ID == "52" 
 replace sector_main2digit = "Finance" 		if scode == "NAICS" & sec_ID == "53" 
 replace sector_main2digit = "Finance" 		if scode == "NAICS" & sec_ID == "55" 
@@ -281,7 +281,7 @@ replace subsector = "Mining: Coal" 			if scode == "NAICS" & sec_ID == "212110"
 * Oil and Gas
 replace subsector = "Mining: Oil and Gas" 	if scode == "SIC"	& sec_ID == "13"  
 replace subsector = "Mining: Oil and Gas" 	if scode == "NAICS" & sec_ID == "211110"   
-replace subsector = "Mining: Oil and Gas" 	if scode == "NAICS" & sec_ID == "213110"  // Support activities are largely Oil and Gas related, could also be broken down further (to separate small Coal and Metal support activity minor sectors)
+replace subsector = "Mining: Oil and Gas" 	if scode == "NAICS" & sec_ID == "213110"  // Support activities are largely oil and gas related 
 
 * Non-Metallic
 replace subsector = "Mining: Non Metallic" 	if scode == "SIC" 	& sec_ID == "14"
@@ -308,7 +308,7 @@ replace subsector = "Construction: Special Trade" 		if scode == "NAICS"	& sec_ID
 * Food & Tobacco
 replace subsector = "Manufacturing: Food" 				if scode == "SIC"	&  sec_ID == "20"
 replace subsector = "Manufacturing: Food" 				if scode == "SIC"	&  sec_ID == "21"
-replace subsector = "Manufacturing: Food" 				if scode == "NAICS"	& (sec_ID == "311" | sec_ID =="312") 
+replace subsector = "Manufacturing: Food" 				if scode == "NAICS"	& (sec_ID == "311" | sec_ID == "312") 
 
 * Textile Mills
 replace subsector = "Manufacturing: Textile Mills" 		if scode == "SIC"  	& sec_ID == "22"
@@ -336,8 +336,8 @@ replace subsector = "Manufacturing: Printing" 			if scode == "NAICS" & sec_ID ==
 replace subsector =  "Manufacturing: Printing" 			if scode == "NAICS" & sec_ID == "511"   
 
 * Chemicals
-replace subsector = "Manufacturing: Chemicals" 			if scode == "SIC" 	& sec_ID =="28"
-replace subsector = "Manufacturing: Chemicals" 			if scode == "NAICS" & sec_ID =="325"
+replace subsector = "Manufacturing: Chemicals" 			if scode == "SIC" 	& sec_ID == "28"
+replace subsector = "Manufacturing: Chemicals" 			if scode == "NAICS" & sec_ID == "325"
 
 * Petroleum
 replace subsector = "Manufacturing: Petroleum" 			if scode == "SIC" 	& sec_ID == "29"
@@ -363,25 +363,25 @@ replace subsector = "Manufacturing: Primary Metals" 	if scode == "SIC" 	& sec_ID
 replace subsector = "Manufacturing: Primary Metals" 	if scode == "NAICS" & sec_ID == "331"
 
 * Fabricated Metals
-replace subsector = "Manufacturing: Fabricated Metals" 	if scode == "SIC" 	& sec_ID =="34"   
-replace subsector = "Manufacturing: Fabricated Metals" 	if scode == "NAICS" & sec_ID =="332"  
+replace subsector = "Manufacturing: Fabricated Metals" 	if scode == "SIC" 	& sec_ID == "34"   
+replace subsector = "Manufacturing: Fabricated Metals" 	if scode == "NAICS" & sec_ID == "332"  
 
 
 * Electrical Machinery
-replace subsector = "Manufacturing: Electrical" 		if scode == "SIC" 	& sec_ID =="36"  
-replace subsector = "Manufacturing: Electrical" 		if scode == "NAICS" & (sec_ID =="335" | sec_ID =="334")  
+replace subsector = "Manufacturing: Electrical" 		if scode == "SIC" 	& sec_ID == "36"  
+replace subsector = "Manufacturing: Electrical" 		if scode == "NAICS" & (sec_ID == "335" | sec_ID == "334")  
 
 * Transportation (Motor and other)
-replace subsector = "Manufacturing: Transportation" 	if scode == "SIC" 	& sec_ID =="37"   
-replace subsector = "Manufacturing: Transportation" 	if scode == "NAICS" & sec_ID =="336"   
+replace subsector = "Manufacturing: Transportation" 	if scode == "SIC" 	& sec_ID == "37"   
+replace subsector = "Manufacturing: Transportation" 	if scode == "NAICS" & sec_ID == "336"   
 
 * Machinery (Machines and Instruments; Instruments could also be assigned to other) 
-replace subsector = "Manufacturing: Machinery" 			if scode == "SIC" 	& (sec_ID =="35" | sec_ID =="38")  
+replace subsector = "Manufacturing: Machinery" 			if scode == "SIC" 	& (sec_ID == "35" | sec_ID == "38")  
 replace subsector = "Manufacturing: Machinery" 			if scode == "NAICS" & sec_ID == "333"   
 
 * All metal products (1933-1937, before first SIC codes)
-replace subsector = "Manufacturing: All Metals" 		if scode == "SIC" 	& sec_ID =="33-38"   
-replace subsector = "Manufacturing: All Metals" 		if scode == "SIC" 	& sec_ID =="37" & year < 1938 // Motor vehicles get separated out in 1936; start series in 1938 (when Metal subsectors are separately included) to maximize consistency
+replace subsector = "Manufacturing: All Metals" 		if scode == "SIC" 	& sec_ID == "33-38"   
+replace subsector = "Manufacturing: All Metals" 		if scode == "SIC" 	& sec_ID == "37" & year < 1938 // Motor vehicles get separated out in 1936; start series in 1938 (when Metal subsectors are separately included) to maximize consistency
 
 * Other
 replace subsector = "Manufacturing: Other" 				if scode == "SIC" 	& sec_ID == "39"   
@@ -397,7 +397,7 @@ replace subsector = "Trade: Wholesale" 						if scode == "NAICS" & sec_ID == "42
 * Retail: Building Materials
 replace subsector = "Trade: Retail: Building Materials" 	if scode == "SIC" 	& sec_ID == "52"  
 replace subsector = "Trade: Retail: Building Materials" 	if scode == "NAICS" & sec_ID == "444"  
-replace subsector = "Trade: Retail: Building Materials" 	if scode == "NAICS" & sec_ID == "443" // Electronics
+replace subsector = "Trade: Retail: Building Materials" 	if scode == "NAICS" & sec_ID == "443"  
 
 * Retail: General Merchandise
 replace subsector = "Trade: Retail: General Merchandise" 	if scode == "SIC" 	& sec_ID == "53"   
@@ -425,52 +425,52 @@ replace subsector = "Trade: Retail: Restaurants" 			if scode == "NAICS" & sec_ID
 
 * Miscellaneous Retail (and Wholesale)
 replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "SIC" 	& sec_ID == "59"  
-replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "SIC" 	& sec_ID =="50-59_other"  
-replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "NAICS" & (sec_ID =="451" | sec_ID == "453" | sec_ID =="454" | sec_ID =="446")  
-replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "NAICS" & sec_ID =="46" 
+replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "SIC" 	& sec_ID == "50-59_other"  
+replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "NAICS" & (sec_ID == "451" | sec_ID == "453" | sec_ID == "454" | sec_ID == "446")  
+replace subsector = "Trade: Retail: Miscellaneous" 			if scode == "NAICS" & sec_ID == "46" 
 
 
 
 *===== Transport and Utilities subsectors =======
 
 * Transportation
-replace subsector = "Utilities: Transportation" 		if scode =="SIC" 	& sec_ID == "40-47"   
-replace subsector = "Utilities: Transportation" 		if scode =="NAICS" 	& sec_ID == "48-49"   
+replace subsector = "Utilities: Transportation" 		if scode == "SIC" 		& sec_ID == "40-47"   
+replace subsector = "Utilities: Transportation" 		if scode == "NAICS" 	& sec_ID == "48-49"   
 
 * Communication
-replace subsector = "Utilities: Communications" 		if scode =="SIC" 	& sec_ID == "48" 		
-replace subsector = "Utilities: Communications" 		if scode =="NAICS" 	& (sec_ID == "513" | sec_ID == "515" | sec_ID == "517")  	 
+replace subsector = "Utilities: Communications" 		if scode == "SIC" 		& sec_ID == "48" 		
+replace subsector = "Utilities: Communications" 		if scode == "NAICS" 	& (sec_ID == "513" | sec_ID == "515" | sec_ID == "517")  	 
 
 * Electric, Gas and Water
-replace subsector = "Utilities: Electricity and Gas" 	if scode =="SIC" 	& sec_ID == "49" 					 
-replace subsector = "Utilities: Electricity and Gas" 	if scode =="NAICS" 	& (sec_ID == "22" | sec_ID == "562")  	 
+replace subsector = "Utilities: Electricity and Gas" 	if scode == "SIC" 		& sec_ID == "49" 					 
+replace subsector = "Utilities: Electricity and Gas" 	if scode == "NAICS" 	& (sec_ID == "22" | sec_ID == "562")  	 
 
 *===== Finance subsectors =======
 
 * Banking and credit
-replace subsector = "Finance: Banking" 					if scode == "SIC" 	& (sec_ID == "60" | sec_ID == "61")		 
-replace subsector = "Finance: Banking" 					if scode == "NAICS" & (sec_ID == "521" | sec_ID == "522")   
-replace subsector = "Finance: Banking" 					if scode == "NAICS" & sec_ID == "551111" 	 
+replace subsector = "Finance: Banking" 					if scode == "SIC" 		& (sec_ID == "60" | sec_ID == "61")		 
+replace subsector = "Finance: Banking" 					if scode == "NAICS" 	& (sec_ID == "521" | sec_ID == "522")   
+replace subsector = "Finance: Banking" 					if scode == "NAICS" 	& sec_ID == "551111" 	 
 drop if sec_ID == "520"  // 520 is the sum of 521 and 522. Also, in 2000 and 2001 522 includes depository and non-depository
 
 * Security and Commodity Brokers, Exchanges, and Services combined with Banking
-replace subsector = "Finance: Banking" 					if scode == "SIC" 	& sec_ID == "62"  		 
-replace subsector = "Finance: Banking"  				if scode == "NAICS" & sec_ID == "523" 		 
+replace subsector = "Finance: Banking" 					if scode == "SIC" 		& sec_ID == "62"  		 
+replace subsector = "Finance: Banking"  				if scode == "NAICS" 	& sec_ID == "523" 		 
 
 * Insurance
-replace subsector = "Finance: Insurance" 				if scode == "SIC" 	& (sec_ID == "63" | sec_ID == "64")
-replace subsector = "Finance: Insurance" 				if scode == "NAICS" & sec_ID == "524" 
+replace subsector = "Finance: Insurance" 				if scode == "SIC" 		& (sec_ID == "63" | sec_ID == "64")
+replace subsector = "Finance: Insurance" 				if scode == "NAICS" 	& sec_ID == "524" 
 
 * Real Estate
-replace subsector = "Finance: Real Estate" 				if scode == "SIC" 	& sec_ID == "65"   
-replace subsector = "Finance: Real Estate" 				if scode == "NAICS" & (sec_ID == "531" | sec_ID == "533")
+replace subsector = "Finance: Real Estate" 				if scode == "SIC" 		& sec_ID == "65"   
+replace subsector = "Finance: Real Estate" 				if scode == "NAICS" 	& (sec_ID == "531" | sec_ID == "533")
   
 * Holding companies and other (misc)
-replace subsector = "Finance: Holding Companies" 		if scode == "SIC" 	& sec_ID == "67"  
-replace subsector = "Finance: Holding Companies" 		if scode == "SIC" 	& sec_ID == "60-67_other" 
+replace subsector = "Finance: Holding Companies" 		if scode == "SIC" 		& sec_ID == "67"  
+replace subsector = "Finance: Holding Companies" 		if scode == "SIC" 		& sec_ID == "60-67_other" 
 
-replace subsector = "Finance: Holding Companies" 		if scode == "NAICS" & sec_ID == "551112"  
-replace subsector = "Finance: Holding Companies" 		if scode == "NAICS" & sec_ID == "525" 	 
+replace subsector = "Finance: Holding Companies" 		if scode == "NAICS" 	& sec_ID == "551112"  
+replace subsector = "Finance: Holding Companies" 		if scode == "NAICS" 	& sec_ID == "525" 	 
 
 
 
@@ -491,13 +491,13 @@ replace subsector = "Services: Personal" 				if scode == "SIC" 	& sec_ID == "72"
 replace subsector = "Services: Personal" 				if scode == "NAICS" & sec_ID == "812" 	 
 
 * Personal and Hotels
-replace subsector = "Services: Personal and Hotels" 	if scode == "SIC" 	& sec_ID == "72" & year <1940
+replace subsector = "Services: Personal and Hotels" 	if scode == "SIC" 	& sec_ID == "72" & year < 1940
 
 
 * SIC 73; NAICS: 54, 514, 516, 518, 519
 replace subsector = "Services: Business" 				if scode == "SIC" 	& sec_ID == "73" 	 
-replace subsector = "Services: Business" 				if scode == "NAICS" & sec_ID =="54" 		 
-replace subsector = "Services: Business" 				if scode == "NAICS" & (sec_ID == "514" | sec_ID =="516" | sec_ID == "518" | sec_ID == "519") 
+replace subsector = "Services: Business" 				if scode == "NAICS" & sec_ID == "54" 		 
+replace subsector = "Services: Business" 				if scode == "NAICS" & (sec_ID == "514" | sec_ID == "516" | sec_ID == "518" | sec_ID == "519") 
 
 * Repair and Maintenance
 replace subsector = "Services: Repair" 					if scode == "SIC"	& (sec_ID == "75" | sec_ID == "76")
@@ -507,17 +507,17 @@ replace subsector = "Services: Repair"  				if scode == "NAICS" & sec_ID == "532
 * Other
 replace subsector = "Services: Miscellaneous" 			if scode == "SIC" 	& sec_ID == "89" 	 
 replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & sec_ID == "813" 		 
-replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & (sec_ID =="61" | sec_ID =="62")
+replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & (sec_ID == "61" | sec_ID == "62")
 
 * Miscellaneous or Business
 replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & sec_ID == "561" 		  
-replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & (sec_ID =="532215" | sec_ID =="532400")  
+replace subsector = "Services: Miscellaneous" 			if scode == "NAICS" & (sec_ID == "532215" | sec_ID == "532400")  
 
 
 
 *======== Combine subsectors further to map into BEA sectors ==============
 gen 	subsector_BEA = subsector
-replace subsector_BEA = "Agriculture" 		if sector_main =="Agriculture"	
+replace subsector_BEA = "Agriculture" 		if sector_main == "Agriculture"	
 replace subsector_BEA = "Construction" 		if sector_main == "Construction" 
 replace subsector_BEA = "" 					if subsector == "Construction: Buildings" ///
 											| subsector == "Construction: Heavy Construction" ///
@@ -536,7 +536,7 @@ replace subsector_BEA = "Trade: Retail" 	if subsector == "Trade: Retail: Apparel
 											| subsector == "Trade: Retail: Miscellaneous"
 replace subsector_BEA = "Manufacturing: Apparel" if  subsector == "Manufacturing: Textile Mills" ///
 											| subsector == "Manufacturing: Apparel" ///
-											| subsector =="Manufacturing: Leather"
+											| subsector == "Manufacturing: Leather"
 replace subsector_BEA = "Manufacturing: Chemicals" if subsector == "Manufacturing: Chemicals" ///
 											| subsector == "Manufacturing: Petroleum"
 replace subsector_BEA = "Manufacturing: Metals" if subsector == "Manufacturing: Fabricated Metals" ///
@@ -566,15 +566,12 @@ local vars number assets treceipts breceipts ninc cassets
 foreach var of local vars {
 	* Align units
 	replace `var' = `var' * 1000 if "`var'" != "number" & (year >= 2000 | 	///
-					year == 1964 | year == 1965 | year == 1966 | year == 1967 | ///
+					year == 1965 | year == 1966 | year == 1967 | ///
 					year == 1968 | year == 1969 | year == 1970 | year == 1971 | ///
-					year == 1972 | year == 1973 | year == 1974 | year == 1975 | ///
+					year == 1973 | year == 1974 | year == 1975 | ///
 					year == 1976 | year == 1977 | year == 1978 | year == 1979 | ///
-					year == 1980 | year == 1981 | year == 1982 | year == 1983 | ///
-					year == 1984 | year == 1985 | year == 1986 | year == 1987 | ///
-					year == 1988 | year == 1989 | year == 1990 | year == 1992 | ///
-					year == 1997 | year == 2014 | year == 2015 | year == 2016 | ///
-					year == 2017 | year == 2018)
+					year == 1980 | year == 1985 | year == 1986 | year == 1987 | ///
+					year == 1988 | year == 1989 | year == 1990)
 	
 	* Stated totals
 	gen double 										temp = `var' 					if thres_low == "Total"
@@ -622,10 +619,14 @@ foreach var in number assets {
 }
 
 collapse (lastnm) *_total2digit, by(sector_main2digit year)
+
 rename 		sector_main2digit sector_main
 keep 		sector_main year number_total2digit assets_total2digit 
-drop if 	sector_main == ""
+order 		sector_main year number_total2digit assets_total2digit 
+drop if 	sector_main == "" | sector_main == "Other"
 
+label var sector_main 				"Main Sector"
+label var year 						"Year"
 label var number_total2digit 		"Number, all (sectors classfified using two digit SIC/NAICS codes)" 
 label var assets_total2digit 		"Assets, all (sectors classfified using two digit SIC/NAICS codes)" 
 
@@ -709,11 +710,11 @@ sort 										sector_main year thres_low
 
 
 // Drop empty brackets
-drop 																			if number == 0 | number ==.
+drop 																			if number == 0 | number == .
 
-// Some brackets are not "within" bounds 
-// This seems to be largely because larger brackets are not reported separately and their values are included in the lower brackets. 
-// A natural solution is therefore to combine brackets whenever there is an issue.
+/* Some brackets are not "within" bounds */
+// This seems to be largely because larger brackets are not reported separately and their values are included in the lower brackets  
+// A natural solution is therefore to combine brackets whenever there is an issue 
 
 * Identify probematic brackets
 sort 										sector_main year thres_low
@@ -728,7 +729,7 @@ by sector_main year: gen 					d_temp3 = 1 						if av[_n]  < thres_low[_n] 	 & a
 by sector_main year: gen	 				d_temp4 = 1 						if av[_n+1] < thres_low[_n+1] & av[_n+1] != . & av[_n+1] != .   & av[_n+1] != 0
 
 gen 										d_comb = 1 							if d_temp == 1 | d_temp2 == 1 | d_temp3 == 1 | d_temp4 == 1
-// There can be several cases of this. 
+// There can be several cases of this 
 by sector_main year: gen 					newid = 1 							if d_comb[_n] == 1 & d_comb[_n-1] == .
 by sector_main year: replace 				newid = sum(newid)
 replace 									d_comb = newid 						if d_comb == 1
@@ -804,7 +805,7 @@ foreach s of local secs {
 	// Construct totals for the "main sectors" to check for completeness
 	split 	subsector, parse(:)
 	gen 	sector_top = sector_main
-	replace sector_top = subsector1 if sector_top ==""
+	replace sector_top = subsector1 if sector_top == ""
 	drop 	subsector1 subsector2 subsector3
 
 
@@ -841,11 +842,11 @@ foreach s of local secs {
 		* Sum over sectors to have data for subsectors
 		bysort subsector year thres_low: egen double 	`var'_total_temp = total(`var'_total), missing
 		bysort subsector year: egen double 				`var'_total_temp2 = max(`var'_total_temp)
-		replace 										`var'_total = `var'_total_temp2 //if `var'_total_temp !=0
+		replace 										`var'_total = `var'_total_temp2  
 		drop 											`var'_total_temp* 
 		
 		bysort subsector year thres_low: egen double 	`var'_temp = total(`var'), missing
-		replace 										`var' = `var'_temp //if `var'_temp !=0
+		replace 										`var' = `var'_temp  
 		replace 										`var' = . 				if bracket_deletion == "yes"
 		drop 											`var'_temp		
 		
@@ -875,7 +876,7 @@ foreach s of local secs {
 	
 	// Sum over brackets outside of the interval
 	foreach var of local vars {	
-		bysort subsector year: egen double 	`var'_temp = total(`var') 			if bracket_deletion_total == "yes" & interval ==. , missing
+		bysort subsector year: egen double 	`var'_temp = total(`var') 			if bracket_deletion_total == "yes" & interval == . , missing
 		bysort subsector year: egen double 	`var'_temp2 = mean(`var'_temp)
 		replace 							`var' = `var'_total - `var'_temp2 	if interval == 1 & `var'_temp2 != .
 		replace 							`var' = `var'_total 				if interval == 1 & `var'_temp2 == .
@@ -902,9 +903,9 @@ foreach s of local secs {
 	// Drop empty brackets
 	drop 																		if number == 0 | number == .
 	
-	// Some brackets are not "within" bounds 
-	// This seems to be largely because larger brackets are not reported separately and their values are included in the lower brackets. 
-	// A natural solution is therefore to combine brackets whenever there is an issue.
+	/* Some brackets are not "within" bounds */
+	// This seems to be largely because larger brackets are not reported separately and their values are included in the lower brackets  
+	// A natural solution is therefore to combine brackets whenever there is an issue 
 
 	* Identify probematic brackets
 	sort 									subsector year thres_low
@@ -918,7 +919,7 @@ foreach s of local secs {
 	by subsector year: gen 					d_temp4 = 1 						if av[_n+1] < thres_low[_n+1] & av[_n+1] != . & av[_n+1] != . & av[_n+1] != 0
 
 	gen 									d_comb = 1 							if d_temp == 1 | d_temp2 == 1 | d_temp3 == 1 | d_temp4 == 1
-	// There can be several cases of this. 
+	// There can be several cases of this  
 	by subsector year: gen 					newid = 1 							if d_comb[_n] == 1 & d_comb[_n-1] == .
 	by subsector year: replace 				newid = sum(newid)
 	replace 								d_comb = newid 						if d_comb == 1

@@ -9,13 +9,6 @@
 
 clear all
 
-set matsize 11000
-set more off, permanently
-
-global DATA 	"../../input"
-global OUTPUT 	"../../output"
-
-
 gen sector_final = ""
 tempfile data
 save "`data'"
@@ -31,7 +24,7 @@ foreach yr of local year_list {
 	import excel "$DATA/soi/source_book/sb_`yr'.xlsx", describe	
 	local tables 	
 	local N = r(N_worksheet) 
-	forvalues i = 1/`N' {
+	forvalues i = 1 / `N' {
 		local tables `tables' `r(worksheet_`i')'
 	}
 
@@ -57,9 +50,9 @@ foreach yr of local year_list {
 		replace 		sector = "sector" 					in 1
 		replace 		sector_ID = "sector_ID" 			in 1
 
-		drop 												if _n ==2
+		drop 												if _n == 2
 		replace 		A = subinstr(A, word(A, 1), "", 1) 	if real(word(A, 1)) < .
-		replace 		A = subinstr(A, ".", "",.) 
+		replace 		A = subinstr(A, ".", "", .) 
 		replace 		A = trim(A)
 
 	foreach var of varlist * {
@@ -69,15 +62,15 @@ foreach yr of local year_list {
 	
 	foreach v of varlist * {		
 		gen 			ind_`v' = "***" 					if `v' == "***"
-		replace 		`v' = subinstr(`v', "$", "",.) 		if _n <= 3
-		replace 		`v' = subinstr(`v', ",", "",.)
-		replace			`v' = subinstr(`v', "-", "",.)
-		replace 		`v' = subinstr(`v', "[1]", "",.)
-		replace 		`v' = subinstr(`v', "*", "",.)	
+		replace 		`v' = subinstr(`v', "$", "", .) 	if _n <= 3
+		replace 		`v' = subinstr(`v', ",", "", .)
+		replace			`v' = subinstr(`v', "-", "", .)
+		replace 		`v' = subinstr(`v', "[1]", "", .)
+		replace 		`v' = subinstr(`v', "*", "", .)	
 	}
 	
 
-	drop 													if _n ==1 | _n ==2
+	drop 													if _n == 1 | _n == 2
 	
 	// Code bracket deletions 
 	foreach v of varlist ind_* {	
@@ -193,7 +186,7 @@ drop 										temp temp_total ind_number ind_assets
 
 rename 										sector_final ID
 merge m:1 ID using "$OUTPUT/temp/sector_list_NAICS_3digit_uniqueID.dta", assert(2 3) gen(m3) keepusing(sector_final sector_level sector_ID sector_main_ID indcode)
-keep if m3 ==3 
+keep if m3 == 3 
 drop m3
 
 rename 										sector_level sec_level 
@@ -212,7 +205,7 @@ foreach v of local varlist {
 }
 
 // Correct thresholds
-gen 	low =""
+gen 	low = ""
 replace low = "0" 			if thres_low == "0"
 replace low = "1" 			if thres_low == "1"
 replace low = "100000" 		if thres_low == "100"
@@ -230,7 +223,7 @@ replace low = "2500000000" 	if thres_low == "2500000"
 replace low = "Total" 		if thres_low == "Total"
 
 
-gen 	high =""
+gen 	high = ""
 replace high = "1" 			if thres_high == "1"
 replace high = "100000" 	if thres_high == "100"
 replace high = "250000" 	if thres_high == "250"

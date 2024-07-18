@@ -58,7 +58,7 @@ cap foreach v of varlist tsh_assets_add* {
     cap rename 			`v' old`v'
     cap sort 			sector_ID year
     cap by sector_ID: 	ipolate old`v' year, gen(`v') 
-	cap replace 		old`v' 	= `v' 	if outlier_addingup == 1 | outlier ==1
+	cap replace 		old`v' 	= `v' 	if outlier_addingup == 1 | outlier == 1
 	cap drop 			`v'
 	cap rename 			old`v' `v'
 }

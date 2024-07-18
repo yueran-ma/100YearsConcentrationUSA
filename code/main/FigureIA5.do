@@ -20,9 +20,9 @@ grstyle set symbol
 
 use "$DATA/soi/digitized/noncorp_totals_R5.dta", clear
 
-gen double sh_corp = receipts_total_corp / (receipts_total_corp + receipts_total_prop_nonfarm + receipts_total_part) 
+drop if sector_main == "Nonfinancial"
 
-label var sh_corp "Share"
+label var corpsh "Share"
 
 local size medlarge
 local size2 large
@@ -32,11 +32,11 @@ local snum : word count `s_list'
 
 local allnames ""
 
-forvalues i = 1/`snum'{
+forvalues i = 1 / `snum' {
 	local s : word `i' of `s_list'
 	local yc : word `i' of `yclist'
 	
-	twoway 	(scatter sh_corp year, cmissing(no) color(navy) lwidth(medthick) msize(vsmall) msymbol(D) ) if sector_main == "`s'", ///
+	twoway 	(scatter corpsh year, cmissing(no) color(navy) lwidth(medthick) msize(vsmall) msymbol(D)) if sector_main == "`s'", ///
 			ytitle(, size(`size') `yc') xtitle("") title(`s', size(`size2')) ///
 			ylabel(0 "0" 0.2 "0.2" 0.4 "0.4" 0.6 "0.6" 0.8 "0.8" 1 "1.0", grid labsize(`size') angle(0)) xlabel(1940(20)2020, grid labsize(`size')) ///
 			legend(off)	///

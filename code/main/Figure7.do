@@ -78,8 +78,8 @@ merge 1:1 sector_main year using "$OUTPUT/soi/topshares/sector_concent_topN_R5.d
 
 // All
 twoway 	(line tsh_receipts_ipol_5000firms tsh_Areceipts_ipol_5000firms year,  ///
-		lpattern(shortdash dash) lwidth( medium medthick) color(navy navy)) ///
-		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color( navy)) if sector_main == "All" & year >= 1959 & year <= 2013, ///
+		lpattern(shortdash dash) lwidth(medium medthick) color(navy navy)) ///
+		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color(navy)) if sector_main == "All" & year >= 1959 & year <= 2013, ///
 		ytitle("Share") xtitle("") title("All (N=5,000)") ///
 		ylabel(0.4(0.1)0.8, format(%03.1f)) xlabel(1960(10)2010) ///
 		legend(label(1 "Top N Corps in Corp") label(2 "Top N Corps in All") label(3 "Top N Businesses in All") order(3 2 1) cols(3) symxsize(*0.6)) ///
@@ -88,7 +88,7 @@ twoway 	(line tsh_receipts_ipol_5000firms tsh_Areceipts_ipol_5000firms year,  //
 // Manufacturing
 twoway 	(line tsh_receipts_ipol_500firms tsh_Areceipts_ipol_500firms year, ///
 		lpattern(shortdash dash) lwidth(medium medthick) color(navy navy)) ///
-		(scatter top_share_500firms year, msymbol(D) msize(medsmall) color( navy)) if sector_main == "Manufacturing" & year >= 1959 & year <= 2013, ///
+		(scatter top_share_500firms year, msymbol(D) msize(medsmall) color(navy)) if sector_main == "Manufacturing" & year >= 1959 & year <= 2013, ///
 		ytitle(" ") xtitle("") title("Manufacturing (N=500)") ///
 		ylabel(0.4(0.1)0.8, format(%03.1f)) xlabel(1960(10)2010) ///
 		legend(label(1 "Top N Corps in Corp") label(2 "Top N Corps in All") label(3 "Top N Businesses in All") order(3 2 1) cols(3) symxsize(*0.6)) ///
@@ -97,7 +97,7 @@ twoway 	(line tsh_receipts_ipol_500firms tsh_Areceipts_ipol_500firms year, ///
 // Services
 twoway 	(line tsh_receipts_ipol_5000firms tsh_Areceipts_ipol_5000firms year, ///
 		lpattern(shortdash dash) lwidth(medium medthick) color(navy navy)) ///
-		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color( navy)) if sector_main == "Services" & year >= 1959 & year <= 2013, ///
+		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color(navy)) if sector_main == "Services" & year >= 1959 & year <= 2013, ///
 		ytitle("Share") xtitle("") title("Services (N=5,000)") ///
 		ylabel(0.2(0.1)0.7, format(%03.1f)) xlabel(1960(10)2010) ///
 		legend(label(1 "Top N Corps in Corp") label(2 "Top N Corps in All") label(3 "Top N Businesses in All") order(3 2 1) cols(3) symxsize(*0.6)) ///
@@ -106,7 +106,7 @@ twoway 	(line tsh_receipts_ipol_5000firms tsh_Areceipts_ipol_5000firms year, ///
 // Trade
 twoway 	(line tsh_receipts_ipol_5000firms tsh_Areceipts_ipol_5000firms year, ///
 		lpattern(shortdash dash) lwidth(medium medthick) color(navy navy)) ///
-		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color( navy)) if sector_main == "Trade" & year >= 1959 & year <= 2013, ///
+		(scatter top_share_5000firms year, msymbol(D) msize(medsmall) color(navy)) if sector_main == "Trade" & year >= 1959 & year <= 2013, ///
 		ytitle(" ") xtitle("") title("Trade (N=5,000)") ///
 		ylabel(0.2(0.1)0.7, format(%03.1f)) xlabel(1960(10)2010) ///
 		legend(label(1 "Top N Corps in Corp") label(2 "Top N Corps in All") label(3 "Top N Businesses in All") order(3 2 1) cols(3) symxsize(*0.6)) ///

@@ -31,52 +31,54 @@ clear all
 
 foreach yy in 97 02 07 12 {
 	
-foreach ind in 22 42 44 48 51 52 53 54 56 61 62 71 72 81 {
-	
-	if `yy' == 97 {
+	foreach ind in 22 42 44 48 51 52 53 54 56 61 62 71 72 81 {
 		
-		import delimited "$DATA/census/97/e97`ind's6/E97`ind'S6.dat", clear
-		
-	}
-	
-	else if `yy' == 02 | `yy' == 07 | `yy' == 12 {
-		
-		if `yy' == 12 {
-			import delimited "$DATA/census/`yy'/EC`yy'`ind'SSSZ6.dat", clear
-			cap ren *_ttl *_meaning													// this naming convention only applies in 2012
+		if `yy' == 97 {
+			
+			import delimited "$DATA/census/97/e97`ind's6/E97`ind'S6.dat", clear
+			
 		}
 		
-		else {
-			import delimited "$DATA/census/`yy'/EC`yy'`ind'SSSZ6/EC`yy'`ind'SSSZ6.dat", clear
-		}
+		else if `yy' == 02 | `yy' == 07 | `yy' == 12 {
+			
+			if `yy' == 12 {
+				import delimited "$DATA/census/`yy'/EC`yy'`ind'SSSZ6.dat", clear
+				cap ren *_ttl *_meaning													// this naming convention only applies in 2012
+			}
+			
+			else {
+				import delimited "$DATA/census/`yy'/EC`yy'`ind'SSSZ6/EC`yy'`ind'SSSZ6.dat", clear
+			}
 
-		cap ren val_* val*														// this naming convention applies in 2007 and 2012
-		
-		// realign variable names to 1997 variable names
-		ren *_f *f																// flag name 
-		ren rcptot* ecvalue*													// sale/shipment 
-		ren naics20`yy'* naics*													// naics
-		drop foot*																// footnote
+			cap ren val_* val*														// this naming convention applies in 2007 and 2012
+			
+			// realign variable names to 1997 variable names
+			ren *_f *f																// flag name 
+			ren rcptot* ecvalue*													// sale/shipment 
+			ren naics20`yy'* naics*													// naics
+			drop foot*																// footnote
 
-		// optax in these years is taxind in 1997 
-		cap ren optax* taxind*
-		// but for sector 42, optax in these years is optype in 1997, which denotes the type of operators
-		if `ind' == 42 {
-			ren taxind* optype*
+			// optax in these years is taxind in 1997 
+			cap ren optax* taxind*
+			// but for sector 42, optax in these years is optype in 1997, which denotes the type of operators
+			if `ind' == 42 {
+				ren taxind* optype*
+			}
+			
+		}	
+		
+		keep sector - valpctf
+		drop estab estabf
+		
+		sleep 200
+		
+		foreach item of varlist *f naics {											// some industries have non-numerical values; others don't
+			tostring `item', replace 
 		}
 		
-	}	
-	
-	keep sector - valpctf
-	drop estab estabf
-	
-	foreach item of varlist *f naics {											// some industries have non-numerical values; others don't
-		tostring `item', replace 
+		tempfile `yy'ec`ind'
+		save "``yy'ec`ind''"
 	}
-	
-	tempfile `yy'ec`ind'
-	save "``yy'ec`ind''"
-}
 }
 
 *** Append togeter ***
@@ -84,9 +86,9 @@ foreach ind in 22 42 44 48 51 52 53 54 56 61 62 71 72 81 {
 clear 
 
 foreach yy in 97 02 07 12 {
-foreach ind in 22 42 44 48 51 52 53 54 56 61 62 71 72 81 {
-	append using "``yy'ec`ind''"
-}
+	foreach ind in 22 42 44 48 51 52 53 54 56 61 62 71 72 81 {
+		append using "``yy'ec`ind''"
+	}
 }
 
 *** Clean data ***
@@ -98,7 +100,7 @@ replace concenfi = concenfi - 800 	if concenfi >= 800							// CRx
 drop concenfi_meaning
 
 // drop non-major operators in 42
-tab sector if optype!=.
+tab sector if optype != .
 drop if optype != 0 & sector == 42
 drop optype*
 
@@ -133,9 +135,7 @@ save "`nm9712'"
 
 foreach yy in 02 07 12 {
 	
-foreach ind in 31 {
-
-	else if `yy' == 02 | `yy' == 07 | `yy' == 12 {
+	foreach ind in 31 {
 		
 		if `yy' == 12 {
 			import delimited "$DATA/census/`yy'/EC`yy'`ind'SR2.dat", clear 
@@ -146,18 +146,18 @@ foreach ind in 31 {
 			import delimited "$DATA/census/`yy'/EC`yy'`ind'SR12/EC`yy'`ind'SR12.dat", clear
 		}
 
-		ren ccorcppct* valpct*
-	
-		// realign variable names to 1997 variable names
-		ren *_f *f																// flag name
-		ren rcptot* ecvalue*													// sales/shipment
-		ren naics20`yy'* naics*													// naics
-		drop foot*																// footnote
-		
-	}
+	ren ccorcppct* valpct*
+
+	// realign variable names to 1997 variable names
+	ren *_f *f																// flag name
+	ren rcptot* ecvalue*													// sales/shipment
+	ren naics20`yy'* naics*													// naics
+	drop foot*																// footnote
 	
 	keep sector - valpctf
 	drop company*
+	
+	sleep 200
 	
 	foreach item of varlist *f naics {
 		tostring `item', replace 
@@ -165,7 +165,7 @@ foreach ind in 31 {
 	
 	tempfile `yy'ec`ind'
 	save "``yy'ec`ind''"
-}
+	}
 }
 
 
@@ -174,9 +174,9 @@ foreach ind in 31 {
 clear 
 
 foreach yy in 02 07 12 {
-foreach ind in 31 {
-	append using "``yy'ec`ind''"
-}
+	foreach ind in 31 {
+		append using "``yy'ec`ind''"
+	}
 }
 
 *** Clean data ***
@@ -189,6 +189,8 @@ replace concenfi = 8 				if concenfi == 857							// CR8
 replace concenfi = 20 				if concenfi == 858							// CR20
 replace concenfi = 50 				if concenfi == 859							// CR50
 drop concenfi_meaning
+
+sleep 200
 
 reshape wide ecvalue ecvaluef valpct valpctf, i(naics year) j(concenfi)
 

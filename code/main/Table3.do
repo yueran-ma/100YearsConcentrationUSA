@@ -19,11 +19,11 @@ grstyle set symbol
 
 use "$OUTPUT/soi/topshares/sector_concent_R5.dta", clear
 
-gen decade = floor(year/10)
+gen decade = floor(year / 10)
 
 collapse (mean) tsh_assets_ipol_1pct, by(sector_main decade)
 
-replace decade = decade*10
+replace decade = decade * 10
 drop if decade == 1920 | decade == 1910
 
 gen 	sector_ID = 1 if sector_main == "All"

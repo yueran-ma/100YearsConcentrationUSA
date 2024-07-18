@@ -42,7 +42,7 @@ label var tsh_receipts_ipol_1pct ""
 
 local allnames ""
 
-forvalues i = 1/`snum'{
+forvalues i = 1 / `snum' {
 	local s : word `i' of `s_list'
 	local yt : word `i' of `ytlist'
 	

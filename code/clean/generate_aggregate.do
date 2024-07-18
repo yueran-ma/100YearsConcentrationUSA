@@ -64,7 +64,7 @@ gen double			av = capital / number
 
 * Case average is above the threshold (more common)
 by year: gen 		d_temp = 1 				if av[_n] > thres_low[_n+1] & av != . & av[_n+1] != .  & av[_n+1] != 0
-by year: gen 		d_temp2 = 1 			if av[_n-1] > thres_low[_n] & av[_n-1] != . & av[_n] !=.  & av[_n] != 0
+by year: gen 		d_temp2 = 1 			if av[_n-1] > thres_low[_n] & av[_n-1] != . & av[_n] != .  & av[_n] != 0
 
 * Case average is below the threshold (less common)
 by year: gen 		d_temp3 = 1 			if av[_n] < thres_low[_n] & av != . & av[_n] != .  & av[_n] != 0

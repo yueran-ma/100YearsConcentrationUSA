@@ -15,7 +15,7 @@ import delimited "$DATA/bds/bds2021_fz.csv", clear
 
 rename firms number
 
-gen 	thres_low 	= 	.
+gen 	thres_low 	=   .
 replace thres_low 	= 	1 		if fsize == "a) 1 to 4"  
 replace thres_low 	= 	5 		if fsize == "b) 5 to 9"  
 replace thres_low 	= 	10 		if fsize == "c) 10 to 19"  
@@ -39,7 +39,7 @@ replace thres_high 	= 	"4999" 	if fsize == "h) 2500 to 4999"
 replace thres_high 	= 	"9999" 	if fsize == "i) 5000 to 9999"  
 replace thres_high 	= 	"more" 	if fsize == "j) 10000+"  
 
-gen sector_main ="All"
+gen sector_main = "All"
 
 // Create separate variables for totals
 bysort year: egen double number_total = sum(number)
@@ -86,12 +86,12 @@ save "`bds'"
 clear all
 
 // Generate file for concentration estimates 
-gen year =.
+gen year = .
 tempfile bds_concent
 save "`bds_concent'"	
 	
 
-forvalues i = 1978/2018 {
+forvalues i = 1978 / 2018 {
 	local years `years' "`i'"
 }
 
